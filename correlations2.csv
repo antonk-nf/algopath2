@@ -1,0 +1,1082 @@
+# metric=composite min_problems=100 companies=47
+Amazon,Bloomberg,0.993212
+Bloomberg,Microsoft,0.992447
+Adobe,Apple,0.991919
+Amazon,Apple,0.991600
+Amazon,Microsoft,0.991494
+Apple,Yahoo,0.990385
+Apple,Bloomberg,0.990324
+Samsung,eBay,0.989373
+TikTok,Uber,0.988635
+TikTok,eBay,0.988095
+Apple,Microsoft,0.987998
+Oracle,Walmart Labs,0.987977
+Bloomberg,Oracle,0.987952
+Apple,Oracle,0.987485
+Google,Microsoft,0.986686
+Adobe,Yahoo,0.986510
+Salesforce,ServiceNow,0.986171
+Amazon,Google,0.985791
+Amazon,Oracle,0.984831
+ServiceNow,Walmart Labs,0.984230
+Accenture,tcs,0.983136
+Microsoft,Oracle,0.982450
+Bloomberg,Google,0.982310
+Apple,Google,0.981831
+Bloomberg,Yahoo,0.981405
+Apple,Meta,0.980814
+Google,Oracle,0.980691
+Samsung,TikTok,0.979934
+Bloomberg,Nvidia,0.979691
+Microsoft,Yahoo,0.979521
+Apple,Walmart Labs,0.979257
+TikTok,Walmart Labs,0.979253
+Amazon,ByteDance,0.979024
+Oracle,Salesforce,0.978902
+Salesforce,Walmart Labs,0.978376
+Adobe,Amazon,0.978195
+Adobe,Meta,0.977899
+Citadel,Samsung,0.977386
+Amazon,Nvidia,0.977111
+Amazon,Yahoo,0.976603
+Nvidia,Oracle,0.976337
+Samsung,Uber,0.976104
+Snowflake,TikTok,0.975941
+Adobe,Bloomberg,0.975659
+Intuit,ServiceNow,0.975315
+Nutanix,Walmart Labs,0.975277
+Uber,eBay,0.973904
+Citadel,TikTok,0.973609
+Meta,Walmart Labs,0.973526
+Oracle,Yahoo,0.973216
+Uber,Wix,0.973193
+Oracle,TikTok,0.972891
+Meta,TikTok,0.972715
+Oracle,ServiceNow,0.972695
+Flipkart,PhonePe,0.972685
+ByteDance,Nvidia,0.972664
+Amazon,Walmart Labs,0.972660
+Adobe,Microsoft,0.972178
+Google,Meta,0.972043
+Samsung,Wix,0.971849
+Citadel,eBay,0.971675
+Apple,Nvidia,0.971403
+Atlassian,PayPal,0.970417
+Airbnb,Uber,0.970337
+Nutanix,TikTok,0.970152
+Uber,Walmart Labs,0.969975
+Meta,Uber,0.969883
+Salesforce,TikTok,0.969645
+Airbnb,Citadel,0.969455
+Citadel,Uber,0.969429
+Meta,Oracle,0.968670
+ByteDance,Oracle,0.968583
+Amazon,Uber,0.968491
+Salesforce,Yandex,0.968448
+Google,TikTok,0.968323
+Microsoft,Nvidia,0.968089
+Apple,Uber,0.967941
+Bloomberg,Walmart Labs,0.967853
+Airbnb,Snap,0.967836
+DoorDash,Snap,0.967681
+Bloomberg,ByteDance,0.967645
+Apple,TikTok,0.967078
+Meta,Yahoo,0.966742
+IBM,Infosys,0.966638
+Google,Nvidia,0.966633
+Nutanix,Snap,0.966262
+Meta,Yandex,0.966002
+Adobe,Google,0.965839
+Google,Uber,0.965762
+Amazon,TikTok,0.965586
+Oracle,Yandex,0.965538
+Adobe,Oracle,0.965020
+Google,Yahoo,0.964812
+Walmart Labs,Yahoo,0.964674
+ServiceNow,TikTok,0.964433
+Snowflake,Uber,0.964118
+Goldman Sachs,PayPal,0.963966
+Salesforce,eBay,0.963920
+Nutanix,ServiceNow,0.963920
+LinkedIn,Meta,0.963715
+Adobe,Uber,0.963696
+Amazon,Meta,0.963434
+Citadel,DoorDash,0.963371
+Intuit,Walmart Labs,0.963122
+ByteDance,Walmart Labs,0.963058
+Accenture,Infosys,0.962842
+Wix,eBay,0.962738
+Intuit,Oracle,0.962654
+Goldman Sachs,Roblox,0.962598
+Capital One,Cisco,0.962507
+DE Shaw,PayPal,0.962360
+Walmart Labs,eBay,0.962342
+ByteDance,X,0.962342
+Intuit,Salesforce,0.962326
+Roblox,Zoho,0.962228
+Microsoft,Walmart Labs,0.962057
+Adobe,Walmart Labs,0.961755
+Citadel,Snowflake,0.961627
+Meta,Samsung,0.961406
+Nutanix,eBay,0.961358
+Salesforce,Samsung,0.961095
+Goldman Sachs,Infosys,0.961017
+Infosys,J.P. Morgan,0.960987
+TikTok,Wix,0.960508
+Goldman Sachs,Microsoft,0.960389
+Bloomberg,Meta,0.960033
+Infosys,tcs,0.960032
+Meta,Microsoft,0.959919
+LinkedIn,Snowflake,0.959917
+Amazon,Cisco,0.959881
+Nutanix,Uber,0.959854
+Nvidia,Yahoo,0.959522
+Google,Yandex,0.959504
+Google,Walmart Labs,0.959466
+Oracle,Uber,0.959342
+Meta,Snowflake,0.959216
+Goldman Sachs,Zoho,0.958909
+Oracle,eBay,0.958831
+Airbnb,Wix,0.958504
+Flipkart,Salesforce,0.958411
+Apple,ByteDance,0.958385
+Amazon,Salesforce,0.958283
+Snowflake,Walmart Labs,0.957696
+ByteDance,Microsoft,0.957589
+Intuit,Snap,0.957388
+Apple,Yandex,0.957245
+DE Shaw,Flipkart,0.957088
+Bloomberg,Yandex,0.957076
+DE Shaw,PhonePe,0.956900
+Apple,Salesforce,0.956828
+Google,Salesforce,0.956565
+Nvidia,X,0.956540
+Bloomberg,Salesforce,0.956361
+Meta,eBay,0.956304
+IBM,J.P. Morgan,0.956293
+Capital One,Roblox,0.956233
+Intuit,Nutanix,0.956172
+Meta,Salesforce,0.956153
+Cisco,Goldman Sachs,0.956107
+Samsung,Walmart Labs,0.956091
+Microsoft,TikTok,0.956039
+Meta,Wix,0.955543
+Citadel,Wix,0.955336
+Yandex,eBay,0.954848
+Citadel,Snap,0.954836
+Bloomberg,Cisco,0.954128
+ByteDance,Google,0.954096
+Snowflake,eBay,0.953913
+Airbnb,X,0.953482
+ByteDance,Intuit,0.953263
+Microsoft,Salesforce,0.953207
+Airbnb,Samsung,0.953184
+Microsoft,Yandex,0.953166
+Goldman Sachs,Google,0.953037
+Google,Intuit,0.953031
+Airbnb,DoorDash,0.952894
+Flipkart,ServiceNow,0.952861
+Bloomberg,Goldman Sachs,0.952790
+Google,eBay,0.952756
+Oracle,Visa,0.952654
+DoorDash,Samsung,0.952436
+ServiceNow,eBay,0.952423
+Coupang,Snap,0.952395
+Nutanix,Samsung,0.952389
+Oracle,Samsung,0.952379
+Visa,eBay,0.952308
+Intuit,TikTok,0.952209
+ByteDance,ServiceNow,0.952141
+Amazon,Goldman Sachs,0.951823
+Adobe,Nvidia,0.951653
+Google,Samsung,0.951596
+Nutanix,Salesforce,0.951542
+Samsung,Snowflake,0.951542
+Cisco,Microsoft,0.951534
+Oracle,Snowflake,0.951352
+DE Shaw,Roblox,0.951225
+ByteDance,Cisco,0.951203
+PayPal,Roblox,0.951199
+Airbnb,TikTok,0.950623
+Nutanix,Oracle,0.950472
+Salesforce,Snowflake,0.950315
+Microsoft,Uber,0.950295
+Adobe,TikTok,0.950171
+Walmart Labs,Yandex,0.949585
+Google,Visa,0.949262
+Amazon,ServiceNow,0.948671
+DoorDash,eBay,0.948646
+Uber,X,0.948515
+Bloomberg,Visa,0.948301
+Apple,Snowflake,0.948291
+Cisco,Zoho,0.948071
+Snap,TikTok,0.948039
+Uber,Visa,0.948024
+ByteDance,TikTok,0.947981
+Salesforce,Uber,0.947916
+Amazon,Visa,0.947915
+TikTok,Yandex,0.947900
+Amazon,X,0.947568
+Bloomberg,TikTok,0.947553
+Citadel,Nutanix,0.947520
+Nutanix,Snowflake,0.947497
+Meta,ServiceNow,0.947313
+IBM,PayPal,0.947306
+Capital One,Visa,0.947281
+Apple,ServiceNow,0.947119
+ByteDance,Salesforce,0.947044
+Microsoft,Visa,0.946828
+PhonePe,Salesforce,0.946796
+Flipkart,Nutanix,0.946494
+ServiceNow,Yandex,0.946347
+Snowflake,Wix,0.946281
+Cisco,Visa,0.946254
+Atlassian,IBM,0.946247
+Goldman Sachs,Oracle,0.946226
+Bloomberg,Uber,0.946192
+ByteDance,Uber,0.946099
+Snowflake,X,0.945999
+Airbnb,eBay,0.945992
+Nvidia,Walmart Labs,0.945817
+Bloomberg,ServiceNow,0.945079
+Microsoft,ServiceNow,0.944769
+Goldman Sachs,IBM,0.944721
+Samsung,Yandex,0.944690
+Snap,Uber,0.944616
+Amazon,Yandex,0.944502
+Coupang,PhonePe,0.943903
+PhonePe,eBay,0.943890
+DoorDash,Pinterest,0.943874
+Coupang,Intuit,0.943839
+Amazon,eBay,0.943592
+Goldman Sachs,Salesforce,0.943376
+Coupang,TikTok,0.943312
+Coupang,eBay,0.943298
+Apple,eBay,0.943255
+TikTok,Visa,0.943224
+ByteDance,Nutanix,0.943216
+Apple,Samsung,0.943182
+Amazon,Intuit,0.943095
+Intuit,eBay,0.943064
+Amazon,Samsung,0.942870
+Google,Snowflake,0.942525
+DoorDash,Wix,0.942417
+Airbnb,Nutanix,0.942323
+Citadel,Coupang,0.941982
+Flipkart,Samsung,0.941592
+ByteDance,Yahoo,0.941339
+Oracle,X,0.940687
+Nutanix,Wix,0.940564
+Google,ServiceNow,0.940290
+Cisco,Nvidia,0.940285
+Flipkart,eBay,0.940173
+PhonePe,Samsung,0.939914
+Goldman Sachs,Visa,0.939600
+Samsung,Visa,0.939594
+LinkedIn,TikTok,0.939409
+Intuit,Microsoft,0.939262
+Bloomberg,Intuit,0.938944
+Samsung,ServiceNow,0.938809
+ByteDance,Goldman Sachs,0.938484
+Google,X,0.938408
+Uber,Yahoo,0.938379
+Atlassian,DE Shaw,0.938344
+Adobe,ByteDance,0.938310
+Apple,Visa,0.938304
+Snap,eBay,0.938282
+Walmart Labs,Wix,0.938119
+Apple,X,0.938105
+Snap,Snowflake,0.937939
+Citadel,Salesforce,0.937797
+Cisco,Roblox,0.937788
+TikTok,X,0.937064
+ServiceNow,Uber,0.937024
+DoorDash,TikTok,0.936997
+Intuit,Uber,0.936616
+Roblox,Visa,0.936396
+Walmart Labs,X,0.936224
+Goldman Sachs,Intuit,0.936116
+PayPal,PhonePe,0.935948
+Cisco,Google,0.935832
+TikTok,Yahoo,0.935492
+DE Shaw,Goldman Sachs,0.935276
+Infosys,PayPal,0.934960
+Intuit,Samsung,0.934860
+Visa,Walmart Labs,0.934630
+LinkedIn,Wix,0.934568
+Citadel,X,0.934499
+DoorDash,Uber,0.934365
+Airbnb,Intuit,0.934162
+Coupang,DoorDash,0.934103
+Adobe,Samsung,0.933976
+PayPal,Visa,0.933880
+Microsoft,eBay,0.933832
+Nvidia,TikTok,0.933801
+ServiceNow,Snowflake,0.933380
+DoorDash,Nutanix,0.933248
+Adobe,Yandex,0.933102
+Amazon,Snowflake,0.932894
+Samsung,Snap,0.932652
+Nutanix,X,0.932301
+Flipkart,TikTok,0.932188
+Bloomberg,eBay,0.931857
+PayPal,Salesforce,0.931807
+Citadel,Google,0.931785
+IBM,tcs,0.931768
+Intuit,Meta,0.931593
+Adobe,Wix,0.931483
+Flipkart,Intuit,0.931013
+IBM,Roblox,0.930979
+Snap,X,0.930833
+Bloomberg,Samsung,0.930690
+Yahoo,Yandex,0.930649
+DE Shaw,Salesforce,0.930262
+Nvidia,Salesforce,0.930193
+ServiceNow,Yahoo,0.930108
+J.P. Morgan,Zoho,0.930064
+Salesforce,Yahoo,0.929828
+Flipkart,Walmart Labs,0.929809
+Apple,Intuit,0.929639
+Citadel,Walmart Labs,0.929607
+LinkedIn,Walmart Labs,0.929499
+Goldman Sachs,Yandex,0.929469
+Microsoft,Samsung,0.929368
+Snap,Walmart Labs,0.929345
+Adobe,Snowflake,0.929242
+Nvidia,Uber,0.929216
+Airbnb,Snowflake,0.929118
+Bloomberg,X,0.929105
+Goldman Sachs,ServiceNow,0.928773
+Goldman Sachs,Nvidia,0.928710
+Airbnb,Google,0.928626
+DoorDash,PhonePe,0.928225
+Accenture,IBM,0.928210
+ByteDance,eBay,0.927999
+Intuit,Visa,0.927854
+Citadel,PhonePe,0.927466
+Apple,Cisco,0.927413
+Nvidia,Visa,0.927317
+Adobe,Salesforce,0.927230
+Meta,Nvidia,0.926765
+Atlassian,Infosys,0.926655
+Amazon,Nutanix,0.926583
+Coupang,Nutanix,0.926582
+Goldman Sachs,tcs,0.926576
+Citadel,Meta,0.926493
+Salesforce,Visa,0.926460
+Atlassian,PhonePe,0.926350
+Snap,Wix,0.926280
+Cisco,tcs,0.926174
+Snowflake,Yandex,0.926132
+Meta,Nutanix,0.925917
+Capital One,Goldman Sachs,0.925854
+LinkedIn,Salesforce,0.925711
+Cisco,Oracle,0.925619
+Citadel,Oracle,0.925601
+Apple,Nutanix,0.925227
+PhonePe,TikTok,0.924886
+LinkedIn,Samsung,0.924836
+Apple,Wix,0.924657
+Intuit,X,0.924147
+Infosys,Zoho,0.924015
+Bloomberg,Infosys,0.923973
+Adobe,eBay,0.923937
+ServiceNow,Snap,0.923917
+PhonePe,ServiceNow,0.923890
+Adobe,X,0.923619
+J.P. Morgan,PayPal,0.923077
+Apple,Goldman Sachs,0.922849
+Citadel,Pinterest,0.922813
+Coupang,Snowflake,0.922659
+Uber,Yandex,0.922629
+LinkedIn,Yandex,0.922461
+ByteDance,Meta,0.922239
+PayPal,eBay,0.922187
+Coupang,Salesforce,0.922080
+LinkedIn,Uber,0.921973
+DE Shaw,IBM,0.921709
+ByteDance,Visa,0.921703
+Airbnb,ByteDance,0.921672
+Nvidia,Yandex,0.921212
+ByteDance,Samsung,0.921104
+LinkedIn,eBay,0.920936
+Atlassian,Visa,0.920923
+Airbnb,Walmart Labs,0.920818
+Coupang,ServiceNow,0.920586
+IBM,Zoho,0.920537
+Oracle,PayPal,0.920481
+Amazon,Citadel,0.920474
+Adobe,Visa,0.920427
+Microsoft,X,0.920366
+LinkedIn,ServiceNow,0.920262
+Snowflake,Yahoo,0.920257
+Nvidia,Snowflake,0.920113
+Nutanix,Visa,0.920071
+Goldman Sachs,TikTok,0.919946
+DoorDash,Snowflake,0.919711
+Microsoft,Snowflake,0.919668
+Citadel,Intuit,0.919454
+PhonePe,Pinterest,0.919416
+Airbnb,Visa,0.919399
+Goldman Sachs,J.P. Morgan,0.919335
+Visa,Yandex,0.919322
+Intuit,Nvidia,0.919300
+Atlassian,Goldman Sachs,0.919279
+Infosys,Yandex,0.919008
+X,Yahoo,0.918913
+Flipkart,PayPal,0.918660
+Google,Wix,0.918577
+Salesforce,Snap,0.918405
+Goldman Sachs,eBay,0.918350
+ByteDance,Citadel,0.918348
+Infosys,Microsoft,0.918197
+Amazon,Infosys,0.918156
+Airbnb,Amazon,0.917969
+Airbnb,Coupang,0.917539
+Adobe,ServiceNow,0.917140
+Salesforce,X,0.917091
+Coupang,Samsung,0.916882
+PayPal,Yandex,0.916858
+Intuit,Yandex,0.916608
+Intuit,Yahoo,0.916564
+Infosys,Salesforce,0.916214
+Nvidia,ServiceNow,0.916026
+Coupang,PayPal,0.915787
+Goldman Sachs,Walmart Labs,0.915694
+Intuit,Snowflake,0.915162
+Citadel,ServiceNow,0.915151
+Google,Infosys,0.915080
+Atlassian,Roblox,0.915002
+Atlassian,eBay,0.914809
+Nutanix,PhonePe,0.914777
+Airbnb,Meta,0.914725
+Accenture,Goldman Sachs,0.914505
+Bloomberg,Snowflake,0.914349
+Cisco,Infosys,0.914204
+Oracle,Wix,0.914007
+Nvidia,eBay,0.913919
+X,eBay,0.913859
+Amazon,Capital One,0.913858
+Intuit,Roblox,0.913139
+Citadel,LinkedIn,0.912918
+Intuit,PhonePe,0.912644
+Apple,Citadel,0.912624
+Meta,Visa,0.912580
+Google,Nutanix,0.912553
+Citadel,Flipkart,0.912339
+Meta,X,0.912006
+Coupang,Pinterest,0.911916
+Capital One,Microsoft,0.911900
+Samsung,X,0.911897
+ByteDance,Snowflake,0.911166
+Amazon,Wix,0.911122
+Flipkart,Snap,0.911033
+Infosys,Roblox,0.910916
+Coupang,Google,0.910452
+Capital One,Zoho,0.910225
+J.P. Morgan,Roblox,0.910033
+Atlassian,Yandex,0.910002
+Airbnb,Oracle,0.909900
+Apple,LinkedIn,0.909769
+Wix,X,0.909694
+Cisco,Uber,0.909641
+Visa,Yahoo,0.909614
+Bloomberg,Nutanix,0.909483
+Flipkart,Oracle,0.909426
+Oracle,Snap,0.909312
+ServiceNow,Visa,0.909309
+Cisco,Yahoo,0.909162
+DE Shaw,Zoho,0.909062
+Intuit,PayPal,0.908693
+Nvidia,Samsung,0.908623
+PhonePe,Snap,0.908589
+Coupang,Oracle,0.908506
+Coupang,Flipkart,0.908349
+Citadel,Visa,0.908283
+Adobe,Cisco,0.908277
+ByteDance,Snap,0.907949
+Atlassian,J.P. Morgan,0.907675
+Coupang,Uber,0.907561
+DE Shaw,J.P. Morgan,0.907523
+ServiceNow,X,0.907351
+Microsoft,PayPal,0.907335
+Atlassian,Samsung,0.907229
+Google,LinkedIn,0.906133
+DE Shaw,ServiceNow,0.905991
+Microsoft,Nutanix,0.905682
+ByteDance,Zoho,0.905611
+LinkedIn,Oracle,0.905606
+PayPal,ServiceNow,0.905435
+Google,Snap,0.905394
+PayPal,Samsung,0.905285
+Cisco,X,0.905274
+Salesforce,Wix,0.905176
+Atlassian,Salesforce,0.905157
+PayPal,Zoho,0.905112
+Airbnb,Apple,0.904863
+DE Shaw,Infosys,0.904720
+Airbnb,Salesforce,0.904662
+Flipkart,Uber,0.904575
+Nutanix,Nvidia,0.904449
+DoorDash,Intuit,0.904395
+Coupang,Goldman Sachs,0.904368
+Adobe,Nutanix,0.904335
+Capital One,Google,0.904264
+PhonePe,Yandex,0.904184
+Google,PayPal,0.903864
+DE Shaw,Intuit,0.903793
+Bloomberg,PayPal,0.903779
+DoorDash,Flipkart,0.903503
+Intuit,Zoho,0.903211
+Coupang,DE Shaw,0.902743
+Infosys,Oracle,0.902300
+ByteDance,Capital One,0.902200
+ByteDance,Yandex,0.901921
+Visa,X,0.901811
+Adobe,Airbnb,0.901747
+Bloomberg,Zoho,0.901546
+Adobe,Intuit,0.901281
+LinkedIn,Snap,0.901094
+LinkedIn,Nutanix,0.900985
+Cisco,Walmart Labs,0.900771
+Meta,Snap,0.900509
+PayPal,TikTok,0.900486
+Adobe,LinkedIn,0.900456
+Goldman Sachs,Uber,0.900377
+Bloomberg,Capital One,0.900367
+Goldman Sachs,Samsung,0.900338
+PhonePe,Snowflake,0.900310
+Amazon,Zoho,0.900295
+ByteDance,Infosys,0.899948
+Microsoft,Zoho,0.899852
+J.P. Morgan,tcs,0.899817
+DE Shaw,eBay,0.899607
+Samsung,Yahoo,0.899320
+Capital One,Uber,0.899075
+Coupang,Walmart Labs,0.898614
+Citadel,Nvidia,0.898503
+Yahoo,eBay,0.898481
+Adobe,Citadel,0.898328
+Nutanix,Yahoo,0.898139
+Coupang,X,0.897798
+Coupang,Visa,0.897760
+ServiceNow,Wix,0.897745
+Bloomberg,tcs,0.897664
+Visa,Zoho,0.897146
+Cisco,Intuit,0.896870
+Airbnb,ServiceNow,0.896716
+Wix,Yandex,0.896586
+Visa,Wix,0.896412
+Goldman Sachs,Yahoo,0.896299
+Citadel,Yandex,0.896282
+Accenture,J.P. Morgan,0.896179
+Microsoft,Roblox,0.895870
+Flipkart,Yandex,0.895824
+Flipkart,Snowflake,0.895523
+Intuit,Wix,0.895298
+DE Shaw,Visa,0.895155
+Infosys,Samsung,0.895114
+Citadel,Microsoft,0.894907
+Amazon,PayPal,0.893942
+Flipkart,Goldman Sachs,0.893716
+PhonePe,Walmart Labs,0.893680
+DE Shaw,Samsung,0.893616
+ByteDance,Roblox,0.893444
+Roblox,Salesforce,0.893436
+ServiceNow,Zoho,0.893211
+Snap,Visa,0.892958
+Infosys,Nvidia,0.892899
+Zoho,tcs,0.892781
+Intuit,LinkedIn,0.892501
+Pinterest,eBay,0.891919
+Oracle,PhonePe,0.891867
+ByteDance,Coupang,0.891797
+Cisco,TikTok,0.891795
+DoorDash,LinkedIn,0.891216
+Capital One,X,0.891122
+Pinterest,Samsung,0.891073
+Bloomberg,Citadel,0.891054
+Salesforce,Zoho,0.890943
+Bloomberg,Wix,0.890832
+Infosys,eBay,0.890819
+Snowflake,Visa,0.890770
+Airbnb,Capital One,0.890742
+Amazon,Roblox,0.890686
+Airbnb,Microsoft,0.890638
+Amazon,Snap,0.889990
+Google,tcs,0.889736
+Nutanix,Yandex,0.889663
+LinkedIn,Yahoo,0.889635
+DoorDash,Meta,0.889393
+Airbnb,Bloomberg,0.889053
+ByteDance,Wix,0.888718
+Microsoft,tcs,0.888516
+Goldman Sachs,Meta,0.888476
+Cisco,Salesforce,0.888212
+Airbnb,Nvidia,0.888205
+Nvidia,PayPal,0.888117
+DoorDash,Visa,0.888090
+DoorDash,Salesforce,0.888073
+Microsoft,Wix,0.887999
+Bloomberg,Roblox,0.887739
+Pinterest,Snap,0.887619
+DoorDash,Walmart Labs,0.887398
+Wix,Yahoo,0.887119
+Atlassian,Flipkart,0.886953
+Flipkart,Meta,0.886865
+Cisco,PayPal,0.886653
+Google,Roblox,0.886629
+Capital One,Nvidia,0.886621
+PayPal,Walmart Labs,0.886065
+Accenture,Cisco,0.885833
+Amazon,tcs,0.885804
+Flipkart,Roblox,0.885585
+Apple,Infosys,0.885539
+Infosys,Visa,0.885396
+Flipkart,J.P. Morgan,0.885033
+PhonePe,Uber,0.885021
+Coupang,Roblox,0.884822
+Capital One,Intuit,0.884670
+DE Shaw,TikTok,0.884516
+Oracle,Roblox,0.884313
+Airbnb,Pinterest,0.883998
+Oracle,Zoho,0.883911
+ByteDance,PayPal,0.883823
+DE Shaw,Yandex,0.883745
+Goldman Sachs,PhonePe,0.882584
+Amazon,LinkedIn,0.882411
+Adobe,Goldman Sachs,0.882080
+J.P. Morgan,Salesforce,0.882010
+Airbnb,LinkedIn,0.881916
+Flipkart,Visa,0.881841
+Capital One,Oracle,0.881493
+Coupang,Yandex,0.880858
+Capital One,PayPal,0.880722
+DoorDash,Google,0.880491
+Cisco,eBay,0.880420
+Flipkart,Wix,0.880306
+Amazon,Coupang,0.880253
+Coupang,Microsoft,0.880177
+DE Shaw,Oracle,0.879864
+Infosys,ServiceNow,0.879828
+Roblox,ServiceNow,0.878949
+Apple,Snap,0.878683
+Apple,Capital One,0.878648
+Accenture,Google,0.878535
+Amazon,Flipkart,0.878302
+PhonePe,Visa,0.878108
+Atlassian,Oracle,0.878066
+Nutanix,PayPal,0.877696
+Goldman Sachs,Nutanix,0.877401
+LinkedIn,PhonePe,0.877232
+Airbnb,Flipkart,0.877063
+Capital One,TikTok,0.877022
+ByteDance,Flipkart,0.876966
+Airbnb,Cisco,0.876800
+Roblox,eBay,0.876670
+Flipkart,Google,0.876547
+Cisco,ServiceNow,0.876473
+Cisco,J.P. Morgan,0.876404
+Flipkart,LinkedIn,0.875891
+DE Shaw,Microsoft,0.875844
+Flipkart,Microsoft,0.875602
+Google,Zoho,0.875194
+Infosys,Intuit,0.875096
+Accenture,Bloomberg,0.875002
+Goldman Sachs,X,0.874987
+LinkedIn,Microsoft,0.873901
+Coupang,Meta,0.873869
+Cisco,IBM,0.873710
+Atlassian,TikTok,0.873436
+Nvidia,Wix,0.872901
+Citadel,Goldman Sachs,0.872835
+Coupang,Nvidia,0.872706
+Walmart Labs,Zoho,0.872631
+Meta,PhonePe,0.872578
+Visa,tcs,0.872437
+Apple,PayPal,0.872406
+Atlassian,Pinterest,0.872282
+Infosys,TikTok,0.872253
+Atlassian,Google,0.872242
+Google,PhonePe,0.872147
+LinkedIn,X,0.871960
+PhonePe,Roblox,0.871873
+DoorDash,ServiceNow,0.871780
+Roblox,tcs,0.871634
+Cisco,Samsung,0.871505
+DoorDash,Oracle,0.871498
+Flipkart,Zoho,0.871312
+Atlassian,tcs,0.871018
+DoorDash,X,0.870870
+Citadel,PayPal,0.870858
+Apple,Flipkart,0.870601
+Accenture,Microsoft,0.870158
+DE Shaw,Nutanix,0.869941
+Atlassian,Coupang,0.869782
+X,Yandex,0.869698
+Bloomberg,LinkedIn,0.869604
+Nvidia,tcs,0.869471
+Airbnb,Yahoo,0.869441
+Coupang,LinkedIn,0.869193
+Airbnb,PhonePe,0.869185
+DE Shaw,Google,0.868863
+PayPal,tcs,0.868821
+DE Shaw,Walmart Labs,0.868816
+Capital One,DE Shaw,0.868699
+Atlassian,Citadel,0.868226
+Coupang,Wix,0.867966
+Bloomberg,Flipkart,0.867883
+Atlassian,Bloomberg,0.867352
+Capital One,eBay,0.867308
+Roblox,TikTok,0.867103
+IBM,Yandex,0.866454
+Yandex,tcs,0.865980
+Infosys,Walmart Labs,0.865514
+Flipkart,Infosys,0.865484
+Flipkart,Pinterest,0.865401
+Nvidia,Snap,0.865268
+Cisco,Yandex,0.865032
+Cisco,Meta,0.864780
+Microsoft,Snap,0.864747
+Atlassian,Microsoft,0.864551
+Apple,Coupang,0.864136
+PayPal,Uber,0.864026
+Cisco,Nutanix,0.863354
+ByteDance,J.P. Morgan,0.863069
+Bloomberg,J.P. Morgan,0.862871
+Accenture,Amazon,0.862804
+Bloomberg,Snap,0.862767
+Roblox,Samsung,0.862716
+PhonePe,Wix,0.862355
+Citadel,Yahoo,0.862280
+Accenture,PayPal,0.862264
+Adobe,Capital One,0.861436
+Bloomberg,Coupang,0.860823
+Roblox,Uber,0.860728
+Infosys,Meta,0.860226
+IBM,Visa,0.860183
+Goldman Sachs,Snowflake,0.860175
+Capital One,Walmart Labs,0.860160
+Accenture,Zoho,0.859931
+IBM,Salesforce,0.859931
+Roblox,Walmart Labs,0.859857
+Capital One,Yahoo,0.859795
+Nutanix,Roblox,0.859588
+Amazon,DE Shaw,0.859506
+Nvidia,Roblox,0.859185
+Capital One,Coupang,0.859115
+J.P. Morgan,Samsung,0.858701
+Infosys,PhonePe,0.858569
+Citadel,DE Shaw,0.858472
+Bloomberg,DE Shaw,0.858464
+Accenture,Nvidia,0.858273
+Atlassian,ServiceNow,0.857632
+Airbnb,Goldman Sachs,0.857339
+Apple,Zoho,0.856855
+Amazon,Atlassian,0.856785
+Infosys,Uber,0.856684
+Capital One,tcs,0.855697
+Airbnb,Yandex,0.855602
+PayPal,Pinterest,0.855571
+Pinterest,TikTok,0.855407
+Accenture,Yandex,0.855165
+Capital One,Samsung,0.855065
+Capital One,Infosys,0.854925
+Capital One,Nutanix,0.854810
+Capital One,Salesforce,0.854771
+Adobe,Snap,0.854508
+DE Shaw,Uber,0.854142
+Goldman Sachs,Snap,0.854075
+Nvidia,Zoho,0.854034
+Airbnb,Roblox,0.853805
+Adobe,Infosys,0.853295
+Amazon,J.P. Morgan,0.852894
+Accenture,Atlassian,0.852691
+Bloomberg,IBM,0.852654
+Atlassian,Intuit,0.852384
+ByteDance,LinkedIn,0.852260
+Atlassian,Zoho,0.852164
+Capital One,Snap,0.852147
+DE Shaw,Pinterest,0.851851
+J.P. Morgan,Yandex,0.851549
+IBM,Microsoft,0.851251
+J.P. Morgan,ServiceNow,0.851089
+ByteDance,tcs,0.850984
+J.P. Morgan,eBay,0.850888
+Citadel,Infosys,0.850747
+Apple,tcs,0.850687
+Snap,Yandex,0.850657
+J.P. Morgan,Oracle,0.850215
+Microsoft,PhonePe,0.850066
+Meta,PayPal,0.849846
+DE Shaw,Snap,0.849595
+Oracle,tcs,0.849532
+J.P. Morgan,PhonePe,0.849371
+Roblox,Snap,0.848514
+Snap,Yahoo,0.848463
+Amazon,PhonePe,0.848441
+DoorDash,Yandex,0.848121
+Amazon,DoorDash,0.848091
+Zoho,eBay,0.848010
+Cisco,Citadel,0.847775
+Nutanix,Pinterest,0.847583
+Intuit,J.P. Morgan,0.847574
+Atlassian,Uber,0.847343
+J.P. Morgan,Visa,0.847254
+Apple,Roblox,0.846917
+DE Shaw,DoorDash,0.846290
+Yandex,Zoho,0.846232
+Atlassian,Cisco,0.846179
+DoorDash,PayPal,0.846116
+Cisco,DE Shaw,0.846022
+Capital One,IBM,0.845949
+Accenture,Roblox,0.845712
+J.P. Morgan,Microsoft,0.845197
+Apple,DoorDash,0.845035
+PayPal,Snowflake,0.844837
+Atlassian,Capital One,0.844389
+Capital One,Citadel,0.844386
+TikTok,Zoho,0.844355
+ByteDance,DE Shaw,0.843522
+LinkedIn,Nvidia,0.843215
+PayPal,Snap,0.843126
+Nutanix,Zoho,0.843016
+ByteDance,DoorDash,0.843014
+Roblox,Yandex,0.842933
+Atlassian,Walmart Labs,0.842768
+Apple,PhonePe,0.842635
+Infosys,Yahoo,0.842510
+IBM,PhonePe,0.841366
+Google,IBM,0.840722
+Uber,Zoho,0.840347
+ByteDance,PhonePe,0.840189
+Atlassian,Nvidia,0.840078
+Bloomberg,PhonePe,0.839858
+Apple,Atlassian,0.839847
+Pinterest,Uber,0.839583
+Atlassian,DoorDash,0.839409
+Citadel,Roblox,0.839076
+Pinterest,Visa,0.839043
+Capital One,ServiceNow,0.839025
+Roblox,X,0.838236
+Amazon,IBM,0.837897
+Adobe,Flipkart,0.837182
+Accenture,ByteDance,0.836163
+Apple,DE Shaw,0.836131
+IBM,eBay,0.836115
+Google,J.P. Morgan,0.835905
+Flipkart,X,0.835562
+Yahoo,Zoho,0.835541
+Pinterest,Wix,0.835088
+Flipkart,IBM,0.833503
+Atlassian,ByteDance,0.833133
+DE Shaw,Meta,0.832990
+Coupang,Infosys,0.832795
+Samsung,Zoho,0.832252
+PayPal,Yahoo,0.831900
+IBM,Oracle,0.831832
+Atlassian,Meta,0.831288
+DE Shaw,Snowflake,0.831241
+Adobe,DoorDash,0.831241
+J.P. Morgan,Walmart Labs,0.830451
+Capital One,Meta,0.830416
+Flipkart,Yahoo,0.830059
+Accenture,Oracle,0.829943
+Atlassian,Nutanix,0.829779
+Infosys,X,0.829402
+Cisco,Snowflake,0.829011
+J.P. Morgan,Nvidia,0.828741
+Cisco,Snap,0.828546
+Cisco,Coupang,0.827779
+Adobe,tcs,0.827711
+Airbnb,DE Shaw,0.827137
+DoorDash,Microsoft,0.827089
+Flipkart,Nvidia,0.826918
+Airbnb,PayPal,0.825709
+eBay,tcs,0.825614
+PayPal,X,0.825602
+Adobe,PayPal,0.825309
+Salesforce,tcs,0.825147
+Coupang,Yahoo,0.825138
+Accenture,Apple,0.825075
+Accenture,Visa,0.824738
+Cisco,Wix,0.824590
+Samsung,tcs,0.824016
+ByteDance,IBM,0.823686
+IBM,Samsung,0.822850
+Pinterest,Roblox,0.822793
+Bloomberg,DoorDash,0.821826
+Adobe,Coupang,0.821227
+IBM,Intuit,0.821191
+Intuit,Pinterest,0.821184
+PhonePe,X,0.820888
+IBM,ServiceNow,0.820732
+Pinterest,Snowflake,0.820018
+Capital One,J.P. Morgan,0.819825
+X,Zoho,0.819739
+Accenture,Capital One,0.819371
+Cisco,Flipkart,0.818395
+Capital One,Yandex,0.818035
+Pinterest,Salesforce,0.817804
+DoorDash,Nvidia,0.817539
+Roblox,Yahoo,0.817111
+DoorDash,Goldman Sachs,0.816967
+Goldman Sachs,Wix,0.816884
+Adobe,Zoho,0.816719
+Capital One,Snowflake,0.816527
+Airbnb,Infosys,0.816495
+Coupang,Zoho,0.816432
+Capital One,DoorDash,0.816323
+J.P. Morgan,TikTok,0.816299
+DoorDash,Roblox,0.815765
+Infosys,Nutanix,0.814889
+Nvidia,PhonePe,0.814117
+Airbnb,Atlassian,0.813849
+Apple,J.P. Morgan,0.813768
+Yahoo,tcs,0.813454
+Infosys,Snowflake,0.813178
+PhonePe,Zoho,0.813034
+Accenture,Salesforce,0.812874
+J.P. Morgan,Nutanix,0.812873
+IBM,Nvidia,0.812674
+Atlassian,Snowflake,0.812360
+DE Shaw,Nvidia,0.811517
+LinkedIn,Visa,0.811003
+Airbnb,Zoho,0.810951
+Capital One,Flipkart,0.810926
+Accenture,Samsung,0.810105
+Uber,tcs,0.809391
+Meta,Zoho,0.809378
+Adobe,Roblox,0.808552
+Capital One,Wix,0.808318
+Accenture,eBay,0.808010
+Meta,Roblox,0.807098
+Adobe,Atlassian,0.806941
+Snap,Zoho,0.806455
+Meta,tcs,0.806412
+DE Shaw,tcs,0.804020
+Intuit,tcs,0.803899
+TikTok,tcs,0.803098
+Adobe,PhonePe,0.803059
+Coupang,IBM,0.802947
+J.P. Morgan,Uber,0.802940
+Goldman Sachs,LinkedIn,0.802013
+Citadel,J.P. Morgan,0.801939
+Atlassian,Wix,0.800027
+Infosys,Wix,0.799652
+PayPal,Wix,0.799597
+IBM,TikTok,0.799301
+Accenture,Intuit,0.797684
+Accenture,Adobe,0.797523
+Apple,IBM,0.797113
+Accenture,DE Shaw,0.796892
+DE Shaw,Yahoo,0.796573
+Atlassian,Snap,0.796448
+DoorDash,Yahoo,0.796003
+DE Shaw,X,0.795256
+Walmart Labs,tcs,0.794646
+Adobe,DE Shaw,0.792524
+Accenture,Meta,0.792151
+Capital One,PhonePe,0.791620
+PhonePe,Yahoo,0.791428
+Google,Pinterest,0.790585
+Goldman Sachs,Pinterest,0.789304
+Roblox,Snowflake,0.789004
+DE Shaw,Wix,0.788468
+DE Shaw,LinkedIn,0.788239
+Accenture,Yahoo,0.787761
+IBM,Walmart Labs,0.787496
+Citadel,Zoho,0.787348
+J.P. Morgan,Meta,0.786284
+Accenture,TikTok,0.786205
+X,tcs,0.785098
+Coupang,J.P. Morgan,0.784808
+Pinterest,ServiceNow,0.783925
+Pinterest,X,0.783840
+ServiceNow,tcs,0.783800
+Atlassian,Yahoo,0.783423
+Atlassian,X,0.783388
+Infosys,Snap,0.782328
+Accenture,Uber,0.779700
+Oracle,Pinterest,0.779137
+Adobe,J.P. Morgan,0.776974
+Capital One,Pinterest,0.776877
+Airbnb,J.P. Morgan,0.776296
+Cisco,DoorDash,0.775857
+J.P. Morgan,X,0.775719
+Accenture,X,0.775680
+LinkedIn,PayPal,0.775322
+Infosys,LinkedIn,0.774770
+Pinterest,Walmart Labs,0.774288
+Cisco,PhonePe,0.774060
+IBM,Uber,0.773391
+Citadel,tcs,0.773296
+DoorDash,Infosys,0.771733
+Infosys,Pinterest,0.771409
+Airbnb,tcs,0.771121
+Accenture,ServiceNow,0.770824
+Citadel,IBM,0.769331
+Accenture,Walmart Labs,0.768222
+Roblox,Wix,0.768180
+J.P. Morgan,Pinterest,0.767336
+ByteDance,Pinterest,0.766829
+IBM,Meta,0.766308
+Accenture,Citadel,0.766034
+J.P. Morgan,Yahoo,0.765527
+Pinterest,Yandex,0.763977
+Snowflake,Zoho,0.761922
+J.P. Morgan,Snap,0.761423
+Accenture,Coupang,0.759081
+J.P. Morgan,Wix,0.757207
+IBM,Pinterest,0.756383
+Amazon,Pinterest,0.755726
+Atlassian,LinkedIn,0.755665
+Meta,Pinterest,0.755350
+Accenture,Airbnb,0.752541
+Adobe,IBM,0.752303
+Wix,Zoho,0.752230
+DoorDash,J.P. Morgan,0.752036
+IBM,Yahoo,0.749694
+LinkedIn,Pinterest,0.749244
+IBM,Nutanix,0.748850
+Wix,tcs,0.747000
+Coupang,tcs,0.746449
+J.P. Morgan,Snowflake,0.744705
+Flipkart,tcs,0.738423
+DoorDash,Zoho,0.738006
+Cisco,LinkedIn,0.737134
+Nvidia,Pinterest,0.736256
+Microsoft,Pinterest,0.735179
+IBM,X,0.735164
+Accenture,PhonePe,0.734783
+Airbnb,IBM,0.733535
+Snowflake,tcs,0.731612
+PhonePe,tcs,0.731443
+Apple,Pinterest,0.728684
+Accenture,Flipkart,0.728194
+Cisco,Pinterest,0.727448
+Accenture,Wix,0.725895
+Accenture,Snowflake,0.725645
+Bloomberg,Pinterest,0.724236
+Nutanix,tcs,0.720655
+DoorDash,IBM,0.716974
+IBM,Snowflake,0.716729
+Capital One,LinkedIn,0.715125
+IBM,Snap,0.714339
+Pinterest,Zoho,0.712959
+LinkedIn,Roblox,0.706233
+LinkedIn,Zoho,0.705131
+J.P. Morgan,LinkedIn,0.703777
+Adobe,Pinterest,0.698752
+Snap,tcs,0.698633
+Accenture,Nutanix,0.697753
+IBM,Wix,0.697711
+DoorDash,tcs,0.691548
+Accenture,Snap,0.690557
+Pinterest,tcs,0.687948
+Accenture,LinkedIn,0.686243
+Accenture,Pinterest,0.686043
+Accenture,DoorDash,0.684118
+LinkedIn,tcs,0.676479
+IBM,LinkedIn,0.669611
+Pinterest,Yahoo,0.650180

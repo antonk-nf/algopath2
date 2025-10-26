@@ -1,0 +1,112 @@
+{
+  "timestamp": "2025-10-25T00:35:47.003898",
+  "base_url": "http://localhost:8000",
+  "timeout": 45,
+  "results": [
+    {
+      "endpoint": "/api/v1/health/quick",
+      "method": "GET",
+      "status_code": 200,
+      "response_time_ms": 19.527912139892578,
+      "response_size_bytes": 79,
+      "error": null,
+      "timeout": false,
+      "response_data_keys": [
+        "status",
+        "timestamp",
+        "version"
+      ]
+    },
+    {
+      "endpoint": "/api/v1/health/data",
+      "method": "GET",
+      "status_code": 200,
+      "response_time_ms": 317.69704818725586,
+      "response_size_bytes": 806,
+      "error": null,
+      "timeout": false,
+      "response_data_keys": [
+        "data_available",
+        "sample_size",
+        "source_files",
+        "cache_status",
+        "cache_stats",
+        "timestamp",
+        "status",
+        "message"
+      ]
+    },
+    {
+      "endpoint": "/api/v1/companies/stats",
+      "method": "GET",
+      "status_code": 500,
+      "response_time_ms": 206.38418197631836,
+      "response_size_bytes": 217,
+      "error": null,
+      "timeout": false,
+      "response_data_keys": [
+        "error"
+      ]
+    },
+    {
+      "endpoint": "/api/v1/companies/Google",
+      "method": "GET",
+      "status_code": 500,
+      "response_time_ms": 140.03610610961914,
+      "response_size_bytes": 217,
+      "error": null,
+      "timeout": false,
+      "response_data_keys": [
+        "error"
+      ]
+    },
+    {
+      "endpoint": "/api/v1/companies/Amazon",
+      "method": "GET",
+      "status_code": 500,
+      "response_time_ms": 127.78806686401367,
+      "response_size_bytes": 217,
+      "error": null,
+      "timeout": false,
+      "response_data_keys": [
+        "error"
+      ]
+    },
+    {
+      "endpoint": "/api/v1/companies/Microsoft",
+      "method": "GET",
+      "status_code": 500,
+      "response_time_ms": 127.32195854187012,
+      "response_size_bytes": 217,
+      "error": null,
+      "timeout": false,
+      "response_data_keys": [
+        "error"
+      ]
+    },
+    {
+      "endpoint": "/api/v1/companies/Meta",
+      "method": "GET",
+      "status_code": 500,
+      "response_time_ms": 125.80990791320801,
+      "response_size_bytes": 217,
+      "error": null,
+      "timeout": false,
+      "response_data_keys": [
+        "error"
+      ]
+    },
+    {
+      "endpoint": "/api/v1/companies/Apple",
+      "method": "GET",
+      "status_code": 500,
+      "response_time_ms": 129.77290153503418,
+      "response_size_bytes": 217,
+      "error": null,
+      "timeout": false,
+      "response_data_keys": [
+        "error"
+      ]
+    }
+  ]
+}

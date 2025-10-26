@@ -1,0 +1,470 @@
+company,total_problems,unique_problems,avg_frequency,max_frequency,min_frequency,avg_acceptance_rate,easy_count,medium_count,hard_count,timeframe_30d,timeframe_3m,timeframe_6m,timeframe_6m_plus,timeframe_all,top_topics,total_unique_topics,created_at
+instabase,3,2,100.0,100.0,100.0,,0,1,2,0,0,0,1,2,"{'Array': 2, 'Stack': 2, 'Union Find': 2, 'Monotonic Stack': 2, 'Hash Table': 1}",8,2025-10-24 23:52:53.961722
+Apple,375,171,50.86559999999999,100.0,15.2,,92,229,54,14,62,99,100,100,"{'Array': 186, 'String': 102, 'Hash Table': 69, 'Dynamic Programming': 66, 'Two Pointers': 64}",47,2025-10-24 23:52:53.961722
+Upstart,11,4,88.47272727272728,100.0,66.7,,0,11,0,1,1,2,3,4,"{'Array': 9, 'Divide and Conquer': 5, 'Dynamic Programming': 5, 'Design': 2, 'Matrix': 2}",9,2025-10-24 23:52:53.961722
+USAA,2,1,100.0,100.0,100.0,,2,0,0,0,0,0,1,1,"{'Two Pointers': 2, 'String': 2}",2,2025-10-24 23:52:53.961722
+HiLabs,6,3,89.3,100.0,67.9,,2,0,4,0,0,0,3,3,"{'String': 4, 'Dynamic Programming': 2, 'Bit Manipulation': 2, 'Bitmask': 2, 'Math': 2}",8,2025-10-24 23:52:53.961722
+Tanium,3,1,100.0,100.0,100.0,,0,3,0,0,0,1,1,1,"{'Array': 3, 'Depth-First Search': 3, 'Breadth-First Search': 3}",3,2025-10-24 23:52:53.961722
+Pure Storage,14,7,78.15,100.0,61.2,,4,8,2,1,1,0,5,7,"{'Dynamic Programming': 9, 'String': 7, 'String Matching': 4, 'Math': 3, 'Array': 3}",12,2025-10-24 23:52:53.961722
+Cloudera,10,5,85.95000000000002,100.0,65.2,,6,4,0,0,0,0,5,5,"{'Dynamic Programming': 4, 'Bit Manipulation': 4, 'Array': 2, 'Depth-First Search': 2, 'Breadth-First Search': 2}",10,2025-10-24 23:52:53.961722
+OKX,6,3,96.36666666666667,100.0,89.1,,0,4,2,0,0,0,3,3,"{'Array': 6, 'Matrix': 4, 'Depth-First Search': 2, 'Breadth-First Search': 2, 'Union Find': 2}",11,2025-10-24 23:52:53.961722
+The Trade Desk,10,5,86.44000000000001,100.0,66.1,,2,6,2,0,0,1,4,5,"{'Hash Table': 6, 'String': 6, 'Array': 4, 'Breadth-First Search': 2, 'Linked List': 2}",11,2025-10-24 23:52:53.961722
+Grab,25,13,82.728,100.0,61.6,,3,22,0,0,1,2,9,13,"{'Array': 12, 'String': 11, 'Hash Table': 6, 'Dynamic Programming': 6, 'Greedy': 4}",17,2025-10-24 23:52:53.961722
+Zopsmart,38,18,67.2421052631579,100.0,50.8,,3,28,7,0,3,4,13,18,"{'String': 20, 'Two Pointers': 15, 'Array': 14, 'Dynamic Programming': 8, 'Hash Table': 7}",16,2025-10-24 23:52:53.961722
+Intel,46,25,72.21521739130435,100.0,59.5,,19,25,2,0,0,3,18,25,"{'Array': 19, 'Hash Table': 13, 'String': 11, 'Math': 11, 'Dynamic Programming': 10}",29,2025-10-24 23:52:53.961722
+Capgemini,50,25,70.178,100.0,57.5,,30,16,4,1,2,8,14,25,"{'Array': 24, 'String': 13, 'Hash Table': 11, 'Two Pointers': 11, 'Dynamic Programming': 8}",26,2025-10-24 23:52:53.961722
+BNY Mellon,42,21,76.45476190476191,100.0,58.8,,12,24,6,0,0,1,20,21,"{'Array': 28, 'Hash Table': 14, 'String': 14, 'Two Pointers': 12, 'Dynamic Programming': 12}",18,2025-10-24 23:52:53.961722
+DXC Technology,6,3,100.0,100.0,100.0,,4,2,0,0,0,0,3,3,"{'Array': 4, 'Two Pointers': 4, 'String': 2, 'Trie': 2, 'Sorting': 2}",6,2025-10-24 23:52:53.961722
+Chime,4,2,83.725,100.0,66.5,,0,4,0,0,0,0,2,2,"{'Array': 2, 'Math': 2, 'Depth-First Search': 2, 'Breadth-First Search': 2, 'Graph': 2}",9,2025-10-24 23:52:53.961722
+Microstrategy,13,9,78.16923076923078,100.0,65.6,,4,9,0,0,0,1,3,9,"{'String': 6, 'Array': 5, 'Two Pointers': 4, 'Stack': 4, 'Dynamic Programming': 4}",22,2025-10-24 23:52:53.961722
+Synopsys,4,2,100.0,100.0,100.0,,0,4,0,0,0,0,2,2,"{'Array': 4, 'Binary Search': 2, 'Sorting': 2}",3,2025-10-24 23:52:53.961722
+Unity,8,4,92.35,100.0,89.8,,0,8,0,0,0,0,4,4,"{'Array': 6, 'Math': 6, 'Number Theory': 2, 'Hash Table': 2, 'Design': 2}",10,2025-10-24 23:52:53.961722
+Millennium,14,7,100.0,100.0,100.0,,4,8,2,0,0,1,6,7,"{'Array': 6, 'Dynamic Programming': 6, 'Math': 4, 'Binary Search': 4, 'Two Pointers': 4}",12,2025-10-24 23:52:53.961722
+Tech Mahindra,8,5,91.75,100.0,88.9,,5,3,0,0,0,0,3,5,"{'Array': 4, 'Math': 3, 'Hash Table': 3, 'Dynamic Programming': 2, 'String': 2}",8,2025-10-24 23:52:53.961722
+MAQ Software,10,5,82.47,100.0,65.3,,0,6,4,0,0,0,5,5,"{'String': 6, 'Dynamic Programming': 6, 'Array': 4, 'Two Pointers': 4, 'Stack': 4}",8,2025-10-24 23:52:53.961722
+IMC,15,8,70.99333333333333,100.0,54.3,,0,11,4,0,0,0,7,8,"{'Array': 12, 'Breadth-First Search': 6, 'Matrix': 6, 'Stack': 5, 'Binary Search': 4}",11,2025-10-24 23:52:53.961722
+Zeta,41,21,79.4048780487805,100.0,60.8,,0,24,17,0,1,4,15,21,"{'Array': 27, 'Hash Table': 13, 'Dynamic Programming': 12, 'String': 12, 'Binary Search': 9}",27,2025-10-24 23:52:53.961722
+Zluri,4,2,100.0,100.0,100.0,,0,4,0,0,0,0,2,2,"{'Array': 4, 'Stack': 4, 'Greedy': 4, 'Monotonic Stack': 4, 'Dynamic Programming': 2}",5,2025-10-24 23:52:53.961722
+Optiver,6,3,91.5,100.0,87.1,,4,2,0,0,0,0,3,3,"{'Math': 2, 'String': 2, 'Hash Table': 2, 'Linked List': 2, 'Design': 2}",8,2025-10-24 23:52:53.961722
+Uber,344,177,51.55261627906976,100.0,17.7,,51,208,85,8,49,87,100,100,"{'Array': 212, 'String': 90, 'Hash Table': 68, 'Dynamic Programming': 64, 'Matrix': 48}",56,2025-10-24 23:52:53.961722
+Honeywell,7,4,84.18571428571428,100.0,67.3,,3,4,0,0,0,0,3,4,"{'Array': 7, 'Hash Table': 3, 'Sliding Window': 2, 'Sorting': 2, 'Greedy': 2}",6,2025-10-24 23:52:53.961722
+tcs,251,130,48.91195219123506,100.0,26.5,,127,108,16,3,12,36,100,100,"{'Array': 141, 'String': 51, 'Math': 50, 'Dynamic Programming': 49, 'Two Pointers': 48}",44,2025-10-24 23:52:53.961722
+Juspay,26,11,81.85,100.0,53.9,,0,14,12,0,4,5,6,11,"{'Array': 14, 'Hash Table': 14, 'Depth-First Search': 11, 'Graph': 9, 'Tree': 7}",19,2025-10-24 23:52:53.961722
+EarnIn,5,4,100.0,100.0,100.0,,1,4,0,0,0,1,0,4,"{'Linked List': 2, 'Math': 2, 'Recursion': 2, 'Array': 2, 'Two Pointers': 1}",12,2025-10-24 23:52:53.961722
+MakeMyTrip,51,29,69.95882352941176,100.0,60.0,,2,35,14,0,0,0,22,29,"{'Array': 31, 'Dynamic Programming': 20, 'String': 19, 'Hash Table': 16, 'Depth-First Search': 8}",31,2025-10-24 23:52:53.961722
+DeltaX,6,3,79.7,100.0,68.6,,2,4,0,0,0,0,3,3,"{'Hash Table': 4, 'Math': 4, 'String': 4, 'Array': 2, 'Union Find': 2}",8,2025-10-24 23:52:53.961722
+Western Digital,3,1,100.0,100.0,100.0,,3,0,0,0,0,1,1,1,"{'Array': 3, 'Hash Table': 3}",2,2025-10-24 23:52:53.961722
+Airwallex,2,1,100.0,100.0,100.0,,0,2,0,0,0,0,1,1,"{'Array': 2, 'Stack': 2, 'Monotonic Stack': 2}",3,2025-10-24 23:52:53.961722
+GE Digital,6,3,87.03333333333332,100.0,67.3,,2,4,0,0,0,0,3,3,"{'Math': 2, 'Enumeration': 2, 'Array': 2, 'Hash Table': 2, 'String': 2}",6,2025-10-24 23:52:53.961722
+CARS24,16,8,84.875,100.0,77.3,,2,14,0,0,0,0,8,8,"{'Hash Table': 10, 'Array': 10, 'String': 6, 'Binary Search': 4, 'Design': 4}",11,2025-10-24 23:52:53.961722
+Hotstar,5,3,86.64000000000001,100.0,66.6,,0,2,3,0,0,0,2,3,"{'Array': 4, 'Depth-First Search': 3, 'Breadth-First Search': 2, 'Union Find': 2, 'Matrix': 2}",9,2025-10-24 23:52:53.961722
+DRW,19,9,83.93684210526317,100.0,64.2,,4,13,2,0,1,1,8,9,"{'Array': 9, 'Greedy': 7, 'Graph': 6, 'Depth-First Search': 4, 'Breadth-First Search': 4}",14,2025-10-24 23:52:53.961722
+athenahealth,21,11,81.25714285714287,100.0,64.2,,8,11,2,0,1,1,8,11,"{'Array': 16, 'Hash Table': 8, 'Sorting': 7, 'Dynamic Programming': 5, 'String': 5}",10,2025-10-24 23:52:53.961722
+Karat,42,15,76.45714285714286,100.0,47.6,,13,23,6,4,5,6,12,15,"{'Array': 36, 'String': 25, 'Hash Table': 22, 'Matrix': 18, 'Depth-First Search': 11}",16,2025-10-24 23:52:53.961722
+Pocket Gems,30,15,100.0,100.0,100.0,,2,20,8,0,0,0,15,15,"{'Array': 16, 'Hash Table': 14, 'String': 14, 'Sorting': 8, 'Heap (Priority Queue)': 6}",29,2025-10-24 23:52:53.961722
+ThousandEyes,9,5,94.30000000000001,100.0,89.5,,0,7,2,0,0,0,4,5,"{'Hash Table': 8, 'Design': 6, 'Depth-First Search': 2, 'Breadth-First Search': 2, 'Graph': 2}",13,2025-10-24 23:52:53.961722
+DE Shaw,211,104,57.44549763033175,100.0,39.6,,20,123,68,1,2,8,100,100,"{'Array': 153, 'Dynamic Programming': 74, 'Sorting': 43, 'Greedy': 40, 'String': 39}",53,2025-10-24 23:52:53.961722
+NetApp,17,10,91.24117647058824,100.0,87.3,,4,10,3,0,0,1,6,10,"{'Array': 7, 'String': 6, 'Linked List': 5, 'Hash Table': 4, 'Depth-First Search': 4}",21,2025-10-24 23:52:53.961722
+Duolingo,8,4,80.125,100.0,52.1,,0,5,3,0,0,1,3,4,"{'Array': 8, 'Hash Table': 6, 'String': 3, 'Design': 3, 'Trie': 3}",8,2025-10-24 23:52:53.961722
+Vanguard,4,2,92.19999999999999,100.0,84.4,,4,0,0,0,0,0,2,2,"{'Hash Table': 4, 'String': 4, 'Counting': 2}",3,2025-10-24 23:52:53.961722
+MindTree,5,3,86.32000000000001,100.0,66.8,,5,0,0,0,0,0,2,3,"{'Array': 2, 'Hash Table': 2, 'Math': 2, 'Simulation': 2, 'Database': 1}",5,2025-10-24 23:52:53.961722
+Wipro,49,25,72.13265306122449,100.0,60.1,,28,19,2,0,1,2,21,25,"{'Array': 20, 'Math': 15, 'Hash Table': 15, 'String': 14, 'Sorting': 10}",23,2025-10-24 23:52:53.961722
+peak6,2,2,100.0,100.0,100.0,,0,2,0,0,0,0,0,2,"{'Array': 2, 'Simulation': 1, 'Enumeration': 1}",3,2025-10-24 23:52:53.961722
+Virtusa,8,4,84.3375,100.0,66.2,,4,4,0,0,0,0,4,4,"{'Array': 6, 'Sorting': 4, 'Hash Table': 4, 'Dynamic Programming': 2, 'Two Pointers': 2}",8,2025-10-24 23:52:53.961722
+UKG,28,11,83.30714285714285,100.0,63.3,,6,15,7,1,3,5,8,11,"{'String': 13, 'Array': 13, 'Hash Table': 10, 'Math': 8, 'Counting': 6}",16,2025-10-24 23:52:53.961722
+Confluent,37,12,79.45945945945947,100.0,51.1,,0,22,15,4,5,6,10,12,"{'Hash Table': 27, 'Array': 16, 'Design': 13, 'String': 11, 'Matrix': 10}",16,2025-10-24 23:52:53.961722
+Wealthfront,2,1,100.0,100.0,100.0,,0,2,0,0,0,0,1,1,"{'Hash Table': 2, 'String': 2, 'Counting': 2}",3,2025-10-24 23:52:53.961722
+Dream11,22,11,80.90454545454544,100.0,62.8,,2,16,4,0,1,2,8,11,"{'Array': 18, 'Dynamic Programming': 11, 'Stack': 7, 'Greedy': 6, 'String': 4}",12,2025-10-24 23:52:53.961722
+Axon,19,7,82.76842105263158,100.0,62.0,,4,15,0,1,4,4,3,7,"{'Hash Table': 10, 'String': 10, 'Design': 9, 'Array': 9, 'Math': 8}",18,2025-10-24 23:52:53.961722
+BP,8,4,89.7375,100.0,82.8,,0,8,0,0,0,0,4,4,"{'Array': 4, 'Hash Table': 4, 'String': 4, 'Sorting': 4, 'Dynamic Programming': 2}",9,2025-10-24 23:52:53.961722
+CEDCOSS,8,4,87.55000000000001,100.0,83.4,,4,4,0,0,0,0,4,4,"{'Two Pointers': 4, 'String': 4, 'Array': 4, 'Dynamic Programming': 2, 'Trie': 2}",6,2025-10-24 23:52:53.961722
+Box,18,6,83.00555555555555,100.0,58.8,,7,7,4,1,3,3,5,6,"{'String': 8, 'Hash Table': 8, 'Heap (Priority Queue)': 6, 'Bit Manipulation': 5, 'Breadth-First Search': 5}",19,2025-10-24 23:52:53.961722
+PayU,4,2,91.65,100.0,66.6,,2,2,0,0,0,0,2,2,"{'Math': 2, 'Simulation': 2, 'Hash Table': 2, 'String': 2, 'Sliding Window': 2}",5,2025-10-24 23:52:53.961722
+DP world,14,7,93.2,100.0,87.6,,0,9,5,0,1,2,4,7,"{'Array': 10, 'Sorting': 5, 'Tree': 4, 'Depth-First Search': 4, 'Binary Tree': 4}",12,2025-10-24 23:52:53.961722
+Wayfair,48,24,72.14999999999999,100.0,53.9,,11,32,5,0,0,2,22,24,"{'String': 28, 'Array': 13, 'Hash Table': 11, 'Dynamic Programming': 10, 'Two Pointers': 10}",20,2025-10-24 23:52:53.961722
+Paycom,7,4,95.60000000000001,100.0,89.7,,5,2,0,0,0,0,3,4,"{'Array': 7, 'Hash Table': 6, 'Sorting': 5, 'String': 2}",4,2025-10-24 23:52:53.961722
+Commvault,22,11,79.76363636363637,100.0,62.2,,2,18,2,0,0,0,11,11,"{'Dynamic Programming': 8, 'Array': 8, 'String': 6, 'Binary Search': 6, 'Math': 4}",16,2025-10-24 23:52:53.961722
+CrowdStrike,23,11,82.6608695652174,100.0,67.5,,5,16,2,0,1,3,8,11,"{'Array': 15, 'Two Pointers': 9, 'String': 8, 'Depth-First Search': 4, 'Matrix': 4}",17,2025-10-24 23:52:53.961722
+Acko,8,4,94.725,100.0,89.3,,4,0,4,0,0,1,3,4,"{'Dynamic Programming': 4, 'Math': 2, 'Combinatorics': 2, 'Array': 2, 'Graph': 2}",7,2025-10-24 23:52:53.961722
+InMobi,12,6,85.50000000000001,100.0,65.2,,0,6,6,0,0,0,6,6,"{'Stack': 4, 'Two Pointers': 4, 'String': 4, 'Dynamic Programming': 4, 'Array': 4}",19,2025-10-24 23:52:53.961722
+Infosys,209,105,62.93779904306219,100.0,44.3,,65,112,32,2,3,17,87,100,"{'Array': 124, 'String': 50, 'Math': 45, 'Dynamic Programming': 45, 'Sorting': 39}",45,2025-10-24 23:52:53.961722
+Huawei,29,15,78.22068965517244,100.0,61.3,,6,18,5,0,0,0,14,15,"{'Array': 17, 'String': 12, 'Stack': 9, 'Dynamic Programming': 9, 'Backtracking': 6}",19,2025-10-24 23:52:53.961722
+UBS,10,5,77.44000000000001,100.0,61.7,,3,7,0,0,0,1,4,5,"{'Array': 9, 'String': 4, 'Dynamic Programming': 4, 'Binary Search': 3, 'Trie': 3}",13,2025-10-24 23:52:53.961722
+Optum,10,6,86.61999999999999,100.0,64.3,,2,8,0,0,0,0,4,6,"{'String': 6, 'Two Pointers': 3, 'Dynamic Programming': 3, 'Hash Table': 2, 'Sliding Window': 2}",10,2025-10-24 23:52:53.961722
+Docusign,68,34,77.80735294117646,100.0,66.0,,6,53,9,1,4,7,22,34,"{'Array': 33, 'Hash Table': 29, 'Sorting': 23, 'String': 21, 'Heap (Priority Queue)': 14}",33,2025-10-24 23:52:53.961722
+Mastercard,15,12,84.20666666666665,100.0,75.8,,8,6,1,0,1,2,0,12,"{'Array': 11, 'Hash Table': 4, 'Dynamic Programming': 4, 'String': 4, 'Greedy': 3}",14,2025-10-24 23:52:53.961722
+Houzz,4,2,100.0,100.0,100.0,,0,0,4,0,0,0,2,2,"{'Math': 4, 'String': 2, 'Stack': 2, 'Recursion': 2}",4,2025-10-24 23:52:53.961722
+Airbnb,132,58,64.19015151515151,100.0,36.3,,22,67,43,1,5,13,55,58,"{'Array': 84, 'String': 48, 'Hash Table': 45, 'Breadth-First Search': 24, 'Design': 22}",42,2025-10-24 23:52:53.961722
+SoundHound,5,3,93.42,100.0,67.1,,2,2,1,0,0,0,2,3,"{'Array': 3, 'Linked List': 2, 'Tree': 2, 'Depth-First Search': 2, 'Binary Tree': 2}",6,2025-10-24 23:52:53.961722
+TuSimple,8,4,100.0,100.0,100.0,,0,4,4,0,0,0,4,4,"{'Array': 6, 'Hash Table': 4, 'Prefix Sum': 2, 'Math': 2, 'String': 2}",11,2025-10-24 23:52:53.961722
+DevRev,8,4,94.57499999999999,100.0,89.1,,4,2,2,0,0,0,4,4,"{'Array': 8, 'Dynamic Programming': 2, 'Hash Table': 2, 'Counting': 2, 'String': 2}",7,2025-10-24 23:52:53.961722
+Navan,9,4,96.46666666666667,100.0,89.4,,0,4,5,0,1,1,3,4,"{'Hash Table': 5, 'Array': 4, 'Dynamic Programming': 4, 'String': 3, 'Breadth-First Search': 3}",11,2025-10-24 23:52:53.961722
+ZScaler,46,24,75.20000000000002,100.0,59.8,,20,19,7,0,2,3,17,24,"{'Array': 27, 'Hash Table': 19, 'String': 11, 'Math': 8, 'Greedy': 7}",27,2025-10-24 23:52:53.961722
+Amazon,500,199,53.8244,100.0,9.5,,104,310,86,100,100,100,100,100,"{'Array': 256, 'String': 138, 'Dynamic Programming': 95, 'Hash Table': 93, 'Math': 82}",46,2025-10-24 23:52:53.961722
+GSN Games,10,5,100.0,100.0,100.0,,4,4,2,0,0,0,5,5,{'Database': 10},1,2025-10-24 23:52:53.961722
+Bridgewater Associates,4,2,92.75,100.0,84.6,,0,4,0,0,0,0,2,2,"{'Dynamic Programming': 4, 'Array': 2, 'Math': 2}",3,2025-10-24 23:52:53.961722
+Applied Intuition,25,12,86.852,100.0,67.5,,1,14,10,1,4,4,4,12,"{'Array': 25, 'Matrix': 12, 'Sorting': 8, 'Breadth-First Search': 6, 'String': 5}",19,2025-10-24 23:52:53.961722
+Nordstrom,20,10,95.87999999999998,100.0,88.1,,2,16,2,0,1,1,8,10,"{'Array': 11, 'Hash Table': 7, 'String': 7, 'Dynamic Programming': 6, 'Depth-First Search': 3}",24,2025-10-24 23:52:53.961722
+Baidu,20,10,94.14999999999999,100.0,89.2,,0,10,10,0,0,0,10,10,"{'Dynamic Programming': 16, 'Array': 8, 'String': 6, 'Hash Table': 6, 'Greedy': 4}",19,2025-10-24 23:52:53.961722
+SAP,75,39,66.08133333333332,100.0,52.9,,29,34,12,0,0,1,35,39,"{'Array': 44, 'Dynamic Programming': 20, 'String': 14, 'Hash Table': 14, 'Two Pointers': 13}",40,2025-10-24 23:52:53.961722
+HP,6,3,91.86666666666667,100.0,84.5,,4,2,0,0,0,0,3,3,"{'String': 4, 'Greedy': 4, 'Sliding Window': 2, 'Array': 2, 'Hash Table': 2}",5,2025-10-24 23:52:53.961722
+Publicis Sapient,10,5,91.97,100.0,88.4,,4,4,2,0,0,1,4,5,"{'Hash Table': 6, 'String': 6, 'Array': 6, 'Stack': 4, 'Sliding Window': 2}",9,2025-10-24 23:52:53.961722
+Teradata,5,3,100.0,100.0,100.0,,1,2,2,0,0,0,2,3,"{'Array': 4, 'Two Pointers': 2, 'Binary Search': 2, 'Sorting': 2, 'Greedy': 2}",7,2025-10-24 23:52:53.961722
+Guidewire,13,6,96.76153846153845,100.0,89.3,,0,13,0,1,1,2,3,6,"{'Array': 9, 'Breadth-First Search': 6, 'String': 4, 'Simulation': 4, 'Dynamic Programming': 4}",17,2025-10-24 23:52:53.961722
+AppFolio,6,4,100.0,100.0,100.0,,1,3,2,0,0,0,2,4,"{'Array': 4, 'Hash Table': 4, 'Design': 4, 'Math': 2, 'Randomized': 2}",10,2025-10-24 23:52:53.961722
+Virtu Financial,13,5,95.80000000000001,100.0,82.5,,11,2,0,0,1,2,5,5,"{'Math': 8, 'String': 8, 'Array': 5, 'Greedy': 3, 'Sorting': 3}",6,2025-10-24 23:52:53.961722
+Pwc,13,7,95.4230769230769,100.0,88.1,,10,2,1,0,0,2,4,7,"{'Array': 7, 'Hash Table': 6, 'String': 6, 'Dynamic Programming': 4, 'Divide and Conquer': 3}",11,2025-10-24 23:52:53.961722
+National Payments Corporation of India,4,2,100.0,100.0,100.0,,2,2,0,0,0,0,2,2,"{'Array': 4, 'Binary Search': 2, 'Prefix Sum': 2}",3,2025-10-24 23:52:53.961722
+Juniper Networks,6,3,100.0,100.0,100.0,,0,6,0,0,0,0,3,3,"{'Tree': 2, 'Depth-First Search': 2, 'Binary Tree': 2, 'Array': 2, 'Dynamic Programming': 2}",9,2025-10-24 23:52:53.961722
+IVP,4,2,100.0,100.0,100.0,,0,2,2,0,0,0,2,2,"{'Array': 4, 'Depth-First Search': 4, 'Dynamic Programming': 2, 'Backtracking': 2, 'Bit Manipulation': 2}",7,2025-10-24 23:52:53.961722
+Pinterest,123,49,59.6910569105691,100.0,34.9,,2,62,59,5,13,14,42,49,"{'Array': 81, 'String': 32, 'Breadth-First Search': 30, 'Sorting': 29, 'Hash Table': 28}",35,2025-10-24 23:52:53.961722
+Verily,24,12,92.59999999999998,100.0,81.5,,2,20,2,0,0,1,11,12,"{'Array': 20, 'Hash Table': 12, 'Sorting': 10, 'String': 8, 'Math': 8}",17,2025-10-24 23:52:53.961722
+Zomato,49,24,76.50408163265305,100.0,58.9,,0,27,22,0,2,2,21,24,"{'Array': 41, 'Dynamic Programming': 14, 'Matrix': 11, 'Hash Table': 10, 'Math': 10}",31,2025-10-24 23:52:53.961722
+ciena,4,2,100.0,100.0,100.0,,0,4,0,0,0,0,2,2,"{'Database': 2, 'Array': 2, 'Hash Table': 2, 'Sliding Window': 2}",4,2025-10-24 23:52:53.961722
+Arista Networks,73,38,71.08356164383562,100.0,57.2,,23,46,4,0,1,4,30,38,"{'Array': 27, 'Linked List': 17, 'Depth-First Search': 16, 'Hash Table': 15, 'Tree': 14}",34,2025-10-24 23:52:53.961722
+PhonePe,176,93,58.69943181818182,100.0,45.1,,4,109,63,0,0,13,70,93,"{'Array': 122, 'Dynamic Programming': 51, 'Hash Table': 41, 'Sorting': 40, 'String': 33}",45,2025-10-24 23:52:53.961722
+Squarespace,10,3,92.52000000000001,100.0,64.7,,6,4,0,1,2,2,2,3,"{'Array': 5, 'Two Pointers': 5, 'Sorting': 5, 'Hash Table': 4, 'Linked List': 4}",9,2025-10-24 23:52:53.961722
+Gameskraft,8,4,74.35000000000001,100.0,65.7,,0,0,8,0,0,0,4,4,"{'Array': 4, 'Heap (Priority Queue)': 4, 'Dynamic Programming': 2, 'Tree': 2, 'Depth-First Search': 2}",14,2025-10-24 23:52:53.961722
+BILL Holdings,2,1,100.0,100.0,100.0,,0,2,0,0,0,0,1,1,"{'Array': 2, 'Depth-First Search': 2, 'Breadth-First Search': 2, 'Union Find': 2, 'Matrix': 2}",5,2025-10-24 23:52:53.961722
+Canonical,6,3,89.10000000000001,100.0,65.6,,4,2,0,0,0,0,3,3,"{'Array': 4, 'Math': 2, 'Stack': 2, 'String': 2, 'Simulation': 2}",7,2025-10-24 23:52:53.961722
+Niantic,10,5,92.17000000000002,100.0,88.7,,0,10,0,0,0,0,5,5,"{'String': 6, 'Array': 4, 'Hash Table': 4, 'Two Pointers': 2, 'Binary Search': 2}",12,2025-10-24 23:52:53.961722
+Roblox,109,53,56.90275229357797,100.0,38.3,,15,68,26,0,4,9,43,53,"{'Array': 73, 'Hash Table': 37, 'String': 36, 'Sorting': 20, 'Matrix': 18}",38,2025-10-24 23:52:53.961722
+QBurst,6,3,100.0,100.0,100.0,,2,2,2,0,0,0,3,3,"{'Array': 6, 'Dynamic Programming': 4, 'Two Pointers': 2, 'Greedy': 2}",4,2025-10-24 23:52:53.961722
+Mercari,10,5,89.4,100.0,79.0,,6,4,0,0,0,0,5,5,"{'Array': 6, 'Math': 6, 'Greedy': 6, 'Hash Table': 4, 'String': 2}",7,2025-10-24 23:52:53.961722
+Bolt,15,7,77.53333333333333,100.0,61.7,,11,2,2,0,0,1,7,7,"{'Array': 7, 'Dynamic Programming': 7, 'Hash Table': 6, 'String': 6, 'Sliding Window': 2}",9,2025-10-24 23:52:53.961722
+Jump Trading,12,6,92.83333333333331,100.0,82.8,,5,1,6,0,0,2,4,6,"{'Math': 7, 'Array': 5, 'Hash Table': 4, 'Two Pointers': 3, 'Recursion': 2}",14,2025-10-24 23:52:53.961722
+WorldQuant,10,4,96.91,100.0,89.7,,0,4,6,1,1,1,3,4,"{'Heap (Priority Queue)': 8, 'Array': 6, 'Two Pointers': 6, 'Sorting': 6, 'Greedy': 4}",16,2025-10-24 23:52:53.961722
+Workday,16,8,94.75,100.0,88.0,,2,10,4,0,1,1,6,8,"{'Array': 6, 'Hash Table': 5, 'String': 5, 'Sorting': 5, 'Linked List': 4}",15,2025-10-24 23:52:53.961722
+Delhivery,6,3,100.0,100.0,100.0,,0,4,2,0,0,0,3,3,"{'Stack': 2, 'Design': 2, 'Math': 2, 'String': 2, 'Recursion': 2}",6,2025-10-24 23:52:53.961722
+American Express,46,23,76.0804347826087,100.0,55.9,,15,23,8,0,0,3,20,23,"{'Array': 30, 'Hash Table': 15, 'String': 10, 'Two Pointers': 8, 'Greedy': 8}",26,2025-10-24 23:52:53.961722
+Mountblue,4,2,96.57499999999999,100.0,93.1,,0,4,0,0,0,0,2,2,"{'String': 4, 'Stack': 4, 'Recursion': 2}",3,2025-10-24 23:52:53.961722
+IXL,38,17,80.27105263157898,100.0,52.3,,7,25,6,0,1,4,16,17,"{'Array': 19, 'Math': 13, 'String': 11, 'Hash Table': 10, 'Sorting': 8}",30,2025-10-24 23:52:53.961722
+EY,6,3,100.0,100.0,100.0,,4,2,0,0,0,0,3,3,"{'Array': 2, 'Hash Table': 2, 'Math': 2, 'Dynamic Programming': 2, 'Recursion': 2}",9,2025-10-24 23:52:53.961722
+Hertz,4,2,97.575,100.0,90.3,,0,4,0,0,0,0,2,2,"{'String': 2, 'Stack': 2, 'Recursion': 2, 'Array': 2, 'Sorting': 2}",7,2025-10-24 23:52:53.961722
+blinkit,4,2,100.0,100.0,100.0,,0,4,0,0,0,0,2,2,"{'Array': 4, 'Binary Search': 4, 'Hash Table': 2, 'Greedy': 2, 'Heap (Priority Queue)': 2}",5,2025-10-24 23:52:53.961722
+Tekion,39,20,78.7923076923077,100.0,61.6,,7,21,11,0,5,8,6,20,"{'Array': 31, 'Dynamic Programming': 15, 'Prefix Sum': 13, 'Two Pointers': 9, 'Binary Search': 8}",25,2025-10-24 23:52:53.961722
+Chewy,11,6,94.10909090909091,100.0,88.9,,4,7,0,0,0,1,4,6,"{'Hash Table': 7, 'Array': 6, 'Simulation': 6, 'String': 4, 'Design': 3}",17,2025-10-24 23:52:53.961722
+Lendingkart Technologies,1,1,100.0,100.0,100.0,,0,1,0,0,0,0,0,1,"{'String': 1, 'Greedy': 1}",2,2025-10-24 23:52:53.961722
+BitGo,25,10,87.36,100.0,64.1,,0,19,6,1,2,6,6,10,"{'Array': 12, 'Depth-First Search': 7, 'Hash Table': 7, 'String': 6, 'Breadth-First Search': 5}",19,2025-10-24 23:52:53.961722
+Qualcomm,95,48,72.2821052631579,100.0,56.6,,42,42,11,0,6,14,27,48,"{'Array': 42, 'Two Pointers': 22, 'Linked List': 20, 'Hash Table': 17, 'Math': 15}",34,2025-10-24 23:52:53.961722
+Warnermedia,21,10,83.26666666666668,100.0,60.8,,7,10,4,0,1,2,8,10,"{'Array': 8, 'String': 7, 'Math': 7, 'Hash Table': 5, 'Two Pointers': 4}",24,2025-10-24 23:52:53.961722
+fourkites,6,3,100.0,100.0,100.0,,2,4,0,0,0,0,3,3,"{'Array': 6, 'String': 4, 'Dynamic Programming': 4, 'Bit Manipulation': 2, 'Brainteaser': 2}",6,2025-10-24 23:52:53.961722
+Instacart,37,15,74.1891891891892,100.0,60.1,,10,21,6,1,3,4,14,15,"{'Array': 30, 'Sorting': 12, 'String': 9, 'Binary Search': 9, 'Greedy': 8}",15,2025-10-24 23:52:53.961722
+Citigroup,5,3,100.0,100.0,100.0,,4,0,1,0,0,0,2,3,"{'Array': 5, 'Prefix Sum': 2, 'Dynamic Programming': 2, 'Stack': 1, 'Monotonic Stack': 1}",5,2025-10-24 23:52:53.961722
+Expedia,93,49,74.61720430107528,100.0,53.3,,23,62,8,0,0,2,42,49,"{'Array': 49, 'String': 29, 'Hash Table': 25, 'Dynamic Programming': 16, 'Sorting': 15}",31,2025-10-24 23:52:53.961722
+MathWorks,61,29,73.25737704918032,100.0,51.2,,10,26,25,0,3,7,22,29,"{'Array': 34, 'Dynamic Programming': 23, 'String': 18, 'Greedy': 14, 'Math': 14}",33,2025-10-24 23:52:53.961722
+Wells Fargo,30,15,73.75333333333334,100.0,60.8,,8,20,2,0,0,1,14,15,"{'Array': 16, 'String': 12, 'Greedy': 6, 'Heap (Priority Queue)': 4, 'Two Pointers': 4}",24,2025-10-24 23:52:53.961722
+Target,7,4,100.0,100.0,100.0,,0,5,2,0,0,0,3,4,"{'Array': 7, 'Two Pointers': 2, 'Sorting': 2, 'String': 2, 'Tree': 2}",14,2025-10-24 23:52:53.961722
+Attentive,19,9,78.94736842105263,100.0,56.2,,4,9,6,0,2,3,5,9,"{'String': 13, 'Stack': 9, 'Hash Table': 7, 'Array': 7, 'Recursion': 6}",16,2025-10-24 23:52:53.961722
+Capital One,123,47,65.4430894308943,100.0,40.8,,18,78,27,5,15,21,35,47,"{'Array': 93, 'String': 30, 'Matrix': 28, 'Hash Table': 25, 'Math': 22}",38,2025-10-24 23:52:53.961722
+Moveworks,16,6,84.23750000000001,100.0,52.0,,0,12,4,0,2,3,5,6,"{'Array': 16, 'String': 14, 'Hash Table': 10, 'Trie': 6, 'Backtracking': 6}",12,2025-10-24 23:52:53.961722
+DoorDash,234,88,51.579487179487174,100.0,24.1,,15,138,81,11,19,41,75,88,"{'Array': 143, 'String': 65, 'Breadth-First Search': 63, 'Depth-First Search': 60, 'Hash Table': 57}",45,2025-10-24 23:52:53.961722
+Slice,4,2,100.0,100.0,100.0,,4,0,0,0,0,0,2,2,"{'Array': 4, 'Hash Table': 2, 'Dynamic Programming': 2}",3,2025-10-24 23:52:53.961722
+WinZO,8,4,87.3625,100.0,83.1,,0,2,6,0,0,0,4,4,"{'Array': 4, 'Greedy': 4, 'Sorting': 4, 'Heap (Priority Queue)': 4, 'Dynamic Programming': 4}",9,2025-10-24 23:52:53.961722
+Google,500,277,40.884800000000006,100.0,5.0,,140,265,95,100,100,100,100,100,"{'Array': 260, 'String': 115, 'Hash Table': 100, 'Dynamic Programming': 82, 'Two Pointers': 75}",56,2025-10-24 23:52:53.961722
+Brex,2,2,100.0,100.0,100.0,,0,1,1,0,0,0,2,0,"{'Math': 1, 'String': 1, 'Stack': 1, 'Recursion': 1, 'Array': 1}",7,2025-10-24 23:52:53.961722
+Wish,8,4,100.0,100.0,100.0,,0,6,2,0,0,0,4,4,"{'Database': 4, 'Array': 4, 'Greedy': 4, 'Hash Table': 2, 'Math': 2}",7,2025-10-24 23:52:53.961722
+Devsinc,4,2,97.525,100.0,90.1,,4,0,0,0,0,0,2,2,"{'Array': 2, 'Hash Table': 2, 'Linked List': 2, 'Two Pointers': 2, 'Stack': 2}",6,2025-10-24 23:52:53.961722
+NinjaCart,2,1,100.0,100.0,100.0,,0,2,0,0,0,0,1,1,"{'Hash Table': 2, 'Math': 2, 'String': 2}",3,2025-10-24 23:52:53.961722
+Coinbase,30,12,77.93666666666668,100.0,53.1,,2,24,4,0,3,3,12,12,"{'Array': 20, 'Design': 16, 'String': 16, 'Hash Table': 16, 'Simulation': 8}",20,2025-10-24 23:52:53.961722
+Valve,8,4,87.625,100.0,66.2,,2,6,0,0,0,1,3,4,"{'String': 4, 'Greedy': 2, 'Queue': 2, 'Design': 2, 'Simulation': 2}",6,2025-10-24 23:52:53.961722
+Zoho,261,120,63.21302681992338,100.0,36.3,,78,154,29,6,18,37,100,100,"{'Array': 155, 'String': 106, 'Dynamic Programming': 60, 'Two Pointers': 50, 'Hash Table': 44}",34,2025-10-24 23:52:53.961722
+Scale AI,4,2,100.0,100.0,100.0,,0,4,0,0,0,0,2,2,"{'Array': 4, 'Math': 2, 'Two Pointers': 2, 'Hash Table': 2, 'Prefix Sum': 2}",5,2025-10-24 23:52:53.961722
+Riot Games,8,4,89.475,100.0,72.1,,2,4,2,0,0,1,3,4,"{'Hash Table': 6, 'Array': 6, 'Matrix': 4, 'String': 2, 'Sorting': 2}",8,2025-10-24 23:52:53.961722
+Lyft,70,26,68.61714285714287,100.0,42.7,,0,47,23,3,8,11,22,26,"{'Array': 30, 'Hash Table': 22, 'String': 22, 'Design': 16, 'Breadth-First Search': 16}",34,2025-10-24 23:52:53.961722
+Microsoft,447,192,50.514541387024614,100.0,13.2,,115,264,68,47,100,100,100,100,"{'Array': 232, 'String': 108, 'Hash Table': 80, 'Two Pointers': 76, 'Dynamic Programming': 73}",43,2025-10-24 23:52:53.961722
+Analytics quotient,4,2,100.0,100.0,100.0,,4,0,0,0,0,0,2,2,{'Database': 4},1,2025-10-24 23:52:53.961722
+Lenskart,4,2,100.0,100.0,100.0,,0,4,0,0,0,0,2,2,"{'Array': 4, 'Two Pointers': 2, 'Greedy': 2, 'Matrix': 2, 'Simulation': 2}",5,2025-10-24 23:52:53.961722
+SIG,14,7,84.57142857142857,100.0,71.1,,2,8,4,0,1,2,4,7,"{'Array': 10, 'Simulation': 5, 'String': 4, 'Hash Table': 3, 'Enumeration': 3}",19,2025-10-24 23:52:53.961722
+Smartsheet,8,4,96.025,100.0,89.4,,0,8,0,0,0,0,4,4,"{'Array': 8, 'Hash Table': 6, 'Sorting': 6, 'String': 4, 'Heap (Priority Queue)': 4}",14,2025-10-24 23:52:53.961722
+Spotify,33,13,81.38787878787879,100.0,55.3,,18,9,6,1,4,4,11,13,"{'Array': 16, 'Hash Table': 10, 'String': 10, 'Sorting': 8, 'Design': 7}",20,2025-10-24 23:52:53.961722
+Odoo,8,5,87.7625,100.0,78.1,,4,4,0,0,0,0,3,5,"{'Stack': 6, 'String': 3, 'Array': 3, 'Design': 2, 'Math': 2}",9,2025-10-24 23:52:53.961722
+National Instruments,8,4,83.8625,100.0,66.0,,0,6,2,0,0,0,4,4,"{'Dynamic Programming': 4, 'Array': 4, 'Stack': 4, 'Two Pointers': 2, 'Monotonic Stack': 2}",8,2025-10-24 23:52:53.961722
+Siemens,53,25,76.05283018867925,100.0,60.4,,21,23,9,0,2,5,21,25,"{'Array': 30, 'Sorting': 14, 'String': 13, 'Hash Table': 13, 'Linked List': 10}",25,2025-10-24 23:52:53.961722
+Toast,7,3,91.81428571428572,100.0,76.6,,4,3,0,0,0,1,3,3,"{'Two Pointers': 5, 'Graph': 3, 'Interactive': 3, 'String': 2, 'Array': 2}",6,2025-10-24 23:52:53.961722
+INDmoney,4,2,100.0,100.0,100.0,,0,4,0,0,0,0,2,2,"{'Tree': 2, 'Depth-First Search': 2, 'Binary Tree': 2, 'Stack': 2, 'Design': 2}",7,2025-10-24 23:52:53.961722
+Morgan Stanley,95,51,62.578947368421055,100.0,49.7,,24,56,15,0,2,6,36,51,"{'Array': 64, 'Hash Table': 28, 'String': 23, 'Dynamic Programming': 21, 'Sorting': 17}",40,2025-10-24 23:52:53.961722
+Accenture,211,111,56.976303317535546,100.0,38.7,,112,92,7,0,1,10,100,100,"{'Array': 120, 'Math': 56, 'String': 49, 'Dynamic Programming': 45, 'Hash Table': 43}",41,2025-10-24 23:52:53.961722
+Audible,6,3,100.0,100.0,100.0,,4,2,0,0,0,0,3,3,"{'Array': 4, 'Sorting': 2, 'Math': 2, 'Database': 2}",4,2025-10-24 23:52:53.961722
+Nutanix,120,60,75.75750000000001,100.0,54.7,,6,92,22,0,6,16,38,60,"{'Array': 71, 'Hash Table': 29, 'Breadth-First Search': 23, 'String': 22, 'Depth-First Search': 21}",40,2025-10-24 23:52:53.961722
+Clari,6,3,93.55,100.0,81.1,,0,6,0,0,0,0,3,3,"{'Tree': 4, 'Binary Tree': 4, 'Math': 2, 'Dynamic Programming': 2, 'Binary Search Tree': 2}",8,2025-10-24 23:52:53.961722
+Roche,4,2,100.0,100.0,100.0,,4,0,0,0,0,0,2,2,"{'String': 2, 'Trie': 2, 'Math': 2}",3,2025-10-24 23:52:53.961722
+Altimetrik,8,4,87.2875,100.0,65.6,,4,4,0,0,0,0,4,4,"{'Array': 8, 'Hash Table': 6, 'Two Pointers': 2, 'Sorting': 2, 'Counting': 2}",9,2025-10-24 23:52:53.961722
+Oracle,337,163,55.65816023738872,100.0,25.3,,77,210,50,8,40,89,100,100,"{'Array': 167, 'Hash Table': 88, 'String': 87, 'Sorting': 50, 'Dynamic Programming': 50}",45,2025-10-24 23:52:53.961722
+Fastenal,8,4,92.19999999999999,100.0,89.6,,0,2,6,0,0,0,4,4,"{'String': 8, 'Hash Table': 6, 'Sliding Window': 2, 'Counting': 2, 'Two Pointers': 2}",7,2025-10-24 23:52:53.961722
+Intuit,145,73,61.64068965517241,100.0,46.9,,26,91,28,0,2,8,62,73,"{'Array': 91, 'Dynamic Programming': 42, 'String': 34, 'Hash Table': 33, 'Sorting': 25}",46,2025-10-24 23:52:53.961722
+Cloudflare,29,10,80.87241379310345,100.0,55.5,,2,23,4,1,3,6,9,10,"{'Array': 21, 'Design': 13, 'Queue': 7, 'Math': 6, 'Two Pointers': 6}",18,2025-10-24 23:52:53.961722
+Vimeo,10,6,83.2,100.0,66.4,,0,8,2,0,1,1,2,6,"{'Design': 4, 'Array': 4, 'Stack': 3, 'Bit Manipulation': 2, 'Trie': 2}",15,2025-10-24 23:52:53.961722
+Yelp,59,29,86.42203389830509,100.0,55.8,,16,33,10,0,1,1,28,29,"{'String': 37, 'Array': 24, 'Hash Table': 24, 'Sorting': 12, 'Math': 11}",35,2025-10-24 23:52:53.961722
+Activision,5,3,86.35999999999999,100.0,65.9,,2,3,0,0,0,1,1,3,"{'String': 3, 'Array': 2, 'Hash Table': 2, 'Stack': 1, 'Recursion': 1}",5,2025-10-24 23:52:53.961722
+opentext,7,4,83.25714285714285,100.0,65.5,,5,2,0,0,0,0,3,4,"{'String': 5, 'Hash Table': 2, 'Sliding Window': 2, 'Array': 2, 'Dynamic Programming': 2}",6,2025-10-24 23:52:53.961722
+PornHub,16,9,82.07499999999999,100.0,79.3,,4,7,5,0,0,0,7,9,"{'Array': 8, 'String': 8, 'Hash Table': 6, 'Dynamic Programming': 5, 'Binary Search': 4}",13,2025-10-24 23:52:53.961722
+Quora,35,18,73.84000000000002,100.0,52.3,,12,19,4,0,0,0,17,18,"{'Array': 21, 'Hash Table': 13, 'Math': 11, 'String': 8, 'Design': 7}",21,2025-10-24 23:52:53.961722
+Databricks,83,34,59.663855421686755,100.0,37.2,,3,63,17,1,7,8,33,34,"{'Array': 49, 'Hash Table': 26, 'Design': 25, 'String': 23, 'Binary Search': 22}",31,2025-10-24 23:52:53.961722
+Highspot,4,2,100.0,100.0,100.0,,0,4,0,0,0,0,2,2,"{'Hash Table': 2, 'Linked List': 2, 'Design': 2, 'Doubly-Linked List': 2, 'Math': 2}",7,2025-10-24 23:52:53.961722
+Miro,6,3,96.58333333333333,100.0,89.7,,0,6,0,0,0,0,3,3,"{'Array': 6, 'Two Pointers': 4, 'Greedy': 4, 'Hash Table': 2, 'Math': 2}",10,2025-10-24 23:52:53.961722
+Whatnot,13,7,91.25384615384615,100.0,78.1,,7,6,0,0,1,2,3,7,"{'String': 9, 'Array': 7, 'Two Pointers': 5, 'Greedy': 4, 'Matrix': 4}",14,2025-10-24 23:52:53.961722
+Shopify,21,8,74.34285714285713,100.0,53.3,,2,15,4,1,2,3,7,8,"{'Hash Table': 15, 'Design': 13, 'Array': 8, 'Simulation': 8, 'Linked List': 7}",14,2025-10-24 23:52:53.961722
+Moloco,13,7,91.72307692307693,100.0,82.2,,0,11,2,0,0,1,5,7,"{'Array': 13, 'Two Pointers': 6, 'Stack': 4, 'Dynamic Programming': 4, 'Sorting': 4}",21,2025-10-24 23:52:53.961722
+Blizzard,4,2,100.0,100.0,100.0,,2,2,0,0,0,0,2,2,"{'Dynamic Programming': 4, 'String': 2, 'Stack': 2, 'Greedy': 2, 'Array': 2}",5,2025-10-24 23:52:53.961722
+Tiger Analytics,10,4,90.47,100.0,66.2,,6,4,0,0,1,1,4,4,"{'Array': 8, 'Dynamic Programming': 4, 'Database': 2, 'Hash Table': 2, 'Divide and Conquer': 2}",10,2025-10-24 23:52:53.961722
+Gojek,10,5,95.96,100.0,89.9,,0,8,2,0,0,0,5,5,"{'Array': 6, 'Tree': 2, 'Breadth-First Search': 2, 'Binary Tree': 2, 'String': 2}",13,2025-10-24 23:52:53.961722
+Directi,18,9,97.91111111111111,100.0,62.4,,0,10,8,0,0,0,9,9,"{'Array': 12, 'Dynamic Programming': 6, 'Depth-First Search': 6, 'Graph': 6, 'Tree': 6}",20,2025-10-24 23:52:53.961722
+Druva,8,4,87.625,100.0,67.0,,2,6,0,0,0,0,4,4,"{'Array': 6, 'Greedy': 4, 'Sorting': 4, 'Binary Search': 4, 'Hash Table': 2}",9,2025-10-24 23:52:53.961722
+Tesla,93,46,69.64408602150539,100.0,54.1,,27,57,9,0,4,7,36,46,"{'Array': 47, 'String': 31, 'Hash Table': 31, 'Sorting': 16, 'Stack': 13}",40,2025-10-24 23:52:53.961722
+Arcesium,39,20,73.9666666666667,100.0,57.8,,0,27,12,0,0,0,19,20,"{'Array': 24, 'Dynamic Programming': 20, 'String': 8, 'Depth-First Search': 6, 'Binary Search': 6}",27,2025-10-24 23:52:53.961722
+LiveRamp,12,6,94.18333333333332,100.0,65.1,,4,8,0,0,0,0,6,6,"{'Array': 8, 'Two Pointers': 4, 'Hash Table': 4, 'String': 4, 'Sorting': 4}",17,2025-10-24 23:52:53.961722
+Meta,500,217,50.233,100.0,7.5,,118,309,73,100,100,100,100,100,"{'Array': 241, 'String': 138, 'Hash Table': 88, 'Two Pointers': 84, 'Dynamic Programming': 69}",48,2025-10-24 23:52:53.961722
+Bloomberg,433,191,54.6741339491917,100.0,10.1,,123,264,46,33,100,100,100,100,"{'Array': 220, 'String': 114, 'Hash Table': 81, 'Two Pointers': 77, 'Dynamic Programming': 68}",48,2025-10-24 23:52:53.961722
+Samsung,153,73,61.113071895424845,100.0,44.4,,29,84,40,1,6,8,65,73,"{'Array': 90, 'Dynamic Programming': 31, 'Hash Table': 28, 'Sorting': 28, 'Breadth-First Search': 24}",45,2025-10-24 23:52:53.961722
+Tejas Networks,2,2,100.0,100.0,100.0,,1,1,0,0,0,0,2,0,"{'Linked List': 1, 'Math': 1, 'Recursion': 1, 'Array': 1, 'Hash Table': 1}",8,2025-10-24 23:52:53.961722
+Navi,7,4,82.78571428571429,100.0,66.2,,0,6,1,0,0,0,3,4,"{'Array': 7, 'Binary Search': 6, 'Dynamic Programming': 3, 'Greedy': 2, 'Sorting': 2}",8,2025-10-24 23:52:53.961722
+Komprise,4,2,100.0,100.0,100.0,,2,0,2,0,0,0,2,2,"{'Array': 4, 'Queue': 2, 'Simulation': 2, 'Greedy': 2}",4,2025-10-24 23:52:53.961722
+Opendoor,2,1,100.0,100.0,100.0,,0,0,2,0,0,0,1,1,"{'Array': 2, 'Hash Table': 2, 'String': 2, 'Graph': 2, 'Design': 2}",7,2025-10-24 23:52:53.961722
+BlackStone,4,2,100.0,100.0,100.0,,4,0,0,0,0,0,2,2,"{'Array': 2, 'Hash Table': 2, 'String': 2, 'Stack': 2}",4,2025-10-24 23:52:53.961722
+Stackline,5,2,95.44,100.0,77.2,,0,3,2,0,0,2,1,2,"{'Depth-First Search': 3, 'Breadth-First Search': 3, 'Graph': 3, 'Topological Sort': 3, 'Array': 2}",8,2025-10-24 23:52:53.961722
+Mobileye,4,2,97.5,100.0,90.0,,0,4,0,0,0,0,2,2,"{'Hash Table': 4, 'Linked List': 4, 'Design': 2, 'Doubly-Linked List': 2}",4,2025-10-24 23:52:53.961722
+Toptal,6,3,89.56666666666666,100.0,68.7,,2,2,2,0,0,0,3,3,"{'Dynamic Programming': 4, 'String': 2, 'Math': 2, 'Brainteaser': 2, 'Probability and Statistics': 2}",7,2025-10-24 23:52:53.961722
+Indeed,14,7,91.90714285714284,100.0,72.8,,4,6,4,0,0,0,7,7,"{'Array': 10, 'Hash Table': 6, 'Counting': 4, 'Linked List': 2, 'Divide and Conquer': 2}",15,2025-10-24 23:52:53.961722
+Dunzo,15,8,95.12000000000002,100.0,63.4,,1,6,8,0,0,0,7,8,"{'Dynamic Programming': 10, 'Array': 8, 'String': 6, 'Prefix Sum': 4, 'String Matching': 2}",15,2025-10-24 23:52:53.961722
+HPE,8,4,100.0,100.0,100.0,,2,6,0,0,0,0,4,4,"{'String': 4, 'Array': 2, 'Depth-First Search': 2, 'Breadth-First Search': 2, 'Union Find': 2}",11,2025-10-24 23:52:53.961722
+Ripple,25,12,96.256,100.0,88.3,,2,21,2,0,1,3,9,12,"{'Array': 13, 'Hash Table': 10, 'String': 6, 'Sorting': 5, 'Design': 4}",19,2025-10-24 23:52:53.961722
+Nextdoor,18,8,78.55000000000001,100.0,64.4,,0,13,5,0,1,2,7,8,"{'Hash Table': 7, 'String': 7, 'Design': 5, 'Two Pointers': 5, 'Array': 4}",17,2025-10-24 23:52:53.961722
+Turo,10,5,88.02000000000001,100.0,78.6,,2,8,0,0,0,0,5,5,"{'Array': 6, 'Two Pointers': 4, 'Sorting': 4, 'Greedy': 2, 'Heap (Priority Queue)': 2}",13,2025-10-24 23:52:53.961722
+Aurora,9,4,91.53333333333333,100.0,74.6,,2,6,1,1,1,1,2,4,"{'Hash Table': 6, 'Linked List': 4, 'Design': 4, 'Doubly-Linked List': 4, 'Depth-First Search': 4}",15,2025-10-24 23:52:53.961722
+Cisco,188,87,50.861702127659576,100.0,32.0,,55,108,25,1,8,18,74,87,"{'Array': 109, 'String': 56, 'Dynamic Programming': 43, 'Hash Table': 42, 'Two Pointers': 36}",46,2025-10-24 23:52:53.961722
+Otter.ai,9,5,88.75555555555555,100.0,82.5,,0,5,4,0,0,0,4,5,"{'Array': 8, 'Heap (Priority Queue)': 4, 'Hash Table': 4, 'Dynamic Programming': 4, 'Breadth-First Search': 2}",9,2025-10-24 23:52:53.961722
+Snowflake,217,90,62.10092165898618,100.0,39.6,,28,124,65,6,23,38,60,90,"{'Array': 104, 'String': 69, 'Hash Table': 66, 'Depth-First Search': 48, 'Dynamic Programming': 35}",42,2025-10-24 23:52:53.961722
+Apollo.io,8,4,94.275,100.0,83.9,,0,6,2,0,0,0,4,4,"{'Array': 6, 'Hash Table': 4, 'Stack': 4, 'String': 2, 'Sliding Window': 2}",8,2025-10-24 23:52:53.961722
+AQR Capital Management,5,3,83.04,100.0,63.1,,3,2,0,0,0,0,2,3,"{'Array': 5, 'Dynamic Programming': 3, 'Queue': 2, 'Heap (Priority Queue)': 2, 'Monotonic Queue': 2}",10,2025-10-24 23:52:53.961722
+Hudson River Trading,17,9,92.2235294117647,100.0,60.9,,8,3,6,0,0,0,8,9,"{'Array': 7, 'Math': 6, 'Graph': 6, 'Greedy': 4, 'String': 3}",16,2025-10-24 23:52:53.961722
+zeta suite,6,3,88.93333333333334,100.0,66.8,,4,2,0,0,0,0,3,3,"{'Array': 6, 'Hash Table': 2, 'Greedy': 2, 'Sorting': 2, 'Heap (Priority Queue)': 2}",7,2025-10-24 23:52:53.961722
+Deliveroo,10,5,79.72,100.0,66.2,,2,4,4,0,0,0,5,5,"{'Array': 6, 'String': 6, 'Sorting': 4, 'Hash Table': 4, 'Breadth-First Search': 4}",15,2025-10-24 23:52:53.961722
+Veeva Systems,9,5,95.11111111111111,100.0,89.0,,0,9,0,0,0,0,4,5,"{'String': 5, 'Hash Table': 5, 'Array': 4, 'Dynamic Programming': 2, 'Backtracking': 2}",10,2025-10-24 23:52:53.961722
+Accolite,37,17,72.55135135135134,100.0,53.4,,14,21,2,1,2,2,15,17,"{'String': 17, 'Array': 16, 'Two Pointers': 11, 'Dynamic Programming': 10, 'Sliding Window': 7}",18,2025-10-24 23:52:53.961722
+Goldman Sachs,325,159,43.479692307692304,100.0,19.1,,77,206,42,12,34,79,100,100,"{'Array': 196, 'String': 97, 'Hash Table': 84, 'Dynamic Programming': 73, 'Math': 47}",52,2025-10-24 23:52:53.961722
+Genpact,6,3,85.93333333333334,100.0,78.9,,2,4,0,0,0,0,3,3,"{'Hash Table': 4, 'Linked List': 2, 'Design': 2, 'Doubly-Linked List': 2, 'Database': 2}",10,2025-10-24 23:52:53.961722
+Nokia,8,6,91.275,100.0,88.3,,4,2,2,0,0,0,2,6,"{'Array': 5, 'Sorting': 3, 'Math': 3, 'Number Theory': 3, 'Greedy': 2}",12,2025-10-24 23:52:53.961722
+Geico,41,20,75.53902439024391,100.0,60.0,,3,34,4,0,1,3,17,20,"{'Array': 20, 'String': 19, 'Hash Table': 14, 'Greedy': 14, 'Dynamic Programming': 10}",25,2025-10-24 23:52:53.961722
+Cognizant,59,29,68.97796610169492,100.0,56.7,,35,21,3,0,3,8,19,29,"{'Array': 22, 'Math': 17, 'String': 12, 'Two Pointers': 12, 'Hash Table': 9}",19,2025-10-24 23:52:53.961722
+CRED,5,2,97.88,100.0,89.4,,4,1,0,1,1,1,0,2,"{'Array': 5, 'Hash Table': 4, 'Counting': 4, 'Binary Search': 1, 'Greedy': 1}",8,2025-10-24 23:52:53.961722
+Agoda,86,40,69.07441860465116,100.0,55.9,,32,50,4,1,4,7,34,40,"{'Array': 59, 'String': 23, 'Hash Table': 20, 'Sorting': 19, 'Dynamic Programming': 19}",25,2025-10-24 23:52:53.961722
+Akuna Capital,47,23,79.58723404255318,100.0,57.7,,6,20,21,0,1,1,22,23,"{'Array': 32, 'Depth-First Search': 13, 'Sorting': 12, 'Hash Table': 12, 'Dynamic Programming': 12}",30,2025-10-24 23:52:53.961722
+Point72,15,8,92.74000000000001,100.0,63.7,,6,8,1,0,0,0,7,8,"{'Database': 10, 'Array': 3, 'String': 2, 'Dynamic Programming': 2, 'Backtracking': 2}",11,2025-10-24 23:52:53.961722
+Tower Research Capital,4,2,86.825,100.0,73.5,,0,2,2,0,0,0,2,2,"{'Math': 2, 'Dynamic Programming': 2, 'Tree': 2, 'Binary Search Tree': 2, 'Binary Tree': 2}",8,2025-10-24 23:52:53.961722
+Alibaba,10,5,96.37,100.0,63.7,,0,8,2,0,0,0,5,5,"{'Array': 6, 'Hash Table': 6, 'String': 6, 'Greedy': 4, 'Tree': 2}",11,2025-10-24 23:52:53.961722
+Dell,14,7,94.81428571428569,100.0,87.6,,4,7,3,0,1,1,5,7,"{'String': 9, 'Hash Table': 5, 'Array': 3, 'Sorting': 3, 'Database': 3}",13,2025-10-24 23:52:53.961722
+Visa,187,84,62.213903743315505,100.0,42.9,,47,105,35,2,20,32,49,84,"{'Array': 125, 'Hash Table': 57, 'String': 55, 'Matrix': 31, 'Sorting': 30}",47,2025-10-24 23:52:53.961722
+Autodesk,59,31,77.59491525423729,100.0,56.3,,12,33,14,0,1,8,19,31,"{'Array': 44, 'String': 14, 'Hash Table': 12, 'Binary Search': 11, 'Hash Function': 10}",29,2025-10-24 23:52:53.961722
+Yext,7,4,92.9857142857143,100.0,90.1,,2,3,2,0,0,0,3,4,"{'Math': 4, 'String': 4, 'Array': 3, 'Matrix': 3, 'Hash Table': 2}",10,2025-10-24 23:52:53.961722
+eBay,152,78,68.99144736842106,100.0,52.5,,28,100,24,0,5,9,60,78,"{'Array': 83, 'String': 48, 'Hash Table': 42, 'Dynamic Programming': 28, 'Sorting': 22}",44,2025-10-24 23:52:53.961722
+BharatPe,4,2,96.69999999999999,100.0,93.4,,0,4,0,0,0,0,2,2,"{'Array': 4, 'Dynamic Programming': 2, 'Matrix': 2, 'Stack': 2, 'Sorting': 2}",6,2025-10-24 23:52:53.961722
+GoDaddy,4,4,89.625,100.0,82.8,,1,3,0,0,0,0,4,0,"{'Array': 2, 'Sorting': 1, 'Two Pointers': 1, 'String': 1, 'Backtracking': 1}",7,2025-10-24 23:52:53.961722
+redbus,2,2,95.05,100.0,90.1,,0,1,1,0,0,0,0,2,"{'Dynamic Programming': 2, 'Stack': 2, 'Array': 1, 'Two Pointers': 1, 'Monotonic Stack': 1}",6,2025-10-24 23:52:53.961722
+Licious,4,2,100.0,100.0,100.0,,0,2,2,0,0,0,2,2,"{'Array': 4, 'Hash Table': 2, 'Binary Search': 2, 'Dynamic Programming': 2}",4,2025-10-24 23:52:53.961722
+MongoDB,33,14,87.04242424242425,100.0,71.1,,5,22,6,0,3,4,12,14,"{'Array': 19, 'Hash Table': 14, 'Binary Search': 7, 'Heap (Priority Queue)': 7, 'Design': 7}",27,2025-10-24 23:52:53.961722
+Mixpanel,6,3,97.38333333333333,100.0,84.3,,0,6,0,0,1,1,1,3,"{'Design': 4, 'Stack': 3, 'Tree': 3, 'Depth-First Search': 3, 'Queue': 3}",13,2025-10-24 23:52:53.961722
+ZipRecruiter,8,4,89.375,100.0,82.4,,0,6,2,0,0,0,4,4,"{'Array': 6, 'Hash Table': 4, 'String': 4, 'Matrix': 4, 'Trie': 2}",9,2025-10-24 23:52:53.961722
+Groupon,8,4,88.4875,100.0,66.5,,0,8,0,0,0,0,4,4,"{'Array': 8, 'Math': 6, 'Greedy': 4, 'Recursion': 2, 'Queue': 2}",13,2025-10-24 23:52:53.961722
+Notion,6,3,100.0,100.0,100.0,,0,4,2,0,0,0,3,3,"{'String': 6, 'Hash Table': 4, 'Design': 4, 'Array': 4, 'Binary Search': 2}",7,2025-10-24 23:52:53.961722
+Cleartrip,7,4,100.0,100.0,100.0,,0,5,2,0,0,1,2,4,"{'Array': 7, 'Dynamic Programming': 4, 'Hash Table': 3, 'Breadth-First Search': 2, 'Graph': 2}",13,2025-10-24 23:52:53.961722
+IBM,231,115,55.993939393939385,100.0,35.0,,62,153,16,1,4,26,100,100,"{'Array': 154, 'String': 59, 'Hash Table': 54, 'Sorting': 46, 'Two Pointers': 43}",42,2025-10-24 23:52:53.961722
+Booking.com,33,16,75.29999999999998,100.0,52.0,,8,18,7,0,0,5,12,16,"{'Array': 18, 'Hash Table': 12, 'String': 12, 'Matrix': 8, 'Depth-First Search': 7}",27,2025-10-24 23:52:53.961722
+Akamai,11,7,80.60909090909091,100.0,62.9,,7,2,2,0,0,0,4,7,"{'Array': 10, 'Hash Table': 6, 'Dynamic Programming': 2, 'Binary Search': 2, 'Divide and Conquer': 2}",13,2025-10-24 23:52:53.961722
+Media.net,78,39,65.87564102564102,100.0,46.5,,14,34,30,0,0,0,39,39,"{'Array': 54, 'Dynamic Programming': 30, 'Hash Table': 16, 'Depth-First Search': 12, 'Bit Manipulation': 12}",38,2025-10-24 23:52:53.961722
+Hubspot,30,10,79.66000000000001,100.0,56.5,,11,16,3,2,3,7,8,10,"{'Array': 18, 'Sorting': 13, 'Hash Table': 10, 'Two Pointers': 10, 'Heap (Priority Queue)': 8}",18,2025-10-24 23:52:53.961722
+VK,15,7,91.41333333333334,100.0,73.3,,9,6,0,0,1,3,4,7,"{'Array': 12, 'Two Pointers': 5, 'String': 3, 'Dynamic Programming': 2, 'Sliding Window': 2}",7,2025-10-24 23:52:53.961722
+AMD,19,11,91.60526315789474,100.0,87.5,,7,12,0,0,0,0,8,11,"{'Array': 12, 'Hash Table': 6, 'Math': 5, 'Sorting': 5, 'Matrix': 4}",16,2025-10-24 23:52:53.961722
+Netflix,85,38,66.9705882352941,100.0,48.3,,23,51,11,0,6,13,28,38,"{'Array': 54, 'Hash Table': 29, 'Sorting': 20, 'String': 17, 'Design': 14}",38,2025-10-24 23:52:53.961722
+SoFi,39,18,82.77435897435898,100.0,66.0,,6,23,10,1,2,5,13,18,"{'Hash Table': 19, 'Array': 19, 'String': 14, 'Two Pointers': 9, 'Dynamic Programming': 7}",30,2025-10-24 23:52:53.961722
+Edelweiss Group,2,1,100.0,100.0,100.0,,0,2,0,0,0,0,1,1,"{'Array': 2, 'Bit Manipulation': 2, 'Sorting': 2}",3,2025-10-24 23:52:53.961722
+Celigo,4,2,100.0,100.0,100.0,,2,0,2,0,0,0,2,2,"{'String': 2, 'Array': 2, 'Hash Table': 2}",3,2025-10-24 23:52:53.961722
+Trexquant,8,5,94.6,100.0,89.2,,0,8,0,0,0,0,3,5,"{'Array': 5, 'Hash Table': 3, 'Matrix': 2, 'Simulation': 2, 'Math': 2}",10,2025-10-24 23:52:53.961722
+Grubhub,4,2,100.0,100.0,100.0,,0,4,0,0,0,0,2,2,"{'Array': 4, 'Sorting': 2, 'Depth-First Search': 2, 'Breadth-First Search': 2, 'Union Find': 2}",6,2025-10-24 23:52:53.961722
+Walmart Labs,250,122,60.8096,100.0,36.8,,44,173,33,1,18,31,100,100,"{'Array': 130, 'String': 65, 'Hash Table': 60, 'Dynamic Programming': 52, 'Two Pointers': 40}",47,2025-10-24 23:52:53.961722
+Adobe,222,113,48.769819819819816,100.0,17.4,,53,135,34,0,7,15,100,100,"{'Array': 108, 'String': 60, 'Hash Table': 42, 'Dynamic Programming': 36, 'Two Pointers': 34}",38,2025-10-24 23:52:53.961722
+McKinsey,8,4,87.2,100.0,68.4,,0,6,2,0,0,0,4,4,"{'Depth-First Search': 4, 'Breadth-First Search': 4, 'Array': 4, 'Union Find': 2, 'Graph': 2}",11,2025-10-24 23:52:53.961722
+Samsara,13,6,85.5,100.0,65.5,,2,7,4,0,0,1,6,6,"{'Array': 11, 'Hash Table': 5, 'String': 4, 'Binary Search': 4, 'Sliding Window': 4}",14,2025-10-24 23:52:53.961722
+Harness,2,1,100.0,100.0,100.0,,0,2,0,0,0,0,1,1,"{'String': 2, 'Stack': 2}",2,2025-10-24 23:52:53.961722
+Coupang,106,49,73.69716981132075,100.0,52.8,,3,74,29,1,5,16,35,49,"{'Array': 47, 'String': 39, 'Hash Table': 33, 'Breadth-First Search': 23, 'Binary Search': 21}",45,2025-10-24 23:52:53.961722
+Darwinbox,10,5,69.64,100.0,58.4,,0,6,4,0,0,0,5,5,"{'Array': 8, 'Dynamic Programming': 4, 'String': 2, 'Matrix': 2, 'Simulation': 2}",11,2025-10-24 23:52:53.961722
+Avito,18,9,71.31666666666666,100.0,53.8,,8,10,0,0,0,2,7,9,"{'Array': 12, 'Sorting': 6, 'Math': 6, 'Dynamic Programming': 4, 'String': 4}",18,2025-10-24 23:52:53.961722
+Careem,6,3,94.73333333333333,100.0,89.3,,2,4,0,0,0,1,2,3,"{'Array': 6, 'Binary Search': 2, 'Design': 2, 'Queue': 2, 'Data Stream': 2}",8,2025-10-24 23:52:53.961722
+Peloton,6,3,92.01666666666667,100.0,79.6,,0,4,2,0,0,0,3,3,"{'Array': 6, 'Hash Table': 6, 'Math': 4, 'Design': 4, 'Randomized': 4}",7,2025-10-24 23:52:53.961722
+Revolut,26,11,82.04615384615384,100.0,63.2,,11,15,0,0,2,4,9,11,"{'String': 10, 'Linked List': 7, 'Math': 7, 'Breadth-First Search': 6, 'Hash Table': 5}",20,2025-10-24 23:52:53.961722
+Garmin,12,6,94.68333333333334,100.0,89.2,,12,0,0,0,1,1,4,6,"{'Array': 9, 'String': 4, 'Hash Table': 3, 'Dynamic Programming': 2, 'Greedy': 2}",8,2025-10-24 23:52:53.961722
+Waymo,22,10,75.22272727272727,100.0,62.1,,0,17,5,0,3,6,3,10,"{'Array': 17, 'Breadth-First Search': 9, 'Hash Table': 8, 'Matrix': 7, 'Greedy': 5}",17,2025-10-24 23:52:53.961722
+Nielsen,11,6,92.00000000000001,100.0,88.7,,1,8,2,0,0,0,5,6,"{'Array': 7, 'String': 6, 'Dynamic Programming': 6, 'Sorting': 4, 'Hash Table': 3}",6,2025-10-24 23:52:53.961722
+Deloitte,52,27,75.09807692307692,100.0,59.5,,26,23,3,0,2,9,14,27,"{'Array': 20, 'Database': 12, 'String': 10, 'Dynamic Programming': 10, 'Divide and Conquer': 6}",22,2025-10-24 23:52:53.961722
+Nvidia,237,117,57.14388185654008,100.0,38.4,,58,154,25,2,7,28,100,100,"{'Array': 127, 'Hash Table': 54, 'String': 42, 'Math': 39, 'Dynamic Programming': 39}",45,2025-10-24 23:52:53.961722
+Cruise,12,6,85.83333333333333,100.0,65.3,,0,10,2,0,0,1,5,6,"{'Array': 8, 'Matrix': 4, 'Backtracking': 4, 'Hash Table': 4, 'Depth-First Search': 2}",16,2025-10-24 23:52:53.961722
+WatchGuard,3,2,100.0,100.0,100.0,,0,3,0,0,0,0,1,2,"{'Array': 3, 'Matrix': 3, 'Math': 2, 'Simulation': 1}",4,2025-10-24 23:52:53.961722
+Qualtrics,7,3,87.21428571428571,100.0,65.5,,2,5,0,0,0,1,3,3,"{'Array': 5, 'Stack': 3, 'Simulation': 3, 'Hash Table': 2, 'String': 2}",8,2025-10-24 23:52:53.961722
+General Motors,16,8,74.39374999999998,100.0,56.8,,2,12,2,1,1,2,4,8,"{'Array': 7, 'Depth-First Search': 5, 'Breadth-First Search': 5, 'Union Find': 5, 'Graph': 5}",16,2025-10-24 23:52:53.961722
+Bentley Systems,4,2,100.0,100.0,100.0,,2,2,0,0,0,0,2,2,"{'Hash Table': 2, 'String': 2, 'Greedy': 2, 'Counting': 2, 'Array': 2}",6,2025-10-24 23:52:53.961722
+Thomson Reuters,6,3,90.53333333333332,100.0,65.3,,4,2,0,0,0,0,3,3,"{'String': 6, 'Sliding Window': 2, 'Greedy': 2, 'Hash Table': 2, 'Math': 2}",5,2025-10-24 23:52:53.961722
+Atlassian,178,73,51.002808988764045,100.0,30.0,,28,114,36,7,14,25,59,73,"{'Array': 133, 'Hash Table': 68, 'String': 49, 'Sorting': 46, 'Design': 32}",41,2025-10-24 23:52:53.961722
+Texas Instruments,8,4,94.225,100.0,88.4,,2,4,2,0,0,0,4,4,"{'Array': 4, 'String': 4, 'Dynamic Programming': 4, 'Hash Table': 2, 'Sorting': 2}",13,2025-10-24 23:52:53.961722
+BlackRock,36,17,61.46388888888888,100.0,41.7,,10,24,2,0,1,1,17,17,"{'Array': 22, 'Dynamic Programming': 14, 'String': 12, 'Hash Table': 10, 'Two Pointers': 8}",21,2025-10-24 23:52:53.961722
+Zynga,6,4,81.08333333333333,100.0,71.5,,1,3,2,0,0,0,2,4,"{'Array': 4, 'Stack': 4, 'Monotonic Stack': 2, 'Simulation': 2, 'Linked List': 1}",9,2025-10-24 23:52:53.961722
+Deutsche Bank,59,30,71.52711864406778,100.0,51.7,,15,30,14,0,0,0,29,30,"{'Array': 51, 'Sorting': 19, 'Greedy': 14, 'Binary Search': 14, 'Dynamic Programming': 8}",29,2025-10-24 23:52:53.961722
+CME Group,4,2,92.0,100.0,83.9,,4,0,0,0,0,0,2,2,"{'String': 2, 'Trie': 2, 'Array': 2, 'Dynamic Programming': 2}",4,2025-10-24 23:52:53.961722
+LTI,8,4,91.675,100.0,88.8,,0,6,2,0,0,0,4,4,"{'Array': 6, 'Sorting': 6, 'Sliding Window': 4, 'Binary Search': 2, 'Greedy': 2}",12,2025-10-24 23:52:53.961722
+LINE,9,4,94.56666666666666,100.0,83.7,,0,0,9,0,1,1,3,4,"{'Array': 9, 'Dynamic Programming': 4, 'Queue': 3, 'Sliding Window': 3, 'Heap (Priority Queue)': 3}",10,2025-10-24 23:52:53.961722
+Zendesk,6,3,94.55,100.0,67.3,,4,2,0,0,0,0,3,3,"{'Math': 6, 'Array': 2, 'Stack': 2, 'Greedy': 2}",4,2025-10-24 23:52:53.961722
+Splunk,27,14,86.5888888888889,100.0,79.4,,1,22,4,0,0,3,10,14,"{'Array': 14, 'Hash Table': 8, 'String': 7, 'Stack': 7, 'Binary Search': 6}",24,2025-10-24 23:52:53.961722
+Bosch,4,2,97.225,100.0,88.9,,2,2,0,0,0,0,2,2,"{'Two Pointers': 4, 'Linked List': 2, 'Array': 2, 'Sorting': 2}",4,2025-10-24 23:52:53.961722
+Groww,13,8,81.72307692307692,100.0,64.8,,2,8,3,0,0,0,5,8,"{'Array': 9, 'Dynamic Programming': 8, 'Hash Table': 4, 'Two Pointers': 3, 'Stack': 2}",14,2025-10-24 23:52:53.961722
+HSBC,6,4,100.0,100.0,100.0,,5,1,0,0,1,1,0,4,"{'String': 3, 'Trie': 3, 'Array': 3, 'Dynamic Programming': 2, 'Two Pointers': 1}",6,2025-10-24 23:52:53.961722
+HCL,15,9,85.20666666666666,100.0,75.5,,10,5,0,0,0,2,4,9,"{'String': 10, 'Array': 6, 'Hash Table': 5, 'Two Pointers': 5, 'Sorting': 5}",9,2025-10-24 23:52:53.961722
+Patreon,7,3,84.62857142857145,100.0,68.2,,2,3,2,0,0,1,3,3,"{'String': 3, 'Stack': 3, 'Dynamic Programming': 2, 'Tree': 2, 'Depth-First Search': 2}",9,2025-10-24 23:52:53.961722
+Trilogy,10,5,96.42999999999999,100.0,64.3,,0,4,6,0,0,0,5,5,"{'Array': 8, 'Bit Manipulation': 6, 'Dynamic Programming': 4, 'String': 4, 'Bitmask': 2}",8,2025-10-24 23:52:53.961722
+Lucid,15,8,83.48000000000002,100.0,64.9,,4,9,2,0,0,0,7,8,"{'String': 6, 'Array': 5, 'Stack': 4, 'Hash Table': 4, 'Sliding Window': 2}",18,2025-10-24 23:52:53.961722
+Robinhood,33,15,76.67272727272727,100.0,53.5,,6,25,2,0,3,5,10,15,"{'Array': 29, 'Hash Table': 14, 'String': 9, 'Depth-First Search': 9, 'Sorting': 8}",23,2025-10-24 23:52:53.961722
+smartnews,10,5,89.94000000000001,100.0,78.7,,0,10,0,0,0,0,5,5,"{'Hash Table': 6, 'String': 4, 'Greedy': 4, 'Sorting': 4, 'Graph': 2}",11,2025-10-24 23:52:53.961722
+NCR,3,2,96.53333333333335,100.0,89.6,,0,3,0,0,0,0,1,2,"{'Dynamic Programming': 2, 'Queue': 2, 'Simulation': 2, 'Hash Table': 1, 'String': 1}",6,2025-10-24 23:52:53.961722
+ConsultAdd,22,11,86.47272727272725,100.0,80.8,,4,16,2,0,0,0,11,11,"{'Array': 14, 'String': 10, 'Sorting': 8, 'Greedy': 6, 'Hash Table': 6}",10,2025-10-24 23:52:53.961722
+Liftoff,12,4,91.53333333333335,100.0,75.7,,0,9,3,0,3,3,2,4,"{'Array': 9, 'Matrix': 4, 'Simulation': 4, 'Backtracking': 3, 'Sorting': 3}",10,2025-10-24 23:52:53.961722
+PayPal,227,109,54.69559471365639,100.0,37.9,,39,154,34,1,10,30,86,100,"{'Array': 161, 'Hash Table': 61, 'String': 55, 'Sorting': 55, 'Binary Search': 36}",40,2025-10-24 23:52:53.961722
+Devtron,4,2,100.0,100.0,100.0,,2,0,2,0,0,0,2,2,"{'String': 4, 'Greedy': 2, 'Heap (Priority Queue)': 2, 'Two Pointers': 2}",4,2025-10-24 23:52:53.961722
+Turing,84,41,58.625000000000014,100.0,43.7,,21,59,4,0,3,9,31,41,"{'Array': 45, 'String': 34, 'Hash Table': 24, 'Dynamic Programming': 22, 'Sliding Window': 10}",28,2025-10-24 23:52:53.961722
+Luxoft,5,2,97.84,100.0,89.2,,5,0,0,0,1,1,1,2,"{'Linked List': 3, 'Recursion': 3, 'Array': 2, 'Hash Table': 2}",4,2025-10-24 23:52:53.961722
+Swiggy,59,31,75.67457627118642,100.0,58.0,,17,35,7,0,2,11,15,31,"{'Array': 41, 'Hash Table': 21, 'Sorting': 19, 'Dynamic Programming': 11, 'String': 9}",30,2025-10-24 23:52:53.961722
+J.P. Morgan,165,79,56.26969696969697,100.0,36.3,,56,99,10,1,9,13,63,79,"{'Array': 96, 'String': 55, 'Hash Table': 45, 'Sorting': 42, 'Math': 33}",38,2025-10-24 23:52:53.961722
+oyo,20,9,92.54,100.0,87.4,,0,14,6,0,2,3,6,9,"{'Array': 15, 'Greedy': 5, 'Heap (Priority Queue)': 5, 'Dynamic Programming': 5, 'Two Pointers': 4}",17,2025-10-24 23:52:53.961722
+PayPay,7,3,89.75714285714285,100.0,64.9,,2,2,3,0,1,2,1,3,"{'String': 4, 'Array': 3, 'Binary Search': 3, 'Binary Indexed Tree': 3, 'Segment Tree': 3}",5,2025-10-24 23:52:53.961722
+Freecharge,6,3,98.18333333333334,100.0,89.1,,0,6,0,0,0,1,2,3,"{'Hash Table': 4, 'String': 2, 'Sliding Window': 2, 'Array': 2, 'Greedy': 2}",8,2025-10-24 23:52:53.961722
+Yandex,293,119,56.99351535836178,100.0,23.3,,89,183,21,11,33,49,100,100,"{'Array': 150, 'String': 89, 'Hash Table': 88, 'Two Pointers': 79, 'Sliding Window': 44}",46,2025-10-24 23:52:53.961722
+Informatica,5,3,93.38000000000001,100.0,88.8,,0,5,0,0,0,0,2,3,"{'Array': 3, 'Breadth-First Search': 2, 'Matrix': 2, 'Stack': 2, 'Design': 2}",7,2025-10-24 23:52:53.961722
+persistent systems,18,10,79.72777777777779,100.0,64.2,,11,7,0,0,0,3,5,10,"{'String': 10, 'Hash Table': 8, 'Array': 6, 'Sorting': 5, 'Two Pointers': 3}",11,2025-10-24 23:52:53.961722
+jio,14,7,84.0142857142857,100.0,62.6,,2,4,8,0,0,0,7,7,"{'Array': 10, 'Depth-First Search': 6, 'Breadth-First Search': 6, 'Hash Table': 4, 'Matrix': 4}",13,2025-10-24 23:52:53.961722
+Mindtickle,8,4,95.575,100.0,64.6,,0,2,6,0,0,0,4,4,"{'Array': 8, 'Dynamic Programming': 4, 'Binary Search': 2, 'Two Pointers': 2, 'Greedy': 2}",8,2025-10-24 23:52:53.961722
+Societe Generale,4,2,91.575,100.0,66.3,,2,2,0,0,0,0,2,2,"{'Array': 2, 'Dynamic Programming': 2, 'String': 2, 'Greedy': 2}",4,2025-10-24 23:52:53.961722
+GE Healthcare,14,7,79.00714285714287,100.0,64.9,,4,6,4,0,0,0,7,7,"{'Array': 10, 'Stack': 6, 'String': 4, 'Depth-First Search': 4, 'Monotonic Stack': 4}",15,2025-10-24 23:52:53.961722
+Airbus SE,9,5,92.3777777777778,100.0,65.7,,5,4,0,0,0,0,4,5,"{'Array': 7, 'Hash Table': 7, 'String': 2, 'Trie': 2, 'Prefix Sum': 2}",5,2025-10-24 23:52:53.961722
+Reddit,13,6,76.34615384615387,100.0,57.2,,3,8,2,0,0,1,6,6,"{'Hash Table': 7, 'Design': 7, 'Data Stream': 5, 'Breadth-First Search': 4, 'Array': 4}",15,2025-10-24 23:52:53.961722
+Sprinklr,81,41,71.70370370370371,100.0,50.5,,2,43,36,0,0,1,39,41,"{'Array': 51, 'Dynamic Programming': 29, 'Hash Table': 20, 'String': 20, 'Math': 14}",35,2025-10-24 23:52:53.961722
+Okta,12,7,94.95833333333333,100.0,87.9,,0,10,2,0,0,0,5,7,"{'Array': 7, 'Hash Table': 5, 'Design': 5, 'Sorting': 4, 'Rolling Hash': 2}",17,2025-10-24 23:52:53.961722
+Datadog,49,20,72.55714285714285,100.0,46.9,,21,21,7,0,3,9,17,20,"{'Array': 33, 'String': 18, 'Hash Table': 14, 'Dynamic Programming': 13, 'Depth-First Search': 10}",21,2025-10-24 23:52:53.961722
+ThoughtWorks,16,8,80.98125,100.0,63.9,,6,4,6,0,0,0,8,8,"{'String': 8, 'Dynamic Programming': 6, 'Array': 6, 'Bit Manipulation': 4, 'Bitmask': 2}",15,2025-10-24 23:52:53.961722
+Snap,236,106,65.64999999999999,100.0,42.3,,14,146,76,1,18,21,96,100,"{'Array': 130, 'String': 81, 'Hash Table': 60, 'Breadth-First Search': 53, 'Depth-First Search': 49}",45,2025-10-24 23:52:53.961722
+Nuro,17,9,84.46470588235293,100.0,64.8,,1,9,7,0,2,2,4,9,"{'Array': 16, 'Math': 6, 'Sliding Window': 5, 'Breadth-First Search': 5, 'Geometry': 4}",21,2025-10-24 23:52:53.961722
+josh technology,43,22,79.18604651162791,100.0,69.9,,6,35,2,0,1,3,17,22,"{'Array': 14, 'Linked List': 13, 'String': 11, 'Binary Tree': 10, 'Depth-First Search': 10}",21,2025-10-24 23:52:53.961722
+Rivian,18,9,94.32777777777778,100.0,88.3,,5,11,2,1,1,3,4,9,"{'Array': 9, 'Hash Table': 6, 'Linked List': 4, 'String': 3, 'Matrix': 3}",17,2025-10-24 23:52:53.961722
+Zoom,6,3,94.33333333333333,100.0,66.0,,4,2,0,0,0,0,3,3,"{'Database': 4, 'Array': 2, 'Two Pointers': 2, 'Greedy': 2}",4,2025-10-24 23:52:53.961722
+Info Edge,14,7,83.69999999999997,100.0,64.1,,2,10,2,0,0,4,3,7,"{'Array': 10, 'Hash Table': 6, 'Sorting': 2, 'Counting': 2, 'Enumeration': 2}",15,2025-10-24 23:52:53.961722
+Graviton,14,7,97.0,100.0,89.5,,0,10,4,0,0,0,7,7,"{'Array': 6, 'Depth-First Search': 6, 'Breadth-First Search': 6, 'Graph': 6, 'Dynamic Programming': 6}",12,2025-10-24 23:52:53.961722
+Dropbox,52,25,78.65384615384616,100.0,52.4,,4,28,20,0,2,2,23,25,"{'Array': 38, 'Hash Table': 27, 'String': 19, 'Breadth-First Search': 12, 'Depth-First Search': 12}",32,2025-10-24 23:52:53.961722
+Hive,4,2,100.0,100.0,100.0,,0,2,2,0,0,0,2,2,"{'Array': 4, 'Two Pointers': 2, 'Dynamic Programming': 2, 'Stack': 2, 'Monotonic Stack': 2}",12,2025-10-24 23:52:53.961722
+Squarepoint Capital,12,11,81.60000000000001,100.0,69.5,,1,7,4,0,1,2,9,0,"{'Array': 11, 'Dynamic Programming': 7, 'Binary Search': 3, 'String': 2, 'Divide and Conquer': 2}",17,2025-10-24 23:52:53.961722
+Rippling,30,16,68.99999999999999,100.0,55.1,,3,15,12,0,1,2,11,16,"{'Array': 28, 'String': 13, 'Hash Table': 12, 'Breadth-First Search': 9, 'Depth-First Search': 9}",27,2025-10-24 23:52:53.961722
+Sigmoid,13,6,100.0,100.0,100.0,,0,11,2,1,1,1,4,6,"{'Array': 9, 'Sorting': 6, 'Two Pointers': 4, 'Greedy': 4, 'Prefix Sum': 3}",14,2025-10-24 23:52:53.961722
+Zoox,17,9,74.60588235294118,100.0,58.8,,4,13,0,0,1,3,4,9,"{'Array': 9, 'String': 7, 'Dynamic Programming': 4, 'Two Pointers': 4, 'Math': 3}",16,2025-10-24 23:52:53.961722
+AppDynamics,4,2,100.0,100.0,100.0,,2,2,0,0,0,0,2,2,"{'Hash Table': 4, 'String': 2, 'Sliding Window': 2, 'Math': 2, 'Counting': 2}",5,2025-10-24 23:52:53.961722
+Anduril,78,32,72.53205128205126,100.0,53.9,,6,53,19,0,9,16,21,32,"{'Array': 45, 'Depth-First Search': 24, 'Breadth-First Search': 23, 'Sorting': 18, 'String': 17}",32,2025-10-24 23:52:53.961722
+SOTI,7,4,92.17142857142858,100.0,89.0,,3,2,2,0,0,0,3,4,"{'String': 6, 'Stack': 4, 'Dynamic Programming': 2, 'Hash Table': 2, 'Sliding Window': 2}",7,2025-10-24 23:52:53.961722
+Salesforce,262,138,54.65801526717557,100.0,33.0,,36,167,59,7,14,41,100,100,"{'Array': 144, 'String': 83, 'Dynamic Programming': 73, 'Hash Table': 66, 'Sorting': 41}",52,2025-10-24 23:52:53.961722
+Shopee,18,10,80.44999999999999,100.0,63.4,,8,10,0,0,0,1,7,10,"{'Array': 9, 'Linked List': 5, 'Hash Table': 4, 'Dynamic Programming': 4, 'Binary Search': 4}",16,2025-10-24 23:52:53.961722
+Tencent,31,15,85.30967741935486,100.0,62.4,,4,21,6,0,1,1,14,15,"{'Array': 10, 'String': 9, 'Stack': 9, 'Hash Table': 4, 'Linked List': 4}",23,2025-10-24 23:52:53.961722
+Criteo,17,8,85.9,100.0,72.2,,13,4,0,0,2,3,4,8,"{'Array': 14, 'Binary Search': 8, 'Hash Table': 7, 'Two Pointers': 6, 'Sorting': 6}",14,2025-10-24 23:52:53.961722
+Comcast,8,4,91.325,100.0,77.2,,5,3,0,0,0,2,2,4,"{'Hash Table': 5, 'Array': 4, 'Depth-First Search': 3, 'Breadth-First Search': 3, 'String': 2}",10,2025-10-24 23:52:53.961722
+Bank of America,6,3,96.31666666666666,100.0,88.8,,6,0,0,0,0,1,2,3,"{'String': 4, 'Array': 2, 'Dynamic Programming': 2, 'Stack': 2, 'Two Pointers': 2}",5,2025-10-24 23:52:53.961722
+Rokt,8,4,98.725,100.0,89.8,,4,2,2,0,0,1,3,4,"{'String': 8, 'Math': 4, 'Stack': 4, 'Recursion': 2, 'Hash Table': 2}",7,2025-10-24 23:52:53.961722
+Remitly,17,8,79.71764705882353,100.0,62.5,,5,10,2,0,3,3,3,8,"{'Hash Table': 10, 'String': 9, 'Array': 8, 'Depth-First Search': 5, 'Heap (Priority Queue)': 3}",20,2025-10-24 23:52:53.961722
+HashedIn,41,23,75.67317073170733,100.0,60.6,,5,26,10,0,1,6,11,23,"{'Array': 32, 'Dynamic Programming': 16, 'Greedy': 10, 'Two Pointers': 9, 'String': 8}",24,2025-10-24 23:52:53.961722
+Circle,4,2,97.65,100.0,90.6,,0,2,2,0,0,0,2,2,"{'Hash Table': 4, 'Design': 4, 'String': 2, 'Trie': 2, 'Sorting': 2}",7,2025-10-24 23:52:53.961722
+Wise,10,5,70.85000000000001,100.0,60.2,,4,6,0,0,0,0,5,5,"{'Array': 8, 'Matrix': 4, 'Hash Table': 4, 'Dynamic Programming': 2, 'Binary Search': 2}",12,2025-10-24 23:52:53.961722
+Nykaa,9,5,94.97777777777779,100.0,88.7,,0,7,2,0,0,1,3,5,"{'Array': 7, 'String': 2, 'Greedy': 2, 'Sorting': 2, 'Binary Search': 2}",12,2025-10-24 23:52:53.961722
+Grammarly,74,27,71.65405405405404,100.0,48.0,,20,48,6,2,8,15,22,27,"{'String': 35, 'Array': 33, 'Hash Table': 25, 'Math': 19, 'Dynamic Programming': 17}",32,2025-10-24 23:52:53.961722
+Dataminr,4,2,100.0,100.0,100.0,,0,2,2,0,0,0,2,2,"{'Array': 4, 'Math': 2, 'Sorting': 2, 'Matrix': 2, 'Simulation': 2}",5,2025-10-24 23:52:53.961722
+Palo Alto Networks,59,26,72.86610169491526,100.0,55.7,,11,39,9,2,6,7,18,26,"{'Array': 33, 'String': 25, 'Hash Table': 23, 'Design': 10, 'Sliding Window': 9}",30,2025-10-24 23:52:53.961722
+Compass,12,6,93.03333333333335,100.0,89.4,,4,8,0,0,1,1,4,6,"{'String': 8, 'String Matching': 4, 'Array': 4, 'Recursion': 3, 'Hash Table': 3}",17,2025-10-24 23:52:53.961722
+Epic Systems,26,12,75.48076923076923,100.0,51.3,,6,20,0,0,0,3,11,12,"{'String': 16, 'Backtracking': 10, 'Hash Table': 9, 'Array': 6, 'Math': 6}",14,2025-10-24 23:52:53.961722
+Citadel,215,101,54.20186046511627,100.0,37.1,,12,125,78,0,6,16,93,100,"{'Array': 134, 'Dynamic Programming': 63, 'String': 45, 'Hash Table': 42, 'Breadth-First Search': 40}",49,2025-10-24 23:52:53.961722
+Tinder,4,2,92.95,100.0,83.6,,2,0,2,0,0,0,2,2,"{'Design': 4, 'Heap (Priority Queue)': 4, 'Data Stream': 4, 'Two Pointers': 2, 'Sorting': 2}",8,2025-10-24 23:52:53.961722
+Barclays,36,18,83.0472222222222,100.0,61.2,,14,16,6,0,0,1,17,18,"{'Array': 20, 'String': 8, 'Dynamic Programming': 6, 'Depth-First Search': 6, 'Hash Table': 6}",26,2025-10-24 23:52:53.961722
+Mitsogo,32,16,77.5,100.0,61.3,,8,20,4,0,0,0,16,16,"{'Array': 22, 'Dynamic Programming': 12, 'String': 10, 'Two Pointers': 6, 'Bit Manipulation': 6}",16,2025-10-24 23:52:53.961722
+CVENT,3,2,100.0,100.0,100.0,,3,0,0,0,0,0,1,2,"{'Array': 3, 'Hash Table': 3, 'Sorting': 3, 'Two Pointers': 2, 'Binary Search': 2}",7,2025-10-24 23:52:53.961722
+Zenefits,42,21,93.28571428571429,100.0,88.3,,10,22,10,0,0,0,21,21,"{'Array': 18, 'Breadth-First Search': 10, 'Depth-First Search': 8, 'String': 8, 'Stack': 8}",31,2025-10-24 23:52:53.961722
+Flexport,25,10,83.36,100.0,61.2,,0,25,0,0,2,5,8,10,"{'String': 11, 'Array': 11, 'Hash Table': 10, 'Binary Search': 9, 'Design': 5}",19,2025-10-24 23:52:53.961722
+razorpay,20,10,88.43500000000002,100.0,63.4,,2,16,2,0,0,2,8,10,"{'Array': 15, 'Binary Search': 7, 'Two Pointers': 7, 'Sorting': 6, 'Stack': 5}",17,2025-10-24 23:52:53.961722
+Nike,20,10,93.85999999999999,100.0,81.6,,6,12,2,0,0,1,9,10,"{'Array': 10, 'Dynamic Programming': 4, 'Greedy': 4, 'Hash Table': 4, 'Two Pointers': 4}",16,2025-10-24 23:52:53.961722
+Mapbox,3,2,90.73333333333333,100.0,72.2,,1,2,0,0,0,0,1,2,"{'Hash Table': 2, 'String': 2, 'Design': 2, 'Trie': 2, 'Array': 1}",8,2025-10-24 23:52:53.961722
+Lowe's,8,4,91.575,100.0,66.3,,4,0,4,0,0,0,4,4,"{'String': 4, 'Array': 4, 'Bit Manipulation': 4, 'Hash Table': 2, 'Math': 2}",8,2025-10-24 23:52:53.961722
+thoughtspot,24,12,76.89166666666667,100.0,71.6,,0,16,8,0,0,0,12,12,"{'Array': 14, 'Hash Table': 10, 'Depth-First Search': 8, 'Prefix Sum': 6, 'Dynamic Programming': 6}",18,2025-10-24 23:52:53.961722
+Zalando,11,6,77.17272727272729,100.0,62.2,,2,9,0,0,0,0,5,6,"{'Greedy': 7, 'Array': 5, 'String': 3, 'Sorting': 3, 'Math': 2}",11,2025-10-24 23:52:53.961722
+CTC,1,1,100.0,100.0,100.0,,0,1,0,0,0,0,0,1,"{'Array': 1, 'Dynamic Programming': 1, 'Greedy': 1}",3,2025-10-24 23:52:53.961722
+Faire,7,3,96.78571428571429,100.0,84.1,,0,7,0,0,1,1,2,3,"{'Array': 7, 'String': 5, 'Backtracking': 3, 'Depth-First Search': 3, 'Matrix': 3}",10,2025-10-24 23:52:53.961722
+Wix,120,57,70.71583333333335,100.0,46.6,,33,65,22,3,3,8,49,57,"{'Array': 70, 'String': 46, 'Hash Table': 35, 'Breadth-First Search': 24, 'Depth-First Search': 22}",33,2025-10-24 23:52:53.961722
+Hulu,10,5,100.0,100.0,100.0,,0,4,6,0,0,0,5,5,"{'Math': 4, 'Stack': 4, 'Tree': 2, 'Depth-First Search': 2, 'Binary Tree': 2}",11,2025-10-24 23:52:53.961722
+Zillow,6,3,96.43333333333334,100.0,89.3,,2,4,0,0,0,0,3,3,"{'Array': 4, 'String': 2, 'Stack': 2, 'Depth-First Search': 2, 'Breadth-First Search': 2}",8,2025-10-24 23:52:53.961722
+Fiverr,4,2,97.6,100.0,90.4,,0,4,0,0,0,0,2,2,"{'Array': 2, 'Backtracking': 2, 'Bit Manipulation': 2, 'Hash Table': 2, 'Linked List': 2}",7,2025-10-24 23:52:53.961722
+Tripadvisor,9,4,87.8,100.0,66.4,,7,2,0,0,0,1,4,4,"{'String': 5, 'Hash Table': 4, 'Array': 4, 'Stack': 3, 'Linked List': 2}",8,2025-10-24 23:52:53.961722
+Affirm,28,11,72.98928571428571,100.0,45.8,,3,20,5,0,2,5,10,11,"{'Array': 18, 'Hash Table': 16, 'String': 14, 'Design': 12, 'Math': 7}",16,2025-10-24 23:52:53.961722
+Wissen Technology,8,3,96.0375,100.0,89.3,,4,4,0,1,1,1,2,3,"{'Array': 6, 'Hash Table': 6, 'Union Find': 4, 'Two Pointers': 2, 'String': 2}",5,2025-10-24 23:52:53.961722
+Cashfree,6,3,94.38333333333333,100.0,66.3,,0,6,0,0,0,0,3,3,"{'Array': 6, 'Binary Search': 2, 'Dynamic Programming': 2, 'Greedy': 2, 'Hash Table': 2}",6,2025-10-24 23:52:53.961722
+Veritas,4,2,93.675,100.0,74.7,,2,2,0,0,0,0,2,2,"{'String': 4, 'Array': 2, 'Prefix Sum': 2}",3,2025-10-24 23:52:53.961722
+Pony.ai,8,4,100.0,100.0,100.0,,0,6,2,0,0,0,4,4,"{'Array': 8, 'Binary Search': 6, 'Sorting': 6, 'Dynamic Programming': 4, 'Greedy': 4}",9,2025-10-24 23:52:53.961722
+Snapdeal,5,3,87.04,100.0,67.6,,2,3,0,0,0,0,2,3,"{'Array': 4, 'Dynamic Programming': 4, 'Hash Table': 2, 'Binary Search': 2, 'Tree': 1}",7,2025-10-24 23:52:53.961722
+Postmates,6,3,96.2,100.0,90.5,,2,4,0,0,0,0,3,3,"{'String': 4, 'Sorting': 4, 'Hash Table': 2, 'Counting': 2, 'Array': 2}",8,2025-10-24 23:52:53.961722
+Avalara,4,2,91.75,100.0,67.0,,0,0,4,0,0,0,2,2,"{'Math': 4, 'String': 2, 'Recursion': 2}",3,2025-10-24 23:52:53.961722
+Jane Street,19,11,75.31578947368422,100.0,56.9,,7,5,7,0,0,0,8,11,"{'Array': 12, 'String': 11, 'Simulation': 7, 'Math': 4, 'Design': 4}",22,2025-10-24 23:52:53.961722
+Roku,26,15,91.05384615384614,100.0,87.5,,6,13,7,0,0,2,9,15,"{'String': 13, 'Array': 11, 'Stack': 9, 'Math': 6, 'Simulation': 6}",28,2025-10-24 23:52:53.961722
+Meesho,30,26,72.41666666666667,100.0,61.3,,1,18,11,0,3,5,22,0,"{'Array': 21, 'Dynamic Programming': 9, 'Bit Manipulation': 6, 'Math': 5, 'Hash Table': 5}",30,2025-10-24 23:52:53.961722
+StackAdapt,8,4,93.3875,100.0,89.3,,0,6,2,0,0,0,4,4,"{'Design': 4, 'Two Pointers': 2, 'Sorting': 2, 'Heap (Priority Queue)': 2, 'Data Stream': 2}",11,2025-10-24 23:52:53.961722
+Disney,34,19,84.98823529411766,100.0,79.8,,11,23,0,0,0,1,14,19,"{'String': 15, 'Array': 12, 'Hash Table': 9, 'Dynamic Programming': 7, 'Sorting': 5}",21,2025-10-24 23:52:53.961722
+UiPath,20,10,87.415,100.0,62.7,,0,16,4,0,2,3,5,10,"{'Array': 14, 'String': 9, 'Breadth-First Search': 8, 'Union Find': 7, 'Depth-First Search': 6}",15,2025-10-24 23:52:53.961722
+Two Sigma,47,23,73.85319148936168,100.0,55.7,,8,25,14,0,0,2,22,23,"{'Array': 31, 'Dynamic Programming': 15, 'String': 11, 'Hash Table': 10, 'Binary Search': 10}",31,2025-10-24 23:52:53.961722
+ServiceNow,169,84,65.92248520710059,100.0,50.3,,19,125,25,0,5,10,70,84,"{'Array': 98, 'String': 51, 'Dynamic Programming': 40, 'Hash Table': 37, 'Two Pointers': 30}",41,2025-10-24 23:52:53.961722
+ShareChat,4,2,100.0,100.0,100.0,,2,2,0,0,0,0,2,2,"{'Hash Table': 2, 'Tree': 2, 'Depth-First Search': 2, 'Breadth-First Search': 2, 'Binary Tree': 2}",8,2025-10-24 23:52:53.961722
+TikTok,367,180,56.294277929155314,100.0,21.2,,40,248,79,14,53,100,100,100,"{'Array': 200, 'String': 110, 'Dynamic Programming': 81, 'Hash Table': 75, 'Depth-First Search': 54}",52,2025-10-24 23:52:53.961722
+Sentry,4,2,88.925,100.0,75.9,,0,2,2,0,0,0,2,2,"{'Array': 4, 'String': 2, 'Simulation': 2, 'Binary Search': 2, 'Design': 2}",7,2025-10-24 23:52:53.961722
+Poshmark,7,4,95.2,100.0,66.4,,0,5,2,0,0,0,3,4,"{'Database': 4, 'Array': 3, 'Matrix': 2, 'Simulation': 2, 'Stack': 1}",8,2025-10-24 23:52:53.961722
+Twitch,15,8,82.59333333333333,100.0,64.4,,4,8,3,0,1,1,5,8,"{'Design': 7, 'Hash Table': 7, 'Sorting': 5, 'Heap (Priority Queue)': 5, 'Data Stream': 5}",15,2025-10-24 23:52:53.961722
+Nagarro,15,9,76.91999999999999,100.0,63.8,,7,6,2,0,0,0,6,9,"{'Hash Table': 10, 'String': 7, 'Array': 6, 'Sliding Window': 4, 'Sorting': 3}",9,2025-10-24 23:52:53.961722
+GSA Capital,4,2,94.35000000000001,100.0,84.1,,0,4,0,0,0,0,2,2,"{'Array': 4, 'Two Pointers': 2, 'Heap (Priority Queue)': 2, 'Simulation': 2, 'Dynamic Programming': 2}",6,2025-10-24 23:52:53.961722
+Tinkoff,63,32,71.82222222222218,100.0,57.9,,21,42,0,0,0,1,30,32,"{'Array': 37, 'String': 17, 'Hash Table': 15, 'Two Pointers': 12, 'Matrix': 10}",24,2025-10-24 23:52:53.961722
+CureFit,6,3,88.8,100.0,66.4,,0,6,0,0,0,0,3,3,"{'Array': 6, 'Hash Table': 4, 'String': 2, 'Dynamic Programming': 2, 'Trie': 2}",8,2025-10-24 23:52:53.961722
+Fidelity,6,3,88.13333333333333,100.0,64.4,,6,0,0,0,0,0,3,3,"{'Array': 4, 'Hash Table': 4, 'Matrix': 2, 'String': 2, 'Sorting': 2}",5,2025-10-24 23:52:53.961722
+Netsuite,4,2,100.0,100.0,100.0,,4,0,0,0,0,0,2,2,"{'Array': 2, 'Sorting': 2, 'Database': 2}",3,2025-10-24 23:52:53.961722
+Credit Karma,3,3,93.73333333333333,100.0,90.6,,0,2,1,0,0,0,3,0,"{'Stack': 2, 'Math': 2, 'Array': 1, 'Two Pointers': 1, 'Dynamic Programming': 1}",8,2025-10-24 23:52:53.961722
+PubMatic,6,3,93.03333333333335,100.0,89.5,,2,2,2,0,0,0,3,3,"{'Array': 4, 'Two Pointers': 4, 'String': 2, 'Trie': 2, 'Dynamic Programming': 2}",11,2025-10-24 23:52:53.961722
+Paytm,58,30,71.00862068965517,100.0,57.2,,12,44,2,0,0,1,27,30,"{'Array': 35, 'Two Pointers': 19, 'String': 17, 'Hash Table': 12, 'Stack': 9}",22,2025-10-24 23:52:53.961722
+Flexera,4,2,100.0,100.0,100.0,,2,2,0,0,0,0,2,2,"{'String': 4, 'Stack': 4, 'Hash Table': 2, 'Greedy': 2, 'Heap (Priority Queue)': 2}",6,2025-10-24 23:52:53.961722
+Electronic Arts,6,3,100.0,100.0,100.0,,4,2,0,0,0,0,3,3,"{'Array': 4, 'Dynamic Programming': 4, 'Greedy': 2, 'Sorting': 2, 'Heap (Priority Queue)': 2}",7,2025-10-24 23:52:53.961722
+Coursera,24,11,83.86666666666667,100.0,60.7,,2,10,12,0,1,1,11,11,"{'Array': 12, 'String': 12, 'Math': 8, 'Sorting': 6, 'Dynamic Programming': 6}",16,2025-10-24 23:52:53.961722
+Cadence,11,6,100.0,100.0,100.0,,6,3,2,0,0,1,4,6,"{'Array': 9, 'Hash Table': 4, 'Matrix': 4, 'Two Pointers': 3, 'Sorting': 3}",9,2025-10-24 23:52:53.961722
+IIT Bombay,4,2,92.1,100.0,68.4,,2,2,0,0,0,0,2,2,"{'Two Pointers': 2, 'String': 2, 'String Matching': 2, 'Array': 2, 'Greedy': 2}",7,2025-10-24 23:52:53.961722
+RBC,10,5,100.0,100.0,100.0,,4,6,0,0,0,1,4,5,"{'Array': 6, 'Two Pointers': 6, 'Dynamic Programming': 4, 'String': 4, 'Matrix': 2}",7,2025-10-24 23:52:53.961722
+Coveo,4,2,92.69999999999999,100.0,85.4,,0,2,2,0,0,0,2,2,"{'Array': 4, 'Two Pointers': 4, 'Dynamic Programming': 2, 'Stack': 2, 'Monotonic Stack': 2}",6,2025-10-24 23:52:53.961722
+ByteDance,132,64,62.91590909090909,100.0,48.5,,16,100,16,0,5,11,52,64,"{'Array': 69, 'String': 34, 'Hash Table': 32, 'Dynamic Programming': 31, 'Math': 22}",41,2025-10-24 23:52:53.961722
+Moengage,4,2,92.125,100.0,68.5,,2,2,0,0,0,0,2,2,"{'String': 4, 'Dynamic Programming': 2, 'Hash Table': 2, 'Counting': 2}",4,2025-10-24 23:52:53.961722
+Cohesity,6,3,92.3,100.0,88.3,,0,4,2,0,0,0,3,3,"{'Design': 4, 'Heap (Priority Queue)': 4, 'Hash Table': 2, 'Linked List': 2, 'Doubly-Linked List': 2}",14,2025-10-24 23:52:53.961722
+Flipkart,215,111,56.36232558139535,100.0,41.7,,21,130,64,1,3,11,100,100,"{'Array': 168, 'Dynamic Programming': 56, 'Greedy': 44, 'Hash Table': 42, 'Sorting': 39}",41,2025-10-24 23:52:53.961722
+Hiver,4,2,100.0,100.0,100.0,,0,2,2,0,0,0,2,2,"{'Dynamic Programming': 4, 'String': 2, 'Recursion': 2, 'Array': 2}",4,2025-10-24 23:52:53.961722
+Amadeus,8,4,81.4125,100.0,70.8,,4,4,0,0,0,0,4,4,"{'Array': 6, 'Simulation': 4, 'Hash Table': 2, 'Math': 2, 'Binary Search': 2}",5,2025-10-24 23:52:53.961722
+Airtel,12,6,83.35833333333333,100.0,62.5,,2,10,0,0,0,1,5,6,"{'Array': 8, 'String': 4, 'Prefix Sum': 4, 'Dynamic Programming': 4, 'Binary Search': 2}",11,2025-10-24 23:52:53.961722
+Turvo,6,3,94.5,100.0,67.0,,2,0,4,0,0,0,3,3,"{'Array': 6, 'Dynamic Programming': 4, 'Enumeration': 2, 'Two Pointers': 2, 'Stack': 2}",6,2025-10-24 23:52:53.961722
+Tesco,7,4,76.52857142857144,100.0,58.6,,0,7,0,0,0,1,2,4,"{'Array': 5, 'Sorting': 3, 'String': 2, 'Stack': 2, 'Recursion': 2}",9,2025-10-24 23:52:53.961722
+EPAM Systems,83,43,68.1301204819277,100.0,56.5,,34,46,3,0,0,5,35,43,"{'Array': 37, 'String': 24, 'Hash Table': 21, 'Two Pointers': 20, 'Dynamic Programming': 15}",29,2025-10-24 23:52:53.961722
+WeRide,15,6,86.07333333333334,100.0,65.9,,0,2,13,0,2,4,3,6,"{'Array': 13, 'Binary Search': 7, 'Depth-First Search': 7, 'Breadth-First Search': 7, 'Sorting': 6}",17,2025-10-24 23:52:53.961722
+Aon,8,4,97.125,100.0,88.5,,4,2,2,0,0,0,4,4,"{'Array': 6, 'Bit Manipulation': 6, 'Database': 2, 'Greedy': 2}",4,2025-10-24 23:52:53.961722
+Asana,7,3,85.79999999999998,100.0,56.4,,2,5,0,0,0,1,3,3,"{'Array': 5, 'Prefix Sum': 3, 'Math': 2, 'Divide and Conquer': 2, 'Geometry': 2}",11,2025-10-24 23:52:53.961722
+Urban Company,9,5,90.37777777777777,100.0,81.3,,0,6,3,0,0,0,4,5,"{'Array': 9, 'Binary Search': 4, 'Depth-First Search': 4, 'Breadth-First Search': 4, 'Union Find': 4}",9,2025-10-24 23:52:53.961722
+FactSet,10,5,92.66,100.0,63.3,,2,8,0,0,0,0,5,5,"{'String': 6, 'Stack': 6, 'Greedy': 6, 'Monotonic Stack': 4, 'Hash Table': 2}",8,2025-10-24 23:52:53.961722
+Rakuten,9,6,100.0,100.0,100.0,,2,7,0,0,0,0,3,6,"{'Array': 6, 'Greedy': 4, 'Dynamic Programming': 4, 'String': 2, 'Heap (Priority Queue)': 2}",13,2025-10-24 23:52:53.961722
+X,101,52,79.2871287128713,100.0,47.6,,16,61,24,0,0,0,49,52,"{'Array': 39, 'String': 28, 'Hash Table': 28, 'Design': 18, 'Math': 15}",44,2025-10-24 23:52:53.961722
+Braze,5,3,94.24000000000001,100.0,90.3,,4,1,0,0,0,0,2,3,"{'Array': 3, 'String': 2, 'Stack': 2, 'Hash Table': 2, 'Two Pointers': 1}",7,2025-10-24 23:52:53.961722
+KLA,17,8,86.04117647058824,100.0,70.9,,4,7,6,1,0,3,5,8,"{'Hash Table': 8, 'Design': 6, 'Math': 6, 'Array': 5, 'Two Pointers': 5}",12,2025-10-24 23:52:53.961722
+FPT,7,4,85.6857142857143,100.0,66.6,,5,2,0,0,0,0,3,4,"{'Math': 4, 'Array': 3, 'Simulation': 2, 'Hash Table': 2, 'Dynamic Programming': 1}",5,2025-10-24 23:52:53.961722
+carwale,10,5,85.56000000000002,100.0,65.2,,2,6,2,0,0,1,4,5,"{'String': 6, 'Array': 6, 'Stack': 4, 'Dynamic Programming': 4, 'Hash Table': 2}",10,2025-10-24 23:52:53.961722
+Sumo Logic,8,4,87.25,100.0,66.0,,2,4,2,0,0,0,4,4,"{'Array': 6, 'String': 4, 'Depth-First Search': 2, 'Breadth-First Search': 2, 'Matrix': 2}",10,2025-10-24 23:52:53.961722
+Works Applications,8,4,100.0,100.0,100.0,,0,4,4,0,0,0,4,4,"{'Array': 6, 'Sorting': 6, 'Greedy': 4, 'String': 2, 'Dynamic Programming': 2}",7,2025-10-24 23:52:53.961722
+Amdocs,13,7,85.92307692307692,100.0,63.4,,3,8,2,0,0,1,5,7,"{'String': 7, 'Hash Table': 4, 'Dynamic Programming': 4, 'Prefix Sum': 4, 'Array': 2}",16,2025-10-24 23:52:53.961722
+Zepto,60,31,78.40833333333335,100.0,72.8,,2,48,10,0,0,2,27,31,"{'Array': 46, 'Dynamic Programming': 12, 'Depth-First Search': 11, 'Hash Table': 11, 'Binary Search': 10}",32,2025-10-24 23:52:53.961722
+Gusto,9,3,94.65555555555555,100.0,82.6,,0,6,3,0,1,2,3,3,"{'String': 9, 'Hash Table': 6, 'Binary Search': 4, 'Design': 4, 'Math': 3}",9,2025-10-24 23:52:53.961722
+Ola Cabs,4,2,100.0,100.0,100.0,,2,2,0,0,0,0,2,2,"{'Array': 2, 'Dynamic Programming': 2, 'String': 2, 'Stack': 2, 'Recursion': 2}",5,2025-10-24 23:52:53.961722
+Myntra,45,22,78.00222222222222,100.0,59.7,,6,33,6,0,2,4,17,22,"{'Array': 32, 'Sorting': 12, 'Hash Table': 12, 'Dynamic Programming': 9, 'Tree': 9}",22,2025-10-24 23:52:53.961722
+Netskope,7,3,100.0,100.0,100.0,,0,7,0,0,1,1,2,3,"{'String': 5, 'Dynamic Programming': 5, 'Array': 4, 'Two Pointers': 3, 'Sorting': 2}",8,2025-10-24 23:52:53.961722
+Softwire,6,3,90.78333333333335,100.0,68.4,,2,4,0,0,0,1,2,3,"{'String': 6, 'Hash Table': 4, 'Two Pointers': 2, 'Dynamic Programming': 2, 'Sliding Window': 2}",5,2025-10-24 23:52:53.961722
+Rubrik,75,36,53.772,100.0,33.8,,4,45,26,0,3,8,28,36,"{'Array': 42, 'Math': 22, 'Hash Table': 18, 'String': 17, 'Dynamic Programming': 15}",32,2025-10-24 23:52:53.961722
+Fortinet,8,4,95.725,100.0,88.6,,3,3,2,0,1,1,2,4,"{'String': 4, 'Greedy': 4, 'Hash Table': 3, 'Heap (Priority Queue)': 3, 'Counting': 3}",8,2025-10-24 23:52:53.961722
+OpenAI,25,11,74.748,100.0,53.9,,3,20,2,0,2,5,7,11,"{'Design': 16, 'Array': 14, 'String': 12, 'Hash Table': 11, 'Stack': 8}",16,2025-10-24 23:52:53.961722
+Verkada,36,15,78.79166666666667,100.0,63.8,,8,17,11,2,2,3,14,15,"{'Array': 22, 'Sorting': 10, 'String': 10, 'Dynamic Programming': 10, 'Binary Search': 9}",27,2025-10-24 23:52:53.961722
+Palantir Technologies,61,29,67.59344262295082,100.0,45.4,,14,35,12,0,2,4,26,29,"{'Array': 44, 'String': 17, 'Hash Table': 16, 'Sorting': 15, 'Breadth-First Search': 10}",37,2025-10-24 23:52:53.961722
+Sony,8,4,85.8375,100.0,66.5,,2,2,4,0,0,1,3,4,"{'Array': 6, 'Dynamic Programming': 6, 'Math': 4, 'Binary Search': 2, 'Prefix Sum': 2}",11,2025-10-24 23:52:53.961722
+LinkedIn,349,141,53.00888252148996,100.0,20.8,,54,228,67,10,52,87,100,100,"{'Array': 155, 'String': 78, 'Hash Table': 77, 'Depth-First Search': 76, 'Breadth-First Search': 60}",52,2025-10-24 23:52:53.961722
+Citrix,13,7,91.62307692307694,100.0,63.7,,2,9,2,0,0,0,6,7,"{'Array': 6, 'Hash Table': 5, 'String': 4, 'Sorting': 4, 'Linked List': 3}",14,2025-10-24 23:52:53.961722
+ZS Associates,18,9,94.88888888888889,100.0,88.5,,8,10,0,0,1,1,7,9,"{'Array': 11, 'Database': 5, 'String': 4, 'Dynamic Programming': 4, 'Prefix Sum': 3}",15,2025-10-24 23:52:53.961722
+Yahoo,205,106,46.07658536585365,100.0,25.9,,52,130,23,0,2,3,100,100,"{'Array': 101, 'String': 47, 'Dynamic Programming': 41, 'Two Pointers': 38, 'Hash Table': 36}",38,2025-10-24 23:52:53.961722
+Kakao,4,2,100.0,100.0,100.0,,0,2,2,0,0,0,2,2,"{'Array': 4, 'Breadth-First Search': 2, 'Matrix': 2, 'Backtracking': 2, 'Bit Manipulation': 2}",6,2025-10-24 23:52:53.961722
+Ozon,26,14,80.85000000000001,100.0,69.5,,18,6,2,0,0,2,10,14,"{'Array': 13, 'String': 6, 'Hash Table': 5, 'Sorting': 5, 'Two Pointers': 4}",17,2025-10-24 23:52:53.961722
+Block,28,14,84.89999999999999,100.0,60.0,,2,18,8,0,0,0,14,14,"{'Array': 20, 'String': 10, 'Hash Table': 8, 'Matrix': 8, 'Design': 6}",24,2025-10-24 23:52:53.961722
+Twilio,23,13,70.15217391304346,100.0,56.8,,4,13,6,0,0,0,10,13,"{'Array': 13, 'String': 11, 'Hash Table': 8, 'Greedy': 7, 'Sorting': 6}",23,2025-10-24 23:52:53.961722
+FreshWorks,17,9,91.52941176470588,100.0,87.8,,8,9,0,0,0,0,8,9,"{'Array': 9, 'Hash Table': 8, 'String': 7, 'Backtracking': 3, 'Sliding Window': 2}",15,2025-10-24 23:52:53.961722
+Stripe,11,6,63.95454545454545,100.0,44.6,,0,8,3,0,0,0,5,6,"{'String': 6, 'Breadth-First Search': 6, 'Array': 5, 'Graph': 5, 'Dynamic Programming': 5}",14,2025-10-24 23:52:53.961722
+NetEase,4,2,97.225,100.0,90.8,,0,2,2,0,0,0,2,2,"{'String': 2, 'Dynamic Programming': 2, 'Array': 2, 'Two Pointers': 2, 'Binary Search': 2}",7,2025-10-24 23:52:53.961722
+Machine Zone,2,2,100.0,100.0,100.0,,0,0,2,0,0,0,0,2,"{'Design': 1, 'Segment Tree': 1, 'Ordered Set': 1, 'Database': 1}",4,2025-10-24 23:52:53.961722
+Larsen & Toubro,4,2,100.0,100.0,100.0,,4,0,0,0,0,0,2,2,"{'Array': 4, 'Math': 2}",2,2025-10-24 23:52:53.961722
+MSCI,2,1,100.0,100.0,100.0,,0,2,0,0,0,0,1,1,"{'Array': 2, 'Hash Table': 2, 'String': 2, 'Sorting': 2}",4,2025-10-24 23:52:53.961722
+VMware,36,20,73.07222222222221,100.0,61.1,,8,22,6,0,0,0,16,20,"{'Array': 15, 'Hash Table': 10, 'String': 9, 'Binary Search': 7, 'Linked List': 7}",19,2025-10-24 23:52:53.961722
