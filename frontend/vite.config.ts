@@ -9,7 +9,7 @@ export default defineConfig(({ mode }) => {
   // Use base path for GitHub Pages deployment only
   // Set VITE_DEPLOY=github to enable the base path
   const isGitHubDeploy = env.VITE_DEPLOY === 'github' || process.env.GITHUB_ACTIONS === 'true';
-  const base = isGitHubDeploy ? '/leetcode-company-wise-problems/' : '/';
+  const base = isGitHubDeploy ? '/algopath2/' : '/';
 
   return {
     plugins: [react()],
