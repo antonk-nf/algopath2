@@ -22,9 +22,23 @@ interface HeatmapCell {
   y: number;
 }
 
-export function TopicHeatmapChart({ 
-  data, 
-  height = 500, 
+// Curated list of representative companies across categories
+const CURATED_COMPANIES = [
+  // Big Tech (3)
+  'Amazon', 'Google', 'Apple',
+  // Finance (2)
+  'Goldman Sachs', 'Citadel',
+  // Enterprise (2)
+  'IBM', 'Atlassian',
+  // IT Services (1)
+  'Infosys',
+  // Consumer (2)
+  'Airbnb', 'Coupang',
+];
+
+export function TopicHeatmapChart({
+  data,
+  height = 500,
   maxTopics = 15,
   maxCompanies = 10,
   colorScheme = 'plasma',
@@ -38,17 +52,46 @@ export function TopicHeatmapChart({
       return { cells: [], maxValue: 0, maxRelativeValue: 0, topics: [], companies: [], topicTotals: [] };
     }
 
-    // Limit topics and companies for better visualization
+    // Limit topics for better visualization
     const limitedTopics = data.topics.slice(0, maxTopics);
-    const limitedCompanies = data.companies.slice(0, maxCompanies);
-    
-    // Calculate topic totals (sum across all companies for each topic)
+
+    // Use curated companies list - filter to only those available in data, preserving curated order
+    const availableCompanies = new Set(data.companies);
+    const curatedAvailable = CURATED_COMPANIES.filter(c => availableCompanies.has(c));
+
+    // Use curated list if enough companies available, otherwise fall back to top by problem count
+    let limitedCompanies: string[];
+    if (curatedAvailable.length >= 5) {
+      limitedCompanies = curatedAvailable.slice(0, maxCompanies);
+    } else {
+      // Fallback: sort by total problems and take top N
+      const companyTotalsList = data.companies.map((company, idx) => ({
+        company,
+        total: data.matrix.reduce((sum, row) => sum + (row[idx] || 0), 0)
+      }));
+      companyTotalsList.sort((a, b) => b.total - a.total);
+      limitedCompanies = companyTotalsList.slice(0, maxCompanies).map(c => c.company);
+    }
+
+    // Create mapping from company name to original index in data.companies
+    const companyToOriginalIndex = new Map<string, number>();
+    data.companies.forEach((company, idx) => {
+      companyToOriginalIndex.set(company, idx);
+    });
+
+    // Helper to get original index for a company
+    const getOriginalCompanyIndex = (company: string): number => {
+      return companyToOriginalIndex.get(company) ?? -1;
+    };
+
+    // Calculate topic totals (sum across selected companies for each topic)
     const topicTotals: number[] = [];
     limitedTopics.forEach((_, topicIndex) => {
       let topicTotal = 0;
-      limitedCompanies.forEach((_, companyIndex) => {
-        if (topicIndex < data.matrix.length && companyIndex < data.matrix[topicIndex].length) {
-          topicTotal += data.matrix[topicIndex][companyIndex] || 0;
+      limitedCompanies.forEach((company) => {
+        const originalIdx = getOriginalCompanyIndex(company);
+        if (topicIndex < data.matrix.length && originalIdx >= 0 && originalIdx < data.matrix[topicIndex].length) {
+          topicTotal += data.matrix[topicIndex][originalIdx] || 0;
         }
       });
       topicTotals.push(topicTotal);
@@ -56,11 +99,12 @@ export function TopicHeatmapChart({
 
     // Calculate company totals (sum across all topics for each company)
     const companyTotals: number[] = [];
-    limitedCompanies.forEach((_, companyIndex) => {
+    limitedCompanies.forEach((company) => {
+      const originalIdx = getOriginalCompanyIndex(company);
       let companyTotal = 0;
       limitedTopics.forEach((_, topicIndex) => {
-        if (topicIndex < data.matrix.length && companyIndex < data.matrix[topicIndex].length) {
-          companyTotal += data.matrix[topicIndex][companyIndex] || 0;
+        if (topicIndex < data.matrix.length && originalIdx >= 0 && originalIdx < data.matrix[topicIndex].length) {
+          companyTotal += data.matrix[topicIndex][originalIdx] || 0;
         }
       });
       companyTotals.push(companyTotal);
@@ -73,19 +117,20 @@ export function TopicHeatmapChart({
 
     limitedTopics.forEach((topic, topicIndex) => {
       const topicTotal = topicTotals[topicIndex];
-      
+
       limitedCompanies.forEach((company, companyIndex) => {
+        const originalCompanyIdx = getOriginalCompanyIndex(company);
         // Ensure we don't go out of bounds
-        if (topicIndex < data.matrix.length && companyIndex < data.matrix[topicIndex].length) {
-          const value = data.matrix[topicIndex][companyIndex] || 0;
+        if (topicIndex < data.matrix.length && originalCompanyIdx >= 0 && originalCompanyIdx < data.matrix[topicIndex].length) {
+          const value = data.matrix[topicIndex][originalCompanyIdx] || 0;
           const companyTotal = companyTotals[companyIndex];
-          
+
           const relativeByTopic = topicTotal > 0 ? value / topicTotal : 0;
           const relativeByCompany = companyTotal > 0 ? value / companyTotal : 0;
-          
+
           maxValue = Math.max(maxValue, value);
           maxRelativeValue = Math.max(maxRelativeValue, relativeByCompany); // Use company-based for max
-          
+
           cells.push({
             topic,
             company,
