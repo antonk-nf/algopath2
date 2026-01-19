@@ -77,6 +77,23 @@ interface AllProblemsData {
   timeframes: string[];
 }
 
+// Problem preview data (from LeetCode metadata)
+interface ProblemPreviewData {
+  title: string;
+  titleSlug: string;
+  questionId?: string;
+  difficulty: string;
+  content_html?: string | null;
+  content_text?: string | null;
+  topic_tags: { name: string; slug: string }[];
+  ac_rate?: number | null;
+  likes?: number | null;
+  dislikes?: number | null;
+  is_paid_only: boolean;
+  has_solution: boolean;
+  has_video_solution: boolean;
+}
+
 class StaticDataService {
   private baseDataPath: string;
   private cache = new Map<string, unknown>();
@@ -170,6 +187,21 @@ class StaticDataService {
   }
 
   /**
+   * Load problem previews (keyed by slug)
+   */
+  async loadProblemPreviews(): Promise<Record<string, ProblemPreviewData>> {
+    return this.loadJSON<Record<string, ProblemPreviewData>>('problems/previews.json');
+  }
+
+  /**
+   * Load a single problem preview by slug
+   */
+  async loadProblemPreview(slug: string): Promise<ProblemPreviewData | null> {
+    const previews = await this.loadProblemPreviews();
+    return previews[slug] || null;
+  }
+
+  /**
    * Load a pre-generated study plan
    */
   async loadStudyPlan(planId: string): Promise<StudyPlan> {
@@ -219,4 +251,5 @@ export type {
   StudyPlan,
   StudyPlanDay,
   AllProblemsData,
+  ProblemPreviewData,
 };

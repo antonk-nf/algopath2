@@ -78,20 +78,21 @@ The `leetcode_metadata.parquet` file contains rich community and quality data:
   - Implement fallback UI when topic endpoints are unavailable
   - _Requirements: 2.1, 2.2, 2.3_
 
-- [ ] 8. Topic Visualizations
-  - Create simple topic frequency bar chart
-  - Build basic topic heatmap (if data is available from backend)
-  - Add topic trend indicators (up/down arrows with percentages)
-  - Implement topic search with basic text matching
+- [x] 8. Topic Visualizations
+  - Create simple topic frequency bar chart (TopicFrequencyChart.tsx)
+  - Build basic topic heatmap (TopicHeatmapChart.tsx with multiple color schemes, normalization modes)
+  - Add topic trend indicators (TopicTrendIndicator.tsx with direction, strength, variants)
+  - Implement topic search with basic text matching (TopicAnalysisPage.tsx)
   - _Requirements: 2.1, 2.4_
 
 ## Phase 3: Study Planner
 
-- [ ] 9. Backend Verification for Phase 3
+- [x] 9. Backend Verification for Phase 3
   - Test `/api/v1/problems/top` and `/api/v1/problems/search` endpoints
   - Verify problem filtering by company and difficulty works reliably
   - Test problem detail endpoint `/api/v1/problems/{problem_title}`
   - Document which problem endpoints provide consistent data for study planning
+  - Full API integration with static mode fallback for offline operation
   - _Requirements: 3.1, 3.2_
 
 - [x] 10. Study Plan Generator
@@ -124,7 +125,7 @@ The `leetcode_metadata.parquet` file contains rich community and quality data:
   - Implement FAANG-specific company comparison (Google, Amazon, Meta, Apple, Netflix)
   - _Requirements: 4.1, 4.2, 4.3, 4.4_
 
-- [ ] 14. LeetCode Metadata Integration
+- [x] 14. LeetCode Metadata Integration
 - [x] 14.1 Backend Metadata Processing
   - Load and process leetcode_metadata.parquet into analytics pipeline
   - Calculate derived metrics: originality_score, total_votes, quality_percentiles
@@ -168,25 +169,31 @@ The `leetcode_metadata.parquet` file contains rich community and quality data:
   - Add quality indicators and badges to problem cards
   - _Requirements: 1.1, 3.1, 4.3_
 
-- [ ] 16. Advanced Study Recommendations
-  - Enhance study plan generator with quality metrics
+- [x] 16. Advanced Study Recommendations
+  - Enhance study plan generator with quality metrics (QualityRecommendationsWidget.tsx)
   - Add "balanced learning" mode prioritizing original problems
   - Create "interview classics" mode focusing on most-liked problems
   - Implement adaptive difficulty progression based on acceptance rates
+  - Hidden Gems discovery (>85% originality, <2K votes)
+  - Rising Stars section (1K-5K votes, >80% quality)
+  - Skill-level-aware filtering (beginner/intermediate/advanced)
   - _Requirements: 3.1, 3.2, 4.3_
 
-- [ ] 17. Data Export and Sharing
-  - Add CSV export for company data and problem lists with quality metrics
+- [x] 17. Data Export and Sharing
+  - Add CSV export for company data and problem lists with quality metrics (exportService.ts)
   - Create simple study plan sharing via JSON export/import
-  - Build basic bookmark system for favorite problems with quality scores
+  - Build basic bookmark system for favorite problems with quality scores (BookmarksPage.tsx)
   - Add simple print-friendly views for study materials
+  - ExportMenu component with CSV/JSON/Print formats
+  - URL-based shareable links for discovery categories
   - _Requirements: 6.3, 7.2_
 
-- [ ] 18. Final Polish and Deployment
+- [x] 18. Final Polish and Deployment
   - Add basic error boundaries and improved error messages
-  - Create simple user onboarding with feature highlights
+  - Create simple user onboarding with feature highlights (OnboardingTour.tsx - 5-step guided tour)
   - Build production deployment configuration
   - Add basic environment configuration for API endpoints
+  - Responsive design, dark mode support, accessibility features
   - _Requirements: 5.4, 6.4_
 
 ## Phase 5: Advanced Metadata Analytics (Future Enhancements)

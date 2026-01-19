@@ -20,6 +20,7 @@ import { LoadingSpinner } from '../components/Common';
 import { ExportService } from '../services/exportService';
 import { companyService } from '../services/companyService';
 import { studyPlanService } from '../services/studyPlanService';
+import { staticDataService } from '../services/staticDataService';
 import { apiClient, ApiClientError } from '../services/apiClient';
 import type {
   StudyPlan,
@@ -28,6 +29,17 @@ import type {
   ProblemData,
   StudyPlanRecommendationResponse
 } from '../types';
+
+// Check if running in static mode (no API server)
+const isStaticMode = (): boolean => {
+  if (import.meta.env.VITE_STATIC_MODE === 'true') {
+    return true;
+  }
+  if (import.meta.env.PROD) {
+    return true;
+  }
+  return false;
+};
 
 type ViewMode = 'list' | 'create' | 'view';
 
@@ -79,50 +91,92 @@ export function StudyPlannerPage() {
         ? formData.focusAreas
         : undefined;
 
-      const response = await apiClient.getStudyPlanRecommendations({
-        companies: formData.targetCompanies,
-        focus_topics: focusTopics,
-        skill_level: formData.skillLevel,
-        duration_weeks: durationWeeks,
-        daily_goal: dailyGoal,
-        balance_companies: true,
-        max_per_company: undefined,
-      });
+      let availableProblems: ProblemData[];
+      let requestedTotal = durationWeeks * 7 * dailyGoal;
 
-      const payload = response.data as StudyPlanRecommendationResponse;
-      const recommendations = Array.isArray(payload?.recommendations)
-        ? payload.recommendations
-        : [];
+      if (isStaticMode()) {
+        // In static mode, load all problems and filter client-side
+        const allProblems = await staticDataService.loadAllProblems();
 
-      if (recommendations.length === 0) {
-        throw new Error('No suitable problems were returned. Try adjusting your filters.');
+        // Filter problems by target companies
+        let filtered = allProblems.filter(p =>
+          p.companies.some(c => formData.targetCompanies.includes(c))
+        );
+
+        // Filter by focus topics if specified
+        if (focusTopics && focusTopics.length > 0) {
+          filtered = filtered.filter(p =>
+            p.topics.some(t => focusTopics.some(ft =>
+              t.toLowerCase().includes(ft.toLowerCase())
+            ))
+          );
+        }
+
+        // Filter by difficulty based on skill level
+        if (formData.skillLevel === 'beginner') {
+          filtered = filtered.filter(p => p.difficulty !== 'HARD');
+        }
+
+        // Sort by frequency (higher first)
+        filtered.sort((a, b) => (b.frequency || 0) - (a.frequency || 0));
+
+        // Convert to ProblemData format
+        availableProblems = filtered.slice(0, requestedTotal * 2).map(item => ({
+          title: item.title,
+          difficulty: (item.difficulty as 'EASY' | 'MEDIUM' | 'HARD' | 'UNKNOWN') || 'UNKNOWN',
+          topics: item.topics,
+          company: item.companies.find(c => formData.targetCompanies.includes(c)) || item.companies[0] || '',
+          link: item.link || undefined,
+          frequency: item.frequency,
+          acceptanceRate: item.acceptanceRate,
+          timeframe: 'custom',
+          totalFrequency: item.frequency,
+          companyCount: item.companyCount,
+        }));
+      } else {
+        // API mode - existing behavior
+        const response = await apiClient.getStudyPlanRecommendations({
+          companies: formData.targetCompanies,
+          focus_topics: focusTopics,
+          skill_level: formData.skillLevel,
+          duration_weeks: durationWeeks,
+          daily_goal: dailyGoal,
+          balance_companies: true,
+          max_per_company: undefined,
+        });
+
+        const payload = response.data as StudyPlanRecommendationResponse;
+        const recommendations = Array.isArray(payload?.recommendations)
+          ? payload.recommendations
+          : [];
+
+        if (recommendations.length === 0) {
+          throw new Error('No suitable problems were returned. Try adjusting your filters.');
+        }
+
+        requestedTotal = payload?.requested_count ?? requestedTotal;
+        availableProblems = recommendations.map((item) => ({
+          title: item.title,
+          difficulty: (item.difficulty as 'EASY' | 'MEDIUM' | 'HARD' | 'UNKNOWN') || 'UNKNOWN',
+          topics: Array.isArray(item.topics) ? item.topics : [],
+          company: item.recommended_company || (Array.isArray(item.companies) ? item.companies[0] : formData.targetCompanies[0] || ''),
+          link: item.link || undefined,
+          frequency: typeof item.frequency === 'number' ? item.frequency : undefined,
+          acceptanceRate: typeof item.acceptance_rate === 'number' ? item.acceptance_rate : undefined,
+          timeframe: 'custom',
+          totalFrequency: typeof item.frequency === 'number' ? item.frequency : undefined,
+          companyCount: Array.isArray(item.companies) ? item.companies.length : undefined,
+        }));
       }
 
-      const requestedTotal = payload?.requested_count ?? (durationWeeks * 7 * dailyGoal);
-      const availableProblems: ProblemData[] = recommendations.map((item) => ({
-        title: item.title,
-        difficulty: (item.difficulty as 'EASY' | 'MEDIUM' | 'HARD' | 'UNKNOWN') || 'UNKNOWN',
-        topics: Array.isArray(item.topics) ? item.topics : [],
-        company: item.recommended_company || (Array.isArray(item.companies) ? item.companies[0] : formData.targetCompanies[0] || ''),
-        link: item.link || undefined,
-        frequency: typeof item.frequency === 'number' ? item.frequency : undefined,
-        acceptanceRate: typeof item.acceptance_rate === 'number' ? item.acceptance_rate : undefined,
-        timeframe: 'custom',
-        totalFrequency: typeof item.frequency === 'number' ? item.frequency : undefined,
-        companyCount: Array.isArray(item.companies) ? item.companies.length : undefined,
-      }));
-
       if (availableProblems.length === 0) {
-        throw new Error('Unable to build a study plan with the current selection.');
+        throw new Error('No suitable problems were found. Try adjusting your filters.');
       }
 
       const trimmedProblems = availableProblems.slice(0, requestedTotal);
-      const actualSelected = Math.min(
-        trimmedProblems.length,
-        typeof payload.selected_count === 'number' ? payload.selected_count : trimmedProblems.length
-      );
+      const actualSelected = trimmedProblems.length;
 
-      const finalProblems = trimmedProblems.slice(0, actualSelected);
+      const finalProblems = trimmedProblems;
 
       const effectiveDays = Math.max(1, Math.ceil(actualSelected / Math.max(dailyGoal, 1)));
       const adjustedDurationWeeks = Math.max(1, Math.ceil(effectiveDays / 7));
@@ -149,25 +203,20 @@ export function StudyPlannerPage() {
 
       // Save the plan
       studyPlanService.saveStudyPlan(newPlan);
-      
+
       // Update local state
       setStudyPlans(prev => [...prev, newPlan]);
       setSelectedPlan(newPlan);
       setViewMode('view');
 
-      const requestedCount = payload?.requested_count ?? requestedTotal;
       const messageParts: string[] = [];
-      if (actualSelected < requestedCount) {
+      if (actualSelected < requestedTotal) {
         messageParts.push(
-          `Study plan created with ${actualSelected} problems (requested ${requestedCount}).`
+          `Study plan created with ${actualSelected} problems (requested ${requestedTotal}).`
         );
         messageParts.push(`Duration adjusted to ${adjustedDurationWeeks} week(s).`);
       } else {
         messageParts.push(`Study plan created with ${actualSelected} problems.`);
-      }
-
-      if (typeof payload.available_pool === 'number') {
-        messageParts.push(`Available pool size: ${payload.available_pool}`);
       }
 
       const summaryMessage = messageParts.join(' ');

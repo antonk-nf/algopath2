@@ -138,6 +138,10 @@ def export_static(environment: Optional[str], root_path: Optional[str], output: 
         click.echo("Exporting all problems...")
         _export_all_problems(unified_df, output_path)
 
+        # Export problem previews from LeetCode metadata
+        click.echo("Exporting problem previews...")
+        _export_problem_previews(output_path)
+
         # Export pre-generated study plans
         click.echo("Exporting pre-generated study plans...")
         _export_study_plans(unified_df, output_path)
@@ -533,6 +537,66 @@ def _export_study_plans(unified_df: pd.DataFrame, output_path: Path):
     _write_json(plans_path / 'top-100-must-do.json', top_100_plan)
 
     click.echo(f"  Exported 4 study plans")
+
+
+def _export_problem_previews(output_path: Path):
+    """Export problem previews from LeetCode metadata."""
+    problems_path = output_path / 'problems'
+    problems_path.mkdir(parents=True, exist_ok=True)
+
+    # Try to load leetcode_metadata.parquet
+    metadata_path = Path('leetcode_metadata.parquet')
+    if not metadata_path.exists():
+        click.echo("  Warning: leetcode_metadata.parquet not found, skipping problem previews", err=True)
+        click.echo("  Run 'python cli.py data fetch-leetcode-metadata' to fetch problem metadata", err=True)
+        return
+
+    try:
+        df = pd.read_parquet(metadata_path)
+
+        # Build a dictionary keyed by titleslug
+        previews = {}
+        for _, row in df.iterrows():
+            slug = row.get('titleslug', '')
+            if not slug:
+                continue
+
+            # Parse topic tags
+            topic_tags = []
+            raw_tags = row.get('topictags')
+            if raw_tags is not None:
+                if isinstance(raw_tags, (list, tuple)):
+                    for tag in raw_tags:
+                        if isinstance(tag, dict):
+                            topic_tags.append({
+                                'name': tag.get('name', ''),
+                                'slug': tag.get('slug', '')
+                            })
+                        elif isinstance(tag, str):
+                            topic_tags.append({'name': tag, 'slug': _slugify(tag)})
+
+            preview = {
+                'title': row.get('title', ''),
+                'titleSlug': slug,
+                'questionId': row.get('questionfrontendid'),
+                'difficulty': str(row.get('difficulty', 'Unknown')),
+                'content_html': row.get('content_html'),
+                'content_text': row.get('content_text'),
+                'topic_tags': topic_tags,
+                'ac_rate': float(row['acrate']) if pd.notna(row.get('acrate')) else None,
+                'likes': int(row['likes']) if pd.notna(row.get('likes')) else None,
+                'dislikes': int(row['dislikes']) if pd.notna(row.get('dislikes')) else None,
+                'is_paid_only': bool(row.get('ispaidonly', False)),
+                'has_solution': bool(row.get('hassolution', False)),
+                'has_video_solution': bool(row.get('hasvideosolution', False)),
+            }
+            previews[slug] = preview
+
+        _write_json(problems_path / 'previews.json', previews)
+        click.echo(f"  Exported {len(previews)} problem previews")
+
+    except Exception as e:
+        click.echo(f"  Warning: Could not export problem previews: {e}", err=True)
 
 
 def _create_study_plan(name: str, description: str, duration_weeks: int,

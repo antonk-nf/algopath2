@@ -1,4 +1,5 @@
 import { apiClient, ApiClientError } from './apiClient';
+import { staticDataService } from './staticDataService';
 import type { ProblemPreview, ProblemPreviewResponse } from '../types';
 
 // Check if running in static mode (no API server)
@@ -13,11 +14,19 @@ const isStaticMode = (): boolean => {
 };
 
 export async function fetchProblemPreview(slug: string, problemData?: { acceptanceRate?: number; topics?: string[] }): Promise<ProblemPreview> {
-  // In static mode, return a placeholder with available data
+  // In static mode, load from static preview data
   if (isStaticMode()) {
-    // Build topic_tags from topics array if available
-    const topic_tags = problemData?.topics?.map(t => ({ name: t, slug: t.toLowerCase().replace(/\s+/g, '-') })) || [];
+    try {
+      const preview = await staticDataService.loadProblemPreview(slug);
+      if (preview) {
+        return preview as unknown as ProblemPreview;
+      }
+    } catch (error) {
+      console.warn('Failed to load static preview for', slug, error);
+    }
 
+    // Fallback: return placeholder with available data
+    const topic_tags = problemData?.topics?.map(t => ({ name: t, slug: t.toLowerCase().replace(/\s+/g, '-') })) || [];
     return {
       title: slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase()),
       titleSlug: slug,

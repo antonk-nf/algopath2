@@ -38,10 +38,14 @@ import {
   Bookmark as BookmarkedIcon,
   Dashboard as DashboardIcon,
   Schedule as ScheduleIcon,
-  Article as ArticleIcon
+  Article as ArticleIcon,
+  Download as DownloadIcon,
+  CalendarMonth as CalendarIcon,
+  Print as PrintIcon
 } from '@mui/icons-material';
 import type { StudyPlan, StudySession, StudyProblem, ProblemData } from '../../types';
 import { studyPlanService } from '../../services/studyPlanService';
+import { ExportService } from '../../services/exportService';
 import { StudyProgressDashboard } from './StudyProgressDashboard';
 import { ProblemPreviewDrawer } from '../Common/ProblemPreviewDrawer';
 
@@ -251,17 +255,63 @@ export function StudyPlanView({ studyPlan, onUpdate, onDelete }: StudyPlanViewPr
                 ))}
               </Stack>
             </Box>
-            <Box sx={{ display: 'flex', gap: 1 }}>
-              <IconButton size="small" color="primary">
-                <EditIcon />
-              </IconButton>
-              <IconButton 
-                size="small" 
-                color="error"
-                onClick={() => onDelete(studyPlan.id)}
-              >
-                <DeleteIcon />
-              </IconButton>
+            <Box sx={{ display: 'flex', gap: 1 }} className="no-print">
+              <Tooltip title="Print / Save as PDF">
+                <IconButton
+                  size="small"
+                  color="primary"
+                  onClick={() => window.print()}
+                >
+                  <PrintIcon />
+                </IconButton>
+              </Tooltip>
+              <Tooltip title="Add to Calendar (.ics)">
+                <IconButton
+                  size="small"
+                  color="secondary"
+                  onClick={() => ExportService.exportStudyPlanToICS(studyPlan)}
+                >
+                  <CalendarIcon />
+                </IconButton>
+              </Tooltip>
+              <Tooltip title="Export as JSON">
+                <IconButton
+                  size="small"
+                  color="primary"
+                  onClick={() => {
+                    const exportData = JSON.stringify({
+                      exportDate: new Date().toISOString(),
+                      version: '1.0',
+                      studyPlans: [studyPlan]
+                    }, null, 2);
+                    const blob = new Blob([exportData], { type: 'application/json' });
+                    const url = URL.createObjectURL(blob);
+                    const a = document.createElement('a');
+                    a.href = url;
+                    a.download = `study-plan-${studyPlan.name.replace(/\s+/g, '-').toLowerCase()}-${new Date().toISOString().split('T')[0]}.json`;
+                    document.body.appendChild(a);
+                    a.click();
+                    document.body.removeChild(a);
+                    URL.revokeObjectURL(url);
+                  }}
+                >
+                  <DownloadIcon />
+                </IconButton>
+              </Tooltip>
+              <Tooltip title="Edit plan">
+                <IconButton size="small" color="primary">
+                  <EditIcon />
+                </IconButton>
+              </Tooltip>
+              <Tooltip title="Delete plan">
+                <IconButton
+                  size="small"
+                  color="error"
+                  onClick={() => onDelete(studyPlan.id)}
+                >
+                  <DeleteIcon />
+                </IconButton>
+              </Tooltip>
             </Box>
           </Box>
 

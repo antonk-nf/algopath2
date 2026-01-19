@@ -157,9 +157,15 @@ class TopicService {
   }
 
   async getTopicHeatmap(topTopics: number = 20, companies?: string[]): Promise<TopicHeatmap> {
-    // Use static data in static mode (ignores companies filter for now)
+    // Use static data in static mode
     if (isStaticMode()) {
       try {
+        // If specific companies are requested, compute heatmap client-side
+        if (companies && companies.length > 0) {
+          return await this.computeHeatmapClientSide(topTopics, companies);
+        }
+
+        // Otherwise use pre-generated heatmap for top companies
         const heatmap = await staticDataService.loadTopicHeatmap();
         // Limit topics if requested
         if (topTopics && topTopics < heatmap.topics.length) {
@@ -206,6 +212,66 @@ class TopicService {
       const message = error instanceof ApiClientError ? error.message : 'Topic heatmap endpoint unavailable';
       throw new Error(message);
     }
+  }
+
+  /**
+   * Compute heatmap data client-side from all problems data.
+   * Used when specific companies are requested that may not be in the pre-generated heatmap.
+   */
+  private async computeHeatmapClientSide(topTopics: number, companies: string[]): Promise<TopicHeatmap> {
+    const allProblems = await staticDataService.loadAllProblems();
+
+    // Count topic frequencies across all problems for selected companies
+    const topicCounts: Record<string, number> = {};
+    const topicCompanyCounts: Record<string, Record<string, number>> = {};
+
+    for (const problem of allProblems) {
+      // Check if problem belongs to any of the selected companies
+      const matchingCompanies = problem.companies.filter(c => companies.includes(c));
+      if (matchingCompanies.length === 0) continue;
+
+      for (const topic of problem.topics) {
+        // Track total topic count
+        topicCounts[topic] = (topicCounts[topic] || 0) + 1;
+
+        // Track per-company counts
+        if (!topicCompanyCounts[topic]) {
+          topicCompanyCounts[topic] = {};
+        }
+        for (const company of matchingCompanies) {
+          topicCompanyCounts[topic][company] = (topicCompanyCounts[topic][company] || 0) + 1;
+        }
+      }
+    }
+
+    // Get top topics by total count
+    const sortedTopics = Object.entries(topicCounts)
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, topTopics)
+      .map(([topic]) => topic);
+
+    // Build the matrix: rows = topics, columns = companies
+    const matrix: number[][] = sortedTopics.map(topic => {
+      return companies.map(company => {
+        return topicCompanyCounts[topic]?.[company] || 0;
+      });
+    });
+
+    // Calculate totals
+    const topicTotals = sortedTopics.map(topic => topicCounts[topic] || 0);
+    const companyTotals = companies.map(company => {
+      return sortedTopics.reduce((sum, topic) => {
+        return sum + (topicCompanyCounts[topic]?.[company] || 0);
+      }, 0);
+    });
+
+    return {
+      topics: sortedTopics,
+      companies: companies,
+      matrix,
+      topicTotals,
+      companyTotals,
+    };
   }
 }
 

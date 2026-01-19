@@ -139,6 +139,73 @@ export class ExportService {
     this.downloadFile(jsonContent, filename, 'application/json');
   }
 
+  /**
+   * Export study plan to ICS calendar format
+   * Creates calendar events for each problem in the study plan
+   */
+  static exportStudyPlanToICS(studyPlan: StudyPlan): void {
+    const formatICSDate = (date: Date): string => {
+      return date.toISOString().replace(/[-:]/g, '').split('.')[0] + 'Z';
+    };
+
+    const escapeICSText = (text: string): string => {
+      return text
+        .replace(/\\/g, '\\\\')
+        .replace(/,/g, '\\,')
+        .replace(/;/g, '\\;')
+        .replace(/\n/g, '\\n');
+    };
+
+    let ics = [
+      'BEGIN:VCALENDAR',
+      'VERSION:2.0',
+      'PRODID:-//LeetCode Interview Prep//EN',
+      'CALSCALE:GREGORIAN',
+      'METHOD:PUBLISH',
+      `X-WR-CALNAME:${escapeICSText(studyPlan.name)}`,
+    ].join('\r\n') + '\r\n';
+
+    studyPlan.schedule.forEach((session, dayIndex) => {
+      session.problems.forEach((problem, problemIndex) => {
+        // Parse session date and set start time (9 AM)
+        const sessionDate = new Date(session.date);
+        sessionDate.setHours(9 + problemIndex, 0, 0, 0); // Stagger problems by 1 hour
+
+        // End time is 1 hour after start
+        const endDate = new Date(sessionDate);
+        endDate.setHours(endDate.getHours() + 1);
+
+        const uid = `${studyPlan.id}-day${dayIndex}-p${problemIndex}@leetcode-prep`;
+        const summary = `LeetCode: ${problem.title} (${problem.difficulty})`;
+        const description = [
+          `Topics: ${problem.topics.join(', ')}`,
+          `Company: ${problem.company}`,
+          problem.link ? `Link: ${problem.link}` : '',
+          `Status: ${problem.status}`,
+        ].filter(Boolean).join('\\n');
+
+        ics += [
+          'BEGIN:VEVENT',
+          `UID:${uid}`,
+          `DTSTAMP:${formatICSDate(new Date())}`,
+          `DTSTART:${formatICSDate(sessionDate)}`,
+          `DTEND:${formatICSDate(endDate)}`,
+          `SUMMARY:${escapeICSText(summary)}`,
+          `DESCRIPTION:${escapeICSText(description)}`,
+          problem.link ? `URL:${problem.link}` : '',
+          `CATEGORIES:LeetCode,${problem.difficulty}`,
+          'STATUS:CONFIRMED',
+          'END:VEVENT',
+        ].filter(Boolean).join('\r\n') + '\r\n';
+      });
+    });
+
+    ics += 'END:VCALENDAR\r\n';
+
+    const filename = `study-plan-${studyPlan.name.replace(/\s+/g, '-').toLowerCase()}-${this.getDateString()}.ics`;
+    this.downloadFile(ics, filename, 'text/calendar');
+  }
+
   static async importStudyPlans(file: File): Promise<StudyPlan[]> {
     return new Promise((resolve, reject) => {
       const reader = new FileReader();

@@ -66,3 +66,136 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+/* Print Styles for Study Plan */
+@media print {
+  /* Hide non-essential elements */
+  .no-print,
+  nav,
+  header,
+  footer,
+  .MuiDrawer-root,
+  .MuiAppBar-root,
+  .MuiBottomNavigation-root,
+  .MuiTabs-root,
+  .MuiIconButton-root,
+  .MuiButton-root,
+  .MuiAlert-root,
+  [role="tabpanel"][hidden] {
+    display: none !important;
+  }
+
+  /* Reset page styling */
+  body {
+    background: white !important;
+    color: black !important;
+    font-size: 12pt;
+    line-height: 1.4;
+    margin: 0;
+    padding: 0;
+  }
+
+  /* Reset MUI container */
+  .MuiContainer-root {
+    max-width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  /* Card styling for print */
+  .MuiCard-root {
+    box-shadow: none !important;
+    border: 1px solid #ddd !important;
+    break-inside: avoid;
+    margin-bottom: 16pt !important;
+  }
+
+  .MuiCardContent-root {
+    padding: 12pt !important;
+  }
+
+  /* Typography adjustments */
+  .MuiTypography-h4,
+  .MuiTypography-h5 {
+    font-size: 16pt !important;
+    margin-bottom: 8pt !important;
+  }
+
+  .MuiTypography-h6 {
+    font-size: 14pt !important;
+  }
+
+  .MuiTypography-body1,
+  .MuiTypography-body2 {
+    font-size: 11pt !important;
+  }
+
+  /* Chip styling */
+  .MuiChip-root {
+    border: 1px solid #666 !important;
+    background: transparent !important;
+    font-size: 9pt !important;
+    height: auto !important;
+    padding: 2pt 4pt !important;
+  }
+
+  /* Accordion - expand all for print */
+  .MuiAccordion-root {
+    box-shadow: none !important;
+    border: 1px solid #ddd !important;
+    margin-bottom: 8pt !important;
+  }
+
+  .MuiAccordionSummary-root {
+    min-height: auto !important;
+    padding: 8pt !important;
+  }
+
+  .MuiAccordionDetails-root {
+    padding: 8pt !important;
+    display: block !important;
+  }
+
+  .MuiCollapse-root {
+    height: auto !important;
+    visibility: visible !important;
+  }
+
+  .MuiCollapse-wrapper {
+    display: block !important;
+  }
+
+  /* List items */
+  .MuiListItem-root {
+    padding: 4pt 0 !important;
+    border-bottom: 1px solid #eee;
+  }
+
+  /* Progress bars */
+  .MuiLinearProgress-root {
+    height: 8pt !important;
+    border: 1px solid #ddd;
+  }
+
+  /* Links */
+  a {
+    color: black !important;
+    text-decoration: underline !important;
+  }
+
+  /* Page breaks */
+  h1, h2, h3, h4, h5, h6 {
+    break-after: avoid;
+  }
+
+  /* Ensure content fits on page */
+  * {
+    overflow: visible !important;
+  }
+
+  /* Print header */
+  @page {
+    margin: 0.75in;
+    size: letter;
+  }
+}

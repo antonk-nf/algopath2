@@ -143,10 +143,35 @@ export function StudyPlanList({ studyPlans, onSelect, onDelete, onCreateNew, onR
 
   return (
     <Box>
+      {/* Important: Export Reminder */}
+      <Alert
+        severity="info"
+        icon={<DownloadIcon />}
+        sx={{ mb: 3, bgcolor: 'primary.50' }}
+        action={
+          <Button
+            color="primary"
+            variant="contained"
+            size="small"
+            onClick={handleExport}
+            startIcon={<DownloadIcon />}
+          >
+            Export Now
+          </Button>
+        }
+      >
+        <Typography variant="subtitle2" sx={{ fontWeight: 600 }}>
+          Save your progress!
+        </Typography>
+        <Typography variant="body2">
+          Study plans are stored in your browser. Export regularly to avoid losing your progress.
+        </Typography>
+      </Alert>
+
       {/* Storage Warning */}
       {storageWarning && (
-        <Alert 
-          severity="warning" 
+        <Alert
+          severity="warning"
           icon={<WarningIcon />}
           sx={{ mb: 3 }}
           action={

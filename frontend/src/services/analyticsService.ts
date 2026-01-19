@@ -236,7 +236,30 @@ class AnalyticsService {
    */
   async getAnalyticsInsights(companies?: string[], limit?: number): Promise<AnalyticsInsightsResponse> {
     const cacheKey = `analytics_insights_${companies?.join(',') || 'all'}_${limit || 'default'}`;
-    
+
+    // In static mode, return empty insights (not pre-computed)
+    if (isStaticMode()) {
+      return {
+        key_findings: [],
+        trending_topics: [],
+        emerging_patterns: [],
+        recommendations: [],
+        metadata: {
+          analysis_date: new Date().toISOString(),
+          data_coverage: {
+            companies: 0,
+            problems: 0,
+            unique_problems: 0,
+            timeframes: [],
+          },
+        },
+        insights: [],
+        totalInsights: 0,
+        categories: [],
+        confidence: { high: 0, medium: 0, low: 0 },
+      };
+    }
+
     // Try cache first (5 minute cache for insights)
     const cached = cacheService.get<AnalyticsInsightsResponse>(cacheKey);
     if (cached) {
@@ -246,10 +269,10 @@ class AnalyticsService {
     try {
       const response = await apiClient.getAnalyticsInsights(companies, limit);
       const transformedData = this.transformAnalyticsInsights(response.data);
-      
+
       // Cache for 5 minutes (moderate speed endpoint)
       cacheService.set(cacheKey, transformedData, this.cacheTimeout);
-      
+
       return transformedData;
     } catch (error) {
       console.error('Failed to fetch analytics insights:', error);
@@ -266,8 +289,29 @@ class AnalyticsService {
       throw new Error(`Too many companies selected. Maximum ${DEFAULT_ANALYTICS_CONFIG.maxCorrelationCompanies} allowed for correlation analysis.`);
     }
 
+    // In static mode, return empty correlation data (not pre-computed)
+    if (isStaticMode()) {
+      return {
+        correlations: [],
+        correlation_matrix: {},
+        metadata: {
+          analysis_date: new Date().toISOString(),
+          companies_analyzed: companies,
+          correlation_method: metric,
+          total_correlations: 0,
+        },
+        companies,
+        metrics: [metric],
+        summary: {
+          totalPairs: 0,
+          avgCorrelation: 0,
+          strongCorrelations: 0,
+        },
+      };
+    }
+
     const cacheKey = `analytics_correlations_${metric}_${companies.sort().join(',')}`;
-    
+
     // Try cache first (10 minute cache for slow endpoint)
     const cached = cacheService.get<AnalyticsCorrelationResponse>(cacheKey);
     if (cached) {
@@ -277,10 +321,10 @@ class AnalyticsService {
     try {
       const response = await apiClient.getAnalyticsCorrelations(companies, metric);
       const transformedData = this.transformAnalyticsCorrelations(response.data);
-      
+
       // Cache for 10 minutes (slow endpoint)
       cacheService.set(cacheKey, transformedData, 10 * 60 * 1000);
-      
+
       return transformedData;
     } catch (error) {
       console.error('Failed to fetch correlation analysis:', error);
@@ -299,8 +343,13 @@ class AnalyticsService {
       throw new Error('Maximum 10 companies allowed for comparison');
     }
 
+    // In static mode, compute comparison from static company data
+    if (isStaticMode()) {
+      return this.computeCompanyComparisonStatic(companies);
+    }
+
     const cacheKey = `company_comparison_${companies.sort().join(',')}`;
-    
+
     // Try cache first (5 minute cache)
     const cached = cacheService.get<CompanyComparison>(cacheKey);
     if (cached) {
@@ -310,15 +359,75 @@ class AnalyticsService {
     try {
       const response = await apiClient.compareCompanies(companies);
       const transformedData = this.transformCompanyComparison(response.data);
-      
+
       // Cache for 5 minutes (fast endpoint)
       cacheService.set(cacheKey, transformedData, this.cacheTimeout);
-      
+
       return transformedData;
     } catch (error) {
       console.error('Failed to compare companies:', error);
       throw error;
     }
+  }
+
+  /**
+   * Compute company comparison from static data
+   */
+  private async computeCompanyComparisonStatic(companies: string[]): Promise<CompanyComparison> {
+    const allCompanyStats = await staticDataService.loadCompanyStats();
+
+    const company_statistics: CompanyComparison['company_statistics'] = {};
+    const totalProblems: Record<string, number> = {};
+    const uniqueProblems: Record<string, number> = {};
+    const avgFrequency: Record<string, number> = {};
+    const difficultyDistribution: Record<string, { EASY: number; MEDIUM: number; HARD: number; UNKNOWN: number }> = {};
+    const topTopics: Record<string, string[]> = {};
+
+    for (const name of companies) {
+      const stats = allCompanyStats.find(c =>
+        c.company.toLowerCase() === name.toLowerCase()
+      );
+      company_statistics[name] = {
+        total_problems: stats?.totalProblems || 0,
+        unique_problems: stats?.uniqueProblems || 0,
+        avg_frequency: stats?.avgFrequency || 0,
+        avg_acceptance_rate: stats?.avgAcceptanceRate || 0,
+        difficulty_distribution: stats?.difficultyDistribution || { EASY: 0, MEDIUM: 0, HARD: 0 },
+        timeframe_coverage: [],
+      };
+      totalProblems[name] = stats?.totalProblems || 0;
+      uniqueProblems[name] = stats?.uniqueProblems || 0;
+      avgFrequency[name] = stats?.avgFrequency || 0;
+      difficultyDistribution[name] = {
+        EASY: stats?.difficultyDistribution?.EASY || 0,
+        MEDIUM: stats?.difficultyDistribution?.MEDIUM || 0,
+        HARD: stats?.difficultyDistribution?.HARD || 0,
+        UNKNOWN: stats?.difficultyDistribution?.UNKNOWN || 0,
+      };
+      topTopics[name] = stats?.topTopics || [];
+    }
+
+    return {
+      company_statistics,
+      problem_overlaps: {},
+      topic_similarities: {},
+      summary: {
+        companies_compared: companies.length,
+        total_problems_across_companies: Object.values(totalProblems).reduce((a, b) => a + b, 0),
+        most_similar_pair: [companies[0] || '', null],
+        least_similar_pair: [companies[0] || '', null],
+      },
+      companies,
+      metrics: {
+        totalProblems,
+        uniqueProblems,
+        avgFrequency,
+        difficultyDistribution,
+        topTopics,
+      },
+      similarities: [],
+      recommendations: [],
+    };
   }
 
   /**
