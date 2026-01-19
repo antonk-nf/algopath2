@@ -1,0 +1,318 @@
+{
+  "company": "Verkada",
+  "stats": {
+    "totalProblems": 15,
+    "uniqueProblems": 15,
+    "avgFrequency": 78.79166666666667,
+    "avgAcceptanceRate": 0.5710948305966672,
+    "difficultyDistribution": {
+      "EASY": 8,
+      "MEDIUM": 17,
+      "HARD": 11,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Maximum Profit in Job Scheduling",
+      "titleSlug": "maximum-profit-in-job-scheduling",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5441727193976145,
+      "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Dynamic Programming",
+        "Sorting"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "30d",
+        "3m"
+      ]
+    },
+    {
+      "title": "Snapshot Array",
+      "titleSlug": "snapshot-array",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.366655740635895,
+      "link": "https://leetcode.com/problems/snapshot-array",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Binary Search",
+        "Design"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Diameter of Binary Tree",
+      "titleSlug": "diameter-of-binary-tree",
+      "difficulty": "EASY",
+      "frequency": 90.5,
+      "acceptanceRate": 0.6358628987039221,
+      "link": "https://leetcode.com/problems/diameter-of-binary-tree",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Non-overlapping Intervals",
+      "titleSlug": "non-overlapping-intervals",
+      "difficulty": "MEDIUM",
+      "frequency": 90.5,
+      "acceptanceRate": 0.5550325870996576,
+      "link": "https://leetcode.com/problems/non-overlapping-intervals",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy",
+        "Sorting"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "30d",
+        "3m"
+      ]
+    },
+    {
+      "title": "Interval List Intersections",
+      "titleSlug": "interval-list-intersections",
+      "difficulty": "MEDIUM",
+      "frequency": 84.6,
+      "acceptanceRate": 0.7267728615564074,
+      "link": "https://leetcode.com/problems/interval-list-intersections",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Line Sweep"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Basic Calculator II",
+      "titleSlug": "basic-calculator-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 84.6,
+      "acceptanceRate": 0.45811755825176165,
+      "link": "https://leetcode.com/problems/basic-calculator-ii",
+      "topics": [
+        "Math",
+        "String",
+        "Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Guess the Word",
+      "titleSlug": "guess-the-word",
+      "difficulty": "HARD",
+      "frequency": 79.7,
+      "acceptanceRate": 0.37651627943192456,
+      "link": "https://leetcode.com/problems/guess-the-word",
+      "topics": [
+        "Array",
+        "Math",
+        "String",
+        "Interactive",
+        "Game Theory"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Merge k Sorted Lists",
+      "titleSlug": "merge-k-sorted-lists",
+      "difficulty": "HARD",
+      "frequency": 73.3,
+      "acceptanceRate": 0.5677425213018046,
+      "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+      "topics": [
+        "Linked List",
+        "Divide and Conquer",
+        "Heap (Priority Queue)",
+        "Merge Sort"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Transpose Matrix",
+      "titleSlug": "transpose-matrix",
+      "difficulty": "EASY",
+      "frequency": 73.3,
+      "acceptanceRate": 0.7432867206392598,
+      "link": "https://leetcode.com/problems/transpose-matrix",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Image Smoother",
+      "titleSlug": "image-smoother",
+      "difficulty": "EASY",
+      "frequency": 64.3,
+      "acceptanceRate": 0.6837229689163258,
+      "link": "https://leetcode.com/problems/image-smoother",
+      "topics": [
+        "Array",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Time Based Key-Value Store",
+      "titleSlug": "time-based-key-value-store",
+      "difficulty": "MEDIUM",
+      "frequency": 64.3,
+      "acceptanceRate": 0.49366391503965124,
+      "link": "https://leetcode.com/problems/time-based-key-value-store",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Binary Search",
+        "Design"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Remove Sub-Folders from the Filesystem",
+      "titleSlug": "remove-sub-folders-from-the-filesystem",
+      "difficulty": "MEDIUM",
+      "frequency": 64.3,
+      "acceptanceRate": 0.7574624821995838,
+      "link": "https://leetcode.com/problems/remove-sub-folders-from-the-filesystem",
+      "topics": [
+        "Array",
+        "String",
+        "Depth-First Search",
+        "Trie"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Basic Calculator III",
+      "titleSlug": "basic-calculator-iii",
+      "difficulty": "HARD",
+      "frequency": 64.3,
+      "acceptanceRate": 0.5246933031589953,
+      "link": "https://leetcode.com/problems/basic-calculator-iii",
+      "topics": [
+        "Math",
+        "String",
+        "Stack",
+        "Recursion"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "LRU Cache",
+      "titleSlug": "lru-cache",
+      "difficulty": "MEDIUM",
+      "frequency": 64.3,
+      "acceptanceRate": 0.4521483770727891,
+      "link": "https://leetcode.com/problems/lru-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of 1 Bits",
+      "titleSlug": "number-of-1-bits",
+      "difficulty": "EASY",
+      "frequency": 64.3,
+      "acceptanceRate": 0.7450480575885099,
+      "link": "https://leetcode.com/problems/number-of-1-bits",
+      "topics": [
+        "Divide and Conquer",
+        "Bit Manipulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Dynamic Programming",
+    "Sorting",
+    "String",
+    "Binary Search",
+    "Hash Table",
+    "Design",
+    "Math",
+    "Greedy",
+    "Depth-First Search",
+    "Stack",
+    "Linked List",
+    "Divide and Conquer",
+    "Matrix",
+    "Tree"
+  ]
+}

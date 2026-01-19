@@ -1,0 +1,77 @@
+{
+  "company": "Softwire",
+  "stats": {
+    "totalProblems": 3,
+    "uniqueProblems": 3,
+    "avgFrequency": 90.78333333333335,
+    "avgAcceptanceRate": 0.41580189836803944,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 4,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Longest Palindromic Substring",
+      "titleSlug": "longest-palindromic-substring",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.358462743054626,
+      "link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Second Largest Digit in a String",
+      "titleSlug": "second-largest-digit-in-a-string",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5195807566202576,
+      "link": "https://leetcode.com/problems/second-largest-digit-in-a-string",
+      "topics": [
+        "Hash Table",
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Substring Without Repeating Characters",
+      "titleSlug": "longest-substring-without-repeating-characters",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.3693621659195223,
+      "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "String",
+    "Hash Table",
+    "Two Pointers",
+    "Dynamic Programming",
+    "Sliding Window"
+  ]
+}

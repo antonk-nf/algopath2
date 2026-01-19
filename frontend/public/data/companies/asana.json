@@ -1,0 +1,88 @@
+{
+  "company": "Asana",
+  "stats": {
+    "totalProblems": 3,
+    "uniqueProblems": 3,
+    "avgFrequency": 85.79999999999998,
+    "avgAcceptanceRate": 0.5978036414206487,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 5,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Product of Array Except Self",
+      "titleSlug": "product-of-array-except-self",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.677800810058164,
+      "link": "https://leetcode.com/problems/product-of-array-except-self",
+      "topics": [
+        "Array",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "K Closest Points to Origin",
+      "titleSlug": "k-closest-points-to-origin",
+      "difficulty": "MEDIUM",
+      "frequency": 81.2,
+      "acceptanceRate": 0.6793970834941822,
+      "link": "https://leetcode.com/problems/k-closest-points-to-origin",
+      "topics": [
+        "Array",
+        "Math",
+        "Divide and Conquer",
+        "Geometry",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Quickselect"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Repeating Substring",
+      "titleSlug": "maximum-repeating-substring",
+      "difficulty": "EASY",
+      "frequency": 56.4,
+      "acceptanceRate": 0.3962144463908421,
+      "link": "https://leetcode.com/problems/maximum-repeating-substring",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "String Matching"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Prefix Sum",
+    "Math",
+    "Divide and Conquer",
+    "Geometry",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Quickselect",
+    "String",
+    "Dynamic Programming",
+    "String Matching"
+  ]
+}

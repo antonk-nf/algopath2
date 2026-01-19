@@ -1,0 +1,82 @@
+{
+  "company": "Careem",
+  "stats": {
+    "totalProblems": 3,
+    "uniqueProblems": 3,
+    "avgFrequency": 94.73333333333333,
+    "avgAcceptanceRate": 0.5401889035735551,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 4,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Design Hit Counter",
+      "titleSlug": "design-hit-counter",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6920831928267657,
+      "link": "https://leetcode.com/problems/design-hit-counter",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Design",
+        "Queue",
+        "Data Stream"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5577709298430229,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "3Sum",
+      "titleSlug": "3sum",
+      "difficulty": "MEDIUM",
+      "frequency": 89.8,
+      "acceptanceRate": 0.3707125880508768,
+      "link": "https://leetcode.com/problems/3sum",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Binary Search",
+    "Design",
+    "Queue",
+    "Data Stream",
+    "Hash Table",
+    "Two Pointers",
+    "Sorting"
+  ]
+}

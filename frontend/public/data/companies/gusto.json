@@ -1,0 +1,88 @@
+{
+  "company": "Gusto",
+  "stats": {
+    "totalProblems": 3,
+    "uniqueProblems": 3,
+    "avgFrequency": 94.65555555555555,
+    "avgAcceptanceRate": 0.44724527557629457,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 6,
+      "HARD": 3,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Time Based Key-Value Store",
+      "titleSlug": "time-based-key-value-store",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4936643028745622,
+      "link": "https://leetcode.com/problems/time-based-key-value-store",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Binary Search",
+        "Design"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Integer to English Words",
+      "titleSlug": "integer-to-english-words",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.34354789501950295,
+      "link": "https://leetcode.com/problems/integer-to-english-words",
+      "topics": [
+        "Math",
+        "String",
+        "Recursion"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Add Bold Tag in String",
+      "titleSlug": "add-bold-tag-in-string",
+      "difficulty": "MEDIUM",
+      "frequency": 92.1,
+      "acceptanceRate": 0.5099532918149466,
+      "link": "https://leetcode.com/problems/add-bold-tag-in-string",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Trie",
+        "String Matching"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "String",
+    "Hash Table",
+    "Binary Search",
+    "Design",
+    "Math",
+    "Recursion",
+    "Array",
+    "Trie",
+    "String Matching"
+  ]
+}

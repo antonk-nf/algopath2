@@ -1,0 +1,74 @@
+{
+  "company": "Activision",
+  "stats": {
+    "totalProblems": 3,
+    "uniqueProblems": 3,
+    "avgFrequency": 86.35999999999999,
+    "avgAcceptanceRate": 0.6612637474696481,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 3,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Number of Divisible Triplet Sums",
+      "titleSlug": "number-of-divisible-triplet-sums",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6780637725701113,
+      "link": "https://leetcode.com/problems/number-of-divisible-triplet-sums",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Reformat Phone Number",
+      "titleSlug": "reformat-phone-number",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.669332106934101,
+      "link": "https://leetcode.com/problems/reformat-phone-number",
+      "topics": [
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Decode String",
+      "titleSlug": "decode-string",
+      "difficulty": "MEDIUM",
+      "frequency": 65.9,
+      "acceptanceRate": 0.6115269783398165,
+      "link": "https://leetcode.com/problems/decode-string",
+      "topics": [
+        "String",
+        "Stack",
+        "Recursion"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "String",
+    "Array",
+    "Hash Table",
+    "Stack",
+    "Recursion"
+  ]
+}

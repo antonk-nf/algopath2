@@ -1,0 +1,177 @@
+{
+  "company": "Lucid",
+  "stats": {
+    "totalProblems": 8,
+    "uniqueProblems": 8,
+    "avgFrequency": 83.48000000000002,
+    "avgAcceptanceRate": 0.5342622793070105,
+    "difficultyDistribution": {
+      "EASY": 4,
+      "MEDIUM": 9,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Valid Parentheses",
+      "titleSlug": "valid-parentheses",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.42322900000730435,
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "topics": [
+        "String",
+        "Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Min Stack",
+      "titleSlug": "min-stack",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.56445131595822,
+      "link": "https://leetcode.com/problems/min-stack",
+      "topics": [
+        "Stack",
+        "Design"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Generate Parentheses",
+      "titleSlug": "generate-parentheses",
+      "difficulty": "MEDIUM",
+      "frequency": 89.0,
+      "acceptanceRate": 0.771329420183894,
+      "link": "https://leetcode.com/problems/generate-parentheses",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Backtracking"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Gas Station",
+      "titleSlug": "gas-station",
+      "difficulty": "MEDIUM",
+      "frequency": 89.0,
+      "acceptanceRate": 0.46383586845548325,
+      "link": "https://leetcode.com/problems/gas-station",
+      "topics": [
+        "Array",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Number of Balls in a Box",
+      "titleSlug": "maximum-number-of-balls-in-a-box",
+      "difficulty": "EASY",
+      "frequency": 89.0,
+      "acceptanceRate": 0.7425731994015815,
+      "link": "https://leetcode.com/problems/maximum-number-of-balls-in-a-box",
+      "topics": [
+        "Hash Table",
+        "Math",
+        "Counting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Collect Coins in a Tree",
+      "titleSlug": "collect-coins-in-a-tree",
+      "difficulty": "HARD",
+      "frequency": 89.0,
+      "acceptanceRate": 0.360585905388237,
+      "link": "https://leetcode.com/problems/collect-coins-in-a-tree",
+      "topics": [
+        "Array",
+        "Tree",
+        "Graph",
+        "Topological Sort"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Substring Without Repeating Characters",
+      "titleSlug": "longest-substring-without-repeating-characters",
+      "difficulty": "MEDIUM",
+      "frequency": 89.0,
+      "acceptanceRate": 0.36936168102914835,
+      "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Islands",
+      "titleSlug": "number-of-islands",
+      "difficulty": "MEDIUM",
+      "frequency": 64.9,
+      "acceptanceRate": 0.6232014087574222,
+      "link": "https://leetcode.com/problems/number-of-islands",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union Find",
+        "Matrix"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "String",
+    "Array",
+    "Stack",
+    "Hash Table",
+    "Design",
+    "Dynamic Programming",
+    "Backtracking",
+    "Greedy",
+    "Math",
+    "Counting",
+    "Tree",
+    "Graph",
+    "Topological Sort",
+    "Sliding Window",
+    "Depth-First Search"
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "company": "Wise",
+  "stats": {
+    "totalProblems": 5,
+    "uniqueProblems": 5,
+    "avgFrequency": 70.85000000000001,
+    "avgAcceptanceRate": 0.5908743866057848,
+    "difficultyDistribution": {
+      "EASY": 4,
+      "MEDIUM": 6,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Maximal Square",
+      "titleSlug": "maximal-square",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4876422601899655,
+      "link": "https://leetcode.com/problems/maximal-square",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Subarray Product Less Than K",
+      "titleSlug": "subarray-product-less-than-k",
+      "difficulty": "MEDIUM",
+      "frequency": 73.5,
+      "acceptanceRate": 0.5285651621012318,
+      "link": "https://leetcode.com/problems/subarray-product-less-than-k",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Sliding Window",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "difficulty": "EASY",
+      "frequency": 60.3,
+      "acceptanceRate": 0.5578041072562816,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Roman to Integer",
+      "titleSlug": "roman-to-integer",
+      "difficulty": "EASY",
+      "frequency": 60.3,
+      "acceptanceRate": 0.6487066329196147,
+      "link": "https://leetcode.com/problems/roman-to-integer",
+      "topics": [
+        "Hash Table",
+        "Math",
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Max Area of Island",
+      "titleSlug": "max-area-of-island",
+      "difficulty": "MEDIUM",
+      "frequency": 60.3,
+      "acceptanceRate": 0.7316537705618312,
+      "link": "https://leetcode.com/problems/max-area-of-island",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union Find",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Matrix",
+    "Hash Table",
+    "Dynamic Programming",
+    "Binary Search",
+    "Sliding Window",
+    "Prefix Sum",
+    "Math",
+    "String",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union Find"
+  ]
+}

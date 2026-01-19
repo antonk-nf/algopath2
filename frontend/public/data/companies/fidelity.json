@@ -1,0 +1,76 @@
+{
+  "company": "Fidelity",
+  "stats": {
+    "totalProblems": 3,
+    "uniqueProblems": 3,
+    "avgFrequency": 88.13333333333333,
+    "avgAcceptanceRate": 0.6358226607245713,
+    "difficultyDistribution": {
+      "EASY": 6,
+      "MEDIUM": 0,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5577703036819196,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Modify the Matrix",
+      "titleSlug": "modify-the-matrix",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6830875645058072,
+      "link": "https://leetcode.com/problems/modify-the-matrix",
+      "topics": [
+        "Array",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Valid Anagram",
+      "titleSlug": "valid-anagram",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.666610113985987,
+      "link": "https://leetcode.com/problems/valid-anagram",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Hash Table",
+    "Matrix",
+    "String",
+    "Sorting"
+  ]
+}

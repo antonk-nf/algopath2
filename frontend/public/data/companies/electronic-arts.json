@@ -1,0 +1,80 @@
+{
+  "company": "Electronic Arts",
+  "stats": {
+    "totalProblems": 3,
+    "uniqueProblems": 3,
+    "avgFrequency": 100.0,
+    "avgAcceptanceRate": 0.5684610997018138,
+    "difficultyDistribution": {
+      "EASY": 4,
+      "MEDIUM": 2,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Wiggle Subsequence",
+      "titleSlug": "wiggle-subsequence",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4884717077094553,
+      "link": "https://leetcode.com/problems/wiggle-subsequence",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Relative Ranks",
+      "titleSlug": "relative-ranks",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.7330859773227,
+      "link": "https://leetcode.com/problems/relative-ranks",
+      "topics": [
+        "Array",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Is Subsequence",
+      "titleSlug": "is-subsequence",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4838256140732861,
+      "link": "https://leetcode.com/problems/is-subsequence",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Dynamic Programming",
+    "Greedy",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Two Pointers",
+    "String"
+  ]
+}

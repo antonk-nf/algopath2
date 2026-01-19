@@ -1,0 +1,58 @@
+{
+  "company": "Moengage",
+  "stats": {
+    "totalProblems": 2,
+    "uniqueProblems": 2,
+    "avgFrequency": 92.125,
+    "avgAcceptanceRate": 0.5165552221194271,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 2,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Decode Ways",
+      "titleSlug": "decode-ways",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.3653272234435852,
+      "link": "https://leetcode.com/problems/decode-ways",
+      "topics": [
+        "String",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Redistribute Characters to Make All Strings Equal",
+      "titleSlug": "redistribute-characters-to-make-all-strings-equal",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.667783220795269,
+      "link": "https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "String",
+    "Dynamic Programming",
+    "Hash Table",
+    "Counting"
+  ]
+}

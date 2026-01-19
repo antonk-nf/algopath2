@@ -1,0 +1,89 @@
+{
+  "company": "OKX",
+  "stats": {
+    "totalProblems": 3,
+    "uniqueProblems": 3,
+    "avgFrequency": 96.36666666666667,
+    "avgAcceptanceRate": 0.651005071234016,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 4,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Number of Islands",
+      "titleSlug": "number-of-islands",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.623246254585838,
+      "link": "https://leetcode.com/problems/number-of-islands",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union Find",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Kth Smallest Element in a Sorted Matrix",
+      "titleSlug": "kth-smallest-element-in-a-sorted-matrix",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6356877520884164,
+      "link": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Count Subarrays With Fixed Bounds",
+      "titleSlug": "count-subarrays-with-fixed-bounds",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6940812070277932,
+      "link": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds",
+      "topics": [
+        "Array",
+        "Queue",
+        "Sliding Window",
+        "Monotonic Queue"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Matrix",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union Find",
+    "Binary Search",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Queue",
+    "Sliding Window",
+    "Monotonic Queue"
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "company": "BitGo",
+  "stats": {
+    "totalProblems": 10,
+    "uniqueProblems": 10,
+    "avgFrequency": 87.36,
+    "avgAcceptanceRate": 0.5537529963556074,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 19,
+      "HARD": 6,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Gas Station",
+      "titleSlug": "gas-station",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.46383586845548325,
+      "link": "https://leetcode.com/problems/gas-station",
+      "topics": [
+        "Array",
+        "Greedy"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Islands",
+      "titleSlug": "number-of-islands",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.623201292092127,
+      "link": "https://leetcode.com/problems/number-of-islands",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union Find",
+        "Matrix"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Trapping Rain Water",
+      "titleSlug": "trapping-rain-water",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6510218479112839,
+      "link": "https://leetcode.com/problems/trapping-rain-water",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Dynamic Programming",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Bus Routes",
+      "titleSlug": "bus-routes",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.46953005797985964,
+      "link": "https://leetcode.com/problems/bus-routes",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Breadth-First Search"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "LRU Cache",
+      "titleSlug": "lru-cache",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.452148771503926,
+      "link": "https://leetcode.com/problems/lru-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Lowest Common Ancestor of a Binary Tree",
+      "titleSlug": "lowest-common-ancestor-of-a-binary-tree",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6675513590636828,
+      "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "30d",
+        "3m"
+      ]
+    },
+    {
+      "title": "Zigzag Conversion",
+      "titleSlug": "zigzag-conversion",
+      "difficulty": "MEDIUM",
+      "frequency": 92.5,
+      "acceptanceRate": 0.5160681481756035,
+      "link": "https://leetcode.com/problems/zigzag-conversion",
+      "topics": [
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Substring with At Most K Distinct Characters",
+      "titleSlug": "longest-substring-with-at-most-k-distinct-characters",
+      "difficulty": "MEDIUM",
+      "frequency": 92.5,
+      "acceptanceRate": 0.4949646677725676,
+      "link": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Check if an Original String Exists Given Two Encoded Strings",
+      "titleSlug": "check-if-an-original-string-exists-given-two-encoded-strings",
+      "difficulty": "HARD",
+      "frequency": 81.9,
+      "acceptanceRate": 0.43229333455327323,
+      "link": "https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings",
+      "topics": [
+        "String",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Game of Life",
+      "titleSlug": "game-of-life",
+      "difficulty": "MEDIUM",
+      "frequency": 81.9,
+      "acceptanceRate": 0.7141528222609304,
+      "link": "https://leetcode.com/problems/game-of-life",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Depth-First Search",
+    "Hash Table",
+    "String",
+    "Breadth-First Search",
+    "Matrix",
+    "Dynamic Programming",
+    "Tree",
+    "Binary Tree",
+    "Greedy",
+    "Union Find",
+    "Linked List",
+    "Design",
+    "Doubly-Linked List",
+    "Two Pointers"
+  ]
+}

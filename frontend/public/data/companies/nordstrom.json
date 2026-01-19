@@ -1,0 +1,222 @@
+{
+  "company": "Nordstrom",
+  "stats": {
+    "totalProblems": 10,
+    "uniqueProblems": 10,
+    "avgFrequency": 95.87999999999998,
+    "avgAcceptanceRate": 0.5099830277446654,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 16,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Course Schedule",
+      "titleSlug": "course-schedule",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4923459568777114,
+      "link": "https://leetcode.com/problems/course-schedule",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph",
+        "Topological Sort"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Palindrome Permutation",
+      "titleSlug": "palindrome-permutation",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6850934894703868,
+      "link": "https://leetcode.com/problems/palindrome-permutation",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Bit Manipulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Integer to English Words",
+      "titleSlug": "integer-to-english-words",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.3435494729092234,
+      "link": "https://leetcode.com/problems/integer-to-english-words",
+      "topics": [
+        "Math",
+        "String",
+        "Recursion"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "House Robber II",
+      "titleSlug": "house-robber-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4356278416977166,
+      "link": "https://leetcode.com/problems/house-robber-ii",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "House Robber",
+      "titleSlug": "house-robber",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.523051005429001,
+      "link": "https://leetcode.com/problems/house-robber",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Spiral Matrix",
+      "titleSlug": "spiral-matrix",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5393999618722131,
+      "link": "https://leetcode.com/problems/spiral-matrix",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Meeting Rooms II",
+      "titleSlug": "meeting-rooms-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 88.4,
+      "acceptanceRate": 0.5214157634771466,
+      "link": "https://leetcode.com/problems/meeting-rooms-ii",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Word Break",
+      "titleSlug": "word-break",
+      "difficulty": "MEDIUM",
+      "frequency": 88.4,
+      "acceptanceRate": 0.4827394870005235,
+      "link": "https://leetcode.com/problems/word-break",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Dynamic Programming",
+        "Trie",
+        "Memoization"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "LRU Cache",
+      "titleSlug": "lru-cache",
+      "difficulty": "MEDIUM",
+      "frequency": 88.4,
+      "acceptanceRate": 0.4521496303064773,
+      "link": "https://leetcode.com/problems/lru-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Display Table of Food Orders in a Restaurant",
+      "titleSlug": "display-table-of-food-orders-in-a-restaurant",
+      "difficulty": "MEDIUM",
+      "frequency": 88.1,
+      "acceptanceRate": 0.7565692616551416,
+      "link": "https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting",
+        "Ordered Set"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Dynamic Programming",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph",
+    "Topological Sort",
+    "Sorting",
+    "Bit Manipulation",
+    "Math",
+    "Recursion",
+    "Matrix",
+    "Simulation",
+    "Two Pointers"
+  ]
+}

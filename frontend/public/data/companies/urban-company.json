@@ -1,0 +1,120 @@
+{
+  "company": "Urban Company",
+  "stats": {
+    "totalProblems": 5,
+    "uniqueProblems": 5,
+    "avgFrequency": 90.37777777777777,
+    "avgAcceptanceRate": 0.5018035345762164,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 6,
+      "HARD": 3,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Maximum Profit in Job Scheduling",
+      "titleSlug": "maximum-profit-in-job-scheduling",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5441735460704106,
+      "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Dynamic Programming",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Surrounded Regions",
+      "titleSlug": "surrounded-regions",
+      "difficulty": "MEDIUM",
+      "frequency": 92.3,
+      "acceptanceRate": 0.4288651022112916,
+      "link": "https://leetcode.com/problems/surrounded-regions",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union Find",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Islands",
+      "titleSlug": "number-of-islands",
+      "difficulty": "MEDIUM",
+      "frequency": 92.3,
+      "acceptanceRate": 0.6232026637330483,
+      "link": "https://leetcode.com/problems/number-of-islands",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union Find",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Search in Rotated Sorted Array",
+      "titleSlug": "search-in-rotated-sorted-array",
+      "difficulty": "MEDIUM",
+      "frequency": 81.6,
+      "acceptanceRate": 0.4283746302583542,
+      "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Candy",
+      "titleSlug": "candy",
+      "difficulty": "HARD",
+      "frequency": 81.3,
+      "acceptanceRate": 0.4669999266397387,
+      "link": "https://leetcode.com/problems/candy",
+      "topics": [
+        "Array",
+        "Greedy"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Binary Search",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union Find",
+    "Matrix",
+    "Dynamic Programming",
+    "Sorting",
+    "Greedy"
+  ]
+}

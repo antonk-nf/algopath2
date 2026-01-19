@@ -1,0 +1,63 @@
+{
+  "company": "Tejas Networks",
+  "stats": {
+    "totalProblems": 2,
+    "uniqueProblems": 2,
+    "avgFrequency": 100.0,
+    "avgAcceptanceRate": 0.5598456050832936,
+    "difficultyDistribution": {
+      "EASY": 1,
+      "MEDIUM": 1,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Add Two Numbers",
+      "titleSlug": "add-two-numbers",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.46230652939384476,
+      "link": "https://leetcode.com/problems/add-two-numbers",
+      "topics": [
+        "Linked List",
+        "Math",
+        "Recursion"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+"
+      ]
+    },
+    {
+      "title": "Majority Element",
+      "titleSlug": "majority-element",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6573846807727424,
+      "link": "https://leetcode.com/problems/majority-element",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Divide and Conquer",
+        "Sorting",
+        "Counting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Linked List",
+    "Math",
+    "Recursion",
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Sorting",
+    "Counting"
+  ]
+}

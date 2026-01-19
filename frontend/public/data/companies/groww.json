@@ -1,0 +1,175 @@
+{
+  "company": "Groww",
+  "stats": {
+    "totalProblems": 8,
+    "uniqueProblems": 8,
+    "avgFrequency": 81.72307692307692,
+    "avgAcceptanceRate": 0.5036113949687306,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 8,
+      "HARD": 3,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "titleSlug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5525969246907348,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Trapping Rain Water",
+      "titleSlug": "trapping-rain-water",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6510220235706903,
+      "link": "https://leetcode.com/problems/trapping-rain-water",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Dynamic Programming",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "LRU Cache",
+      "titleSlug": "lru-cache",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.45214974639996014,
+      "link": "https://leetcode.com/problems/lru-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Number of Operations to Make X and Y Equal",
+      "titleSlug": "minimum-number-of-operations-to-make-x-and-y-equal",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.47386300742408916,
+      "link": "https://leetcode.com/problems/minimum-number-of-operations-to-make-x-and-y-equal",
+      "topics": [
+        "Dynamic Programming",
+        "Breadth-First Search",
+        "Memoization"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Good Subarray Sum",
+      "titleSlug": "maximum-good-subarray-sum",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.20281964321019574,
+      "link": "https://leetcode.com/problems/maximum-good-subarray-sum",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock II",
+      "titleSlug": "best-time-to-buy-and-sell-stock-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 64.8,
+      "acceptanceRate": 0.6950034022729801,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock III",
+      "titleSlug": "best-time-to-buy-and-sell-stock-iii",
+      "difficulty": "HARD",
+      "frequency": 64.8,
+      "acceptanceRate": 0.5112112229150665,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Sort Colors",
+      "titleSlug": "sort-colors",
+      "difficulty": "MEDIUM",
+      "frequency": 64.8,
+      "acceptanceRate": 0.6758309146279143,
+      "link": "https://leetcode.com/problems/sort-colors",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Dynamic Programming",
+    "Hash Table",
+    "Two Pointers",
+    "Stack",
+    "Monotonic Stack",
+    "Linked List",
+    "Design",
+    "Doubly-Linked List",
+    "Breadth-First Search",
+    "Memoization",
+    "Prefix Sum",
+    "Greedy",
+    "Sorting"
+  ]
+}

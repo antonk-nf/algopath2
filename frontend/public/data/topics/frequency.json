@@ -1,0 +1,499 @@
+[
+  {
+    "topic": "Array",
+    "frequency": 10569,
+    "uniqueProblems": 1092,
+    "companies": 437,
+    "avgAcceptanceRate": 0.5526304318464428
+  },
+  {
+    "topic": "String",
+    "frequency": 5159,
+    "uniqueProblems": 471,
+    "companies": 373,
+    "avgAcceptanceRate": 0.5224436537208641
+  },
+  {
+    "topic": "Hash Table",
+    "frequency": 4544,
+    "uniqueProblems": 410,
+    "companies": 355,
+    "avgAcceptanceRate": 0.5537673669239692
+  },
+  {
+    "topic": "Dynamic Programming",
+    "frequency": 3419,
+    "uniqueProblems": 332,
+    "companies": 307,
+    "avgAcceptanceRate": 0.5193503068063655
+  },
+  {
+    "topic": "Sorting",
+    "frequency": 2686,
+    "uniqueProblems": 267,
+    "companies": 297,
+    "avgAcceptanceRate": 0.5661991325762117
+  },
+  {
+    "topic": "Two Pointers",
+    "frequency": 2561,
+    "uniqueProblems": 141,
+    "companies": 265,
+    "avgAcceptanceRate": 0.5397662564591533
+  },
+  {
+    "topic": "Math",
+    "frequency": 2282,
+    "uniqueProblems": 288,
+    "companies": 254,
+    "avgAcceptanceRate": 0.5231223076881183
+  },
+  {
+    "topic": "Depth-First Search",
+    "frequency": 1862,
+    "uniqueProblems": 200,
+    "companies": 205,
+    "avgAcceptanceRate": 0.5790559112403784
+  },
+  {
+    "topic": "Breadth-First Search",
+    "frequency": 1711,
+    "uniqueProblems": 165,
+    "companies": 209,
+    "avgAcceptanceRate": 0.5727064297059277
+  },
+  {
+    "topic": "Matrix",
+    "frequency": 1702,
+    "uniqueProblems": 146,
+    "companies": 213,
+    "avgAcceptanceRate": 0.5843169512531315
+  },
+  {
+    "topic": "Binary Search",
+    "frequency": 1692,
+    "uniqueProblems": 206,
+    "companies": 210,
+    "avgAcceptanceRate": 0.513631672747951
+  },
+  {
+    "topic": "Stack",
+    "frequency": 1560,
+    "uniqueProblems": 114,
+    "companies": 235,
+    "avgAcceptanceRate": 0.5525878776514752
+  },
+  {
+    "topic": "Greedy",
+    "frequency": 1551,
+    "uniqueProblems": 242,
+    "companies": 229,
+    "avgAcceptanceRate": 0.5130260704950252
+  },
+  {
+    "topic": "Design",
+    "frequency": 1314,
+    "uniqueProblems": 97,
+    "companies": 202,
+    "avgAcceptanceRate": 0.5462713756676587
+  },
+  {
+    "topic": "Linked List",
+    "frequency": 1282,
+    "uniqueProblems": 57,
+    "companies": 177,
+    "avgAcceptanceRate": 0.5607516308237467
+  },
+  {
+    "topic": "Heap (Priority Queue)",
+    "frequency": 1173,
+    "uniqueProblems": 0,
+    "companies": 0,
+    "avgAcceptanceRate": 0
+  },
+  {
+    "topic": "Tree",
+    "frequency": 1060,
+    "uniqueProblems": 176,
+    "companies": 149,
+    "avgAcceptanceRate": 0.5860823728541196
+  },
+  {
+    "topic": "Backtracking",
+    "frequency": 963,
+    "uniqueProblems": 70,
+    "companies": 130,
+    "avgAcceptanceRate": 0.6254159569327798
+  },
+  {
+    "topic": "Binary Tree",
+    "frequency": 926,
+    "uniqueProblems": 107,
+    "companies": 117,
+    "avgAcceptanceRate": 0.6113685545617534
+  },
+  {
+    "topic": "Sliding Window",
+    "frequency": 882,
+    "uniqueProblems": 85,
+    "companies": 176,
+    "avgAcceptanceRate": 0.4703364526193935
+  },
+  {
+    "topic": "Recursion",
+    "frequency": 826,
+    "uniqueProblems": 37,
+    "companies": 145,
+    "avgAcceptanceRate": 0.5429067956003629
+  },
+  {
+    "topic": "Simulation",
+    "frequency": 799,
+    "uniqueProblems": 107,
+    "companies": 167,
+    "avgAcceptanceRate": 0.5716334384659382
+  },
+  {
+    "topic": "Divide and Conquer",
+    "frequency": 726,
+    "uniqueProblems": 28,
+    "companies": 126,
+    "avgAcceptanceRate": 0.5780099117629197
+  },
+  {
+    "topic": "Prefix Sum",
+    "frequency": 701,
+    "uniqueProblems": 107,
+    "companies": 152,
+    "avgAcceptanceRate": 0.5378380829441303
+  },
+  {
+    "topic": "Graph",
+    "frequency": 643,
+    "uniqueProblems": 91,
+    "companies": 131,
+    "avgAcceptanceRate": 0.5436462212551285
+  },
+  {
+    "topic": "Union Find",
+    "frequency": 612,
+    "uniqueProblems": 52,
+    "companies": 139,
+    "avgAcceptanceRate": 0.5817034887740014
+  },
+  {
+    "topic": "Bit Manipulation",
+    "frequency": 594,
+    "uniqueProblems": 132,
+    "companies": 127,
+    "avgAcceptanceRate": 0.5764758462005549
+  },
+  {
+    "topic": "Counting",
+    "frequency": 588,
+    "uniqueProblems": 103,
+    "companies": 154,
+    "avgAcceptanceRate": 0.6173063649299468
+  },
+  {
+    "topic": "Trie",
+    "frequency": 533,
+    "uniqueProblems": 41,
+    "companies": 132,
+    "avgAcceptanceRate": 0.5127650958431151
+  },
+  {
+    "topic": "Monotonic Stack",
+    "frequency": 501,
+    "uniqueProblems": 39,
+    "companies": 123,
+    "avgAcceptanceRate": 0.5842757207818888
+  },
+  {
+    "topic": "Doubly-Linked List",
+    "frequency": 373,
+    "uniqueProblems": 9,
+    "companies": 122,
+    "avgAcceptanceRate": 0.47132709612274576
+  },
+  {
+    "topic": "Queue",
+    "frequency": 326,
+    "uniqueProblems": 146,
+    "companies": 212,
+    "avgAcceptanceRate": 0.5693508593368743
+  },
+  {
+    "topic": "Memoization",
+    "frequency": 285,
+    "uniqueProblems": 28,
+    "companies": 81,
+    "avgAcceptanceRate": 0.5373940900324904
+  },
+  {
+    "topic": "Topological Sort",
+    "frequency": 279,
+    "uniqueProblems": 22,
+    "companies": 72,
+    "avgAcceptanceRate": 0.5081890153287192
+  },
+  {
+    "topic": "Database",
+    "frequency": 263,
+    "uniqueProblems": 87,
+    "companies": 74,
+    "avgAcceptanceRate": 0.5973133858631323
+  },
+  {
+    "topic": "Binary Search Tree",
+    "frequency": 214,
+    "uniqueProblems": 26,
+    "companies": 48,
+    "avgAcceptanceRate": 0.5761208096624293
+  },
+  {
+    "topic": "Data Stream",
+    "frequency": 209,
+    "uniqueProblems": 18,
+    "companies": 67,
+    "avgAcceptanceRate": 0.6307944123881143
+  },
+  {
+    "topic": "Ordered Set",
+    "frequency": 192,
+    "uniqueProblems": 37,
+    "companies": 59,
+    "avgAcceptanceRate": 0.4555292565724299
+  },
+  {
+    "topic": "Quickselect",
+    "frequency": 185,
+    "uniqueProblems": 4,
+    "companies": 71,
+    "avgAcceptanceRate": 0.6594060888532329
+  },
+  {
+    "topic": "Randomized",
+    "frequency": 169,
+    "uniqueProblems": 9,
+    "companies": 58,
+    "avgAcceptanceRate": 0.5171345390451685
+  },
+  {
+    "topic": "String Matching",
+    "frequency": 151,
+    "uniqueProblems": 22,
+    "companies": 51,
+    "avgAcceptanceRate": 0.46027793799650457
+  },
+  {
+    "topic": "Enumeration",
+    "frequency": 139,
+    "uniqueProblems": 46,
+    "companies": 60,
+    "avgAcceptanceRate": 0.44692169876418314
+  },
+  {
+    "topic": "Hash Function",
+    "frequency": 137,
+    "uniqueProblems": 23,
+    "companies": 47,
+    "avgAcceptanceRate": 0.5330378018095402
+  },
+  {
+    "topic": "Bucket Sort",
+    "frequency": 132,
+    "uniqueProblems": 6,
+    "companies": 56,
+    "avgAcceptanceRate": 0.6090551419034075
+  },
+  {
+    "topic": "Merge Sort",
+    "frequency": 122,
+    "uniqueProblems": 7,
+    "companies": 49,
+    "avgAcceptanceRate": 0.5651508265973932
+  },
+  {
+    "topic": "Monotonic Queue",
+    "frequency": 115,
+    "uniqueProblems": 9,
+    "companies": 50,
+    "avgAcceptanceRate": 0.5113255196833504
+  },
+  {
+    "topic": "Bitmask",
+    "frequency": 111,
+    "uniqueProblems": 28,
+    "companies": 42,
+    "avgAcceptanceRate": 0.44140265659962674
+  },
+  {
+    "topic": "Segment Tree",
+    "frequency": 111,
+    "uniqueProblems": 34,
+    "companies": 39,
+    "avgAcceptanceRate": 0.3715373454699929
+  },
+  {
+    "topic": "Combinatorics",
+    "frequency": 105,
+    "uniqueProblems": 24,
+    "companies": 45,
+    "avgAcceptanceRate": 0.5780861322998982
+  },
+  {
+    "topic": "Geometry",
+    "frequency": 95,
+    "uniqueProblems": 20,
+    "companies": 36,
+    "avgAcceptanceRate": 0.4560598378790829
+  },
+  {
+    "topic": "Shortest Path",
+    "frequency": 90,
+    "uniqueProblems": 17,
+    "companies": 35,
+    "avgAcceptanceRate": 0.5620149751217005
+  },
+  {
+    "topic": "Rolling Hash",
+    "frequency": 82,
+    "uniqueProblems": 17,
+    "companies": 26,
+    "avgAcceptanceRate": 0.4681871270820481
+  },
+  {
+    "topic": "Binary Indexed Tree",
+    "frequency": 78,
+    "uniqueProblems": 22,
+    "companies": 29,
+    "avgAcceptanceRate": 0.3739415063577164
+  },
+  {
+    "topic": "Number Theory",
+    "frequency": 67,
+    "uniqueProblems": 21,
+    "companies": 31,
+    "avgAcceptanceRate": 0.43631160459223556
+  },
+  {
+    "topic": "Interactive",
+    "frequency": 57,
+    "uniqueProblems": 10,
+    "companies": 21,
+    "avgAcceptanceRate": 0.5298055825105425
+  },
+  {
+    "topic": "Iterator",
+    "frequency": 50,
+    "uniqueProblems": 5,
+    "companies": 17,
+    "avgAcceptanceRate": 0.6392579102638397
+  },
+  {
+    "topic": "Game Theory",
+    "frequency": 50,
+    "uniqueProblems": 14,
+    "companies": 23,
+    "avgAcceptanceRate": 0.5247427504365754
+  },
+  {
+    "topic": "Line Sweep",
+    "frequency": 44,
+    "uniqueProblems": 3,
+    "companies": 19,
+    "avgAcceptanceRate": 0.6221017284481111
+  },
+  {
+    "topic": "Eulerian Circuit",
+    "frequency": 26,
+    "uniqueProblems": 2,
+    "companies": 10,
+    "avgAcceptanceRate": 0.47091027513475053
+  },
+  {
+    "topic": "Concurrency",
+    "frequency": 24,
+    "uniqueProblems": 4,
+    "companies": 8,
+    "avgAcceptanceRate": 0.5821845462766212
+  },
+  {
+    "topic": "Brainteaser",
+    "frequency": 22,
+    "uniqueProblems": 8,
+    "companies": 11,
+    "avgAcceptanceRate": 0.6146996678725746
+  },
+  {
+    "topic": "Counting Sort",
+    "frequency": 22,
+    "uniqueProblems": 6,
+    "companies": 12,
+    "avgAcceptanceRate": 0.5958098373067579
+  },
+  {
+    "topic": "Suffix Array",
+    "frequency": 16,
+    "uniqueProblems": 5,
+    "companies": 7,
+    "avgAcceptanceRate": 0.4954843392006938
+  },
+  {
+    "topic": "Radix Sort",
+    "frequency": 11,
+    "uniqueProblems": 3,
+    "companies": 6,
+    "avgAcceptanceRate": 0.5129501066528266
+  },
+  {
+    "topic": "Probability and Statistics",
+    "frequency": 10,
+    "uniqueProblems": 3,
+    "companies": 6,
+    "avgAcceptanceRate": 0.5663165240407224
+  },
+  {
+    "topic": "Minimum Spanning Tree",
+    "frequency": 8,
+    "uniqueProblems": 1,
+    "companies": 5,
+    "avgAcceptanceRate": 0.6902174206132691
+  },
+  {
+    "topic": "Reservoir Sampling",
+    "frequency": 5,
+    "uniqueProblems": 3,
+    "companies": 3,
+    "avgAcceptanceRate": 0.6011294312535603
+  },
+  {
+    "topic": "Rejection Sampling",
+    "frequency": 4,
+    "uniqueProblems": 1,
+    "companies": 3,
+    "avgAcceptanceRate": 0.4585972286873645
+  },
+  {
+    "topic": "Biconnected Component",
+    "frequency": 3,
+    "uniqueProblems": 1,
+    "companies": 1,
+    "avgAcceptanceRate": 0.5779132199611556
+  },
+  {
+    "topic": "Shell",
+    "frequency": 2,
+    "uniqueProblems": 1,
+    "companies": 1,
+    "avgAcceptanceRate": 0.27466647810305
+  },
+  {
+    "topic": "Strongly Connected Component",
+    "frequency": 2,
+    "uniqueProblems": 1,
+    "companies": 1,
+    "avgAcceptanceRate": 0.4281724754244862
+  }
+]

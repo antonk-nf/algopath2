@@ -1,0 +1,55 @@
+{
+  "company": "Machine Zone",
+  "stats": {
+    "totalProblems": 2,
+    "uniqueProblems": 2,
+    "avgFrequency": 100.0,
+    "avgAcceptanceRate": 0.46275322966352184,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 0,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Range Module",
+      "titleSlug": "range-module",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4419805147593428,
+      "link": "https://leetcode.com/problems/range-module",
+      "topics": [
+        "Design",
+        "Segment Tree",
+        "Ordered Set"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Transactions per Visit",
+      "titleSlug": "number-of-transactions-per-visit",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4835259445677009,
+      "link": "https://leetcode.com/problems/number-of-transactions-per-visit",
+      "topics": [
+        "Database"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Design",
+    "Segment Tree",
+    "Ordered Set",
+    "Database"
+  ]
+}

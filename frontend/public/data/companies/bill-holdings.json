@@ -1,0 +1,44 @@
+{
+  "company": "BILL Holdings",
+  "stats": {
+    "totalProblems": 1,
+    "uniqueProblems": 1,
+    "avgFrequency": 100.0,
+    "avgAcceptanceRate": 0.6232478097342165,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 2,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Number of Islands",
+      "titleSlug": "number-of-islands",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6232478097342165,
+      "link": "https://leetcode.com/problems/number-of-islands",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union Find",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union Find",
+    "Matrix"
+  ]
+}

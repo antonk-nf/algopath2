@@ -1,0 +1,62 @@
+{
+  "company": "GSA Capital",
+  "stats": {
+    "totalProblems": 2,
+    "uniqueProblems": 2,
+    "avgFrequency": 94.35000000000001,
+    "avgAcceptanceRate": 0.4593523011842352,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 4,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Total Cost to Hire K Workers",
+      "titleSlug": "total-cost-to-hire-k-workers",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4310623421785049,
+      "link": "https://leetcode.com/problems/total-cost-to-hire-k-workers",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Heap (Priority Queue)",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximal Square",
+      "titleSlug": "maximal-square",
+      "difficulty": "MEDIUM",
+      "frequency": 84.1,
+      "acceptanceRate": 0.4876422601899655,
+      "link": "https://leetcode.com/problems/maximal-square",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Two Pointers",
+    "Heap (Priority Queue)",
+    "Simulation",
+    "Dynamic Programming",
+    "Matrix"
+  ]
+}

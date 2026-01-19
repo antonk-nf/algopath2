@@ -1,0 +1,65 @@
+{
+  "company": "Tower Research Capital",
+  "stats": {
+    "totalProblems": 2,
+    "uniqueProblems": 2,
+    "avgFrequency": 86.825,
+    "avgAcceptanceRate": 0.4908447293501096,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 2,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Unique Binary Search Trees",
+      "titleSlug": "unique-binary-search-trees",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6244505288303076,
+      "link": "https://leetcode.com/problems/unique-binary-search-trees",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Tree",
+        "Binary Search Tree",
+        "Binary Tree"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Bricks Falling When Hit",
+      "titleSlug": "bricks-falling-when-hit",
+      "difficulty": "HARD",
+      "frequency": 73.8,
+      "acceptanceRate": 0.3572389298699115,
+      "link": "https://leetcode.com/problems/bricks-falling-when-hit",
+      "topics": [
+        "Array",
+        "Union Find",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Math",
+    "Dynamic Programming",
+    "Tree",
+    "Binary Search Tree",
+    "Binary Tree",
+    "Array",
+    "Union Find",
+    "Matrix"
+  ]
+}

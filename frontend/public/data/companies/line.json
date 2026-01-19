@@ -1,0 +1,104 @@
+{
+  "company": "LINE",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 94.56666666666666,
+    "avgAcceptanceRate": 0.5419796218755404,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 0,
+      "HARD": 9,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Sliding Window Maximum",
+      "titleSlug": "sliding-window-maximum",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.47604015672725664,
+      "link": "https://leetcode.com/problems/sliding-window-maximum",
+      "topics": [
+        "Array",
+        "Queue",
+        "Sliding Window",
+        "Heap (Priority Queue)",
+        "Monotonic Queue"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Sudoku Solver",
+      "titleSlug": "sudoku-solver",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6390844622410038,
+      "link": "https://leetcode.com/problems/sudoku-solver",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Backtracking",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Frog Jump",
+      "titleSlug": "frog-jump",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4655846450889997,
+      "link": "https://leetcode.com/problems/frog-jump",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Cost to Cut a Stick",
+      "titleSlug": "minimum-cost-to-cut-a-stick",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6201789560190433,
+      "link": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Dynamic Programming",
+    "Queue",
+    "Sliding Window",
+    "Heap (Priority Queue)",
+    "Monotonic Queue",
+    "Hash Table",
+    "Backtracking",
+    "Matrix",
+    "Sorting"
+  ]
+}

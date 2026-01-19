@@ -5,10 +5,18 @@ import react from '@vitejs/plugin-react'
 export default defineConfig(({ mode }) => {
   // Load env file based on `mode` in the current working directory.
   const env = loadEnv(mode, process.cwd(), '')
-  
+
+  // Use base path for GitHub Pages in production
+  const base = mode === 'production'
+    ? '/leetcode-company-wise-problems/'
+    : '/';
+
   return {
     plugins: [react()],
-    
+
+    // Base path for deployment (GitHub Pages uses repo name as subdirectory)
+    base,
+
     // Define global constants
     define: {
       __APP_VERSION__: JSON.stringify(process.env.npm_package_version || '1.0.0'),

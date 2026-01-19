@@ -1,0 +1,146 @@
+{
+  "company": "VK",
+  "stats": {
+    "totalProblems": 7,
+    "uniqueProblems": 7,
+    "avgFrequency": 91.41333333333334,
+    "avgAcceptanceRate": 0.5383757181547124,
+    "difficultyDistribution": {
+      "EASY": 9,
+      "MEDIUM": 6,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Summary Ranges",
+      "titleSlug": "summary-ranges",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5302431124795074,
+      "link": "https://leetcode.com/problems/summary-ranges",
+      "topics": [
+        "Array"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Move Zeroes",
+      "titleSlug": "move-zeroes",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6280481964197672,
+      "link": "https://leetcode.com/problems/move-zeroes",
+      "topics": [
+        "Array",
+        "Two Pointers"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Valid Parentheses",
+      "titleSlug": "valid-parentheses",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.42328396016340586,
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "topics": [
+        "String",
+        "Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Merge Sorted Array",
+      "titleSlug": "merge-sorted-array",
+      "difficulty": "EASY",
+      "frequency": 92.6,
+      "acceptanceRate": 0.5292466143644876,
+      "link": "https://leetcode.com/problems/merge-sorted-array",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximize Distance to Closest Person",
+      "titleSlug": "maximize-distance-to-closest-person",
+      "difficulty": "MEDIUM",
+      "frequency": 89.9,
+      "acceptanceRate": 0.4898931447175697,
+      "link": "https://leetcode.com/problems/maximize-distance-to-closest-person",
+      "topics": [
+        "Array"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Longest Subarray of 1's After Deleting One Element",
+      "titleSlug": "longest-subarray-of-1-s-after-deleting-one-element",
+      "difficulty": "MEDIUM",
+      "frequency": 89.9,
+      "acceptanceRate": 0.6923692019165307,
+      "link": "https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Sliding Window"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Valid Palindrome",
+      "titleSlug": "valid-palindrome",
+      "difficulty": "EASY",
+      "frequency": 73.3,
+      "acceptanceRate": 0.5096809657578885,
+      "link": "https://leetcode.com/problems/valid-palindrome",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Two Pointers",
+    "String",
+    "Dynamic Programming",
+    "Sliding Window",
+    "Stack",
+    "Sorting"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "company": "Faire",
+  "stats": {
+    "totalProblems": 3,
+    "uniqueProblems": 3,
+    "avgFrequency": 96.78571428571429,
+    "avgAcceptanceRate": 0.5140223945823215,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 7,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Word Search",
+      "titleSlug": "word-search",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.45266924863980873,
+      "link": "https://leetcode.com/problems/word-search",
+      "topics": [
+        "Array",
+        "String",
+        "Backtracking",
+        "Depth-First Search",
+        "Matrix"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Group Anagrams",
+      "titleSlug": "group-anagrams",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.7092898112648001,
+      "link": "https://leetcode.com/problems/group-anagrams",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Mountain in Array",
+      "titleSlug": "longest-mountain-in-array",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4107846968136123,
+      "link": "https://leetcode.com/problems/longest-mountain-in-array",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Dynamic Programming",
+        "Enumeration"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "String",
+    "Backtracking",
+    "Depth-First Search",
+    "Matrix",
+    "Hash Table",
+    "Sorting",
+    "Two Pointers",
+    "Dynamic Programming",
+    "Enumeration"
+  ]
+}

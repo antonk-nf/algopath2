@@ -1,0 +1,54 @@
+{
+  "company": "peak6",
+  "stats": {
+    "totalProblems": 2,
+    "uniqueProblems": 2,
+    "avgFrequency": 100.0,
+    "avgAcceptanceRate": 0.41182560772793475,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 2,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Maximum Profit of Operating a Centennial Wheel",
+      "titleSlug": "maximum-profit-of-operating-a-centennial-wheel",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4393414211438475,
+      "link": "https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel",
+      "topics": [
+        "Array",
+        "Simulation"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Coordinate With Maximum Network Quality",
+      "titleSlug": "coordinate-with-maximum-network-quality",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.38430979431202206,
+      "link": "https://leetcode.com/problems/coordinate-with-maximum-network-quality",
+      "topics": [
+        "Array",
+        "Enumeration"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Simulation",
+    "Enumeration"
+  ]
+}

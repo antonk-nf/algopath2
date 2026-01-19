@@ -1,0 +1,59 @@
+{
+  "company": "PayU",
+  "stats": {
+    "totalProblems": 2,
+    "uniqueProblems": 2,
+    "avgFrequency": 91.65,
+    "avgAcceptanceRate": 0.6605079172783979,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 2,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Count Operations to Obtain Zero",
+      "titleSlug": "count-operations-to-obtain-zero",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.7488972350966917,
+      "link": "https://leetcode.com/problems/count-operations-to-obtain-zero",
+      "topics": [
+        "Math",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Repeating Character Replacement",
+      "titleSlug": "longest-repeating-character-replacement",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5721185994601041,
+      "link": "https://leetcode.com/problems/longest-repeating-character-replacement",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Math",
+    "Simulation",
+    "Hash Table",
+    "String",
+    "Sliding Window"
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "company": "thoughtspot",
+  "stats": {
+    "totalProblems": 12,
+    "uniqueProblems": 12,
+    "avgFrequency": 76.89166666666667,
+    "avgAcceptanceRate": 0.5096389151225486,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 16,
+      "HARD": 8,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Count Subarrays With Median K",
+      "titleSlug": "count-subarrays-with-median-k",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4553062885040102,
+      "link": "https://leetcode.com/problems/count-subarrays-with-median-k",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Count Paths That Can Form a Palindrome in a Tree",
+      "titleSlug": "count-paths-that-can-form-a-palindrome-in-a-tree",
+      "difficulty": "HARD",
+      "frequency": 89.6,
+      "acceptanceRate": 0.4543955137720601,
+      "link": "https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree",
+      "topics": [
+        "Dynamic Programming",
+        "Bit Manipulation",
+        "Tree",
+        "Depth-First Search",
+        "Bitmask"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "LRU Cache",
+      "titleSlug": "lru-cache",
+      "difficulty": "MEDIUM",
+      "frequency": 82.2,
+      "acceptanceRate": 0.45215036742533565,
+      "link": "https://leetcode.com/problems/lru-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Snakes and Ladders",
+      "titleSlug": "snakes-and-ladders",
+      "difficulty": "MEDIUM",
+      "frequency": 71.9,
+      "acceptanceRate": 0.4779591396819314,
+      "link": "https://leetcode.com/problems/snakes-and-ladders",
+      "topics": [
+        "Array",
+        "Breadth-First Search",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Islands",
+      "titleSlug": "number-of-islands",
+      "difficulty": "MEDIUM",
+      "frequency": 71.9,
+      "acceptanceRate": 0.6232017379911429,
+      "link": "https://leetcode.com/problems/number-of-islands",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union Find",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Subarray Sums Divisible by K",
+      "titleSlug": "subarray-sums-divisible-by-k",
+      "difficulty": "MEDIUM",
+      "frequency": 71.9,
+      "acceptanceRate": 0.5561796146835698,
+      "link": "https://leetcode.com/problems/subarray-sums-divisible-by-k",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Most Stones Removed with Same Row or Column",
+      "titleSlug": "most-stones-removed-with-same-row-or-column",
+      "difficulty": "MEDIUM",
+      "frequency": 71.9,
+      "acceptanceRate": 0.6218985374837238,
+      "link": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column",
+      "topics": [
+        "Hash Table",
+        "Depth-First Search",
+        "Union Find",
+        "Graph"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Number of K Consecutive Bit Flips",
+      "titleSlug": "minimum-number-of-k-consecutive-bit-flips",
+      "difficulty": "HARD",
+      "frequency": 71.9,
+      "acceptanceRate": 0.6217152009183782,
+      "link": "https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips",
+      "topics": [
+        "Array",
+        "Bit Manipulation",
+        "Queue",
+        "Sliding Window",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Interleaving String",
+      "titleSlug": "interleaving-string",
+      "difficulty": "MEDIUM",
+      "frequency": 71.9,
+      "acceptanceRate": 0.42179330938510906,
+      "link": "https://leetcode.com/problems/interleaving-string",
+      "topics": [
+        "String",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Window Substring",
+      "titleSlug": "minimum-window-substring",
+      "difficulty": "HARD",
+      "frequency": 71.9,
+      "acceptanceRate": 0.4535080139186543,
+      "link": "https://leetcode.com/problems/minimum-window-substring",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Count Pairs of Connectable Servers in a Weighted Tree Network",
+      "titleSlug": "count-pairs-of-connectable-servers-in-a-weighted-tree-network",
+      "difficulty": "MEDIUM",
+      "frequency": 71.9,
+      "acceptanceRate": 0.5419311727363849,
+      "link": "https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network",
+      "topics": [
+        "Array",
+        "Tree",
+        "Depth-First Search"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "House Robber II",
+      "titleSlug": "house-robber-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 71.9,
+      "acceptanceRate": 0.43562808497028127,
+      "link": "https://leetcode.com/problems/house-robber-ii",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Hash Table",
+    "Depth-First Search",
+    "Prefix Sum",
+    "Dynamic Programming",
+    "Bit Manipulation",
+    "Tree",
+    "Breadth-First Search",
+    "Matrix",
+    "Union Find",
+    "Sliding Window",
+    "String",
+    "Bitmask",
+    "Linked List",
+    "Design"
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "company": "Spotify",
+  "stats": {
+    "totalProblems": 13,
+    "uniqueProblems": 13,
+    "avgFrequency": 81.38787878787879,
+    "avgAcceptanceRate": 0.558850422402835,
+    "difficultyDistribution": {
+      "EASY": 18,
+      "MEDIUM": 9,
+      "HARD": 6,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Moving Average from Data Stream",
+      "titleSlug": "moving-average-from-data-stream",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.7993784738696523,
+      "link": "https://leetcode.com/problems/moving-average-from-data-stream",
+      "topics": [
+        "Array",
+        "Design",
+        "Queue",
+        "Data Stream"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "30d",
+        "3m"
+      ]
+    },
+    {
+      "title": "Longest Substring Without Repeating Characters",
+      "titleSlug": "longest-substring-without-repeating-characters",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.36936143087114587,
+      "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Analyze User Website Visit Pattern",
+      "titleSlug": "analyze-user-website-visit-pattern",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.43727202347730587,
+      "link": "https://leetcode.com/problems/analyze-user-website-visit-pattern",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Valid Palindrome",
+      "titleSlug": "valid-palindrome",
+      "difficulty": "EASY",
+      "frequency": 86.3,
+      "acceptanceRate": 0.5096354883309973,
+      "link": "https://leetcode.com/problems/valid-palindrome",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "difficulty": "EASY",
+      "frequency": 85.6,
+      "acceptanceRate": 0.5577699859109962,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Kth Largest Element in an Array",
+      "titleSlug": "kth-largest-element-in-an-array",
+      "difficulty": "MEDIUM",
+      "frequency": 85.6,
+      "acceptanceRate": 0.6797706304551039,
+      "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+      "topics": [
+        "Array",
+        "Divide and Conquer",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Quickselect"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Find Median from Data Stream",
+      "titleSlug": "find-median-from-data-stream",
+      "difficulty": "HARD",
+      "frequency": 69.3,
+      "acceptanceRate": 0.5327808081897567,
+      "link": "https://leetcode.com/problems/find-median-from-data-stream",
+      "topics": [
+        "Two Pointers",
+        "Design",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Data Stream"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Leetcodify Similar Friends",
+      "titleSlug": "leetcodify-similar-friends",
+      "difficulty": "HARD",
+      "frequency": 69.3,
+      "acceptanceRate": 0.4264262416148686,
+      "link": "https://leetcode.com/problems/leetcodify-similar-friends",
+      "topics": [
+        "Database"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Leetcodify Friends Recommendations",
+      "titleSlug": "leetcodify-friends-recommendations",
+      "difficulty": "HARD",
+      "frequency": 69.3,
+      "acceptanceRate": 0.27980416156670745,
+      "link": "https://leetcode.com/problems/leetcodify-friends-recommendations",
+      "topics": [
+        "Database"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Ransom Note",
+      "titleSlug": "ransom-note",
+      "difficulty": "EASY",
+      "frequency": 69.3,
+      "acceptanceRate": 0.645236720828959,
+      "link": "https://leetcode.com/problems/ransom-note",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Valid Parentheses",
+      "titleSlug": "valid-parentheses",
+      "difficulty": "EASY",
+      "frequency": 66.7,
+      "acceptanceRate": 0.42322858221388754,
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "topics": [
+        "String",
+        "Stack"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Walls and Gates",
+      "titleSlug": "walls-and-gates",
+      "difficulty": "MEDIUM",
+      "frequency": 55.3,
+      "acceptanceRate": 0.6296793327762211,
+      "link": "https://leetcode.com/problems/walls-and-gates",
+      "topics": [
+        "Array",
+        "Breadth-First Search",
+        "Matrix"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Depth of Binary Tree",
+      "titleSlug": "maximum-depth-of-binary-tree",
+      "difficulty": "EASY",
+      "frequency": 55.3,
+      "acceptanceRate": 0.7713813413485063,
+      "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Sorting",
+    "Design",
+    "Data Stream",
+    "Heap (Priority Queue)",
+    "Queue",
+    "Divide and Conquer",
+    "Quickselect",
+    "Stack",
+    "Two Pointers",
+    "Database",
+    "Sliding Window",
+    "Counting"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "company": "CTC",
+  "stats": {
+    "totalProblems": 1,
+    "uniqueProblems": 1,
+    "avgFrequency": 100.0,
+    "avgAcceptanceRate": 0.6950428479629028,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 1,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Best Time to Buy and Sell Stock II",
+      "titleSlug": "best-time-to-buy-and-sell-stock-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6950428479629028,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Dynamic Programming",
+    "Greedy"
+  ]
+}

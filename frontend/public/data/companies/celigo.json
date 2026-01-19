@@ -1,0 +1,55 @@
+{
+  "company": "Celigo",
+  "stats": {
+    "totalProblems": 2,
+    "uniqueProblems": 2,
+    "avgFrequency": 100.0,
+    "avgAcceptanceRate": 0.5421376838509886,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 0,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Reformat Date",
+      "titleSlug": "reformat-date",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6733924354457822,
+      "link": "https://leetcode.com/problems/reformat-date",
+      "topics": [
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "First Missing Positive",
+      "titleSlug": "first-missing-positive",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.41088293225619493,
+      "link": "https://leetcode.com/problems/first-missing-positive",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "String",
+    "Array",
+    "Hash Table"
+  ]
+}

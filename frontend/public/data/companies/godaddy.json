@@ -1,0 +1,90 @@
+{
+  "company": "GoDaddy",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 89.625,
+    "avgAcceptanceRate": 0.5887104409373487,
+    "difficultyDistribution": {
+      "EASY": 1,
+      "MEDIUM": 3,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Merge Intervals",
+      "titleSlug": "merge-intervals",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4939526408318937,
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "topics": [
+        "Array",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+"
+      ]
+    },
+    {
+      "title": "String Compression",
+      "titleSlug": "string-compression",
+      "difficulty": "MEDIUM",
+      "frequency": 92.9,
+      "acceptanceRate": 0.580915717497265,
+      "link": "https://leetcode.com/problems/string-compression",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+"
+      ]
+    },
+    {
+      "title": "Permutations",
+      "titleSlug": "permutations",
+      "difficulty": "MEDIUM",
+      "frequency": 82.8,
+      "acceptanceRate": 0.8066019584580677,
+      "link": "https://leetcode.com/problems/permutations",
+      "topics": [
+        "Array",
+        "Backtracking"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+"
+      ]
+    },
+    {
+      "title": "Arranging Coins",
+      "titleSlug": "arranging-coins",
+      "difficulty": "EASY",
+      "frequency": 82.8,
+      "acceptanceRate": 0.47337144696216815,
+      "link": "https://leetcode.com/problems/arranging-coins",
+      "topics": [
+        "Math",
+        "Binary Search"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Sorting",
+    "Two Pointers",
+    "String",
+    "Backtracking",
+    "Math",
+    "Binary Search"
+  ]
+}

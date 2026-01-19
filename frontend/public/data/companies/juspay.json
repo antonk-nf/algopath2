@@ -1,0 +1,244 @@
+{
+  "company": "Juspay",
+  "stats": {
+    "totalProblems": 11,
+    "uniqueProblems": 11,
+    "avgFrequency": 81.85,
+    "avgAcceptanceRate": 0.44443532629737725,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 14,
+      "HARD": 12,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Longest Subsequence With Decreasing Adjacent Difference",
+      "titleSlug": "longest-subsequence-with-decreasing-adjacent-difference",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.14664225321772847,
+      "link": "https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Cycle in a Graph",
+      "titleSlug": "longest-cycle-in-a-graph",
+      "difficulty": "HARD",
+      "frequency": 95.1,
+      "acceptanceRate": 0.4980014754946761,
+      "link": "https://leetcode.com/problems/longest-cycle-in-a-graph",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph",
+        "Topological Sort"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Operations on Tree",
+      "titleSlug": "operations-on-tree",
+      "difficulty": "MEDIUM",
+      "frequency": 92.2,
+      "acceptanceRate": 0.43368293750912235,
+      "link": "https://leetcode.com/problems/operations-on-tree",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Design"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Find Closest Node to Given Two Nodes",
+      "titleSlug": "find-closest-node-to-given-two-nodes",
+      "difficulty": "MEDIUM",
+      "frequency": 88.7,
+      "acceptanceRate": 0.5285199349714834,
+      "link": "https://leetcode.com/problems/find-closest-node-to-given-two-nodes",
+      "topics": [
+        "Depth-First Search",
+        "Graph"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Largest Color Value in a Directed Graph",
+      "titleSlug": "largest-color-value-in-a-directed-graph",
+      "difficulty": "HARD",
+      "frequency": 73.6,
+      "acceptanceRate": 0.5767908345021908,
+      "link": "https://leetcode.com/problems/largest-color-value-in-a-directed-graph",
+      "topics": [
+        "Hash Table",
+        "Dynamic Programming",
+        "Graph",
+        "Topological Sort",
+        "Memoization",
+        "Counting"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Shortest Path in a Weighted Tree",
+      "titleSlug": "shortest-path-in-a-weighted-tree",
+      "difficulty": "HARD",
+      "frequency": 73.6,
+      "acceptanceRate": 0.3218752658895601,
+      "link": "https://leetcode.com/problems/shortest-path-in-a-weighted-tree",
+      "topics": [
+        "Array",
+        "Tree",
+        "Depth-First Search",
+        "Binary Indexed Tree",
+        "Segment Tree"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Sliding Window Maximum",
+      "titleSlug": "sliding-window-maximum",
+      "difficulty": "HARD",
+      "frequency": 73.6,
+      "acceptanceRate": 0.47604117337050583,
+      "link": "https://leetcode.com/problems/sliding-window-maximum",
+      "topics": [
+        "Array",
+        "Queue",
+        "Sliding Window",
+        "Heap (Priority Queue)",
+        "Monotonic Queue"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Set Matrix Zeroes",
+      "titleSlug": "set-matrix-zeroes",
+      "difficulty": "MEDIUM",
+      "frequency": 73.4,
+      "acceptanceRate": 0.6070892209392098,
+      "link": "https://leetcode.com/problems/set-matrix-zeroes",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Node With Highest Edge Score",
+      "titleSlug": "node-with-highest-edge-score",
+      "difficulty": "MEDIUM",
+      "frequency": 73.4,
+      "acceptanceRate": 0.48455738418038136,
+      "link": "https://leetcode.com/problems/node-with-highest-edge-score",
+      "topics": [
+        "Hash Table",
+        "Graph"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Substring Without Repeating Characters",
+      "titleSlug": "longest-substring-without-repeating-characters",
+      "difficulty": "MEDIUM",
+      "frequency": 73.4,
+      "acceptanceRate": 0.3693615972153291,
+      "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Word Ladder",
+      "titleSlug": "word-ladder",
+      "difficulty": "HARD",
+      "frequency": 53.9,
+      "acceptanceRate": 0.42812118037093305,
+      "link": "https://leetcode.com/problems/word-ladder",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Breadth-First Search"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Hash Table",
+    "Depth-First Search",
+    "Graph",
+    "Tree",
+    "Breadth-First Search",
+    "Dynamic Programming",
+    "Topological Sort",
+    "Sliding Window",
+    "Design",
+    "Memoization",
+    "Counting",
+    "Binary Indexed Tree",
+    "Segment Tree",
+    "Queue"
+  ]
+}

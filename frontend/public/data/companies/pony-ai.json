@@ -1,0 +1,106 @@
+{
+  "company": "Pony.ai",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 100.0,
+    "avgAcceptanceRate": 0.544686756126065,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 6,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Maximum Profit in Job Scheduling",
+      "titleSlug": "maximum-profit-in-job-scheduling",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5441744826912199,
+      "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Dynamic Programming",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "K-th Smallest Prime Fraction",
+      "titleSlug": "k-th-smallest-prime-fraction",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6852111087945333,
+      "link": "https://leetcode.com/problems/k-th-smallest-prime-fraction",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Frequency of the Most Frequent Element",
+      "titleSlug": "frequency-of-the-most-frequent-element",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.44103297583106765,
+      "link": "https://leetcode.com/problems/frequency-of-the-most-frequent-element",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Greedy",
+        "Sliding Window",
+        "Sorting",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Sideway Jumps",
+      "titleSlug": "minimum-sideway-jumps",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.508328457187439,
+      "link": "https://leetcode.com/problems/minimum-sideway-jumps",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Binary Search",
+    "Sorting",
+    "Dynamic Programming",
+    "Greedy",
+    "Two Pointers",
+    "Heap (Priority Queue)",
+    "Sliding Window",
+    "Prefix Sum"
+  ]
+}

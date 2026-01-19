@@ -1,0 +1,495 @@
+{
+  "company": "Deloitte",
+  "stats": {
+    "totalProblems": 27,
+    "uniqueProblems": 27,
+    "avgFrequency": 75.09807692307692,
+    "avgAcceptanceRate": 0.5464163012340266,
+    "difficultyDistribution": {
+      "EASY": 26,
+      "MEDIUM": 23,
+      "HARD": 3,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Second Highest Salary",
+      "titleSlug": "second-highest-salary",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4386518117872288,
+      "link": "https://leetcode.com/problems/second-highest-salary",
+      "topics": [
+        "Database"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Merge k Sorted Lists",
+      "titleSlug": "merge-k-sorted-lists",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5677423817534303,
+      "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+      "topics": [
+        "Linked List",
+        "Divide and Conquer",
+        "Heap (Priority Queue)",
+        "Merge Sort"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Valid Parentheses",
+      "titleSlug": "valid-parentheses",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4232287331904933,
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "topics": [
+        "String",
+        "Stack"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Palindromic Substring",
+      "titleSlug": "longest-palindromic-substring",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.35846135942015783,
+      "link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Container With Most Water",
+      "titleSlug": "container-with-most-water",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5778289005385611,
+      "link": "https://leetcode.com/problems/container-with-most-water",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Greedy"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Minimum Time to Repair Cars",
+      "titleSlug": "minimum-time-to-repair-cars",
+      "difficulty": "MEDIUM",
+      "frequency": 87.9,
+      "acceptanceRate": 0.5991672990715053,
+      "link": "https://leetcode.com/problems/minimum-time-to-repair-cars",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Merge Intervals",
+      "titleSlug": "merge-intervals",
+      "difficulty": "MEDIUM",
+      "frequency": 87.9,
+      "acceptanceRate": 0.4939525616898277,
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "topics": [
+        "Array",
+        "Sorting"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "difficulty": "EASY",
+      "frequency": 87.9,
+      "acceptanceRate": 0.5577698935805033,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Rising Temperature",
+      "titleSlug": "rising-temperature",
+      "difficulty": "EASY",
+      "frequency": 87.9,
+      "acceptanceRate": 0.5018287657004238,
+      "link": "https://leetcode.com/problems/rising-temperature",
+      "topics": [
+        "Database"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Palindrome Number",
+      "titleSlug": "palindrome-number",
+      "difficulty": "EASY",
+      "frequency": 77.9,
+      "acceptanceRate": 0.5922447925324843,
+      "link": "https://leetcode.com/problems/palindrome-number",
+      "topics": [
+        "Math"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Reverse Integer",
+      "titleSlug": "reverse-integer",
+      "difficulty": "MEDIUM",
+      "frequency": 77.9,
+      "acceptanceRate": 0.3030899221460467,
+      "link": "https://leetcode.com/problems/reverse-integer",
+      "topics": [
+        "Math"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Pascal's Triangle",
+      "titleSlug": "pascal-s-triangle",
+      "difficulty": "EASY",
+      "frequency": 67.3,
+      "acceptanceRate": 0.7702154336843631,
+      "link": "https://leetcode.com/problems/pascals-triangle",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Climbing Stairs",
+      "titleSlug": "climbing-stairs",
+      "difficulty": "EASY",
+      "frequency": 67.3,
+      "acceptanceRate": 0.5354075759623981,
+      "link": "https://leetcode.com/problems/climbing-stairs",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Memoization"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Change Null Values in a Table to the Previous Value",
+      "titleSlug": "change-null-values-in-a-table-to-the-previous-value",
+      "difficulty": "MEDIUM",
+      "frequency": 67.3,
+      "acceptanceRate": 0.5152052486922599,
+      "link": "https://leetcode.com/problems/change-null-values-in-a-table-to-the-previous-value",
+      "topics": [
+        "Database"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Majority Element",
+      "titleSlug": "majority-element",
+      "difficulty": "EASY",
+      "frequency": 67.3,
+      "acceptanceRate": 0.657403393726359,
+      "link": "https://leetcode.com/problems/majority-element",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Divide and Conquer",
+        "Sorting",
+        "Counting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Managers with at Least 5 Direct Reports",
+      "titleSlug": "managers-with-at-least-5-direct-reports",
+      "difficulty": "MEDIUM",
+      "frequency": 67.3,
+      "acceptanceRate": 0.48939672823644015,
+      "link": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports",
+      "topics": [
+        "Database"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "titleSlug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "EASY",
+      "frequency": 67.3,
+      "acceptanceRate": 0.5525964364560344,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Find Customer Referee",
+      "titleSlug": "find-customer-referee",
+      "difficulty": "EASY",
+      "frequency": 67.3,
+      "acceptanceRate": 0.7170904181686228,
+      "link": "https://leetcode.com/problems/find-customer-referee",
+      "topics": [
+        "Database"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Article Views I",
+      "titleSlug": "article-views-i",
+      "difficulty": "EASY",
+      "frequency": 67.3,
+      "acceptanceRate": 0.7714447529870836,
+      "link": "https://leetcode.com/problems/article-views-i",
+      "topics": [
+        "Database"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Common Prefix",
+      "titleSlug": "longest-common-prefix",
+      "difficulty": "EASY",
+      "frequency": 67.3,
+      "acceptanceRate": 0.4548314437013565,
+      "link": "https://leetcode.com/problems/longest-common-prefix",
+      "topics": [
+        "String",
+        "Trie"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Reverse Words in a String",
+      "titleSlug": "reverse-words-in-a-string",
+      "difficulty": "MEDIUM",
+      "frequency": 59.5,
+      "acceptanceRate": 0.5191333530123619,
+      "link": "https://leetcode.com/problems/reverse-words-in-a-string",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Max Consecutive Ones",
+      "titleSlug": "max-consecutive-ones",
+      "difficulty": "EASY",
+      "frequency": 59.5,
+      "acceptanceRate": 0.6248248491626799,
+      "link": "https://leetcode.com/problems/max-consecutive-ones",
+      "topics": [
+        "Array"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Kth Largest Element in an Array",
+      "titleSlug": "kth-largest-element-in-an-array",
+      "difficulty": "MEDIUM",
+      "frequency": 59.5,
+      "acceptanceRate": 0.6797700934843032,
+      "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+      "topics": [
+        "Array",
+        "Divide and Conquer",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Quickselect"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Coin Change",
+      "titleSlug": "coin-change",
+      "difficulty": "MEDIUM",
+      "frequency": 59.5,
+      "acceptanceRate": 0.4649557971017352,
+      "link": "https://leetcode.com/problems/coin-change",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Breadth-First Search"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Edit Distance",
+      "titleSlug": "edit-distance",
+      "difficulty": "MEDIUM",
+      "frequency": 59.5,
+      "acceptanceRate": 0.5878980065613459,
+      "link": "https://leetcode.com/problems/edit-distance",
+      "topics": [
+        "String",
+        "Dynamic Programming"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Reverse Linked List",
+      "titleSlug": "reverse-linked-list",
+      "difficulty": "EASY",
+      "frequency": 59.5,
+      "acceptanceRate": 0.7920658884935761,
+      "link": "https://leetcode.com/problems/reverse-linked-list",
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Substring Without Repeating Characters",
+      "titleSlug": "longest-substring-without-repeating-characters",
+      "difficulty": "MEDIUM",
+      "frequency": 59.5,
+      "acceptanceRate": 0.3693614405294362,
+      "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Database",
+    "String",
+    "Dynamic Programming",
+    "Divide and Conquer",
+    "Two Pointers",
+    "Sorting",
+    "Hash Table",
+    "Math",
+    "Linked List",
+    "Heap (Priority Queue)",
+    "Merge Sort",
+    "Stack",
+    "Greedy",
+    "Binary Search"
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "company": "Liftoff",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 91.53333333333335,
+    "avgAcceptanceRate": 0.6279411130641632,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 9,
+      "HARD": 3,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "N-Queens II",
+      "titleSlug": "n-queens-ii",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.7673358368072375,
+      "link": "https://leetcode.com/problems/n-queens-ii",
+      "topics": [
+        "Backtracking"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Random Pick with Weight",
+      "titleSlug": "random-pick-with-weight",
+      "difficulty": "MEDIUM",
+      "frequency": 96.2,
+      "acceptanceRate": 0.4827945955457007,
+      "link": "https://leetcode.com/problems/random-pick-with-weight",
+      "topics": [
+        "Array",
+        "Math",
+        "Binary Search",
+        "Prefix Sum",
+        "Randomized"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Diagonal Traverse",
+      "titleSlug": "diagonal-traverse",
+      "difficulty": "MEDIUM",
+      "frequency": 95.2,
+      "acceptanceRate": 0.631766490373426,
+      "link": "https://leetcode.com/problems/diagonal-traverse",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Diagonal Traverse II",
+      "titleSlug": "diagonal-traverse-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 80.2,
+      "acceptanceRate": 0.5802102312543799,
+      "link": "https://leetcode.com/problems/diagonal-traverse-ii",
+      "topics": [
+        "Array",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Matrix",
+    "Simulation",
+    "Backtracking",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Math",
+    "Binary Search",
+    "Prefix Sum",
+    "Randomized"
+  ]
+}

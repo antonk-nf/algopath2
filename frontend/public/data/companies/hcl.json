@@ -1,0 +1,182 @@
+{
+  "company": "HCL",
+  "stats": {
+    "totalProblems": 9,
+    "uniqueProblems": 9,
+    "avgFrequency": 85.20666666666666,
+    "avgAcceptanceRate": 0.539188706154595,
+    "difficultyDistribution": {
+      "EASY": 10,
+      "MEDIUM": 5,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Longest Substring Without Repeating Characters",
+      "titleSlug": "longest-substring-without-repeating-characters",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.36936163319473875,
+      "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Merge Sorted Array",
+      "titleSlug": "merge-sorted-array",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5291965716793704,
+      "link": "https://leetcode.com/problems/merge-sorted-array",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Valid Parentheses",
+      "titleSlug": "valid-parentheses",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.423229021440664,
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "topics": [
+        "String",
+        "Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Common Prefix",
+      "titleSlug": "longest-common-prefix",
+      "difficulty": "EASY",
+      "frequency": 81.6,
+      "acceptanceRate": 0.45483160561258307,
+      "link": "https://leetcode.com/problems/longest-common-prefix",
+      "topics": [
+        "String",
+        "Trie"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Group Anagrams",
+      "titleSlug": "group-anagrams",
+      "difficulty": "MEDIUM",
+      "frequency": 81.6,
+      "acceptanceRate": 0.7092891274785598,
+      "link": "https://leetcode.com/problems/group-anagrams",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Reverse String",
+      "titleSlug": "reverse-string",
+      "difficulty": "EASY",
+      "frequency": 81.6,
+      "acceptanceRate": 0.7976439633443675,
+      "link": "https://leetcode.com/problems/reverse-string",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "difficulty": "EASY",
+      "frequency": 75.5,
+      "acceptanceRate": 0.5577703941113128,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "3Sum",
+      "titleSlug": "3sum",
+      "difficulty": "MEDIUM",
+      "frequency": 75.5,
+      "acceptanceRate": 0.3707110358869514,
+      "link": "https://leetcode.com/problems/3sum",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Palindrome Number",
+      "titleSlug": "palindrome-number",
+      "difficulty": "EASY",
+      "frequency": 75.5,
+      "acceptanceRate": 0.5922453168200937,
+      "link": "https://leetcode.com/problems/palindrome-number",
+      "topics": [
+        "Math"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "String",
+    "Array",
+    "Hash Table",
+    "Two Pointers",
+    "Sorting",
+    "Sliding Window",
+    "Stack",
+    "Trie",
+    "Math"
+  ]
+}

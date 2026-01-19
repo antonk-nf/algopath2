@@ -1,0 +1,111 @@
+{
+  "company": "Groupon",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 88.4875,
+    "avgAcceptanceRate": 0.5213058162772937,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 8,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Find the Winner of the Circular Game",
+      "titleSlug": "find-the-winner-of-the-circular-game",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.8206658206658206,
+      "link": "https://leetcode.com/problems/find-the-winner-of-the-circular-game",
+      "topics": [
+        "Array",
+        "Math",
+        "Recursion",
+        "Queue",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Insert Delete GetRandom O(1)",
+      "titleSlug": "insert-delete-getrandom-o-1",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5499162240666585,
+      "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Design",
+        "Randomized"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Sell Diminishing-Valued Colored Balls",
+      "titleSlug": "sell-diminishing-valued-colored-balls",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.29960670022229985,
+      "link": "https://leetcode.com/problems/sell-diminishing-valued-colored-balls",
+      "topics": [
+        "Array",
+        "Math",
+        "Binary Search",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Jump Game II",
+      "titleSlug": "jump-game-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.41503452015439535,
+      "link": "https://leetcode.com/problems/jump-game-ii",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Math",
+    "Greedy",
+    "Recursion",
+    "Queue",
+    "Simulation",
+    "Hash Table",
+    "Design",
+    "Randomized",
+    "Binary Search",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Dynamic Programming"
+  ]
+}

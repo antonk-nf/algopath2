@@ -1,0 +1,100 @@
+{
+  "company": "Navi",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 82.78571428571429,
+    "avgAcceptanceRate": 0.5191574636518106,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 6,
+      "HARD": 1,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Minimum Number of Days to Make m Bouquets",
+      "titleSlug": "minimum-number-of-days-to-make-m-bouquets",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.554659285502073,
+      "link": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Search in Rotated Sorted Array",
+      "titleSlug": "search-in-rotated-sorted-array",
+      "difficulty": "MEDIUM",
+      "frequency": 83.2,
+      "acceptanceRate": 0.42837405591160826,
+      "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimize the Maximum Difference of Pairs",
+      "titleSlug": "minimize-the-maximum-difference-of-pairs",
+      "difficulty": "MEDIUM",
+      "frequency": 83.2,
+      "acceptanceRate": 0.508506695457402,
+      "link": "https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Dynamic Programming",
+        "Greedy",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Trapping Rain Water",
+      "titleSlug": "trapping-rain-water",
+      "difficulty": "HARD",
+      "frequency": 66.2,
+      "acceptanceRate": 0.6510221718205077,
+      "link": "https://leetcode.com/problems/trapping-rain-water",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Dynamic Programming",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming",
+    "Greedy",
+    "Sorting",
+    "Two Pointers",
+    "Stack",
+    "Monotonic Stack"
+  ]
+}

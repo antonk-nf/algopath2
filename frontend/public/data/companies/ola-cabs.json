@@ -1,0 +1,59 @@
+{
+  "company": "Ola Cabs",
+  "stats": {
+    "totalProblems": 2,
+    "uniqueProblems": 2,
+    "avgFrequency": 100.0,
+    "avgAcceptanceRate": 0.5820622986065345,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 2,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "titleSlug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5525974554760431,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Decode String",
+      "titleSlug": "decode-string",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6115271417370257,
+      "link": "https://leetcode.com/problems/decode-string",
+      "topics": [
+        "String",
+        "Stack",
+        "Recursion"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Dynamic Programming",
+    "String",
+    "Stack",
+    "Recursion"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "company": "Genpact",
+  "stats": {
+    "totalProblems": 3,
+    "uniqueProblems": 3,
+    "avgFrequency": 85.93333333333334,
+    "avgAcceptanceRate": 0.5727014928893538,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 4,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Design Authentication Manager",
+      "titleSlug": "design-authentication-manager",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5786802030456852,
+      "link": "https://leetcode.com/problems/design-authentication-manager",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Second Highest Salary",
+      "titleSlug": "second-highest-salary",
+      "difficulty": "MEDIUM",
+      "frequency": 78.9,
+      "acceptanceRate": 0.43870653758850314,
+      "link": "https://leetcode.com/problems/second-highest-salary",
+      "topics": [
+        "Database"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Missing Number",
+      "titleSlug": "missing-number",
+      "difficulty": "EASY",
+      "frequency": 78.9,
+      "acceptanceRate": 0.7007177380338733,
+      "link": "https://leetcode.com/problems/missing-number",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Binary Search",
+        "Bit Manipulation",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Hash Table",
+    "Linked List",
+    "Design",
+    "Doubly-Linked List",
+    "Database",
+    "Array",
+    "Math",
+    "Binary Search",
+    "Bit Manipulation",
+    "Sorting"
+  ]
+}

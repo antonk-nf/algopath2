@@ -1,0 +1,78 @@
+{
+  "company": "DXC Technology",
+  "stats": {
+    "totalProblems": 3,
+    "uniqueProblems": 3,
+    "avgFrequency": 100.0,
+    "avgAcceptanceRate": 0.549452485421091,
+    "difficultyDistribution": {
+      "EASY": 4,
+      "MEDIUM": 2,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Longest Common Prefix",
+      "titleSlug": "longest-common-prefix",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.45487227473690034,
+      "link": "https://leetcode.com/problems/longest-common-prefix",
+      "topics": [
+        "String",
+        "Trie"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Sort Array By Parity",
+      "titleSlug": "sort-array-by-parity",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.7632307011030572,
+      "link": "https://leetcode.com/problems/sort-array-by-parity",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Rotate Array",
+      "titleSlug": "rotate-array",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4302544804233154,
+      "link": "https://leetcode.com/problems/rotate-array",
+      "topics": [
+        "Array",
+        "Math",
+        "Two Pointers"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Two Pointers",
+    "String",
+    "Trie",
+    "Sorting",
+    "Math"
+  ]
+}

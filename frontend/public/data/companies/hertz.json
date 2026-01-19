@@ -1,0 +1,63 @@
+{
+  "company": "Hertz",
+  "stats": {
+    "totalProblems": 2,
+    "uniqueProblems": 2,
+    "avgFrequency": 97.575,
+    "avgAcceptanceRate": 0.6087514019194762,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 4,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Decode String",
+      "titleSlug": "decode-string",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6115583433240551,
+      "link": "https://leetcode.com/problems/decode-string",
+      "topics": [
+        "String",
+        "Stack",
+        "Recursion"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Brightest Position on Street",
+      "titleSlug": "brightest-position-on-street",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6059444605148974,
+      "link": "https://leetcode.com/problems/brightest-position-on-street",
+      "topics": [
+        "Array",
+        "Sorting",
+        "Prefix Sum",
+        "Ordered Set"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "String",
+    "Stack",
+    "Recursion",
+    "Array",
+    "Sorting",
+    "Prefix Sum",
+    "Ordered Set"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "company": "Luxoft",
+  "stats": {
+    "totalProblems": 2,
+    "uniqueProblems": 2,
+    "avgFrequency": 97.84,
+    "avgAcceptanceRate": 0.6983485837771718,
+    "difficultyDistribution": {
+      "EASY": 5,
+      "MEDIUM": 0,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Reverse Linked List",
+      "titleSlug": "reverse-linked-list",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.7920671085582424,
+      "link": "https://leetcode.com/problems/reverse-linked-list",
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5577707966055659,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Linked List",
+    "Recursion",
+    "Array",
+    "Hash Table"
+  ]
+}

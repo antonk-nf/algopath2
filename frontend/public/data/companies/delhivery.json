@@ -1,0 +1,76 @@
+{
+  "company": "Delhivery",
+  "stats": {
+    "totalProblems": 3,
+    "uniqueProblems": 3,
+    "avgFrequency": 100.0,
+    "avgAcceptanceRate": 0.45632504999390383,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 4,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Min Stack",
+      "titleSlug": "min-stack",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5644523506962699,
+      "link": "https://leetcode.com/problems/min-stack",
+      "topics": [
+        "Stack",
+        "Design"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Integer to English Words",
+      "titleSlug": "integer-to-english-words",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.34355110873263656,
+      "link": "https://leetcode.com/problems/integer-to-english-words",
+      "topics": [
+        "Math",
+        "String",
+        "Recursion"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Consecutive Numbers",
+      "titleSlug": "consecutive-numbers",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4609716905528051,
+      "link": "https://leetcode.com/problems/consecutive-numbers",
+      "topics": [
+        "Database"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Stack",
+    "Design",
+    "Math",
+    "String",
+    "Recursion",
+    "Database"
+  ]
+}

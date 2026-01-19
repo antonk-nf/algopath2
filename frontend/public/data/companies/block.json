@@ -1,0 +1,296 @@
+{
+  "company": "Block",
+  "stats": {
+    "totalProblems": 14,
+    "uniqueProblems": 14,
+    "avgFrequency": 84.89999999999999,
+    "avgAcceptanceRate": 0.5221208013994414,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 18,
+      "HARD": 8,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Design a Text Editor",
+      "titleSlug": "design-a-text-editor",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.47138071447136626,
+      "link": "https://leetcode.com/problems/design-a-text-editor",
+      "topics": [
+        "Linked List",
+        "String",
+        "Stack",
+        "Design",
+        "Simulation",
+        "Doubly-Linked List"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Implement Trie (Prefix Tree)",
+      "titleSlug": "implement-trie-prefix-tree",
+      "difficulty": "MEDIUM",
+      "frequency": 92.3,
+      "acceptanceRate": 0.6793489174940865,
+      "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Design",
+        "Trie"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Integer to English Words",
+      "titleSlug": "integer-to-english-words",
+      "difficulty": "HARD",
+      "frequency": 81.4,
+      "acceptanceRate": 0.34354789501950295,
+      "link": "https://leetcode.com/problems/integer-to-english-words",
+      "topics": [
+        "Math",
+        "String",
+        "Recursion"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "The Maze",
+      "titleSlug": "the-maze",
+      "difficulty": "MEDIUM",
+      "frequency": 81.4,
+      "acceptanceRate": 0.5951548421014023,
+      "link": "https://leetcode.com/problems/the-maze",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Walking Robot Simulation II",
+      "titleSlug": "walking-robot-simulation-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 81.4,
+      "acceptanceRate": 0.2507536943378198,
+      "link": "https://leetcode.com/problems/walking-robot-simulation-ii",
+      "topics": [
+        "Design",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Count Nice Pairs in an Array",
+      "titleSlug": "count-nice-pairs-in-an-array",
+      "difficulty": "MEDIUM",
+      "frequency": 81.4,
+      "acceptanceRate": 0.4853582921277765,
+      "link": "https://leetcode.com/problems/count-nice-pairs-in-an-array",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Counting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Black Blocks",
+      "titleSlug": "number-of-black-blocks",
+      "difficulty": "MEDIUM",
+      "frequency": 81.4,
+      "acceptanceRate": 0.3861732264480743,
+      "link": "https://leetcode.com/problems/number-of-black-blocks",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Enumeration"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Word Break",
+      "titleSlug": "word-break",
+      "difficulty": "MEDIUM",
+      "frequency": 81.4,
+      "acceptanceRate": 0.4827380427522254,
+      "link": "https://leetcode.com/problems/word-break",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Dynamic Programming",
+        "Trie",
+        "Memoization"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Pancake Sorting",
+      "titleSlug": "pancake-sorting",
+      "difficulty": "MEDIUM",
+      "frequency": 81.4,
+      "acceptanceRate": 0.7119131096022234,
+      "link": "https://leetcode.com/problems/pancake-sorting",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Greedy",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Available Captures for Rook",
+      "titleSlug": "available-captures-for-rook",
+      "difficulty": "EASY",
+      "frequency": 81.4,
+      "acceptanceRate": 0.7036967165251763,
+      "link": "https://leetcode.com/problems/available-captures-for-rook",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Rotating the Box",
+      "titleSlug": "rotating-the-box",
+      "difficulty": "MEDIUM",
+      "frequency": 81.4,
+      "acceptanceRate": 0.7909813050714205,
+      "link": "https://leetcode.com/problems/rotating-the-box",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Falling Squares",
+      "titleSlug": "falling-squares",
+      "difficulty": "HARD",
+      "frequency": 81.4,
+      "acceptanceRate": 0.4628826064723501,
+      "link": "https://leetcode.com/problems/falling-squares",
+      "topics": [
+        "Array",
+        "Segment Tree",
+        "Ordered Set"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Squirrel Simulation",
+      "titleSlug": "squirrel-simulation",
+      "difficulty": "MEDIUM",
+      "frequency": 81.4,
+      "acceptanceRate": 0.572498298162015,
+      "link": "https://leetcode.com/problems/squirrel-simulation",
+      "topics": [
+        "Array",
+        "Math"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Word Search II",
+      "titleSlug": "word-search-ii",
+      "difficulty": "HARD",
+      "frequency": 81.4,
+      "acceptanceRate": 0.3732635590067386,
+      "link": "https://leetcode.com/problems/word-search-ii",
+      "topics": [
+        "Array",
+        "String",
+        "Backtracking",
+        "Trie",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "String",
+    "Hash Table",
+    "Matrix",
+    "Design",
+    "Simulation",
+    "Trie",
+    "Math",
+    "Two Pointers",
+    "Linked List",
+    "Stack",
+    "Doubly-Linked List",
+    "Recursion",
+    "Depth-First Search",
+    "Breadth-First Search"
+  ]
+}

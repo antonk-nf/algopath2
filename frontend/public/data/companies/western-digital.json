@@ -1,0 +1,39 @@
+{
+  "company": "Western Digital",
+  "stats": {
+    "totalProblems": 1,
+    "uniqueProblems": 1,
+    "avgFrequency": 100.0,
+    "avgAcceptanceRate": 0.5577709841748584,
+    "difficultyDistribution": {
+      "EASY": 3,
+      "MEDIUM": 0,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5577709841748584,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Hash Table"
+  ]
+}

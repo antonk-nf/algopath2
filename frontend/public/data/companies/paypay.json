@@ -1,0 +1,76 @@
+{
+  "company": "PayPay",
+  "stats": {
+    "totalProblems": 3,
+    "uniqueProblems": 3,
+    "avgFrequency": 89.75714285714285,
+    "avgAcceptanceRate": 0.4172495503513007,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 2,
+      "HARD": 3,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Block Placement Queries",
+      "titleSlug": "block-placement-queries",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.16889906973490942,
+      "link": "https://leetcode.com/problems/block-placement-queries",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Binary Indexed Tree",
+        "Segment Tree"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Largest 3-Same-Digit Number in String",
+      "titleSlug": "largest-3-same-digit-number-in-string",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6909566734515847,
+      "link": "https://leetcode.com/problems/largest-3-same-digit-number-in-string",
+      "topics": [
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Zigzag Conversion",
+      "titleSlug": "zigzag-conversion",
+      "difficulty": "MEDIUM",
+      "frequency": 89.7,
+      "acceptanceRate": 0.5160681481756035,
+      "link": "https://leetcode.com/problems/zigzag-conversion",
+      "topics": [
+        "String"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "String",
+    "Array",
+    "Binary Search",
+    "Binary Indexed Tree",
+    "Segment Tree"
+  ]
+}

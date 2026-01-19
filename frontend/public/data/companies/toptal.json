@@ -1,0 +1,79 @@
+{
+  "company": "Toptal",
+  "stats": {
+    "totalProblems": 3,
+    "uniqueProblems": 3,
+    "avgFrequency": 89.56666666666666,
+    "avgAcceptanceRate": 0.6233380494601996,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 2,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "String Compression II",
+      "titleSlug": "string-compression-ii",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5197862858300415,
+      "link": "https://leetcode.com/problems/string-compression-ii",
+      "topics": [
+        "String",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Airplane Seat Assignment Probability",
+      "titleSlug": "airplane-seat-assignment-probability",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6665048936342312,
+      "link": "https://leetcode.com/problems/airplane-seat-assignment-probability",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Brainteaser",
+        "Probability and Statistics"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Image Smoother",
+      "titleSlug": "image-smoother",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6837229689163258,
+      "link": "https://leetcode.com/problems/image-smoother",
+      "topics": [
+        "Array",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Dynamic Programming",
+    "String",
+    "Math",
+    "Brainteaser",
+    "Probability and Statistics",
+    "Array",
+    "Matrix"
+  ]
+}

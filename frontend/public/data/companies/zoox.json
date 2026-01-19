@@ -1,0 +1,194 @@
+{
+  "company": "Zoox",
+  "stats": {
+    "totalProblems": 9,
+    "uniqueProblems": 9,
+    "avgFrequency": 74.60588235294118,
+    "avgAcceptanceRate": 0.5240405681987784,
+    "difficultyDistribution": {
+      "EASY": 4,
+      "MEDIUM": 13,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "titleSlug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5525969245782094,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Rotting Oranges",
+      "titleSlug": "rotting-oranges",
+      "difficulty": "MEDIUM",
+      "frequency": 79.6,
+      "acceptanceRate": 0.566186375137294,
+      "link": "https://leetcode.com/problems/rotting-oranges",
+      "topics": [
+        "Array",
+        "Breadth-First Search",
+        "Matrix"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "String Compression",
+      "titleSlug": "string-compression",
+      "difficulty": "MEDIUM",
+      "frequency": 79.6,
+      "acceptanceRate": 0.5809147253686685,
+      "link": "https://leetcode.com/problems/string-compression",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Minimum Number of Frogs Croaking",
+      "titleSlug": "minimum-number-of-frogs-croaking",
+      "difficulty": "MEDIUM",
+      "frequency": 73.2,
+      "acceptanceRate": 0.5078628152543851,
+      "link": "https://leetcode.com/problems/minimum-number-of-frogs-croaking",
+      "topics": [
+        "String",
+        "Counting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Basic Calculator II",
+      "titleSlug": "basic-calculator-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 73.2,
+      "acceptanceRate": 0.45811730802423417,
+      "link": "https://leetcode.com/problems/basic-calculator-ii",
+      "topics": [
+        "Math",
+        "String",
+        "Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "H-Index",
+      "titleSlug": "h-index",
+      "difficulty": "MEDIUM",
+      "frequency": 64.9,
+      "acceptanceRate": 0.40286801346018286,
+      "link": "https://leetcode.com/problems/h-index",
+      "topics": [
+        "Array",
+        "Sorting",
+        "Counting Sort"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "4Sum",
+      "titleSlug": "4sum",
+      "difficulty": "MEDIUM",
+      "frequency": 58.8,
+      "acceptanceRate": 0.38219049581097475,
+      "link": "https://leetcode.com/problems/4sum",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Fibonacci Number",
+      "titleSlug": "fibonacci-number",
+      "difficulty": "EASY",
+      "frequency": 58.8,
+      "acceptanceRate": 0.7294495999148303,
+      "link": "https://leetcode.com/problems/fibonacci-number",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Recursion",
+        "Memoization"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Design Circular Queue",
+      "titleSlug": "design-circular-queue",
+      "difficulty": "MEDIUM",
+      "frequency": 58.8,
+      "acceptanceRate": 0.5264455900606018,
+      "link": "https://leetcode.com/problems/design-circular-queue",
+      "topics": [
+        "Array",
+        "Linked List",
+        "Design",
+        "Queue"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "String",
+    "Dynamic Programming",
+    "Two Pointers",
+    "Math",
+    "Sorting",
+    "Breadth-First Search",
+    "Matrix",
+    "Counting",
+    "Stack",
+    "Counting Sort",
+    "Recursion",
+    "Memoization",
+    "Linked List",
+    "Design"
+  ]
+}

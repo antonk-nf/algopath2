@@ -1,0 +1,56 @@
+{
+  "company": "Bridgewater Associates",
+  "stats": {
+    "totalProblems": 2,
+    "uniqueProblems": 2,
+    "avgFrequency": 92.75,
+    "avgAcceptanceRate": 0.6623629229860377,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 4,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Knight Dialer",
+      "titleSlug": "knight-dialer",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6120918922213703,
+      "link": "https://leetcode.com/problems/knight-dialer",
+      "topics": [
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Count Strictly Increasing Subarrays",
+      "titleSlug": "count-strictly-increasing-subarrays",
+      "difficulty": "MEDIUM",
+      "frequency": 84.6,
+      "acceptanceRate": 0.712633953750705,
+      "link": "https://leetcode.com/problems/count-strictly-increasing-subarrays",
+      "topics": [
+        "Array",
+        "Math",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Dynamic Programming",
+    "Array",
+    "Math"
+  ]
+}

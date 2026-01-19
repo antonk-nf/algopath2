@@ -1,5 +1,6 @@
 import { apiClient } from './apiClient';
 import { cacheService } from './cacheService';
+import { staticDataService } from './staticDataService';
 import type {
   AnalyticsCorrelationResponse,
   AnalyticsSummary,
@@ -12,6 +13,14 @@ import {
   MAJOR_TECH_COMPANIES,
   DEFAULT_ANALYTICS_CONFIG
 } from '../types/analytics';
+
+// Check if running in static mode (no API server)
+const isStaticMode = (): boolean => {
+  if (import.meta.env.PROD && import.meta.env.BASE_URL !== '/') {
+    return true;
+  }
+  return import.meta.env.VITE_STATIC_MODE === 'true';
+};
 
 class AnalyticsService {
   private cacheTimeout = DEFAULT_ANALYTICS_CONFIG.cacheTimeout * 60 * 1000; // Convert to milliseconds
@@ -186,7 +195,19 @@ class AnalyticsService {
    */
   async getAnalyticsSummary(companies?: string[]): Promise<AnalyticsSummary> {
     const cacheKey = `analytics_summary_${companies?.join(',') || 'all'}`;
-    
+
+    // Use static data in static mode
+    if (isStaticMode()) {
+      try {
+        const summary = await staticDataService.loadAnalyticsSummary();
+        const transformedData = this.transformAnalyticsSummary(summary);
+        cacheService.set(cacheKey, transformedData, 3 * 60 * 1000);
+        return transformedData;
+      } catch (error) {
+        console.warn('Failed to load static analytics summary:', error);
+      }
+    }
+
     // Try cache first (2-3 minute cache for summary data)
     const cached = cacheService.get<AnalyticsSummary>(cacheKey);
     if (cached) {
@@ -196,10 +217,10 @@ class AnalyticsService {
     try {
       const response = await apiClient.getAnalyticsSummary(companies);
       const transformedData = this.transformAnalyticsSummary(response.data);
-      
+
       // Cache for 3 minutes (fast endpoint)
       cacheService.set(cacheKey, transformedData, 3 * 60 * 1000);
-      
+
       return transformedData;
     } catch (error) {
       console.error('Failed to fetch analytics summary:', error);

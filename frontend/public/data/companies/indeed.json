@@ -1,0 +1,161 @@
+{
+  "company": "Indeed",
+  "stats": {
+    "totalProblems": 7,
+    "uniqueProblems": 7,
+    "avgFrequency": 91.90714285714284,
+    "avgAcceptanceRate": 0.5926832648184384,
+    "difficultyDistribution": {
+      "EASY": 4,
+      "MEDIUM": 6,
+      "HARD": 4,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Merge k Sorted Lists",
+      "titleSlug": "merge-k-sorted-lists",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5677424791476416,
+      "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+      "topics": [
+        "Linked List",
+        "Divide and Conquer",
+        "Heap (Priority Queue)",
+        "Merge Sort"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Sum of Even Numbers After Queries",
+      "titleSlug": "sum-of-even-numbers-after-queries",
+      "difficulty": "MEDIUM",
+      "frequency": 89.1,
+      "acceptanceRate": 0.6852833849138529,
+      "link": "https://leetcode.com/problems/sum-of-even-numbers-after-queries",
+      "topics": [
+        "Array",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Moves to Equal Array Elements",
+      "titleSlug": "minimum-moves-to-equal-array-elements",
+      "difficulty": "MEDIUM",
+      "frequency": 89.1,
+      "acceptanceRate": 0.577054187220996,
+      "link": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements",
+      "topics": [
+        "Array",
+        "Math"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Cost to Split an Array",
+      "titleSlug": "minimum-cost-to-split-an-array",
+      "difficulty": "HARD",
+      "frequency": 89.1,
+      "acceptanceRate": 0.4233523732204471,
+      "link": "https://leetcode.com/problems/minimum-cost-to-split-an-array",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Dynamic Programming",
+        "Counting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Find Players With Zero or One Losses",
+      "titleSlug": "find-players-with-zero-or-one-losses",
+      "difficulty": "MEDIUM",
+      "frequency": 89.1,
+      "acceptanceRate": 0.7259689291131767,
+      "link": "https://leetcode.com/problems/find-players-with-zero-or-one-losses",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting",
+        "Counting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Binary Tree Tilt",
+      "titleSlug": "binary-tree-tilt",
+      "difficulty": "EASY",
+      "frequency": 89.1,
+      "acceptanceRate": 0.6409705660933609,
+      "link": "https://leetcode.com/problems/binary-tree-tilt",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Check if Every Row and Column Contains All Numbers",
+      "titleSlug": "check-if-every-row-and-column-contains-all-numbers",
+      "difficulty": "EASY",
+      "frequency": 89.1,
+      "acceptanceRate": 0.528410934019593,
+      "link": "https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Hash Table",
+    "Counting",
+    "Linked List",
+    "Divide and Conquer",
+    "Heap (Priority Queue)",
+    "Merge Sort",
+    "Simulation",
+    "Math",
+    "Dynamic Programming",
+    "Sorting",
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree",
+    "Matrix"
+  ]
+}

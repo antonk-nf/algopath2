@@ -153,7 +153,7 @@ export function OnboardingTour({ open, onClose, onComplete }: OnboardingTourProp
         alignItems: 'center',
         pb: 1
       }}>
-        <Typography variant="h5" component="h2">
+        <Typography variant="h5" component="span">
           Getting Started
         </Typography>
         <IconButton onClick={onClose} size="small">

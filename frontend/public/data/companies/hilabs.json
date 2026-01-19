@@ -1,0 +1,81 @@
+{
+  "company": "HiLabs",
+  "stats": {
+    "totalProblems": 3,
+    "uniqueProblems": 3,
+    "avgFrequency": 89.3,
+    "avgAcceptanceRate": 0.5600322175003618,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 0,
+      "HARD": 4,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Maximize the Number of Partitions After Operations",
+      "titleSlug": "maximize-the-number-of-partitions-after-operations",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.27458280699421583,
+      "link": "https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Bit Manipulation",
+        "Bitmask"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Water Bottles",
+      "titleSlug": "water-bottles",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.7064832510876005,
+      "link": "https://leetcode.com/problems/water-bottles",
+      "topics": [
+        "Math",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Parsing A Boolean Expression",
+      "titleSlug": "parsing-a-boolean-expression",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6990305944192692,
+      "link": "https://leetcode.com/problems/parsing-a-boolean-expression",
+      "topics": [
+        "String",
+        "Stack",
+        "Recursion"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "String",
+    "Dynamic Programming",
+    "Bit Manipulation",
+    "Bitmask",
+    "Math",
+    "Simulation",
+    "Stack",
+    "Recursion"
+  ]
+}

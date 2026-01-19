@@ -1,0 +1,58 @@
+{
+  "company": "Bosch",
+  "stats": {
+    "totalProblems": 2,
+    "uniqueProblems": 2,
+    "avgFrequency": 97.225,
+    "avgAcceptanceRate": 0.5882646119273129,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 2,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Middle of the Linked List",
+      "titleSlug": "middle-of-the-linked-list",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.8058170744812857,
+      "link": "https://leetcode.com/problems/middle-of-the-linked-list",
+      "topics": [
+        "Linked List",
+        "Two Pointers"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "3Sum",
+      "titleSlug": "3sum",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.3707121493733402,
+      "link": "https://leetcode.com/problems/3sum",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Two Pointers",
+    "Linked List",
+    "Array",
+    "Sorting"
+  ]
+}

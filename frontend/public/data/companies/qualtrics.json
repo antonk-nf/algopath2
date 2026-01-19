@@ -1,0 +1,82 @@
+{
+  "company": "Qualtrics",
+  "stats": {
+    "totalProblems": 3,
+    "uniqueProblems": 3,
+    "avgFrequency": 87.21428571428571,
+    "avgAcceptanceRate": 0.5948467410539101,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 5,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Asteroid Collision",
+      "titleSlug": "asteroid-collision",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4550053440282632,
+      "link": "https://leetcode.com/problems/asteroid-collision",
+      "topics": [
+        "Array",
+        "Stack",
+        "Simulation"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Group Anagrams",
+      "titleSlug": "group-anagrams",
+      "difficulty": "MEDIUM",
+      "frequency": 74.9,
+      "acceptanceRate": 0.7092889662302778,
+      "link": "https://leetcode.com/problems/group-anagrams",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Count Square Sum Triples",
+      "titleSlug": "count-square-sum-triples",
+      "difficulty": "EASY",
+      "frequency": 74.9,
+      "acceptanceRate": 0.6901666114160129,
+      "link": "https://leetcode.com/problems/count-square-sum-triples",
+      "topics": [
+        "Math",
+        "Enumeration"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Stack",
+    "Simulation",
+    "Hash Table",
+    "String",
+    "Sorting",
+    "Math",
+    "Enumeration"
+  ]
+}

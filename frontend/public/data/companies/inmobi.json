@@ -1,0 +1,149 @@
+{
+  "company": "InMobi",
+  "stats": {
+    "totalProblems": 6,
+    "uniqueProblems": 6,
+    "avgFrequency": 85.50000000000001,
+    "avgAcceptanceRate": 0.5501833474419784,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 6,
+      "HARD": 6,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Reach a Number",
+      "titleSlug": "reach-a-number",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.43895830721439816,
+      "link": "https://leetcode.com/problems/reach-a-number",
+      "topics": [
+        "Math",
+        "Binary Search"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Partition Labels",
+      "titleSlug": "partition-labels",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.8153348894045592,
+      "link": "https://leetcode.com/problems/partition-labels",
+      "topics": [
+        "Hash Table",
+        "Two Pointers",
+        "String",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Number of Robots Within Budget",
+      "titleSlug": "maximum-number-of-robots-within-budget",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.36809375440755987,
+      "link": "https://leetcode.com/problems/maximum-number-of-robots-within-budget",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Queue",
+        "Sliding Window",
+        "Heap (Priority Queue)",
+        "Prefix Sum",
+        "Monotonic Queue"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Redundant Connection",
+      "titleSlug": "redundant-connection",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.664559976331304,
+      "link": "https://leetcode.com/problems/redundant-connection",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union Find",
+        "Graph"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Valid Parentheses",
+      "titleSlug": "longest-valid-parentheses",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.3631311123479367,
+      "link": "https://leetcode.com/problems/longest-valid-parentheses",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Trapping Rain Water",
+      "titleSlug": "trapping-rain-water",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6510220449461127,
+      "link": "https://leetcode.com/problems/trapping-rain-water",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Dynamic Programming",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Binary Search",
+    "Two Pointers",
+    "String",
+    "Array",
+    "Dynamic Programming",
+    "Stack",
+    "Math",
+    "Hash Table",
+    "Greedy",
+    "Queue",
+    "Sliding Window",
+    "Heap (Priority Queue)",
+    "Prefix Sum",
+    "Monotonic Queue",
+    "Depth-First Search"
+  ]
+}

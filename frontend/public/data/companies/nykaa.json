@@ -1,0 +1,120 @@
+{
+  "company": "Nykaa",
+  "stats": {
+    "totalProblems": 5,
+    "uniqueProblems": 5,
+    "avgFrequency": 94.97777777777779,
+    "avgAcceptanceRate": 0.5372153415910126,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 7,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Largest Number",
+      "titleSlug": "largest-number",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4128053161945387,
+      "link": "https://leetcode.com/problems/largest-number",
+      "topics": [
+        "Array",
+        "String",
+        "Greedy",
+        "Sorting"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Koko Eating Bananas",
+      "titleSlug": "koko-eating-bananas",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4906744578198354,
+      "link": "https://leetcode.com/problems/koko-eating-bananas",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Diagonal Traverse",
+      "titleSlug": "diagonal-traverse",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6317355223295921,
+      "link": "https://leetcode.com/problems/diagonal-traverse",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Merge k Sorted Lists",
+      "titleSlug": "merge-k-sorted-lists",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5677430867630362,
+      "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+      "topics": [
+        "Linked List",
+        "Divide and Conquer",
+        "Heap (Priority Queue)",
+        "Merge Sort"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Remove Duplicates from Sorted Array II",
+      "titleSlug": "remove-duplicates-from-sorted-array-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 88.7,
+      "acceptanceRate": 0.6290213081051084,
+      "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii",
+      "topics": [
+        "Array",
+        "Two Pointers"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "String",
+    "Greedy",
+    "Sorting",
+    "Binary Search",
+    "Matrix",
+    "Simulation",
+    "Linked List",
+    "Divide and Conquer",
+    "Heap (Priority Queue)",
+    "Merge Sort",
+    "Two Pointers"
+  ]
+}

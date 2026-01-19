@@ -1,0 +1,150 @@
+{
+  "company": "Moveworks",
+  "stats": {
+    "totalProblems": 6,
+    "uniqueProblems": 6,
+    "avgFrequency": 84.23750000000001,
+    "avgAcceptanceRate": 0.5081644663890545,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 12,
+      "HARD": 4,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Shortest Uncommon Substring in an Array",
+      "titleSlug": "shortest-uncommon-substring-in-an-array",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4821341799216042,
+      "link": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Trie"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Text Justification",
+      "titleSlug": "text-justification",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4815035316083349,
+      "link": "https://leetcode.com/problems/text-justification",
+      "topics": [
+        "Array",
+        "String",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Synonymous Sentences",
+      "titleSlug": "synonymous-sentences",
+      "difficulty": "MEDIUM",
+      "frequency": 93.4,
+      "acceptanceRate": 0.5657701813916468,
+      "link": "https://leetcode.com/problems/synonymous-sentences",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Backtracking",
+        "Union Find"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Word Break II",
+      "titleSlug": "word-break-ii",
+      "difficulty": "HARD",
+      "frequency": 84.8,
+      "acceptanceRate": 0.5364545782263879,
+      "link": "https://leetcode.com/problems/word-break-ii",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Dynamic Programming",
+        "Backtracking",
+        "Trie",
+        "Memoization"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Merge Intervals",
+      "titleSlug": "merge-intervals",
+      "difficulty": "MEDIUM",
+      "frequency": 84.0,
+      "acceptanceRate": 0.4939520668150291,
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "topics": [
+        "Array",
+        "Sorting"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Number of Removable Characters",
+      "titleSlug": "maximum-number-of-removable-characters",
+      "difficulty": "MEDIUM",
+      "frequency": 53.3,
+      "acceptanceRate": 0.45759683183618277,
+      "link": "https://leetcode.com/problems/maximum-number-of-removable-characters",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "String",
+        "Binary Search"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "String",
+    "Hash Table",
+    "Trie",
+    "Backtracking",
+    "Union Find",
+    "Sorting",
+    "Simulation",
+    "Dynamic Programming",
+    "Memoization",
+    "Two Pointers",
+    "Binary Search"
+  ]
+}

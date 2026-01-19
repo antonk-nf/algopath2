@@ -1,0 +1,378 @@
+{
+  "company": "SoFi",
+  "stats": {
+    "totalProblems": 18,
+    "uniqueProblems": 18,
+    "avgFrequency": 82.77435897435898,
+    "avgAcceptanceRate": 0.5532848379826503,
+    "difficultyDistribution": {
+      "EASY": 6,
+      "MEDIUM": 23,
+      "HARD": 10,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Minimum Number of Steps to Make Two Strings Anagram",
+      "titleSlug": "minimum-number-of-steps-to-make-two-strings-anagram",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.8215204393310427,
+      "link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Islands",
+      "titleSlug": "number-of-islands",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6232014425500368,
+      "link": "https://leetcode.com/problems/number-of-islands",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union Find",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Asteroid Collision",
+      "titleSlug": "asteroid-collision",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4550061229796745,
+      "link": "https://leetcode.com/problems/asteroid-collision",
+      "topics": [
+        "Array",
+        "Stack",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "difficulty": "EASY",
+      "frequency": 91.9,
+      "acceptanceRate": 0.5577702725256378,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Roman to Integer",
+      "titleSlug": "roman-to-integer",
+      "difficulty": "EASY",
+      "frequency": 91.9,
+      "acceptanceRate": 0.6486636808679633,
+      "link": "https://leetcode.com/problems/roman-to-integer",
+      "topics": [
+        "Hash Table",
+        "Math",
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Insert Delete GetRandom O(1)",
+      "titleSlug": "insert-delete-getrandom-o-1",
+      "difficulty": "MEDIUM",
+      "frequency": 91.9,
+      "acceptanceRate": 0.549919064652625,
+      "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Design",
+        "Randomized"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Subarray Product Less Than K",
+      "titleSlug": "subarray-product-less-than-k",
+      "difficulty": "MEDIUM",
+      "frequency": 80.6,
+      "acceptanceRate": 0.5285353676533414,
+      "link": "https://leetcode.com/problems/subarray-product-less-than-k",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Sliding Window",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Flatten a Multilevel Doubly Linked List",
+      "titleSlug": "flatten-a-multilevel-doubly-linked-list",
+      "difficulty": "MEDIUM",
+      "frequency": 80.6,
+      "acceptanceRate": 0.6131209568946355,
+      "link": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list",
+      "topics": [
+        "Linked List",
+        "Depth-First Search",
+        "Doubly-Linked List"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Degree of an Array",
+      "titleSlug": "degree-of-an-array",
+      "difficulty": "EASY",
+      "frequency": 80.6,
+      "acceptanceRate": 0.5742054384866819,
+      "link": "https://leetcode.com/problems/degree-of-an-array",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Meeting Rooms II",
+      "titleSlug": "meeting-rooms-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 80.6,
+      "acceptanceRate": 0.5214172217778257,
+      "link": "https://leetcode.com/problems/meeting-rooms-ii",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "LRU Cache",
+      "titleSlug": "lru-cache",
+      "difficulty": "MEDIUM",
+      "frequency": 80.6,
+      "acceptanceRate": 0.4521484931675215,
+      "link": "https://leetcode.com/problems/lru-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Mountain in Array",
+      "titleSlug": "longest-mountain-in-array",
+      "difficulty": "MEDIUM",
+      "frequency": 74.9,
+      "acceptanceRate": 0.4107846968136123,
+      "link": "https://leetcode.com/problems/longest-mountain-in-array",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Dynamic Programming",
+        "Enumeration"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Number of Non-overlapping Palindrome Substrings",
+      "titleSlug": "maximum-number-of-non-overlapping-palindrome-substrings",
+      "difficulty": "HARD",
+      "frequency": 74.9,
+      "acceptanceRate": 0.4156976135101724,
+      "link": "https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming",
+        "Greedy"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Minimum Window Substring",
+      "titleSlug": "minimum-window-substring",
+      "difficulty": "HARD",
+      "frequency": 74.9,
+      "acceptanceRate": 0.45350671702442985,
+      "link": "https://leetcode.com/problems/minimum-window-substring",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "30d",
+        "3m"
+      ]
+    },
+    {
+      "title": "Merge k Sorted Lists",
+      "titleSlug": "merge-k-sorted-lists",
+      "difficulty": "HARD",
+      "frequency": 74.9,
+      "acceptanceRate": 0.5677426186956992,
+      "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+      "topics": [
+        "Linked List",
+        "Divide and Conquer",
+        "Heap (Priority Queue)",
+        "Merge Sort"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Palindromic Substrings",
+      "titleSlug": "palindromic-substrings",
+      "difficulty": "MEDIUM",
+      "frequency": 66.0,
+      "acceptanceRate": 0.716780342298775,
+      "link": "https://leetcode.com/problems/palindromic-substrings",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Find the Winner of the Circular Game",
+      "titleSlug": "find-the-winner-of-the-circular-game",
+      "difficulty": "MEDIUM",
+      "frequency": 66.0,
+      "acceptanceRate": 0.8206653804804053,
+      "link": "https://leetcode.com/problems/find-the-winner-of-the-circular-game",
+      "topics": [
+        "Array",
+        "Math",
+        "Recursion",
+        "Queue",
+        "Simulation"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Top K Frequent Elements",
+      "titleSlug": "top-k-frequent-elements",
+      "difficulty": "MEDIUM",
+      "frequency": 66.0,
+      "acceptanceRate": 0.6456597639542642,
+      "link": "https://leetcode.com/problems/top-k-frequent-elements",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Divide and Conquer",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Bucket Sort",
+        "Counting",
+        "Quickselect"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Hash Table",
+    "Array",
+    "String",
+    "Two Pointers",
+    "Dynamic Programming",
+    "Sliding Window",
+    "Linked List",
+    "Greedy",
+    "Heap (Priority Queue)",
+    "Math",
+    "Counting",
+    "Depth-First Search",
+    "Design",
+    "Prefix Sum",
+    "Doubly-Linked List"
+  ]
+}

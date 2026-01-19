@@ -1,0 +1,80 @@
+{
+  "company": "fourkites",
+  "stats": {
+    "totalProblems": 3,
+    "uniqueProblems": 3,
+    "avgFrequency": 100.0,
+    "avgAcceptanceRate": 0.6024465229519991,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 4,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Longest Subarray With Maximum Bitwise AND",
+      "titleSlug": "longest-subarray-with-maximum-bitwise-and",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6181425057525985,
+      "link": "https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and",
+      "topics": [
+        "Array",
+        "Bit Manipulation",
+        "Brainteaser"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Unequal Adjacent Groups Subsequence II",
+      "titleSlug": "longest-unequal-adjacent-groups-subsequence-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5135262321144675,
+      "link": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii",
+      "topics": [
+        "Array",
+        "String",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Unequal Adjacent Groups Subsequence I",
+      "titleSlug": "longest-unequal-adjacent-groups-subsequence-i",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6756708309889311,
+      "link": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i",
+      "topics": [
+        "Array",
+        "String",
+        "Dynamic Programming",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "String",
+    "Dynamic Programming",
+    "Bit Manipulation",
+    "Brainteaser",
+    "Greedy"
+  ]
+}

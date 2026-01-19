@@ -1,0 +1,224 @@
+{
+  "company": "Flexport",
+  "stats": {
+    "totalProblems": 10,
+    "uniqueProblems": 10,
+    "avgFrequency": 83.36,
+    "avgAcceptanceRate": 0.5440325765069438,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 25,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Decode String",
+      "titleSlug": "decode-string",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.611527047281157,
+      "link": "https://leetcode.com/problems/decode-string",
+      "topics": [
+        "String",
+        "Stack",
+        "Recursion"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Clone Graph",
+      "titleSlug": "clone-graph",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6238596161697385,
+      "link": "https://leetcode.com/problems/clone-graph",
+      "topics": [
+        "Hash Table",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Bag of Tokens",
+      "titleSlug": "bag-of-tokens",
+      "difficulty": "MEDIUM",
+      "frequency": 92.6,
+      "acceptanceRate": 0.5918662223280171,
+      "link": "https://leetcode.com/problems/bag-of-tokens",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Greedy",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Count Zero Request Servers",
+      "titleSlug": "count-zero-request-servers",
+      "difficulty": "MEDIUM",
+      "frequency": 82.1,
+      "acceptanceRate": 0.34117881058144933,
+      "link": "https://leetcode.com/problems/count-zero-request-servers",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sliding Window",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Time Based Key-Value Store",
+      "titleSlug": "time-based-key-value-store",
+      "difficulty": "MEDIUM",
+      "frequency": 82.1,
+      "acceptanceRate": 0.49366433435553103,
+      "link": "https://leetcode.com/problems/time-based-key-value-store",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Binary Search",
+        "Design"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Subarray Product Less Than K",
+      "titleSlug": "subarray-product-less-than-k",
+      "difficulty": "MEDIUM",
+      "frequency": 82.1,
+      "acceptanceRate": 0.5285358649789029,
+      "link": "https://leetcode.com/problems/subarray-product-less-than-k",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Sliding Window",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Increasing Subsequence",
+      "titleSlug": "longest-increasing-subsequence",
+      "difficulty": "MEDIUM",
+      "frequency": 82.1,
+      "acceptanceRate": 0.5780847126573901,
+      "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Letter Combinations of a Phone Number",
+      "titleSlug": "letter-combinations-of-a-phone-number",
+      "difficulty": "MEDIUM",
+      "frequency": 67.3,
+      "acceptanceRate": 0.6385757154093107,
+      "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Backtracking"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Validate IP Address",
+      "titleSlug": "validate-ip-address",
+      "difficulty": "MEDIUM",
+      "frequency": 67.3,
+      "acceptanceRate": 0.27817524620453365,
+      "link": "https://leetcode.com/problems/validate-ip-address",
+      "topics": [
+        "String"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "My Calendar I",
+      "titleSlug": "my-calendar-i",
+      "difficulty": "MEDIUM",
+      "frequency": 67.3,
+      "acceptanceRate": 0.5814631853246708,
+      "link": "https://leetcode.com/problems/my-calendar-i",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Design",
+        "Segment Tree",
+        "Ordered Set"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "String",
+    "Array",
+    "Hash Table",
+    "Binary Search",
+    "Design",
+    "Stack",
+    "Recursion",
+    "Sorting",
+    "Sliding Window",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph",
+    "Backtracking",
+    "Segment Tree",
+    "Ordered Set"
+  ]
+}

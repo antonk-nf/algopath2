@@ -1,0 +1,412 @@
+{
+  "company": "BNY Mellon",
+  "stats": {
+    "totalProblems": 21,
+    "uniqueProblems": 21,
+    "avgFrequency": 76.45476190476191,
+    "avgAcceptanceRate": 0.4872707866921295,
+    "difficultyDistribution": {
+      "EASY": 12,
+      "MEDIUM": 24,
+      "HARD": 6,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Car Fleet",
+      "titleSlug": "car-fleet",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5347444943339748,
+      "link": "https://leetcode.com/problems/car-fleet",
+      "topics": [
+        "Array",
+        "Stack",
+        "Sorting",
+        "Monotonic Stack"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Group Anagrams",
+      "titleSlug": "group-anagrams",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.7092891274785598,
+      "link": "https://leetcode.com/problems/group-anagrams",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Number of Taps to Open to Water a Garden",
+      "titleSlug": "minimum-number-of-taps-to-open-to-water-a-garden",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5071750731742884,
+      "link": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Number of Groups to Create a Valid Assignment",
+      "titleSlug": "minimum-number-of-groups-to-create-a-valid-assignment",
+      "difficulty": "MEDIUM",
+      "frequency": 91.2,
+      "acceptanceRate": 0.23980868410750455,
+      "link": "https://leetcode.com/problems/minimum-number-of-groups-to-create-a-valid-assignment",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Gas Station",
+      "titleSlug": "gas-station",
+      "difficulty": "MEDIUM",
+      "frequency": 91.2,
+      "acceptanceRate": 0.4638358382410811,
+      "link": "https://leetcode.com/problems/gas-station",
+      "topics": [
+        "Array",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Count Visited Nodes in a Directed Graph",
+      "titleSlug": "count-visited-nodes-in-a-directed-graph",
+      "difficulty": "HARD",
+      "frequency": 91.2,
+      "acceptanceRate": 0.28942386350356436,
+      "link": "https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph",
+      "topics": [
+        "Dynamic Programming",
+        "Graph",
+        "Memoization"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "difficulty": "EASY",
+      "frequency": 78.8,
+      "acceptanceRate": 0.5577703556090163,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimize Length of Array Using Operations",
+      "titleSlug": "minimize-length-of-array-using-operations",
+      "difficulty": "MEDIUM",
+      "frequency": 78.8,
+      "acceptanceRate": 0.34864864864864864,
+      "link": "https://leetcode.com/problems/minimize-length-of-array-using-operations",
+      "topics": [
+        "Array",
+        "Math",
+        "Greedy",
+        "Number Theory"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "3Sum",
+      "titleSlug": "3sum",
+      "difficulty": "MEDIUM",
+      "frequency": 78.8,
+      "acceptanceRate": 0.3707109469426635,
+      "link": "https://leetcode.com/problems/3sum",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Find the Count of Monotonic Pairs II",
+      "titleSlug": "find-the-count-of-monotonic-pairs-ii",
+      "difficulty": "HARD",
+      "frequency": 78.8,
+      "acceptanceRate": 0.23000098235043714,
+      "link": "https://leetcode.com/problems/find-the-count-of-monotonic-pairs-ii",
+      "topics": [
+        "Array",
+        "Math",
+        "Dynamic Programming",
+        "Combinatorics",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Count Vowel Substrings of a String",
+      "titleSlug": "count-vowel-substrings-of-a-string",
+      "difficulty": "EASY",
+      "frequency": 78.8,
+      "acceptanceRate": 0.7148136172571481,
+      "link": "https://leetcode.com/problems/count-vowel-substrings-of-a-string",
+      "topics": [
+        "Hash Table",
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Total Cost to Hire K Workers",
+      "titleSlug": "total-cost-to-hire-k-workers",
+      "difficulty": "MEDIUM",
+      "frequency": 78.8,
+      "acceptanceRate": 0.4310667498440424,
+      "link": "https://leetcode.com/problems/total-cost-to-hire-k-workers",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Heap (Priority Queue)",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts",
+      "titleSlug": "maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts",
+      "difficulty": "MEDIUM",
+      "frequency": 78.8,
+      "acceptanceRate": 0.4123031611359338,
+      "link": "https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Move Zeroes",
+      "titleSlug": "move-zeroes",
+      "difficulty": "EASY",
+      "frequency": 78.8,
+      "acceptanceRate": 0.6280403790240795,
+      "link": "https://leetcode.com/problems/move-zeroes",
+      "topics": [
+        "Array",
+        "Two Pointers"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Sum of Distances",
+      "titleSlug": "sum-of-distances",
+      "difficulty": "MEDIUM",
+      "frequency": 78.8,
+      "acceptanceRate": 0.31259017146942786,
+      "link": "https://leetcode.com/problems/sum-of-distances",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Substring Without Repeating Characters",
+      "titleSlug": "longest-substring-without-repeating-characters",
+      "difficulty": "MEDIUM",
+      "frequency": 78.8,
+      "acceptanceRate": 0.3693615950183876,
+      "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Roman to Integer",
+      "titleSlug": "roman-to-integer",
+      "difficulty": "EASY",
+      "frequency": 78.8,
+      "acceptanceRate": 0.6486641019099324,
+      "link": "https://leetcode.com/problems/roman-to-integer",
+      "topics": [
+        "Hash Table",
+        "Math",
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Palindromic Substrings",
+      "titleSlug": "palindromic-substrings",
+      "difficulty": "MEDIUM",
+      "frequency": 78.8,
+      "acceptanceRate": 0.7167807447797984,
+      "link": "https://leetcode.com/problems/palindromic-substrings",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "titleSlug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "EASY",
+      "frequency": 78.8,
+      "acceptanceRate": 0.5525967514032568,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Reverse Words in a String III",
+      "titleSlug": "reverse-words-in-a-string-iii",
+      "difficulty": "EASY",
+      "frequency": 78.8,
+      "acceptanceRate": 0.8365992603319267,
+      "link": "https://leetcode.com/problems/reverse-words-in-a-string-iii",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Palindromic Substring",
+      "titleSlug": "longest-palindromic-substring",
+      "difficulty": "MEDIUM",
+      "frequency": 78.8,
+      "acceptanceRate": 0.35846195485578675,
+      "link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Dynamic Programming",
+    "Two Pointers",
+    "Greedy",
+    "Sorting",
+    "Math",
+    "Prefix Sum",
+    "Stack",
+    "Monotonic Stack",
+    "Graph",
+    "Memoization",
+    "Number Theory",
+    "Combinatorics"
+  ]
+}

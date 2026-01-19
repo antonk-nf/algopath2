@@ -1,0 +1,98 @@
+{
+  "company": "Lowe's",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 91.575,
+    "avgAcceptanceRate": 0.4819918358149191,
+    "difficultyDistribution": {
+      "EASY": 4,
+      "MEDIUM": 0,
+      "HARD": 4,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Find the Original Typed String I",
+      "titleSlug": "find-the-original-typed-string-i",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5677986849468383,
+      "link": "https://leetcode.com/problems/find-the-original-typed-string-i",
+      "topics": [
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Operations to Make Array Values Equal to K",
+      "titleSlug": "minimum-operations-to-make-array-values-equal-to-k",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.7347140308722877,
+      "link": "https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "The Number of Good Subsets",
+      "titleSlug": "the-number-of-good-subsets",
+      "difficulty": "HARD",
+      "frequency": 66.3,
+      "acceptanceRate": 0.3594289069955223,
+      "link": "https://leetcode.com/problems/the-number-of-good-subsets",
+      "topics": [
+        "Array",
+        "Math",
+        "Dynamic Programming",
+        "Bit Manipulation",
+        "Bitmask"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Groups of Strings",
+      "titleSlug": "groups-of-strings",
+      "difficulty": "HARD",
+      "frequency": 66.3,
+      "acceptanceRate": 0.26602572044502815,
+      "link": "https://leetcode.com/problems/groups-of-strings",
+      "topics": [
+        "String",
+        "Bit Manipulation",
+        "Union Find"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "String",
+    "Array",
+    "Bit Manipulation",
+    "Hash Table",
+    "Math",
+    "Dynamic Programming",
+    "Bitmask",
+    "Union Find"
+  ]
+}

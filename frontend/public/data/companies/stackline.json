@@ -1,0 +1,66 @@
+{
+  "company": "Stackline",
+  "stats": {
+    "totalProblems": 2,
+    "uniqueProblems": 2,
+    "avgFrequency": 95.44,
+    "avgAcceptanceRate": 0.46415782452705134,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 3,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Minimum Height Trees",
+      "titleSlug": "minimum-height-trees",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.42013930301946034,
+      "link": "https://leetcode.com/problems/minimum-height-trees",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph",
+        "Topological Sort"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "IPO",
+      "titleSlug": "ipo",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5301856067884377,
+      "link": "https://leetcode.com/problems/ipo",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph",
+    "Topological Sort",
+    "Array",
+    "Greedy",
+    "Sorting",
+    "Heap (Priority Queue)"
+  ]
+}

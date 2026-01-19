@@ -1,0 +1,98 @@
+{
+  "company": "Rokt",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 98.725,
+    "avgAcceptanceRate": 0.4873040356129377,
+    "difficultyDistribution": {
+      "EASY": 4,
+      "MEDIUM": 2,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Basic Calculator",
+      "titleSlug": "basic-calculator",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4559254553283655,
+      "link": "https://leetcode.com/problems/basic-calculator",
+      "topics": [
+        "Math",
+        "String",
+        "Stack",
+        "Recursion"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Valid Anagram",
+      "titleSlug": "valid-anagram",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6666400752628422,
+      "link": "https://leetcode.com/problems/valid-anagram",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Valid Word Abbreviation",
+      "titleSlug": "valid-word-abbreviation",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.3685055436012594,
+      "link": "https://leetcode.com/problems/valid-word-abbreviation",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Basic Calculator II",
+      "titleSlug": "basic-calculator-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.45814504533383427,
+      "link": "https://leetcode.com/problems/basic-calculator-ii",
+      "topics": [
+        "Math",
+        "String",
+        "Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "String",
+    "Math",
+    "Stack",
+    "Recursion",
+    "Hash Table",
+    "Sorting",
+    "Two Pointers"
+  ]
+}

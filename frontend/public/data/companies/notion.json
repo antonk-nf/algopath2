@@ -1,0 +1,83 @@
+{
+  "company": "Notion",
+  "stats": {
+    "totalProblems": 3,
+    "uniqueProblems": 3,
+    "avgFrequency": 100.0,
+    "avgAcceptanceRate": 0.519862221865039,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 4,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Time Based Key-Value Store",
+      "titleSlug": "time-based-key-value-store",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4936486926116228,
+      "link": "https://leetcode.com/problems/time-based-key-value-store",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Binary Search",
+        "Design"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Text Justification",
+      "titleSlug": "text-justification",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4815475571977295,
+      "link": "https://leetcode.com/problems/text-justification",
+      "topics": [
+        "Array",
+        "String",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Design a Todo List",
+      "titleSlug": "design-a-todo-list",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5843904157857647,
+      "link": "https://leetcode.com/problems/design-a-todo-list",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Design",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "String",
+    "Hash Table",
+    "Design",
+    "Array",
+    "Binary Search",
+    "Simulation",
+    "Sorting"
+  ]
+}

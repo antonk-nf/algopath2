@@ -1,0 +1,101 @@
+{
+  "company": "BP",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 89.7375,
+    "avgAcceptanceRate": 0.5810601143345291,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 8,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Group Anagrams",
+      "titleSlug": "group-anagrams",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.7093188765735838,
+      "link": "https://leetcode.com/problems/group-anagrams",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Common Subsequence",
+      "titleSlug": "longest-common-subsequence",
+      "difficulty": "MEDIUM",
+      "frequency": 93.0,
+      "acceptanceRate": 0.5825142636275151,
+      "link": "https://leetcode.com/problems/longest-common-subsequence",
+      "topics": [
+        "String",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "LRU Cache",
+      "titleSlug": "lru-cache",
+      "difficulty": "MEDIUM",
+      "frequency": 83.2,
+      "acceptanceRate": 0.4522000276675747,
+      "link": "https://leetcode.com/problems/lru-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Diagonal Traverse II",
+      "titleSlug": "diagonal-traverse-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 83.2,
+      "acceptanceRate": 0.5802072894694427,
+      "link": "https://leetcode.com/problems/diagonal-traverse-ii",
+      "topics": [
+        "Array",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Sorting",
+    "Dynamic Programming",
+    "Linked List",
+    "Design",
+    "Doubly-Linked List",
+    "Heap (Priority Queue)"
+  ]
+}

@@ -1,0 +1,584 @@
+{
+  "company": "Deutsche Bank",
+  "stats": {
+    "totalProblems": 30,
+    "uniqueProblems": 30,
+    "avgFrequency": 71.52711864406778,
+    "avgAcceptanceRate": 0.5356046514042246,
+    "difficultyDistribution": {
+      "EASY": 15,
+      "MEDIUM": 30,
+      "HARD": 14,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Minimize the Difference Between Target and Chosen Elements",
+      "titleSlug": "minimize-the-difference-between-target-and-chosen-elements",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.35870661771588447,
+      "link": "https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Smallest K-Length Subsequence With Occurrences of a Letter",
+      "titleSlug": "smallest-k-length-subsequence-with-occurrences-of-a-letter",
+      "difficulty": "HARD",
+      "frequency": 97.0,
+      "acceptanceRate": 0.38868501529051985,
+      "link": "https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter",
+      "topics": [
+        "String",
+        "Stack",
+        "Greedy",
+        "Monotonic Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Robot Collisions",
+      "titleSlug": "robot-collisions",
+      "difficulty": "HARD",
+      "frequency": 93.6,
+      "acceptanceRate": 0.5610641049690483,
+      "link": "https://leetcode.com/problems/robot-collisions",
+      "topics": [
+        "Array",
+        "Stack",
+        "Sorting",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Koko Eating Bananas",
+      "titleSlug": "koko-eating-bananas",
+      "difficulty": "MEDIUM",
+      "frequency": 93.6,
+      "acceptanceRate": 0.4906727505946439,
+      "link": "https://leetcode.com/problems/koko-eating-bananas",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Boats to Save People",
+      "titleSlug": "boats-to-save-people",
+      "difficulty": "MEDIUM",
+      "frequency": 93.6,
+      "acceptanceRate": 0.6030089519639718,
+      "link": "https://leetcode.com/problems/boats-to-save-people",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Greedy",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Collecting Chocolates",
+      "titleSlug": "collecting-chocolates",
+      "difficulty": "MEDIUM",
+      "frequency": 85.1,
+      "acceptanceRate": 0.3362275010975074,
+      "link": "https://leetcode.com/problems/collecting-chocolates",
+      "topics": [
+        "Array",
+        "Enumeration"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "titleSlug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "EASY",
+      "frequency": 79.4,
+      "acceptanceRate": 0.5525964005010793,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Asteroid Collision",
+      "titleSlug": "asteroid-collision",
+      "difficulty": "MEDIUM",
+      "frequency": 79.4,
+      "acceptanceRate": 0.4550056046459279,
+      "link": "https://leetcode.com/problems/asteroid-collision",
+      "topics": [
+        "Array",
+        "Stack",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "difficulty": "EASY",
+      "frequency": 72.1,
+      "acceptanceRate": 0.5577699565268988,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Running Time of N Computers",
+      "titleSlug": "maximum-running-time-of-n-computers",
+      "difficulty": "HARD",
+      "frequency": 72.1,
+      "acceptanceRate": 0.49846523626175954,
+      "link": "https://leetcode.com/problems/maximum-running-time-of-n-computers",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Greedy",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Frequency of the Most Frequent Element",
+      "titleSlug": "frequency-of-the-most-frequent-element",
+      "difficulty": "MEDIUM",
+      "frequency": 72.1,
+      "acceptanceRate": 0.4410334035974388,
+      "link": "https://leetcode.com/problems/frequency-of-the-most-frequent-element",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Greedy",
+        "Sliding Window",
+        "Sorting",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Common Prefix",
+      "titleSlug": "longest-common-prefix",
+      "difficulty": "EASY",
+      "frequency": 72.1,
+      "acceptanceRate": 0.4548316604171443,
+      "link": "https://leetcode.com/problems/longest-common-prefix",
+      "topics": [
+        "String",
+        "Trie"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Fruits Harvested After at Most K Steps",
+      "titleSlug": "maximum-fruits-harvested-after-at-most-k-steps",
+      "difficulty": "HARD",
+      "frequency": 72.1,
+      "acceptanceRate": 0.3651762852077999,
+      "link": "https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Sliding Window",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Find the Maximum Sum of Node Values",
+      "titleSlug": "find-the-maximum-sum-of-node-values",
+      "difficulty": "HARD",
+      "frequency": 72.1,
+      "acceptanceRate": 0.697984949055961,
+      "link": "https://leetcode.com/problems/find-the-maximum-sum-of-node-values",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy",
+        "Bit Manipulation",
+        "Tree",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Apply Operations to Maximize Frequency Score",
+      "titleSlug": "apply-operations-to-maximize-frequency-score",
+      "difficulty": "HARD",
+      "frequency": 61.9,
+      "acceptanceRate": 0.36331112204284244,
+      "link": "https://leetcode.com/problems/apply-operations-to-maximize-frequency-score",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Sliding Window",
+        "Sorting",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "The Time When the Network Becomes Idle",
+      "titleSlug": "the-time-when-the-network-becomes-idle",
+      "difficulty": "MEDIUM",
+      "frequency": 61.9,
+      "acceptanceRate": 0.5372318622762673,
+      "link": "https://leetcode.com/problems/the-time-when-the-network-becomes-idle",
+      "topics": [
+        "Array",
+        "Breadth-First Search",
+        "Graph"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Coins Heroes Can Collect",
+      "titleSlug": "maximum-coins-heroes-can-collect",
+      "difficulty": "MEDIUM",
+      "frequency": 61.9,
+      "acceptanceRate": 0.6841622503057481,
+      "link": "https://leetcode.com/problems/maximum-coins-heroes-can-collect",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Sorting",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Design HashMap",
+      "titleSlug": "design-hashmap",
+      "difficulty": "EASY",
+      "frequency": 61.9,
+      "acceptanceRate": 0.6589410060802129,
+      "link": "https://leetcode.com/problems/design-hashmap",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Hash Function"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Operations to Make the Array Increasing",
+      "titleSlug": "minimum-operations-to-make-the-array-increasing",
+      "difficulty": "EASY",
+      "frequency": 61.9,
+      "acceptanceRate": 0.8111434784392566,
+      "link": "https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing",
+      "topics": [
+        "Array",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Validate IP Address",
+      "titleSlug": "validate-ip-address",
+      "difficulty": "MEDIUM",
+      "frequency": 61.9,
+      "acceptanceRate": 0.27817524620453365,
+      "link": "https://leetcode.com/problems/validate-ip-address",
+      "topics": [
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Operations to Collect Elements",
+      "titleSlug": "minimum-operations-to-collect-elements",
+      "difficulty": "EASY",
+      "frequency": 61.9,
+      "acceptanceRate": 0.6113210197345319,
+      "link": "https://leetcode.com/problems/minimum-operations-to-collect-elements",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Bit Manipulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Pour Water Between Buckets to Make Water Levels Equal",
+      "titleSlug": "pour-water-between-buckets-to-make-water-levels-equal",
+      "difficulty": "MEDIUM",
+      "frequency": 61.9,
+      "acceptanceRate": 0.6714846169729508,
+      "link": "https://leetcode.com/problems/pour-water-between-buckets-to-make-water-levels-equal",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Fruit Into Baskets",
+      "titleSlug": "fruit-into-baskets",
+      "difficulty": "MEDIUM",
+      "frequency": 61.9,
+      "acceptanceRate": 0.4642786690056997,
+      "link": "https://leetcode.com/problems/fruit-into-baskets",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sliding Window"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Rotting Oranges",
+      "titleSlug": "rotting-oranges",
+      "difficulty": "MEDIUM",
+      "frequency": 61.9,
+      "acceptanceRate": 0.5661860880572026,
+      "link": "https://leetcode.com/problems/rotting-oranges",
+      "topics": [
+        "Array",
+        "Breadth-First Search",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Reverse String",
+      "titleSlug": "reverse-string",
+      "difficulty": "EASY",
+      "frequency": 61.9,
+      "acceptanceRate": 0.7976440076920845,
+      "link": "https://leetcode.com/problems/reverse-string",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimize Manhattan Distances",
+      "titleSlug": "minimize-manhattan-distances",
+      "difficulty": "HARD",
+      "frequency": 61.9,
+      "acceptanceRate": 0.3149616576929352,
+      "link": "https://leetcode.com/problems/minimize-manhattan-distances",
+      "topics": [
+        "Array",
+        "Math",
+        "Geometry",
+        "Sorting",
+        "Ordered Set"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Kth Largest Element in an Array",
+      "titleSlug": "kth-largest-element-in-an-array",
+      "difficulty": "MEDIUM",
+      "frequency": 61.9,
+      "acceptanceRate": 0.6797702368478369,
+      "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+      "topics": [
+        "Array",
+        "Divide and Conquer",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Quickselect"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock II",
+      "titleSlug": "best-time-to-buy-and-sell-stock-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 61.9,
+      "acceptanceRate": 0.6950035045286252,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Spiral Matrix",
+      "titleSlug": "spiral-matrix",
+      "difficulty": "MEDIUM",
+      "frequency": 61.9,
+      "acceptanceRate": 0.5393980917622436,
+      "link": "https://leetcode.com/problems/spiral-matrix",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Squares of a Sorted Array",
+      "titleSlug": "squares-of-a-sorted-array",
+      "difficulty": "EASY",
+      "frequency": 51.7,
+      "acceptanceRate": 0.7321918278136608,
+      "link": "https://leetcode.com/problems/squares-of-a-sorted-array",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Sorting",
+    "Greedy",
+    "Binary Search",
+    "Dynamic Programming",
+    "String",
+    "Hash Table",
+    "Sliding Window",
+    "Prefix Sum",
+    "Two Pointers",
+    "Matrix",
+    "Stack",
+    "Simulation",
+    "Bit Manipulation",
+    "Breadth-First Search"
+  ]
+}

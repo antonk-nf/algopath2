@@ -1,0 +1,108 @@
+{
+  "company": "LTI",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 91.675,
+    "avgAcceptanceRate": 0.35247837955880706,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 6,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Maximum White Tiles Covered by a Carpet",
+      "titleSlug": "maximum-white-tiles-covered-by-a-carpet",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.34957825679475163,
+      "link": "https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Greedy",
+        "Sliding Window",
+        "Sorting",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Reverse Integer",
+      "titleSlug": "reverse-integer",
+      "difficulty": "MEDIUM",
+      "frequency": 89.0,
+      "acceptanceRate": 0.3030900694104915,
+      "link": "https://leetcode.com/problems/reverse-integer",
+      "topics": [
+        "Math"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Closest Subsequence Sum",
+      "titleSlug": "closest-subsequence-sum",
+      "difficulty": "HARD",
+      "frequency": 89.0,
+      "acceptanceRate": 0.4160445423134075,
+      "link": "https://leetcode.com/problems/closest-subsequence-sum",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Dynamic Programming",
+        "Bit Manipulation",
+        "Sorting",
+        "Bitmask"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Count Zero Request Servers",
+      "titleSlug": "count-zero-request-servers",
+      "difficulty": "MEDIUM",
+      "frequency": 89.0,
+      "acceptanceRate": 0.3412006497165777,
+      "link": "https://leetcode.com/problems/count-zero-request-servers",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sliding Window",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Sorting",
+    "Sliding Window",
+    "Binary Search",
+    "Greedy",
+    "Prefix Sum",
+    "Math",
+    "Two Pointers",
+    "Dynamic Programming",
+    "Bit Manipulation",
+    "Bitmask",
+    "Hash Table"
+  ]
+}

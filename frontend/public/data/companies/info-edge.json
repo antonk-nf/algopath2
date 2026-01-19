@@ -1,0 +1,160 @@
+{
+  "company": "Info Edge",
+  "stats": {
+    "totalProblems": 7,
+    "uniqueProblems": 7,
+    "avgFrequency": 83.69999999999997,
+    "avgAcceptanceRate": 0.5610193973074539,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 10,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Count Almost Equal Pairs I",
+      "titleSlug": "count-almost-equal-pairs-i",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.3754856361149111,
+      "link": "https://leetcode.com/problems/count-almost-equal-pairs-i",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting",
+        "Counting",
+        "Enumeration"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Find the Maximum Factor Score of Array",
+      "titleSlug": "find-the-maximum-factor-score-of-array",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.40370847002954446,
+      "link": "https://leetcode.com/problems/find-the-maximum-factor-score-of-array",
+      "topics": [
+        "Array",
+        "Math",
+        "Number Theory"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Two Out of Three",
+      "titleSlug": "two-out-of-three",
+      "difficulty": "EASY",
+      "frequency": 90.0,
+      "acceptanceRate": 0.7658462504348121,
+      "link": "https://leetcode.com/problems/two-out-of-three",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Bit Manipulation"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Bus Routes",
+      "titleSlug": "bus-routes",
+      "difficulty": "HARD",
+      "frequency": 79.1,
+      "acceptanceRate": 0.46953017420592696,
+      "link": "https://leetcode.com/problems/bus-routes",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Breadth-First Search"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Subrectangle Queries",
+      "titleSlug": "subrectangle-queries",
+      "difficulty": "MEDIUM",
+      "frequency": 79.1,
+      "acceptanceRate": 0.8595828252176626,
+      "link": "https://leetcode.com/problems/subrectangle-queries",
+      "topics": [
+        "Array",
+        "Design",
+        "Matrix"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+      "titleSlug": "find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+      "difficulty": "MEDIUM",
+      "frequency": 66.9,
+      "acceptanceRate": 0.6945200779613259,
+      "link": "https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+      "topics": [
+        "Linked List"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Palindromic Substring",
+      "titleSlug": "longest-palindromic-substring",
+      "difficulty": "MEDIUM",
+      "frequency": 66.9,
+      "acceptanceRate": 0.35846234718799413,
+      "link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Hash Table",
+    "Sorting",
+    "Counting",
+    "Enumeration",
+    "Bit Manipulation",
+    "Breadth-First Search",
+    "Design",
+    "Matrix",
+    "Math",
+    "Number Theory",
+    "Linked List",
+    "Two Pointers",
+    "String",
+    "Dynamic Programming"
+  ]
+}

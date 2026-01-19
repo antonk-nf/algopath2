@@ -1,0 +1,103 @@
+{
+  "company": "Unity",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 92.35,
+    "avgAcceptanceRate": 0.5642702407157034,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 8,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Number of Subarrays With LCM Equal to K",
+      "titleSlug": "number-of-subarrays-with-lcm-equal-to-k",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.40096588350389,
+      "link": "https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k",
+      "topics": [
+        "Array",
+        "Math",
+        "Number Theory"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Insert Delete GetRandom O(1)",
+      "titleSlug": "insert-delete-getrandom-o-1",
+      "difficulty": "MEDIUM",
+      "frequency": 89.8,
+      "acceptanceRate": 0.5499185337366445,
+      "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Design",
+        "Randomized"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+      "titleSlug": "remove-colored-pieces-if-both-neighbors-are-the-same-color",
+      "difficulty": "MEDIUM",
+      "frequency": 89.8,
+      "acceptanceRate": 0.628394799073718,
+      "link": "https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color",
+      "topics": [
+        "Math",
+        "String",
+        "Greedy",
+        "Game Theory"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Product of Array Except Self",
+      "titleSlug": "product-of-array-except-self",
+      "difficulty": "MEDIUM",
+      "frequency": 89.8,
+      "acceptanceRate": 0.6778017465485614,
+      "link": "https://leetcode.com/problems/product-of-array-except-self",
+      "topics": [
+        "Array",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Math",
+    "Number Theory",
+    "Hash Table",
+    "Design",
+    "Randomized",
+    "String",
+    "Greedy",
+    "Game Theory",
+    "Prefix Sum"
+  ]
+}

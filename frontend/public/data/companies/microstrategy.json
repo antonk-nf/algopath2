@@ -1,0 +1,196 @@
+{
+  "company": "Microstrategy",
+  "stats": {
+    "totalProblems": 9,
+    "uniqueProblems": 9,
+    "avgFrequency": 78.16923076923078,
+    "avgAcceptanceRate": 0.6072746837055236,
+    "difficultyDistribution": {
+      "EASY": 4,
+      "MEDIUM": 9,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Backspace String Compare",
+      "titleSlug": "backspace-string-compare",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.49481803728999,
+      "link": "https://leetcode.com/problems/backspace-string-compare",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Stack",
+        "Simulation"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Zigzag Conversion",
+      "titleSlug": "zigzag-conversion",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5160684284381445,
+      "link": "https://leetcode.com/problems/zigzag-conversion",
+      "topics": [
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Airplane Seat Assignment Probability",
+      "titleSlug": "airplane-seat-assignment-probability",
+      "difficulty": "MEDIUM",
+      "frequency": 78.5,
+      "acceptanceRate": 0.6665048936342312,
+      "link": "https://leetcode.com/problems/airplane-seat-assignment-probability",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Brainteaser",
+        "Probability and Statistics"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Top K Frequent Elements",
+      "titleSlug": "top-k-frequent-elements",
+      "difficulty": "MEDIUM",
+      "frequency": 65.6,
+      "acceptanceRate": 0.6456605377303972,
+      "link": "https://leetcode.com/problems/top-k-frequent-elements",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Divide and Conquer",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Bucket Sort",
+        "Counting",
+        "Quickselect"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "titleSlug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "EASY",
+      "frequency": 65.6,
+      "acceptanceRate": 0.5525969471064145,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Battleships in a Board",
+      "titleSlug": "battleships-in-a-board",
+      "difficulty": "MEDIUM",
+      "frequency": 65.6,
+      "acceptanceRate": 0.7655996014075296,
+      "link": "https://leetcode.com/problems/battleships-in-a-board",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Matrix"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Ways to Build Sturdy Brick Wall",
+      "titleSlug": "number-of-ways-to-build-sturdy-brick-wall",
+      "difficulty": "MEDIUM",
+      "frequency": 65.6,
+      "acceptanceRate": 0.494820388599701,
+      "link": "https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Bit Manipulation",
+        "Bitmask"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Permutations",
+      "titleSlug": "permutations",
+      "difficulty": "MEDIUM",
+      "frequency": 65.6,
+      "acceptanceRate": 0.8066027210491278,
+      "link": "https://leetcode.com/problems/permutations",
+      "topics": [
+        "Array",
+        "Backtracking"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Number of Swaps to Make the String Balanced",
+      "titleSlug": "minimum-number-of-swaps-to-make-the-string-balanced",
+      "difficulty": "MEDIUM",
+      "frequency": 65.6,
+      "acceptanceRate": 0.7796899362639167,
+      "link": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Stack",
+        "Greedy"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "String",
+    "Array",
+    "Two Pointers",
+    "Stack",
+    "Dynamic Programming",
+    "Simulation",
+    "Math",
+    "Brainteaser",
+    "Probability and Statistics",
+    "Hash Table",
+    "Divide and Conquer",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Bucket Sort",
+    "Counting"
+  ]
+}

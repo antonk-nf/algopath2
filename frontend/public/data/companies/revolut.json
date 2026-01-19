@@ -1,0 +1,238 @@
+{
+  "company": "Revolut",
+  "stats": {
+    "totalProblems": 11,
+    "uniqueProblems": 11,
+    "avgFrequency": 82.04615384615384,
+    "avgAcceptanceRate": 0.5571747651952639,
+    "difficultyDistribution": {
+      "EASY": 11,
+      "MEDIUM": 15,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Binary Tree Paths",
+      "titleSlug": "binary-tree-paths",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6656851312174555,
+      "link": "https://leetcode.com/problems/binary-tree-paths",
+      "topics": [
+        "String",
+        "Backtracking",
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Longest Common Prefix",
+      "titleSlug": "longest-common-prefix",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.45487231096001735,
+      "link": "https://leetcode.com/problems/longest-common-prefix",
+      "topics": [
+        "String",
+        "Trie"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Reverse Linked List II",
+      "titleSlug": "reverse-linked-list-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.49593923437910803,
+      "link": "https://leetcode.com/problems/reverse-linked-list-ii",
+      "topics": [
+        "Linked List"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Perfect Squares",
+      "titleSlug": "perfect-squares",
+      "difficulty": "MEDIUM",
+      "frequency": 93.0,
+      "acceptanceRate": 0.5567499609828845,
+      "link": "https://leetcode.com/problems/perfect-squares",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Breadth-First Search"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Find All Anagrams in a String",
+      "titleSlug": "find-all-anagrams-in-a-string",
+      "difficulty": "MEDIUM",
+      "frequency": 80.9,
+      "acceptanceRate": 0.5220315664185695,
+      "link": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Remove Duplicates from Sorted List",
+      "titleSlug": "remove-duplicates-from-sorted-list",
+      "difficulty": "EASY",
+      "frequency": 80.9,
+      "acceptanceRate": 0.5487559867838473,
+      "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list",
+      "topics": [
+        "Linked List"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Permutation in String",
+      "titleSlug": "permutation-in-string",
+      "difficulty": "MEDIUM",
+      "frequency": 71.7,
+      "acceptanceRate": 0.4725154718440558,
+      "link": "https://leetcode.com/problems/permutation-in-string",
+      "topics": [
+        "Hash Table",
+        "Two Pointers",
+        "String",
+        "Sliding Window"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Binary Tree Level Order Traversal II",
+      "titleSlug": "binary-tree-level-order-traversal-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 71.7,
+      "acceptanceRate": 0.6601281342865891,
+      "link": "https://leetcode.com/problems/binary-tree-level-order-traversal-ii",
+      "topics": [
+        "Tree",
+        "Breadth-First Search",
+        "Binary Tree"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Random Pick with Weight",
+      "titleSlug": "random-pick-with-weight",
+      "difficulty": "MEDIUM",
+      "frequency": 71.7,
+      "acceptanceRate": 0.4827956964132365,
+      "link": "https://leetcode.com/problems/random-pick-with-weight",
+      "topics": [
+        "Array",
+        "Math",
+        "Binary Search",
+        "Prefix Sum",
+        "Randomized"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Merge Two Sorted Lists",
+      "titleSlug": "merge-two-sorted-lists",
+      "difficulty": "EASY",
+      "frequency": 71.7,
+      "acceptanceRate": 0.6684414597105074,
+      "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Missing Number",
+      "titleSlug": "missing-number",
+      "difficulty": "EASY",
+      "frequency": 63.2,
+      "acceptanceRate": 0.7007172641908024,
+      "link": "https://leetcode.com/problems/missing-number",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Binary Search",
+        "Bit Manipulation",
+        "Sorting"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "String",
+    "Linked List",
+    "Math",
+    "Breadth-First Search",
+    "Tree",
+    "Binary Tree",
+    "Hash Table",
+    "Dynamic Programming",
+    "Sliding Window",
+    "Backtracking",
+    "Depth-First Search",
+    "Trie",
+    "Array",
+    "Binary Search",
+    "Two Pointers"
+  ]
+}

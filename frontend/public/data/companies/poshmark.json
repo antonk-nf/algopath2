@@ -1,0 +1,96 @@
+{
+  "company": "Poshmark",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 95.2,
+    "avgAcceptanceRate": 0.6080481142666286,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 5,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Market Analysis I",
+      "titleSlug": "market-analysis-i",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.571925862803579,
+      "link": "https://leetcode.com/problems/market-analysis-i",
+      "topics": [
+        "Database"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Market Analysis II",
+      "titleSlug": "market-analysis-ii",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5784402208536844,
+      "link": "https://leetcode.com/problems/market-analysis-ii",
+      "topics": [
+        "Database"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Count Unguarded Cells in the Grid",
+      "titleSlug": "count-unguarded-cells-in-the-grid",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6575999128429539,
+      "link": "https://leetcode.com/problems/count-unguarded-cells-in-the-grid",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Max Chunks To Make Sorted",
+      "titleSlug": "max-chunks-to-make-sorted",
+      "difficulty": "MEDIUM",
+      "frequency": 66.4,
+      "acceptanceRate": 0.6404048068659659,
+      "link": "https://leetcode.com/problems/max-chunks-to-make-sorted",
+      "topics": [
+        "Array",
+        "Stack",
+        "Greedy",
+        "Sorting",
+        "Monotonic Stack"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Database",
+    "Array",
+    "Matrix",
+    "Simulation",
+    "Stack",
+    "Greedy",
+    "Sorting",
+    "Monotonic Stack"
+  ]
+}

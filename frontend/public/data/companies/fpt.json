@@ -1,0 +1,90 @@
+{
+  "company": "FPT",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 85.6857142857143,
+    "avgAcceptanceRate": 0.5921443289844585,
+    "difficultyDistribution": {
+      "EASY": 5,
+      "MEDIUM": 2,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Find Three Consecutive Integers That Sum to a Given Number",
+      "titleSlug": "find-three-consecutive-integers-that-sum-to-a-given-number",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6461909267018064,
+      "link": "https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number",
+      "topics": [
+        "Math",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5577706633679903,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Palindrome Number",
+      "titleSlug": "palindrome-number",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.592245084409646,
+      "link": "https://leetcode.com/problems/palindrome-number",
+      "topics": [
+        "Math"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "titleSlug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "EASY",
+      "frequency": 66.6,
+      "acceptanceRate": 0.5525969539323237,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Math",
+    "Array",
+    "Simulation",
+    "Hash Table",
+    "Dynamic Programming"
+  ]
+}

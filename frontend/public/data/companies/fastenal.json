@@ -1,0 +1,98 @@
+{
+  "company": "Fastenal",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 92.19999999999999,
+    "avgAcceptanceRate": 0.5394822525873818,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 2,
+      "HARD": 6,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Minimum Window Substring",
+      "titleSlug": "minimum-window-substring",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.45354370160628277,
+      "link": "https://leetcode.com/problems/minimum-window-substring",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Sum of Beauty of All Substrings",
+      "titleSlug": "sum-of-beauty-of-all-substrings",
+      "difficulty": "MEDIUM",
+      "frequency": 89.6,
+      "acceptanceRate": 0.708399002246187,
+      "link": "https://leetcode.com/problems/sum-of-beauty-of-all-substrings",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Last Substring in Lexicographical Order",
+      "titleSlug": "last-substring-in-lexicographical-order",
+      "difficulty": "HARD",
+      "frequency": 89.6,
+      "acceptanceRate": 0.3460103417700405,
+      "link": "https://leetcode.com/problems/last-substring-in-lexicographical-order",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Atoms",
+      "titleSlug": "number-of-atoms",
+      "difficulty": "HARD",
+      "frequency": 89.6,
+      "acceptanceRate": 0.6499758945228163,
+      "link": "https://leetcode.com/problems/number-of-atoms",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Stack",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "String",
+    "Hash Table",
+    "Sliding Window",
+    "Counting",
+    "Two Pointers",
+    "Stack",
+    "Sorting"
+  ]
+}

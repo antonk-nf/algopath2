@@ -1,0 +1,61 @@
+{
+  "company": "redbus",
+  "stats": {
+    "totalProblems": 2,
+    "uniqueProblems": 2,
+    "avgFrequency": 95.05,
+    "avgAcceptanceRate": 0.6534348854979377,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 1,
+      "HARD": 1,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Trapping Rain Water",
+      "titleSlug": "trapping-rain-water",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6510221090720293,
+      "link": "https://leetcode.com/problems/trapping-rain-water",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Dynamic Programming",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Deletions to Make String Balanced",
+      "titleSlug": "minimum-deletions-to-make-string-balanced",
+      "difficulty": "MEDIUM",
+      "frequency": 90.1,
+      "acceptanceRate": 0.6558476619238462,
+      "link": "https://leetcode.com/problems/minimum-deletions-to-make-string-balanced",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Stack"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Dynamic Programming",
+    "Stack",
+    "Array",
+    "Two Pointers",
+    "Monotonic Stack",
+    "String"
+  ]
+}

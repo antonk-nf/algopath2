@@ -1,0 +1,118 @@
+{
+  "company": "MAQ Software",
+  "stats": {
+    "totalProblems": 5,
+    "uniqueProblems": 5,
+    "avgFrequency": 82.47,
+    "avgAcceptanceRate": 0.45292256823431387,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 6,
+      "HARD": 4,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Longest Substring Without Repeating Characters",
+      "titleSlug": "longest-substring-without-repeating-characters",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.36936185611748357,
+      "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Trapping Rain Water",
+      "titleSlug": "trapping-rain-water",
+      "difficulty": "HARD",
+      "frequency": 88.7,
+      "acceptanceRate": 0.6510218753209407,
+      "link": "https://leetcode.com/problems/trapping-rain-water",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Dynamic Programming",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Unique Substrings in Wraparound String",
+      "titleSlug": "unique-substrings-in-wraparound-string",
+      "difficulty": "MEDIUM",
+      "frequency": 88.7,
+      "acceptanceRate": 0.4119896506273087,
+      "link": "https://leetcode.com/problems/unique-substrings-in-wraparound-string",
+      "topics": [
+        "String",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Palindromic Substring",
+      "titleSlug": "longest-palindromic-substring",
+      "difficulty": "MEDIUM",
+      "frequency": 88.7,
+      "acceptanceRate": 0.35846253641821835,
+      "link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Largest Rectangle in Histogram",
+      "titleSlug": "largest-rectangle-in-histogram",
+      "difficulty": "HARD",
+      "frequency": 88.7,
+      "acceptanceRate": 0.4737769226876178,
+      "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+      "topics": [
+        "Array",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "String",
+    "Dynamic Programming",
+    "Array",
+    "Two Pointers",
+    "Stack",
+    "Monotonic Stack",
+    "Hash Table",
+    "Sliding Window"
+  ]
+}

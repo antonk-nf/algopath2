@@ -1,0 +1,95 @@
+{
+  "company": "SOTI",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 92.17142857142858,
+    "avgAcceptanceRate": 0.37153887024904425,
+    "difficultyDistribution": {
+      "EASY": 3,
+      "MEDIUM": 2,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Longest Valid Parentheses",
+      "titleSlug": "longest-valid-parentheses",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.3631959315200682,
+      "link": "https://leetcode.com/problems/longest-valid-parentheses",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Valid Parentheses",
+      "titleSlug": "valid-parentheses",
+      "difficulty": "EASY",
+      "frequency": 89.1,
+      "acceptanceRate": 0.42328397073165563,
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "topics": [
+        "String",
+        "Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Substring Without Repeating Characters",
+      "titleSlug": "longest-substring-without-repeating-characters",
+      "difficulty": "MEDIUM",
+      "frequency": 89.1,
+      "acceptanceRate": 0.36940802233594666,
+      "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Can Place Flowers",
+      "titleSlug": "can-place-flowers",
+      "difficulty": "EASY",
+      "frequency": 89.0,
+      "acceptanceRate": 0.28899627172334796,
+      "link": "https://leetcode.com/problems/can-place-flowers",
+      "topics": [
+        "Array",
+        "Greedy"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "String",
+    "Stack",
+    "Dynamic Programming",
+    "Hash Table",
+    "Sliding Window",
+    "Array",
+    "Greedy"
+  ]
+}

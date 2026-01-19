@@ -1,0 +1,76 @@
+{
+  "company": "SoundHound",
+  "stats": {
+    "totalProblems": 3,
+    "uniqueProblems": 3,
+    "avgFrequency": 93.42,
+    "avgAcceptanceRate": 0.5100875988609122,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 2,
+      "HARD": 1,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Linked List in Binary Tree",
+      "titleSlug": "linked-list-in-binary-tree",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5190438740859565,
+      "link": "https://leetcode.com/problems/linked-list-in-binary-tree",
+      "topics": [
+        "Linked List",
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Check if Array Is Sorted and Rotated",
+      "titleSlug": "check-if-array-is-sorted-and-rotated",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5507514881863992,
+      "link": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated",
+      "topics": [
+        "Array"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "First Missing Positive",
+      "titleSlug": "first-missing-positive",
+      "difficulty": "HARD",
+      "frequency": 67.1,
+      "acceptanceRate": 0.4108472697598495,
+      "link": "https://leetcode.com/problems/first-missing-positive",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Linked List",
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree",
+    "Hash Table"
+  ]
+}

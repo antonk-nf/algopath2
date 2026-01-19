@@ -1,0 +1,82 @@
+{
+  "company": "Juniper Networks",
+  "stats": {
+    "totalProblems": 3,
+    "uniqueProblems": 3,
+    "avgFrequency": 100.0,
+    "avgAcceptanceRate": 0.5180301241962758,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 6,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Boundary of Binary Tree",
+      "titleSlug": "boundary-of-binary-tree",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.47158629287906856,
+      "link": "https://leetcode.com/problems/boundary-of-binary-tree",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Coin Change",
+      "titleSlug": "coin-change",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.464957320920135,
+      "link": "https://leetcode.com/problems/coin-change",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Breadth-First Search"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Add Two Numbers II",
+      "titleSlug": "add-two-numbers-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6175467587896241,
+      "link": "https://leetcode.com/problems/add-two-numbers-ii",
+      "topics": [
+        "Linked List",
+        "Math",
+        "Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree",
+    "Array",
+    "Dynamic Programming",
+    "Breadth-First Search",
+    "Linked List",
+    "Math",
+    "Stack"
+  ]
+}

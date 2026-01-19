@@ -1,0 +1,74 @@
+{
+  "company": "Hive",
+  "stats": {
+    "totalProblems": 2,
+    "uniqueProblems": 2,
+    "avgFrequency": 100.0,
+    "avgAcceptanceRate": 0.6087465887017736,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 2,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Trapping Rain Water",
+      "titleSlug": "trapping-rain-water",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6510221504452247,
+      "link": "https://leetcode.com/problems/trapping-rain-water",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Dynamic Programming",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Sort an Array",
+      "titleSlug": "sort-an-array",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5664710269583224,
+      "link": "https://leetcode.com/problems/sort-an-array",
+      "topics": [
+        "Array",
+        "Divide and Conquer",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Merge Sort",
+        "Bucket Sort",
+        "Radix Sort",
+        "Counting Sort"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Two Pointers",
+    "Dynamic Programming",
+    "Stack",
+    "Monotonic Stack",
+    "Divide and Conquer",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Merge Sort",
+    "Bucket Sort",
+    "Radix Sort",
+    "Counting Sort"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "company": "WinZO",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 87.3625,
+    "avgAcceptanceRate": 0.5100655294480834,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 2,
+      "HARD": 6,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Smallest Range Covering Elements from K Lists",
+      "titleSlug": "smallest-range-covering-elements-from-k-lists",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6974870380867287,
+      "link": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Greedy",
+        "Sliding Window",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Regular Expression Matching",
+      "titleSlug": "regular-expression-matching",
+      "difficulty": "HARD",
+      "frequency": 83.2,
+      "acceptanceRate": 0.29282683839351215,
+      "link": "https://leetcode.com/problems/regular-expression-matching",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Recursion"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Domino and Tromino Tiling",
+      "titleSlug": "domino-and-tromino-tiling",
+      "difficulty": "MEDIUM",
+      "frequency": 83.2,
+      "acceptanceRate": 0.5197644582417179,
+      "link": "https://leetcode.com/problems/domino-and-tromino-tiling",
+      "topics": [
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "IPO",
+      "titleSlug": "ipo",
+      "difficulty": "HARD",
+      "frequency": 83.2,
+      "acceptanceRate": 0.5301837830703748,
+      "link": "https://leetcode.com/problems/ipo",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Greedy",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Dynamic Programming",
+    "Hash Table",
+    "Sliding Window",
+    "String",
+    "Recursion"
+  ]
+}

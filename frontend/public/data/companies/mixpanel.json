@@ -1,0 +1,91 @@
+{
+  "company": "Mixpanel",
+  "stats": {
+    "totalProblems": 3,
+    "uniqueProblems": 3,
+    "avgFrequency": 97.38333333333333,
+    "avgAcceptanceRate": 0.6486942685591551,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 6,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Flatten Nested List Iterator",
+      "titleSlug": "flatten-nested-list-iterator",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6523082264009105,
+      "link": "https://leetcode.com/problems/flatten-nested-list-iterator",
+      "topics": [
+        "Stack",
+        "Tree",
+        "Depth-First Search",
+        "Design",
+        "Queue",
+        "Iterator"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Interval List Intersections",
+      "titleSlug": "interval-list-intersections",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.7267839611466144,
+      "link": "https://leetcode.com/problems/interval-list-intersections",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Line Sweep"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Stock Price Fluctuation",
+      "titleSlug": "stock-price-fluctuation",
+      "difficulty": "MEDIUM",
+      "frequency": 84.3,
+      "acceptanceRate": 0.48167300985897066,
+      "link": "https://leetcode.com/problems/stock-price-fluctuation",
+      "topics": [
+        "Hash Table",
+        "Design",
+        "Heap (Priority Queue)",
+        "Data Stream",
+        "Ordered Set"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Design",
+    "Stack",
+    "Tree",
+    "Depth-First Search",
+    "Queue",
+    "Iterator",
+    "Array",
+    "Two Pointers",
+    "Line Sweep",
+    "Hash Table",
+    "Heap (Priority Queue)",
+    "Data Stream",
+    "Ordered Set"
+  ]
+}

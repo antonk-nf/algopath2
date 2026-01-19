@@ -1,0 +1,104 @@
+{
+  "company": "McKinsey",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 87.2,
+    "avgAcceptanceRate": 0.6508507321768214,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 6,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Number of Operations to Make Network Connected",
+      "titleSlug": "number-of-operations-to-make-network-connected",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6466501296398147,
+      "link": "https://leetcode.com/problems/number-of-operations-to-make-network-connected",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union Find",
+        "Graph"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum One Bit Operations to Make Integers Zero",
+      "titleSlug": "minimum-one-bit-operations-to-make-integers-zero",
+      "difficulty": "HARD",
+      "frequency": 82.9,
+      "acceptanceRate": 0.73240710674027,
+      "link": "https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero",
+      "topics": [
+        "Dynamic Programming",
+        "Bit Manipulation",
+        "Memoization"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximal Score After Applying K Operations",
+      "titleSlug": "maximal-score-after-applying-k-operations",
+      "difficulty": "MEDIUM",
+      "frequency": 68.4,
+      "acceptanceRate": 0.6378607678773867,
+      "link": "https://leetcode.com/problems/maximal-score-after-applying-k-operations",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Heap (Priority Queue)"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Shortest Bridge",
+      "titleSlug": "shortest-bridge",
+      "difficulty": "MEDIUM",
+      "frequency": 68.4,
+      "acceptanceRate": 0.5864849244498144,
+      "link": "https://leetcode.com/problems/shortest-bridge",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Array",
+    "Union Find",
+    "Graph",
+    "Dynamic Programming",
+    "Bit Manipulation",
+    "Memoization",
+    "Greedy",
+    "Heap (Priority Queue)",
+    "Matrix"
+  ]
+}

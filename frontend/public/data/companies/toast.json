@@ -1,0 +1,78 @@
+{
+  "company": "Toast",
+  "stats": {
+    "totalProblems": 3,
+    "uniqueProblems": 3,
+    "avgFrequency": 91.81428571428572,
+    "avgAcceptanceRate": 0.5111164861098645,
+    "difficultyDistribution": {
+      "EASY": 4,
+      "MEDIUM": 3,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Find the Celebrity",
+      "titleSlug": "find-the-celebrity",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.484395409739966,
+      "link": "https://leetcode.com/problems/find-the-celebrity",
+      "topics": [
+        "Two Pointers",
+        "Graph",
+        "Interactive"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Valid Palindrome",
+      "titleSlug": "valid-palindrome",
+      "difficulty": "EASY",
+      "frequency": 96.1,
+      "acceptanceRate": 0.509681519795858,
+      "link": "https://leetcode.com/problems/valid-palindrome",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "titleSlug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "EASY",
+      "frequency": 76.6,
+      "acceptanceRate": 0.5526330669787187,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Two Pointers",
+    "Graph",
+    "Interactive",
+    "String",
+    "Array",
+    "Dynamic Programming"
+  ]
+}

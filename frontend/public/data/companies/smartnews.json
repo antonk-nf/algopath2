@@ -1,0 +1,121 @@
+{
+  "company": "smartnews",
+  "stats": {
+    "totalProblems": 5,
+    "uniqueProblems": 5,
+    "avgFrequency": 89.94000000000001,
+    "avgAcceptanceRate": 0.4910581059898746,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 10,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Maximal Network Rank",
+      "titleSlug": "maximal-network-rank",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6547542413356314,
+      "link": "https://leetcode.com/problems/maximal-network-rank",
+      "topics": [
+        "Graph"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Largest Palindromic Number",
+      "titleSlug": "largest-palindromic-number",
+      "difficulty": "MEDIUM",
+      "frequency": 94.8,
+      "acceptanceRate": 0.36472419055101457,
+      "link": "https://leetcode.com/problems/largest-palindromic-number",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Greedy",
+        "Counting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "LRU Cache",
+      "titleSlug": "lru-cache",
+      "difficulty": "MEDIUM",
+      "frequency": 94.8,
+      "acceptanceRate": 0.452152018581584,
+      "link": "https://leetcode.com/problems/lru-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "3Sum",
+      "titleSlug": "3sum",
+      "difficulty": "MEDIUM",
+      "frequency": 78.8,
+      "acceptanceRate": 0.3707134146355655,
+      "link": "https://leetcode.com/problems/3sum",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Deletions to Make Character Frequencies Unique",
+      "titleSlug": "minimum-deletions-to-make-character-frequencies-unique",
+      "difficulty": "MEDIUM",
+      "frequency": 78.8,
+      "acceptanceRate": 0.6129466648455774,
+      "link": "https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Greedy",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Hash Table",
+    "String",
+    "Greedy",
+    "Sorting",
+    "Graph",
+    "Counting",
+    "Linked List",
+    "Design",
+    "Doubly-Linked List",
+    "Array",
+    "Two Pointers"
+  ]
+}

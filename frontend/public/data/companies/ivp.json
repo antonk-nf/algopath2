@@ -1,0 +1,65 @@
+{
+  "company": "IVP",
+  "stats": {
+    "totalProblems": 2,
+    "uniqueProblems": 2,
+    "avgFrequency": 100.0,
+    "avgAcceptanceRate": 0.3651739796343483,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 2,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Minimum Time to Break Locks I",
+      "titleSlug": "minimum-time-to-break-locks-i",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.3033816671338651,
+      "link": "https://leetcode.com/problems/minimum-time-to-break-locks-i",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Backtracking",
+        "Bit Manipulation",
+        "Depth-First Search",
+        "Bitmask"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Time to Break Locks II",
+      "titleSlug": "minimum-time-to-break-locks-ii",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4269662921348314,
+      "link": "https://leetcode.com/problems/minimum-time-to-break-locks-ii",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Graph"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Depth-First Search",
+    "Dynamic Programming",
+    "Backtracking",
+    "Bit Manipulation",
+    "Bitmask",
+    "Graph"
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "company": "WorldQuant",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 96.91,
+    "avgAcceptanceRate": 0.4192149866334095,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 4,
+      "HARD": 6,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Meeting Rooms II",
+      "titleSlug": "meeting-rooms-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5214168157636228,
+      "link": "https://leetcode.com/problems/meeting-rooms-ii",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "30d",
+        "3m"
+      ]
+    },
+    {
+      "title": "Regular Expression Matching",
+      "titleSlug": "regular-expression-matching",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.2928040486079651,
+      "link": "https://leetcode.com/problems/regular-expression-matching",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Recursion"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Number of Visited Cells in a Grid",
+      "titleSlug": "minimum-number-of-visited-cells-in-a-grid",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.22765724304185841,
+      "link": "https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Stack",
+        "Breadth-First Search",
+        "Union Find",
+        "Heap (Priority Queue)",
+        "Matrix",
+        "Monotonic Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Find Median from Data Stream",
+      "titleSlug": "find-median-from-data-stream",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5327800099899787,
+      "link": "https://leetcode.com/problems/find-median-from-data-stream",
+      "topics": [
+        "Two Pointers",
+        "Design",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Data Stream"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Heap (Priority Queue)",
+    "Array",
+    "Two Pointers",
+    "Sorting",
+    "Greedy",
+    "Prefix Sum",
+    "Dynamic Programming",
+    "String",
+    "Recursion",
+    "Stack",
+    "Breadth-First Search",
+    "Union Find",
+    "Matrix",
+    "Monotonic Stack",
+    "Design"
+  ]
+}

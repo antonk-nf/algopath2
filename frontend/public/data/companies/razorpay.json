@@ -1,0 +1,218 @@
+{
+  "company": "razorpay",
+  "stats": {
+    "totalProblems": 10,
+    "uniqueProblems": 10,
+    "avgFrequency": 88.43500000000002,
+    "avgAcceptanceRate": 0.5402394753646311,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 16,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Shortest Subarray to be Removed to Make Array Sorted",
+      "titleSlug": "shortest-subarray-to-be-removed-to-make-array-sorted",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5143014465781959,
+      "link": "https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Rotate Array",
+      "titleSlug": "rotate-array",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.43021402627311356,
+      "link": "https://leetcode.com/problems/rotate-array",
+      "topics": [
+        "Array",
+        "Math",
+        "Two Pointers"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Merge Intervals",
+      "titleSlug": "merge-intervals",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.49395207051009665,
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "topics": [
+        "Array",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Total Cost to Make Arrays Unequal",
+      "titleSlug": "minimum-total-cost-to-make-arrays-unequal",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.40506888676048036,
+      "link": "https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Greedy",
+        "Counting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Most Beautiful Item for Each Query",
+      "titleSlug": "most-beautiful-item-for-each-query",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6204238729375727,
+      "link": "https://leetcode.com/problems/most-beautiful-item-for-each-query",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Two Best Non-Overlapping Events",
+      "titleSlug": "two-best-non-overlapping-events",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6083218765865931,
+      "link": "https://leetcode.com/problems/two-best-non-overlapping-events",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Dynamic Programming",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Excel Sheet Column Number",
+      "titleSlug": "excel-sheet-column-number",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.657529430838357,
+      "link": "https://leetcode.com/problems/excel-sheet-column-number",
+      "topics": [
+        "Math",
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Container With Most Water",
+      "titleSlug": "container-with-most-water",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5778299323068349,
+      "link": "https://leetcode.com/problems/container-with-most-water",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Decode String",
+      "titleSlug": "decode-string",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6115274430176852,
+      "link": "https://leetcode.com/problems/decode-string",
+      "topics": [
+        "String",
+        "Stack",
+        "Recursion"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "LRU Cache",
+      "titleSlug": "lru-cache",
+      "difficulty": "MEDIUM",
+      "frequency": 63.4,
+      "acceptanceRate": 0.4521500890965678,
+      "link": "https://leetcode.com/problems/lru-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Two Pointers",
+    "Binary Search",
+    "Sorting",
+    "Stack",
+    "Math",
+    "Greedy",
+    "String",
+    "Monotonic Stack",
+    "Hash Table",
+    "Counting",
+    "Dynamic Programming",
+    "Heap (Priority Queue)",
+    "Recursion",
+    "Linked List"
+  ]
+}

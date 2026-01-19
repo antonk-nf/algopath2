@@ -1,0 +1,82 @@
+{
+  "company": "EY",
+  "stats": {
+    "totalProblems": 3,
+    "uniqueProblems": 3,
+    "avgFrequency": 100.0,
+    "avgAcceptanceRate": 0.647302871765782,
+    "difficultyDistribution": {
+      "EASY": 4,
+      "MEDIUM": 2,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5578040764908396,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Fibonacci Number",
+      "titleSlug": "fibonacci-number",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.7294747086945944,
+      "link": "https://leetcode.com/problems/fibonacci-number",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Recursion",
+        "Memoization"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Happy String",
+      "titleSlug": "longest-happy-string",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6546298301119122,
+      "link": "https://leetcode.com/problems/longest-happy-string",
+      "topics": [
+        "String",
+        "Greedy",
+        "Heap (Priority Queue)"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Dynamic Programming",
+    "Recursion",
+    "Memoization",
+    "String",
+    "Greedy",
+    "Heap (Priority Queue)"
+  ]
+}

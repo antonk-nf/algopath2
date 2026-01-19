@@ -1,0 +1,82 @@
+{
+  "company": "Postmates",
+  "stats": {
+    "totalProblems": 3,
+    "uniqueProblems": 3,
+    "avgFrequency": 96.2,
+    "avgAcceptanceRate": 0.5929002978047903,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 4,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Determine if Two Strings Are Close",
+      "titleSlug": "determine-if-two-strings-are-close",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5413286903894399,
+      "link": "https://leetcode.com/problems/determine-if-two-strings-are-close",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sorting",
+        "Counting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Most Beautiful Item for Each Query",
+      "titleSlug": "most-beautiful-item-for-each-query",
+      "difficulty": "MEDIUM",
+      "frequency": 90.5,
+      "acceptanceRate": 0.6204166873850132,
+      "link": "https://leetcode.com/problems/most-beautiful-item-for-each-query",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Find the K-Beauty of a Number",
+      "titleSlug": "find-the-k-beauty-of-a-number",
+      "difficulty": "EASY",
+      "frequency": 90.5,
+      "acceptanceRate": 0.6169555156399178,
+      "link": "https://leetcode.com/problems/find-the-k-beauty-of-a-number",
+      "topics": [
+        "Math",
+        "String",
+        "Sliding Window"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "String",
+    "Sorting",
+    "Hash Table",
+    "Counting",
+    "Array",
+    "Binary Search",
+    "Math",
+    "Sliding Window"
+  ]
+}

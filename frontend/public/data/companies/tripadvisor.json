@@ -1,0 +1,99 @@
+{
+  "company": "Tripadvisor",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 87.8,
+    "avgAcceptanceRate": 0.5300032912320627,
+    "difficultyDistribution": {
+      "EASY": 7,
+      "MEDIUM": 2,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Valid Parentheses",
+      "titleSlug": "valid-parentheses",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4232292456603913,
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "topics": [
+        "String",
+        "Stack"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "LRU Cache",
+      "titleSlug": "lru-cache",
+      "difficulty": "MEDIUM",
+      "frequency": 93.1,
+      "acceptanceRate": 0.4521511800758668,
+      "link": "https://leetcode.com/problems/lru-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "titleSlug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "EASY",
+      "frequency": 83.3,
+      "acceptanceRate": 0.5525972597748545,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Find Common Characters",
+      "titleSlug": "find-common-characters",
+      "difficulty": "EASY",
+      "frequency": 83.3,
+      "acceptanceRate": 0.7454225022029736,
+      "link": "https://leetcode.com/problems/find-common-characters",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "String",
+    "Hash Table",
+    "Array",
+    "Stack",
+    "Linked List",
+    "Design",
+    "Doubly-Linked List",
+    "Dynamic Programming"
+  ]
+}

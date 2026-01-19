@@ -1,0 +1,99 @@
+{
+  "company": "Virtusa",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 84.3375,
+    "avgAcceptanceRate": 0.5577149753049209,
+    "difficultyDistribution": {
+      "EASY": 4,
+      "MEDIUM": 4,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Pascal's Triangle",
+      "titleSlug": "pascal-s-triangle",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.7702167530181141,
+      "link": "https://leetcode.com/problems/pascals-triangle",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Merge Sorted Array",
+      "titleSlug": "merge-sorted-array",
+      "difficulty": "EASY",
+      "frequency": 89.2,
+      "acceptanceRate": 0.529197135097243,
+      "link": "https://leetcode.com/problems/merge-sorted-array",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Apply Operations to Make String Empty",
+      "titleSlug": "apply-operations-to-make-string-empty",
+      "difficulty": "MEDIUM",
+      "frequency": 89.2,
+      "acceptanceRate": 0.5620840463966533,
+      "link": "https://leetcode.com/problems/apply-operations-to-make-string-empty",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting",
+        "Counting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Substring Without Repeating Characters",
+      "titleSlug": "longest-substring-without-repeating-characters",
+      "difficulty": "MEDIUM",
+      "frequency": 89.2,
+      "acceptanceRate": 0.3693619667076727,
+      "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Sorting",
+    "Hash Table",
+    "Dynamic Programming",
+    "Two Pointers",
+    "Counting",
+    "String",
+    "Sliding Window"
+  ]
+}

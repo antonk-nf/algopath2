@@ -1,0 +1,73 @@
+{
+  "company": "Zoom",
+  "stats": {
+    "totalProblems": 3,
+    "uniqueProblems": 3,
+    "avgFrequency": 94.33333333333333,
+    "avgAcceptanceRate": 0.4766017572661237,
+    "difficultyDistribution": {
+      "EASY": 4,
+      "MEDIUM": 2,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Container With Most Water",
+      "titleSlug": "container-with-most-water",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5778299260380112,
+      "link": "https://leetcode.com/problems/container-with-most-water",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "User Activity for the Past 30 Days I",
+      "titleSlug": "user-activity-for-the-past-30-days-i",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4948182850653038,
+      "link": "https://leetcode.com/problems/user-activity-for-the-past-30-days-i",
+      "topics": [
+        "Database"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "User Activity for the Past 30 Days II",
+      "titleSlug": "user-activity-for-the-past-30-days-ii",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.35715706069505626,
+      "link": "https://leetcode.com/problems/user-activity-for-the-past-30-days-ii",
+      "topics": [
+        "Database"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Database",
+    "Array",
+    "Two Pointers",
+    "Greedy"
+  ]
+}

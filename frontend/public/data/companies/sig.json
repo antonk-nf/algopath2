@@ -1,0 +1,165 @@
+{
+  "company": "SIG",
+  "stats": {
+    "totalProblems": 7,
+    "uniqueProblems": 7,
+    "avgFrequency": 84.57142857142857,
+    "avgAcceptanceRate": 0.43997035478993035,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 8,
+      "HARD": 4,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Block Placement Queries",
+      "titleSlug": "block-placement-queries",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.168902023187088,
+      "link": "https://leetcode.com/problems/block-placement-queries",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Binary Indexed Tree",
+        "Segment Tree"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Black Blocks",
+      "titleSlug": "number-of-black-blocks",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.3862287177941841,
+      "link": "https://leetcode.com/problems/number-of-black-blocks",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Enumeration"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Validate Binary Search Tree",
+      "titleSlug": "validate-binary-search-tree",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.3438047626970681,
+      "link": "https://leetcode.com/problems/validate-binary-search-tree",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Search Tree",
+        "Binary Tree"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Text Justification",
+      "titleSlug": "text-justification",
+      "difficulty": "HARD",
+      "frequency": 92.5,
+      "acceptanceRate": 0.48150261832670166,
+      "link": "https://leetcode.com/problems/text-justification",
+      "topics": [
+        "Array",
+        "String",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Kth Largest Element in an Array",
+      "titleSlug": "kth-largest-element-in-an-array",
+      "difficulty": "MEDIUM",
+      "frequency": 71.9,
+      "acceptanceRate": 0.6797703802112421,
+      "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+      "topics": [
+        "Array",
+        "Divide and Conquer",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Quickselect"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Add Binary",
+      "titleSlug": "add-binary",
+      "difficulty": "EASY",
+      "frequency": 71.9,
+      "acceptanceRate": 0.556770384811513,
+      "link": "https://leetcode.com/problems/add-binary",
+      "topics": [
+        "Math",
+        "String",
+        "Bit Manipulation",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Spiral Matrix",
+      "titleSlug": "spiral-matrix",
+      "difficulty": "MEDIUM",
+      "frequency": 71.1,
+      "acceptanceRate": 0.5393984752092467,
+      "link": "https://leetcode.com/problems/spiral-matrix",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Simulation",
+    "String",
+    "Hash Table",
+    "Enumeration",
+    "Binary Search",
+    "Binary Indexed Tree",
+    "Segment Tree",
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree",
+    "Divide and Conquer",
+    "Sorting",
+    "Heap (Priority Queue)"
+  ]
+}

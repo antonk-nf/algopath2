@@ -1,0 +1,67 @@
+{
+  "company": "CRED",
+  "stats": {
+    "totalProblems": 2,
+    "uniqueProblems": 2,
+    "avgFrequency": 97.88,
+    "avgAcceptanceRate": 0.711596292782898,
+    "difficultyDistribution": {
+      "EASY": 4,
+      "MEDIUM": 1,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Count Elements With Maximum Frequency",
+      "titleSlug": "count-elements-with-maximum-frequency",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.7792370150792628,
+      "link": "https://leetcode.com/problems/count-elements-with-maximum-frequency",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Counting"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "30d",
+        "3m"
+      ]
+    },
+    {
+      "title": "Frequency of the Most Frequent Element",
+      "titleSlug": "frequency-of-the-most-frequent-element",
+      "difficulty": "MEDIUM",
+      "frequency": 89.4,
+      "acceptanceRate": 0.4410334035974388,
+      "link": "https://leetcode.com/problems/frequency-of-the-most-frequent-element",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Greedy",
+        "Sliding Window",
+        "Sorting",
+        "Prefix Sum"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Hash Table",
+    "Counting",
+    "Binary Search",
+    "Greedy",
+    "Sliding Window",
+    "Sorting",
+    "Prefix Sum"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "company": "ZipRecruiter",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 89.375,
+    "avgAcceptanceRate": 0.5439934457184734,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 6,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Find the Length of the Longest Common Prefix",
+      "titleSlug": "find-the-length-of-the-longest-common-prefix",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5641165722968939,
+      "link": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Trie"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Rotting Oranges",
+      "titleSlug": "rotting-oranges",
+      "difficulty": "MEDIUM",
+      "frequency": 92.7,
+      "acceptanceRate": 0.566237682751096,
+      "link": "https://leetcode.com/problems/rotting-oranges",
+      "topics": [
+        "Array",
+        "Breadth-First Search",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Split Message Based on Limit",
+      "titleSlug": "split-message-based-on-limit",
+      "difficulty": "HARD",
+      "frequency": 82.4,
+      "acceptanceRate": 0.42616845480330495,
+      "link": "https://leetcode.com/problems/split-message-based-on-limit",
+      "topics": [
+        "String",
+        "Binary Search",
+        "Enumeration"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Operations to Write the Letter Y on a Grid",
+      "titleSlug": "minimum-operations-to-write-the-letter-y-on-a-grid",
+      "difficulty": "MEDIUM",
+      "frequency": 82.4,
+      "acceptanceRate": 0.6194512000393053,
+      "link": "https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Matrix",
+        "Counting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Matrix",
+    "Trie",
+    "Breadth-First Search",
+    "Binary Search",
+    "Enumeration",
+    "Counting"
+  ]
+}

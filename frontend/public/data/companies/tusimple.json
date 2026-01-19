@@ -1,0 +1,104 @@
+{
+  "company": "TuSimple",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 100.0,
+    "avgAcceptanceRate": 0.512842980644904,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 4,
+      "HARD": 4,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Intervals Between Identical Elements",
+      "titleSlug": "intervals-between-identical-elements",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4493480629767406,
+      "link": "https://leetcode.com/problems/intervals-between-identical-elements",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Count the Number of Good Subsequences",
+      "titleSlug": "count-the-number-of-good-subsequences",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.505726872246696,
+      "link": "https://leetcode.com/problems/count-the-number-of-good-subsequences",
+      "topics": [
+        "Hash Table",
+        "Math",
+        "String",
+        "Combinatorics",
+        "Counting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Ways to Earn Points",
+      "titleSlug": "number-of-ways-to-earn-points",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5859573746396065,
+      "link": "https://leetcode.com/problems/number-of-ways-to-earn-points",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Good People Based on Statements",
+      "titleSlug": "maximum-good-people-based-on-statements",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.510339612716573,
+      "link": "https://leetcode.com/problems/maximum-good-people-based-on-statements",
+      "topics": [
+        "Array",
+        "Backtracking",
+        "Bit Manipulation",
+        "Enumeration"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Hash Table",
+    "Prefix Sum",
+    "Math",
+    "String",
+    "Combinatorics",
+    "Counting",
+    "Dynamic Programming",
+    "Backtracking",
+    "Bit Manipulation",
+    "Enumeration"
+  ]
+}

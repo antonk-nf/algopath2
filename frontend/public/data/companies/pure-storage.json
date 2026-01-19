@@ -1,0 +1,157 @@
+{
+  "company": "Pure Storage",
+  "stats": {
+    "totalProblems": 7,
+    "uniqueProblems": 7,
+    "avgFrequency": 78.15,
+    "avgAcceptanceRate": 0.483678710621855,
+    "difficultyDistribution": {
+      "EASY": 4,
+      "MEDIUM": 8,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Valid Square",
+      "titleSlug": "valid-square",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.44270069622707714,
+      "link": "https://leetcode.com/problems/valid-square",
+      "topics": [
+        "Math",
+        "Geometry"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Palindromic Substrings",
+      "titleSlug": "palindromic-substrings",
+      "difficulty": "MEDIUM",
+      "frequency": 85.9,
+      "acceptanceRate": 0.7167801410578343,
+      "link": "https://leetcode.com/problems/palindromic-substrings",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Increasing Subsequence",
+      "titleSlug": "longest-increasing-subsequence",
+      "difficulty": "MEDIUM",
+      "frequency": 70.0,
+      "acceptanceRate": 0.5780838360568359,
+      "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Repeating Substring",
+      "titleSlug": "maximum-repeating-substring",
+      "difficulty": "EASY",
+      "frequency": 70.0,
+      "acceptanceRate": 0.3962144463908421,
+      "link": "https://leetcode.com/problems/maximum-repeating-substring",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "String Matching"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all",
+        "30d",
+        "3m"
+      ]
+    },
+    {
+      "title": "Longest Palindromic Substring",
+      "titleSlug": "longest-palindromic-substring",
+      "difficulty": "MEDIUM",
+      "frequency": 62.1,
+      "acceptanceRate": 0.3584616076719246,
+      "link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Design Skiplist",
+      "titleSlug": "design-skiplist",
+      "difficulty": "HARD",
+      "frequency": 62.1,
+      "acceptanceRate": 0.5807262117036797,
+      "link": "https://leetcode.com/problems/design-skiplist",
+      "topics": [
+        "Linked List",
+        "Design"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Insert Delete GetRandom O(1)",
+      "titleSlug": "insert-delete-getrandom-o-1",
+      "difficulty": "MEDIUM",
+      "frequency": 61.2,
+      "acceptanceRate": 0.5499193187657342,
+      "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Design",
+        "Randomized"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Dynamic Programming",
+    "String",
+    "String Matching",
+    "Math",
+    "Array",
+    "Two Pointers",
+    "Design",
+    "Geometry",
+    "Binary Search",
+    "Linked List",
+    "Hash Table",
+    "Randomized"
+  ]
+}

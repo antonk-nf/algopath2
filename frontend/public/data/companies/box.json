@@ -1,0 +1,152 @@
+{
+  "company": "Box",
+  "stats": {
+    "totalProblems": 6,
+    "uniqueProblems": 6,
+    "avgFrequency": 83.00555555555555,
+    "avgAcceptanceRate": 0.6200017600332659,
+    "difficultyDistribution": {
+      "EASY": 7,
+      "MEDIUM": 7,
+      "HARD": 4,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Top K Frequent Words",
+      "titleSlug": "top-k-frequent-words",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5927711651861731,
+      "link": "https://leetcode.com/problems/top-k-frequent-words",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Trie",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Bucket Sort",
+        "Counting"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Number of 1 Bits",
+      "titleSlug": "number-of-1-bits",
+      "difficulty": "EASY",
+      "frequency": 96.0,
+      "acceptanceRate": 0.7450480575885099,
+      "link": "https://leetcode.com/problems/number-of-1-bits",
+      "topics": [
+        "Divide and Conquer",
+        "Bit Manipulation"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "30d",
+        "3m"
+      ]
+    },
+    {
+      "title": "Word Ladder",
+      "titleSlug": "word-ladder",
+      "difficulty": "HARD",
+      "frequency": 75.9,
+      "acceptanceRate": 0.42812064281842477,
+      "link": "https://leetcode.com/problems/word-ladder",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Breadth-First Search"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Kth Largest Element in a Stream",
+      "titleSlug": "kth-largest-element-in-a-stream",
+      "difficulty": "EASY",
+      "frequency": 65.3,
+      "acceptanceRate": 0.5985300600121747,
+      "link": "https://leetcode.com/problems/kth-largest-element-in-a-stream",
+      "topics": [
+        "Tree",
+        "Design",
+        "Binary Search Tree",
+        "Heap (Priority Queue)",
+        "Binary Tree",
+        "Data Stream"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Event Emitter",
+      "titleSlug": "event-emitter",
+      "difficulty": "MEDIUM",
+      "frequency": 65.3,
+      "acceptanceRate": 0.7448014383989994,
+      "link": "https://leetcode.com/problems/event-emitter",
+      "topics": [],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Redundant Connection",
+      "titleSlug": "redundant-connection",
+      "difficulty": "MEDIUM",
+      "frequency": 58.8,
+      "acceptanceRate": 0.6645611638154983,
+      "link": "https://leetcode.com/problems/redundant-connection",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union Find",
+        "Graph"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Hash Table",
+    "String",
+    "Heap (Priority Queue)",
+    "Divide and Conquer",
+    "Bit Manipulation",
+    "Breadth-First Search",
+    "Array",
+    "Trie",
+    "Sorting",
+    "Bucket Sort",
+    "Counting",
+    "Tree",
+    "Design",
+    "Binary Search Tree",
+    "Binary Tree"
+  ]
+}

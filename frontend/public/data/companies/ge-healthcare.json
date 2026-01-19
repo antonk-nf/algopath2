@@ -1,0 +1,164 @@
+{
+  "company": "GE Healthcare",
+  "stats": {
+    "totalProblems": 7,
+    "uniqueProblems": 7,
+    "avgFrequency": 79.00714285714287,
+    "avgAcceptanceRate": 0.6572634399009046,
+    "difficultyDistribution": {
+      "EASY": 4,
+      "MEDIUM": 6,
+      "HARD": 4,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Evaluate Division",
+      "titleSlug": "evaluate-division",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6314724725246107,
+      "link": "https://leetcode.com/problems/evaluate-division",
+      "topics": [
+        "Array",
+        "String",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union Find",
+        "Graph",
+        "Shortest Path"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Valid Parentheses",
+      "titleSlug": "valid-parentheses",
+      "difficulty": "EASY",
+      "frequency": 92.3,
+      "acceptanceRate": 0.423228968266,
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "topics": [
+        "String",
+        "Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Lowest Common Ancestor of a Binary Tree",
+      "titleSlug": "lowest-common-ancestor-of-a-binary-tree",
+      "difficulty": "MEDIUM",
+      "frequency": 80.5,
+      "acceptanceRate": 0.6675515631209941,
+      "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Visible People in a Queue",
+      "titleSlug": "number-of-visible-people-in-a-queue",
+      "difficulty": "HARD",
+      "frequency": 71.2,
+      "acceptanceRate": 0.7129705142972448,
+      "link": "https://leetcode.com/problems/number-of-visible-people-in-a-queue",
+      "topics": [
+        "Array",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Employee Free Time",
+      "titleSlug": "employee-free-time",
+      "difficulty": "HARD",
+      "frequency": 71.2,
+      "acceptanceRate": 0.7259771560305982,
+      "link": "https://leetcode.com/problems/employee-free-time",
+      "topics": [
+        "Array",
+        "Line Sweep",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Car Fleet",
+      "titleSlug": "car-fleet",
+      "difficulty": "MEDIUM",
+      "frequency": 71.2,
+      "acceptanceRate": 0.5347444943339748,
+      "link": "https://leetcode.com/problems/car-fleet",
+      "topics": [
+        "Array",
+        "Stack",
+        "Sorting",
+        "Monotonic Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Concatenation of Array",
+      "titleSlug": "concatenation-of-array",
+      "difficulty": "EASY",
+      "frequency": 71.2,
+      "acceptanceRate": 0.9048989107329093,
+      "link": "https://leetcode.com/problems/concatenation-of-array",
+      "topics": [
+        "Array",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Stack",
+    "String",
+    "Depth-First Search",
+    "Monotonic Stack",
+    "Sorting",
+    "Breadth-First Search",
+    "Union Find",
+    "Graph",
+    "Shortest Path",
+    "Tree",
+    "Binary Tree",
+    "Line Sweep",
+    "Heap (Priority Queue)",
+    "Simulation"
+  ]
+}

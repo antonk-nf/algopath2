@@ -1,0 +1,178 @@
+{
+  "company": "Dunzo",
+  "stats": {
+    "totalProblems": 8,
+    "uniqueProblems": 8,
+    "avgFrequency": 95.12000000000002,
+    "avgAcceptanceRate": 0.5925585598557832,
+    "difficultyDistribution": {
+      "EASY": 1,
+      "MEDIUM": 6,
+      "HARD": 8,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Arithmetic Slices II - Subsequence",
+      "titleSlug": "arithmetic-slices-ii-subsequence",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5454027309965013,
+      "link": "https://leetcode.com/problems/arithmetic-slices-ii-subsequence",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Find All Good Strings",
+      "titleSlug": "find-all-good-strings",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4370181344337062,
+      "link": "https://leetcode.com/problems/find-all-good-strings",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "String Matching"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Distinct Substrings in a String",
+      "titleSlug": "number-of-distinct-substrings-in-a-string",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6454241948153967,
+      "link": "https://leetcode.com/problems/number-of-distinct-substrings-in-a-string",
+      "topics": [
+        "String",
+        "Trie",
+        "Rolling Hash",
+        "Suffix Array",
+        "Hash Function"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Ways to Form a Target String Given a Dictionary",
+      "titleSlug": "number-of-ways-to-form-a-target-string-given-a-dictionary",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5706421937156789,
+      "link": "https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary",
+      "topics": [
+        "Array",
+        "String",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Stone Game VII",
+      "titleSlug": "stone-game-vii",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5832279630840782,
+      "link": "https://leetcode.com/problems/stone-game-vii",
+      "topics": [
+        "Array",
+        "Math",
+        "Dynamic Programming",
+        "Game Theory"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Ways to Make a Fair Array",
+      "titleSlug": "ways-to-make-a-fair-array",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6450748112174719,
+      "link": "https://leetcode.com/problems/ways-to-make-a-fair-array",
+      "topics": [
+        "Array",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Build Array Where You Can Find The Maximum Exactly K Comparisons",
+      "titleSlug": "build-array-where-you-can-find-the-maximum-exactly-k-comparisons",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6675608950059291,
+      "link": "https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons",
+      "topics": [
+        "Dynamic Programming",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Count Complete Tree Nodes",
+      "titleSlug": "count-complete-tree-nodes",
+      "difficulty": "EASY",
+      "frequency": 63.4,
+      "acceptanceRate": 0.6996765512992228,
+      "link": "https://leetcode.com/problems/count-complete-tree-nodes",
+      "topics": [
+        "Binary Search",
+        "Bit Manipulation",
+        "Tree",
+        "Binary Tree"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Dynamic Programming",
+    "Array",
+    "String",
+    "Prefix Sum",
+    "String Matching",
+    "Trie",
+    "Rolling Hash",
+    "Suffix Array",
+    "Hash Function",
+    "Math",
+    "Game Theory",
+    "Binary Search",
+    "Bit Manipulation",
+    "Tree",
+    "Binary Tree"
+  ]
+}

@@ -1,0 +1,579 @@
+{
+  "company": "Palantir Technologies",
+  "stats": {
+    "totalProblems": 29,
+    "uniqueProblems": 29,
+    "avgFrequency": 67.59344262295082,
+    "avgAcceptanceRate": 0.5439289585293972,
+    "difficultyDistribution": {
+      "EASY": 14,
+      "MEDIUM": 35,
+      "HARD": 12,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Find Beautiful Indices in the Given Array I",
+      "titleSlug": "find-beautiful-indices-in-the-given-array-i",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.38430607750545076,
+      "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Binary Search",
+        "Rolling Hash",
+        "String Matching",
+        "Hash Function"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Integer to English Words",
+      "titleSlug": "integer-to-english-words",
+      "difficulty": "HARD",
+      "frequency": 98.2,
+      "acceptanceRate": 0.34354789501950295,
+      "link": "https://leetcode.com/problems/integer-to-english-words",
+      "topics": [
+        "Math",
+        "String",
+        "Recursion"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Find Beautiful Indices in the Given Array II",
+      "titleSlug": "find-beautiful-indices-in-the-given-array-ii",
+      "difficulty": "HARD",
+      "frequency": 96.2,
+      "acceptanceRate": 0.26452032755472804,
+      "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Binary Search",
+        "Rolling Hash",
+        "String Matching",
+        "Hash Function"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Merge k Sorted Lists",
+      "titleSlug": "merge-k-sorted-lists",
+      "difficulty": "HARD",
+      "frequency": 82.4,
+      "acceptanceRate": 0.5677423948386318,
+      "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+      "topics": [
+        "Linked List",
+        "Divide and Conquer",
+        "Heap (Priority Queue)",
+        "Merge Sort"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Merge Intervals",
+      "titleSlug": "merge-intervals",
+      "difficulty": "MEDIUM",
+      "frequency": 81.5,
+      "acceptanceRate": 0.49395231317834853,
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "topics": [
+        "Array",
+        "Sorting"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Construct Quad Tree",
+      "titleSlug": "construct-quad-tree",
+      "difficulty": "MEDIUM",
+      "frequency": 73.1,
+      "acceptanceRate": 0.7711755516320173,
+      "link": "https://leetcode.com/problems/construct-quad-tree",
+      "topics": [
+        "Array",
+        "Divide and Conquer",
+        "Tree",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Count the Number of Good Subsequences",
+      "titleSlug": "count-the-number-of-good-subsequences",
+      "difficulty": "MEDIUM",
+      "frequency": 72.6,
+      "acceptanceRate": 0.505726872246696,
+      "link": "https://leetcode.com/problems/count-the-number-of-good-subsequences",
+      "topics": [
+        "Hash Table",
+        "Math",
+        "String",
+        "Combinatorics",
+        "Counting"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Shortest Word Distance III",
+      "titleSlug": "shortest-word-distance-iii",
+      "difficulty": "MEDIUM",
+      "frequency": 72.6,
+      "acceptanceRate": 0.5910015691072046,
+      "link": "https://leetcode.com/problems/shortest-word-distance-iii",
+      "topics": [
+        "Array",
+        "String"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Equal Sum of Two Arrays After Replacing Zeros",
+      "titleSlug": "minimum-equal-sum-of-two-arrays-after-replacing-zeros",
+      "difficulty": "MEDIUM",
+      "frequency": 66.6,
+      "acceptanceRate": 0.5016214325632321,
+      "link": "https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros",
+      "topics": [
+        "Array",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "LRU Cache",
+      "titleSlug": "lru-cache",
+      "difficulty": "MEDIUM",
+      "frequency": 66.6,
+      "acceptanceRate": 0.45214669089787124,
+      "link": "https://leetcode.com/problems/lru-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Find Players With Zero or One Losses",
+      "titleSlug": "find-players-with-zero-or-one-losses",
+      "difficulty": "MEDIUM",
+      "frequency": 66.6,
+      "acceptanceRate": 0.7259675342193808,
+      "link": "https://leetcode.com/problems/find-players-with-zero-or-one-losses",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting",
+        "Counting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Time Difference",
+      "titleSlug": "minimum-time-difference",
+      "difficulty": "MEDIUM",
+      "frequency": 66.6,
+      "acceptanceRate": 0.6235324529015283,
+      "link": "https://leetcode.com/problems/minimum-time-difference",
+      "topics": [
+        "Array",
+        "Math",
+        "String",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Range Sum Query - Immutable",
+      "titleSlug": "range-sum-query-immutable",
+      "difficulty": "EASY",
+      "frequency": 66.6,
+      "acceptanceRate": 0.6854763152086079,
+      "link": "https://leetcode.com/problems/range-sum-query-immutable",
+      "topics": [
+        "Array",
+        "Design",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Accounts Merge",
+      "titleSlug": "accounts-merge",
+      "difficulty": "MEDIUM",
+      "frequency": 57.4,
+      "acceptanceRate": 0.5958001410459624,
+      "link": "https://leetcode.com/problems/accounts-merge",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union Find",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Divisible Triplet Sums",
+      "titleSlug": "number-of-divisible-triplet-sums",
+      "difficulty": "MEDIUM",
+      "frequency": 57.4,
+      "acceptanceRate": 0.6780637725701113,
+      "link": "https://leetcode.com/problems/number-of-divisible-triplet-sums",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Contains Duplicate III",
+      "titleSlug": "contains-duplicate-iii",
+      "difficulty": "HARD",
+      "frequency": 57.4,
+      "acceptanceRate": 0.23633424691353905,
+      "link": "https://leetcode.com/problems/contains-duplicate-iii",
+      "topics": [
+        "Array",
+        "Sliding Window",
+        "Sorting",
+        "Bucket Sort",
+        "Ordered Set"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Contains Duplicate",
+      "titleSlug": "contains-duplicate",
+      "difficulty": "EASY",
+      "frequency": 57.4,
+      "acceptanceRate": 0.6323637919991744,
+      "link": "https://leetcode.com/problems/contains-duplicate",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Contains Duplicate II",
+      "titleSlug": "contains-duplicate-ii",
+      "difficulty": "EASY",
+      "frequency": 57.4,
+      "acceptanceRate": 0.4904995537469206,
+      "link": "https://leetcode.com/problems/contains-duplicate-ii",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sliding Window"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Check If It Is a Straight Line",
+      "titleSlug": "check-if-it-is-a-straight-line",
+      "difficulty": "EASY",
+      "frequency": 57.4,
+      "acceptanceRate": 0.3970230609133101,
+      "link": "https://leetcode.com/problems/check-if-it-is-a-straight-line",
+      "topics": [
+        "Array",
+        "Math",
+        "Geometry"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Single Number",
+      "titleSlug": "single-number",
+      "difficulty": "EASY",
+      "frequency": 57.4,
+      "acceptanceRate": 0.7596886320417466,
+      "link": "https://leetcode.com/problems/single-number",
+      "topics": [
+        "Array",
+        "Bit Manipulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Size Subarray Sum Equals k",
+      "titleSlug": "maximum-size-subarray-sum-equals-k",
+      "difficulty": "MEDIUM",
+      "frequency": 57.4,
+      "acceptanceRate": 0.5060333232817832,
+      "link": "https://leetcode.com/problems/maximum-size-subarray-sum-equals-k",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Selling Pieces of Wood",
+      "titleSlug": "selling-pieces-of-wood",
+      "difficulty": "HARD",
+      "frequency": 57.4,
+      "acceptanceRate": 0.5154615647940359,
+      "link": "https://leetcode.com/problems/selling-pieces-of-wood",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Memoization"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Trapping Rain Water II",
+      "titleSlug": "trapping-rain-water-ii",
+      "difficulty": "HARD",
+      "frequency": 57.4,
+      "acceptanceRate": 0.588762524838287,
+      "link": "https://leetcode.com/problems/trapping-rain-water-ii",
+      "topics": [
+        "Array",
+        "Breadth-First Search",
+        "Heap (Priority Queue)",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "All Ancestors of a Node in a Directed Acyclic Graph",
+      "titleSlug": "all-ancestors-of-a-node-in-a-directed-acyclic-graph",
+      "difficulty": "MEDIUM",
+      "frequency": 57.4,
+      "acceptanceRate": 0.6189030152589998,
+      "link": "https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph",
+        "Topological Sort"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Flood Fill",
+      "titleSlug": "flood-fill",
+      "difficulty": "EASY",
+      "frequency": 57.4,
+      "acceptanceRate": 0.6647640296665365,
+      "link": "https://leetcode.com/problems/flood-fill",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Islands",
+      "titleSlug": "number-of-islands",
+      "difficulty": "MEDIUM",
+      "frequency": 57.4,
+      "acceptanceRate": 0.6232001096557939,
+      "link": "https://leetcode.com/problems/number-of-islands",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union Find",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "titleSlug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "EASY",
+      "frequency": 57.4,
+      "acceptanceRate": 0.5525962294861477,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Sort List",
+      "titleSlug": "sort-list",
+      "difficulty": "MEDIUM",
+      "frequency": 45.4,
+      "acceptanceRate": 0.618074922962942,
+      "link": "https://leetcode.com/problems/sort-list",
+      "topics": [
+        "Linked List",
+        "Two Pointers",
+        "Divide and Conquer",
+        "Sorting",
+        "Merge Sort"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Daily Temperatures",
+      "titleSlug": "daily-temperatures",
+      "difficulty": "MEDIUM",
+      "frequency": 45.4,
+      "acceptanceRate": 0.6736502832589849,
+      "link": "https://leetcode.com/problems/daily-temperatures",
+      "topics": [
+        "Array",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "String",
+    "Hash Table",
+    "Sorting",
+    "Breadth-First Search",
+    "Math",
+    "Matrix",
+    "Depth-First Search",
+    "Two Pointers",
+    "Binary Search",
+    "Rolling Hash",
+    "String Matching",
+    "Hash Function",
+    "Linked List",
+    "Divide and Conquer"
+  ]
+}

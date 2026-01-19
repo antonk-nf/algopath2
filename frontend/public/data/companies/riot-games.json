@@ -1,0 +1,100 @@
+{
+  "company": "Riot Games",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 89.475,
+    "avgAcceptanceRate": 0.6473901811884297,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 4,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Better Compression of String",
+      "titleSlug": "better-compression-of-string",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.758406942507361,
+      "link": "https://leetcode.com/problems/better-compression-of-string",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sorting",
+        "Counting"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Valid Sudoku",
+      "titleSlug": "valid-sudoku",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6227686766247266,
+      "link": "https://leetcode.com/problems/valid-sudoku",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Sudoku Solver",
+      "titleSlug": "sudoku-solver",
+      "difficulty": "HARD",
+      "frequency": 90.1,
+      "acceptanceRate": 0.6390835734397189,
+      "link": "https://leetcode.com/problems/sudoku-solver",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Backtracking",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Teemo Attacking",
+      "titleSlug": "teemo-attacking",
+      "difficulty": "EASY",
+      "frequency": 79.4,
+      "acceptanceRate": 0.5693015321819124,
+      "link": "https://leetcode.com/problems/teemo-attacking",
+      "topics": [
+        "Array",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Hash Table",
+    "Array",
+    "Matrix",
+    "String",
+    "Sorting",
+    "Counting",
+    "Backtracking",
+    "Simulation"
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "company": "Robinhood",
+  "stats": {
+    "totalProblems": 15,
+    "uniqueProblems": 15,
+    "avgFrequency": 76.67272727272727,
+    "avgAcceptanceRate": 0.6205907815108463,
+    "difficultyDistribution": {
+      "EASY": 6,
+      "MEDIUM": 25,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Top K Frequent Words",
+      "titleSlug": "top-k-frequent-words",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.592771943363307,
+      "link": "https://leetcode.com/problems/top-k-frequent-words",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Trie",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Bucket Sort",
+        "Counting"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Number of Orders in the Backlog",
+      "titleSlug": "number-of-orders-in-the-backlog",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5196292359051828,
+      "link": "https://leetcode.com/problems/number-of-orders-in-the-backlog",
+      "topics": [
+        "Array",
+        "Heap (Priority Queue)",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minesweeper",
+      "titleSlug": "minesweeper",
+      "difficulty": "MEDIUM",
+      "frequency": 85.1,
+      "acceptanceRate": 0.6812440177509644,
+      "link": "https://leetcode.com/problems/minesweeper",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Matrix"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Restore the Array From Adjacent Pairs",
+      "titleSlug": "restore-the-array-from-adjacent-pairs",
+      "difficulty": "MEDIUM",
+      "frequency": 80.2,
+      "acceptanceRate": 0.7472197096394245,
+      "link": "https://leetcode.com/problems/restore-the-array-from-adjacent-pairs",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Depth-First Search"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Defanging an IP Address",
+      "titleSlug": "defanging-an-ip-address",
+      "difficulty": "EASY",
+      "frequency": 76.5,
+      "acceptanceRate": 0.896860944340323,
+      "link": "https://leetcode.com/problems/defanging-an-ip-address",
+      "topics": [
+        "String"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Top K Frequent Elements",
+      "titleSlug": "top-k-frequent-elements",
+      "difficulty": "MEDIUM",
+      "frequency": 76.5,
+      "acceptanceRate": 0.6456601799887839,
+      "link": "https://leetcode.com/problems/top-k-frequent-elements",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Divide and Conquer",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Bucket Sort",
+        "Counting",
+        "Quickselect"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Employee Importance",
+      "titleSlug": "employee-importance",
+      "difficulty": "MEDIUM",
+      "frequency": 76.5,
+      "acceptanceRate": 0.6842114454359709,
+      "link": "https://leetcode.com/problems/employee-importance",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "titleSlug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "EASY",
+      "frequency": 74.0,
+      "acceptanceRate": 0.5525960901035435,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Check if There is a Valid Path in a Grid",
+      "titleSlug": "check-if-there-is-a-valid-path-in-a-grid",
+      "difficulty": "MEDIUM",
+      "frequency": 65.2,
+      "acceptanceRate": 0.48964880918055476,
+      "link": "https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union Find",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Count Good Meals",
+      "titleSlug": "count-good-meals",
+      "difficulty": "MEDIUM",
+      "frequency": 65.2,
+      "acceptanceRate": 0.3164606880510123,
+      "link": "https://leetcode.com/problems/count-good-meals",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Ways to Split Array Into Three Subarrays",
+      "titleSlug": "ways-to-split-array-into-three-subarrays",
+      "difficulty": "MEDIUM",
+      "frequency": 65.2,
+      "acceptanceRate": 0.3344652559336574,
+      "link": "https://leetcode.com/problems/ways-to-split-array-into-three-subarrays",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Capital Gain/Loss",
+      "titleSlug": "capital-gain-loss",
+      "difficulty": "MEDIUM",
+      "frequency": 65.2,
+      "acceptanceRate": 0.849191049073916,
+      "link": "https://leetcode.com/problems/capital-gainloss",
+      "topics": [
+        "Database"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Count the Number of Consistent Strings",
+      "titleSlug": "count-the-number-of-consistent-strings",
+      "difficulty": "EASY",
+      "frequency": 65.2,
+      "acceptanceRate": 0.8827632052615655,
+      "link": "https://leetcode.com/problems/count-the-number-of-consistent-strings",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Bit Manipulation",
+        "Counting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Brightest Position on Street",
+      "titleSlug": "brightest-position-on-street",
+      "difficulty": "MEDIUM",
+      "frequency": 65.2,
+      "acceptanceRate": 0.605687821115855,
+      "link": "https://leetcode.com/problems/brightest-position-on-street",
+      "topics": [
+        "Array",
+        "Sorting",
+        "Prefix Sum",
+        "Ordered Set"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Text Justification",
+      "titleSlug": "text-justification",
+      "difficulty": "HARD",
+      "frequency": 65.2,
+      "acceptanceRate": 0.48149935664104093,
+      "link": "https://leetcode.com/problems/text-justification",
+      "topics": [
+        "Array",
+        "String",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Depth-First Search",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Counting",
+    "Breadth-First Search",
+    "Bucket Sort",
+    "Matrix",
+    "Simulation",
+    "Prefix Sum",
+    "Trie",
+    "Divide and Conquer",
+    "Quickselect"
+  ]
+}

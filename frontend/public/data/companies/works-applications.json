@@ -1,0 +1,98 @@
+{
+  "company": "Works Applications",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 100.0,
+    "avgAcceptanceRate": 0.4201915673995483,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 4,
+      "HARD": 4,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Largest Number",
+      "titleSlug": "largest-number",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4128187673396755,
+      "link": "https://leetcode.com/problems/largest-number",
+      "topics": [
+        "Array",
+        "String",
+        "Greedy",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "K Inverse Pairs Array",
+      "titleSlug": "k-inverse-pairs-array",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.49047494969673283,
+      "link": "https://leetcode.com/problems/k-inverse-pairs-array",
+      "topics": [
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Course Schedule III",
+      "titleSlug": "course-schedule-iii",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4067228094856614,
+      "link": "https://leetcode.com/problems/course-schedule-iii",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "3Sum",
+      "titleSlug": "3sum",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.3707497430761235,
+      "link": "https://leetcode.com/problems/3sum",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Sorting",
+    "Greedy",
+    "String",
+    "Dynamic Programming",
+    "Heap (Priority Queue)",
+    "Two Pointers"
+  ]
+}

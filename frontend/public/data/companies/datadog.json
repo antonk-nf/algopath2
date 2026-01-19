@@ -1,0 +1,406 @@
+{
+  "company": "Datadog",
+  "stats": {
+    "totalProblems": 20,
+    "uniqueProblems": 20,
+    "avgFrequency": 72.55714285714285,
+    "avgAcceptanceRate": 0.5316860468022482,
+    "difficultyDistribution": {
+      "EASY": 21,
+      "MEDIUM": 21,
+      "HARD": 7,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Valid Word Abbreviation",
+      "titleSlug": "valid-word-abbreviation",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.3685165676961013,
+      "link": "https://leetcode.com/problems/valid-word-abbreviation",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Maximum Depth of N-ary Tree",
+      "titleSlug": "maximum-depth-of-n-ary-tree",
+      "difficulty": "EASY",
+      "frequency": 96.9,
+      "acceptanceRate": 0.7293402984873072,
+      "link": "https://leetcode.com/problems/maximum-depth-of-n-ary-tree",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Most Common Word",
+      "titleSlug": "most-common-word",
+      "difficulty": "EASY",
+      "frequency": 93.4,
+      "acceptanceRate": 0.4457668953194325,
+      "link": "https://leetcode.com/problems/most-common-word",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Counting"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Coin Change",
+      "titleSlug": "coin-change",
+      "difficulty": "MEDIUM",
+      "frequency": 89.3,
+      "acceptanceRate": 0.46495504462798637,
+      "link": "https://leetcode.com/problems/coin-change",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Breadth-First Search"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "House Robber",
+      "titleSlug": "house-robber",
+      "difficulty": "MEDIUM",
+      "frequency": 89.3,
+      "acceptanceRate": 0.5230497155903974,
+      "link": "https://leetcode.com/problems/house-robber",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Meeting Scheduler",
+      "titleSlug": "meeting-scheduler",
+      "difficulty": "MEDIUM",
+      "frequency": 84.4,
+      "acceptanceRate": 0.5522977372018112,
+      "link": "https://leetcode.com/problems/meeting-scheduler",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Design Circular Queue",
+      "titleSlug": "design-circular-queue",
+      "difficulty": "MEDIUM",
+      "frequency": 84.2,
+      "acceptanceRate": 0.5264418239354727,
+      "link": "https://leetcode.com/problems/design-circular-queue",
+      "topics": [
+        "Array",
+        "Linked List",
+        "Design",
+        "Queue"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "People Whose List of Favorite Companies Is Not a Subset of Another List",
+      "titleSlug": "people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list",
+      "difficulty": "MEDIUM",
+      "frequency": 77.6,
+      "acceptanceRate": 0.5940981861048789,
+      "link": "https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "House Robber II",
+      "titleSlug": "house-robber-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 77.6,
+      "acceptanceRate": 0.43562677890134105,
+      "link": "https://leetcode.com/problems/house-robber-ii",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Sliding Window Median",
+      "titleSlug": "sliding-window-median",
+      "difficulty": "HARD",
+      "frequency": 68.7,
+      "acceptanceRate": 0.3869181874102932,
+      "link": "https://leetcode.com/problems/sliding-window-median",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sliding Window",
+        "Heap (Priority Queue)"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Design Add and Search Words Data Structure",
+      "titleSlug": "design-add-and-search-words-data-structure",
+      "difficulty": "MEDIUM",
+      "frequency": 68.7,
+      "acceptanceRate": 0.4706668909360868,
+      "link": "https://leetcode.com/problems/design-add-and-search-words-data-structure",
+      "topics": [
+        "String",
+        "Depth-First Search",
+        "Design",
+        "Trie"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Vacation Days",
+      "titleSlug": "maximum-vacation-days",
+      "difficulty": "HARD",
+      "frequency": 68.3,
+      "acceptanceRate": 0.46381780194156824,
+      "link": "https://leetcode.com/problems/maximum-vacation-days",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Matrix"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Binary Tree Maximum Path Sum",
+      "titleSlug": "binary-tree-maximum-path-sum",
+      "difficulty": "HARD",
+      "frequency": 64.2,
+      "acceptanceRate": 0.4122431171072241,
+      "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+      "topics": [
+        "Dynamic Programming",
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Check If It Is a Straight Line",
+      "titleSlug": "check-if-it-is-a-straight-line",
+      "difficulty": "EASY",
+      "frequency": 58.5,
+      "acceptanceRate": 0.39702389978756053,
+      "link": "https://leetcode.com/problems/check-if-it-is-a-straight-line",
+      "topics": [
+        "Array",
+        "Math",
+        "Geometry"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Unique Number of Occurrences",
+      "titleSlug": "unique-number-of-occurrences",
+      "difficulty": "EASY",
+      "frequency": 50.4,
+      "acceptanceRate": 0.782833801237841,
+      "link": "https://leetcode.com/problems/unique-number-of-occurrences",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Binary Search Tree to Greater Sum Tree",
+      "titleSlug": "binary-search-tree-to-greater-sum-tree",
+      "difficulty": "MEDIUM",
+      "frequency": 50.4,
+      "acceptanceRate": 0.8827398009436621,
+      "link": "https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Search Tree",
+        "Binary Tree"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Odd String Difference",
+      "titleSlug": "odd-string-difference",
+      "difficulty": "EASY",
+      "frequency": 50.4,
+      "acceptanceRate": 0.6106046482233423,
+      "link": "https://leetcode.com/problems/odd-string-difference",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Find Words That Can Be Formed by Characters",
+      "titleSlug": "find-words-that-can-be-formed-by-characters",
+      "difficulty": "EASY",
+      "frequency": 50.4,
+      "acceptanceRate": 0.7106791989419989,
+      "link": "https://leetcode.com/problems/find-words-that-can-be-formed-by-characters",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Counting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Greatest Common Divisor of Strings",
+      "titleSlug": "greatest-common-divisor-of-strings",
+      "difficulty": "EASY",
+      "frequency": 50.4,
+      "acceptanceRate": 0.5272391455645378,
+      "link": "https://leetcode.com/problems/greatest-common-divisor-of-strings",
+      "topics": [
+        "Math",
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Path Sum",
+      "titleSlug": "path-sum",
+      "difficulty": "EASY",
+      "frequency": 46.9,
+      "acceptanceRate": 0.5300469157455725,
+      "link": "https://leetcode.com/problems/path-sum",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "String",
+    "Hash Table",
+    "Dynamic Programming",
+    "Depth-First Search",
+    "Tree",
+    "Breadth-First Search",
+    "Two Pointers",
+    "Design",
+    "Counting",
+    "Binary Tree",
+    "Linked List",
+    "Queue",
+    "Math",
+    "Matrix"
+  ]
+}

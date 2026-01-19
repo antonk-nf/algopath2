@@ -1,0 +1,146 @@
+{
+  "company": "Samsara",
+  "stats": {
+    "totalProblems": 6,
+    "uniqueProblems": 6,
+    "avgFrequency": 85.5,
+    "avgAcceptanceRate": 0.5611376451163781,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 7,
+      "HARD": 4,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Valid Sudoku",
+      "titleSlug": "valid-sudoku",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6227694235472601,
+      "link": "https://leetcode.com/problems/valid-sudoku",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Matrix"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Find Beautiful Indices in the Given Array I",
+      "titleSlug": "find-beautiful-indices-in-the-given-array-i",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.3843128232097467,
+      "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Binary Search",
+        "Rolling Hash",
+        "String Matching",
+        "Hash Function"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Text Justification",
+      "titleSlug": "text-justification",
+      "difficulty": "HARD",
+      "frequency": 88.0,
+      "acceptanceRate": 0.4815035316083349,
+      "link": "https://leetcode.com/problems/text-justification",
+      "topics": [
+        "Array",
+        "String",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Alternating Groups II",
+      "titleSlug": "alternating-groups-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 78.4,
+      "acceptanceRate": 0.598796741801174,
+      "link": "https://leetcode.com/problems/alternating-groups-ii",
+      "topics": [
+        "Array",
+        "Sliding Window"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Alternating Groups I",
+      "titleSlug": "alternating-groups-i",
+      "difficulty": "EASY",
+      "frequency": 78.4,
+      "acceptanceRate": 0.6768687963612404,
+      "link": "https://leetcode.com/problems/alternating-groups-i",
+      "topics": [
+        "Array",
+        "Sliding Window"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Flowers in Full Bloom",
+      "titleSlug": "number-of-flowers-in-full-bloom",
+      "difficulty": "HARD",
+      "frequency": 78.4,
+      "acceptanceRate": 0.5717586649550706,
+      "link": "https://leetcode.com/problems/number-of-flowers-in-full-bloom",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Binary Search",
+        "Sorting",
+        "Prefix Sum",
+        "Ordered Set"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Binary Search",
+    "Sliding Window",
+    "Matrix",
+    "Two Pointers",
+    "Rolling Hash",
+    "String Matching",
+    "Hash Function",
+    "Simulation",
+    "Sorting",
+    "Prefix Sum",
+    "Ordered Set"
+  ]
+}

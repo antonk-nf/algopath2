@@ -1,0 +1,98 @@
+{
+  "company": "National Instruments",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 83.8625,
+    "avgAcceptanceRate": 0.519562787819882,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 6,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Champagne Tower",
+      "titleSlug": "champagne-tower",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5827900024732158,
+      "link": "https://leetcode.com/problems/champagne-tower",
+      "topics": [
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Trapping Rain Water",
+      "titleSlug": "trapping-rain-water",
+      "difficulty": "HARD",
+      "frequency": 88.0,
+      "acceptanceRate": 0.6510219501353552,
+      "link": "https://leetcode.com/problems/trapping-rain-water",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Dynamic Programming",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Snakes and Ladders",
+      "titleSlug": "snakes-and-ladders",
+      "difficulty": "MEDIUM",
+      "frequency": 78.5,
+      "acceptanceRate": 0.4779591396819314,
+      "link": "https://leetcode.com/problems/snakes-and-ladders",
+      "topics": [
+        "Array",
+        "Breadth-First Search",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Decoded String at Index",
+      "titleSlug": "decoded-string-at-index",
+      "difficulty": "MEDIUM",
+      "frequency": 78.5,
+      "acceptanceRate": 0.36648005898902547,
+      "link": "https://leetcode.com/problems/decoded-string-at-index",
+      "topics": [
+        "String",
+        "Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Dynamic Programming",
+    "Array",
+    "Stack",
+    "Two Pointers",
+    "Monotonic Stack",
+    "Breadth-First Search",
+    "Matrix",
+    "String"
+  ]
+}

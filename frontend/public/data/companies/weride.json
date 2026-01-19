@@ -1,0 +1,158 @@
+{
+  "company": "WeRide",
+  "stats": {
+    "totalProblems": 6,
+    "uniqueProblems": 6,
+    "avgFrequency": 86.07333333333334,
+    "avgAcceptanceRate": 0.5477542046665672,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 2,
+      "HARD": 13,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Maximize Greatness of an Array",
+      "titleSlug": "maximize-greatness-of-an-array",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5864617466875623,
+      "link": "https://leetcode.com/problems/maximize-greatness-of-an-array",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Greedy",
+        "Sorting"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Increasing Path in a Matrix",
+      "titleSlug": "longest-increasing-path-in-a-matrix",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5534762586302827,
+      "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph",
+        "Topological Sort",
+        "Memoization",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Find Edges in Shortest Paths",
+      "titleSlug": "find-edges-in-shortest-paths",
+      "difficulty": "HARD",
+      "frequency": 89.6,
+      "acceptanceRate": 0.45557478513390637,
+      "link": "https://leetcode.com/problems/find-edges-in-shortest-paths",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph",
+        "Heap (Priority Queue)",
+        "Shortest Path"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Profit in Job Scheduling",
+      "titleSlug": "maximum-profit-in-job-scheduling",
+      "difficulty": "HARD",
+      "frequency": 79.9,
+      "acceptanceRate": 0.5441746135165552,
+      "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Dynamic Programming",
+        "Sorting"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Swim in Rising Water",
+      "titleSlug": "swim-in-rising-water",
+      "difficulty": "HARD",
+      "frequency": 79.9,
+      "acceptanceRate": 0.6285273239373714,
+      "link": "https://leetcode.com/problems/swim-in-rising-water",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union Find",
+        "Heap (Priority Queue)",
+        "Matrix"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Text Justification",
+      "titleSlug": "text-justification",
+      "difficulty": "HARD",
+      "frequency": 79.9,
+      "acceptanceRate": 0.4815035316083349,
+      "link": "https://leetcode.com/problems/text-justification",
+      "topics": [
+        "Array",
+        "String",
+        "Simulation"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Binary Search",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Sorting",
+    "Dynamic Programming",
+    "Heap (Priority Queue)",
+    "Matrix",
+    "Graph",
+    "Union Find",
+    "Two Pointers",
+    "Greedy",
+    "String",
+    "Simulation",
+    "Topological Sort"
+  ]
+}

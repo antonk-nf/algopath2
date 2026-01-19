@@ -1,0 +1,79 @@
+{
+  "company": "Credit Karma",
+  "stats": {
+    "totalProblems": 3,
+    "uniqueProblems": 3,
+    "avgFrequency": 93.73333333333333,
+    "avgAcceptanceRate": 0.5321261703914626,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 2,
+      "HARD": 1,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Trapping Rain Water",
+      "titleSlug": "trapping-rain-water",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6510220296037104,
+      "link": "https://leetcode.com/problems/trapping-rain-water",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Dynamic Programming",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+"
+      ]
+    },
+    {
+      "title": "Monotone Increasing Digits",
+      "titleSlug": "monotone-increasing-digits",
+      "difficulty": "MEDIUM",
+      "frequency": 90.6,
+      "acceptanceRate": 0.4872377608676912,
+      "link": "https://leetcode.com/problems/monotone-increasing-digits",
+      "topics": [
+        "Math",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+"
+      ]
+    },
+    {
+      "title": "Basic Calculator II",
+      "titleSlug": "basic-calculator-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 90.6,
+      "acceptanceRate": 0.4581187207029863,
+      "link": "https://leetcode.com/problems/basic-calculator-ii",
+      "topics": [
+        "Math",
+        "String",
+        "Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Stack",
+    "Math",
+    "Array",
+    "Two Pointers",
+    "Dynamic Programming",
+    "Monotonic Stack",
+    "Greedy",
+    "String"
+  ]
+}

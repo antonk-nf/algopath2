@@ -1,0 +1,93 @@
+{
+  "company": "Paycom",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 95.60000000000001,
+    "avgAcceptanceRate": 0.6483285846222088,
+    "difficultyDistribution": {
+      "EASY": 5,
+      "MEDIUM": 2,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Group Anagrams",
+      "titleSlug": "group-anagrams",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.7093189130762656,
+      "link": "https://leetcode.com/problems/group-anagrams",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Degree of an Array",
+      "titleSlug": "degree-of-an-array",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5741740795164303,
+      "link": "https://leetcode.com/problems/degree-of-an-array",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Contains Duplicate",
+      "titleSlug": "contains-duplicate",
+      "difficulty": "EASY",
+      "frequency": 89.8,
+      "acceptanceRate": 0.6323866808421809,
+      "link": "https://leetcode.com/problems/contains-duplicate",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Absolute Difference",
+      "titleSlug": "minimum-absolute-difference",
+      "difficulty": "EASY",
+      "frequency": 89.7,
+      "acceptanceRate": 0.7065407454857083,
+      "link": "https://leetcode.com/problems/minimum-absolute-difference",
+      "topics": [
+        "Array",
+        "Sorting"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Hash Table",
+    "Sorting",
+    "String"
+  ]
+}

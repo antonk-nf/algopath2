@@ -1,0 +1,48 @@
+{
+  "company": "Opendoor",
+  "stats": {
+    "totalProblems": 1,
+    "uniqueProblems": 1,
+    "avgFrequency": 100.0,
+    "avgAcceptanceRate": 0.4255124603082243,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 0,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Design Excel Sum Formula",
+      "titleSlug": "design-excel-sum-formula",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4255124603082243,
+      "link": "https://leetcode.com/problems/design-excel-sum-formula",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Graph",
+        "Design",
+        "Topological Sort",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Graph",
+    "Design",
+    "Topological Sort",
+    "Matrix"
+  ]
+}

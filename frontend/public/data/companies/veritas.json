@@ -1,0 +1,56 @@
+{
+  "company": "Veritas",
+  "stats": {
+    "totalProblems": 2,
+    "uniqueProblems": 2,
+    "avgFrequency": 93.675,
+    "avgAcceptanceRate": 0.6033694180449853,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 2,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Reformat Date",
+      "titleSlug": "reformat-date",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6733470658385863,
+      "link": "https://leetcode.com/problems/reformat-date",
+      "topics": [
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Shifting Letters II",
+      "titleSlug": "shifting-letters-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5333917702513844,
+      "link": "https://leetcode.com/problems/shifting-letters-ii",
+      "topics": [
+        "Array",
+        "String",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "String",
+    "Array",
+    "Prefix Sum"
+  ]
+}

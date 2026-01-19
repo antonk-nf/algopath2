@@ -1,0 +1,149 @@
+{
+  "company": "Chewy",
+  "stats": {
+    "totalProblems": 6,
+    "uniqueProblems": 6,
+    "avgFrequency": 94.10909090909091,
+    "avgAcceptanceRate": 0.5586611066346827,
+    "difficultyDistribution": {
+      "EASY": 4,
+      "MEDIUM": 7,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Top K Frequent Elements",
+      "titleSlug": "top-k-frequent-elements",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6456600029861541,
+      "link": "https://leetcode.com/problems/top-k-frequent-elements",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Divide and Conquer",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Bucket Sort",
+        "Counting",
+        "Quickselect"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Design Tic-Tac-Toe",
+      "titleSlug": "design-tic-tac-toe",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5860157935441853,
+      "link": "https://leetcode.com/problems/design-tic-tac-toe",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Design",
+        "Matrix",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Robot Bounded In Circle",
+      "titleSlug": "robot-bounded-in-circle",
+      "difficulty": "MEDIUM",
+      "frequency": 89.5,
+      "acceptanceRate": 0.562297474032361,
+      "link": "https://leetcode.com/problems/robot-bounded-in-circle",
+      "topics": [
+        "Math",
+        "String",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Backspace String Compare",
+      "titleSlug": "backspace-string-compare",
+      "difficulty": "EASY",
+      "frequency": 89.5,
+      "acceptanceRate": 0.49481803728999,
+      "link": "https://leetcode.com/problems/backspace-string-compare",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Stack",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "difficulty": "EASY",
+      "frequency": 89.5,
+      "acceptanceRate": 0.5577703274921263,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "LRU Cache",
+      "titleSlug": "lru-cache",
+      "difficulty": "MEDIUM",
+      "frequency": 88.9,
+      "acceptanceRate": 0.4521489022918771,
+      "link": "https://leetcode.com/problems/lru-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Hash Table",
+    "Array",
+    "Simulation",
+    "String",
+    "Design",
+    "Divide and Conquer",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Bucket Sort",
+    "Counting",
+    "Quickselect",
+    "Matrix",
+    "Math",
+    "Two Pointers",
+    "Stack"
+  ]
+}

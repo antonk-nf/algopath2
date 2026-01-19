@@ -1,0 +1,74 @@
+{
+  "company": "Zendesk",
+  "stats": {
+    "totalProblems": 3,
+    "uniqueProblems": 3,
+    "avgFrequency": 94.55,
+    "avgAcceptanceRate": 0.37359171193362695,
+    "difficultyDistribution": {
+      "EASY": 4,
+      "MEDIUM": 2,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Evaluate Reverse Polish Notation",
+      "titleSlug": "evaluate-reverse-polish-notation",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5495723545430139,
+      "link": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+      "topics": [
+        "Array",
+        "Math",
+        "Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Categorize Box According to Criteria",
+      "titleSlug": "categorize-box-according-to-criteria",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.3766858163729989,
+      "link": "https://leetcode.com/problems/categorize-box-according-to-criteria",
+      "topics": [
+        "Math"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Distribute Money to Maximum Children",
+      "titleSlug": "distribute-money-to-maximum-children",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.19451696488486803,
+      "link": "https://leetcode.com/problems/distribute-money-to-maximum-children",
+      "topics": [
+        "Math",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Math",
+    "Array",
+    "Stack",
+    "Greedy"
+  ]
+}

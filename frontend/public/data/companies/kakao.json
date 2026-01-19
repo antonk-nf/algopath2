@@ -1,0 +1,62 @@
+{
+  "company": "Kakao",
+  "stats": {
+    "totalProblems": 2,
+    "uniqueProblems": 2,
+    "avgFrequency": 100.0,
+    "avgAcceptanceRate": 0.5049299158032386,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 2,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Minimum Moves to Reach Target with Rotations",
+      "titleSlug": "minimum-moves-to-reach-target-with-rotations",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5057383320581484,
+      "link": "https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations",
+      "topics": [
+        "Array",
+        "Breadth-First Search",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Points in an Archery Competition",
+      "titleSlug": "maximum-points-in-an-archery-competition",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5041214995483289,
+      "link": "https://leetcode.com/problems/maximum-points-in-an-archery-competition",
+      "topics": [
+        "Array",
+        "Backtracking",
+        "Bit Manipulation",
+        "Enumeration"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Breadth-First Search",
+    "Matrix",
+    "Backtracking",
+    "Bit Manipulation",
+    "Enumeration"
+  ]
+}

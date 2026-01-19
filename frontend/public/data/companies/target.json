@@ -1,0 +1,109 @@
+{
+  "company": "Target",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 100.0,
+    "avgAcceptanceRate": 0.6008458338950186,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 5,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Sort Colors",
+      "titleSlug": "sort-colors",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6758312389131401,
+      "link": "https://leetcode.com/problems/sort-colors",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Path With Different Adjacent Characters",
+      "titleSlug": "longest-path-with-different-adjacent-characters",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5391662377766341,
+      "link": "https://leetcode.com/problems/longest-path-with-different-adjacent-characters",
+      "topics": [
+        "Array",
+        "String",
+        "Tree",
+        "Depth-First Search",
+        "Graph",
+        "Topological Sort"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Product of the Last K Numbers",
+      "titleSlug": "product-of-the-last-k-numbers",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6274634247482844,
+      "link": "https://leetcode.com/problems/product-of-the-last-k-numbers",
+      "topics": [
+        "Array",
+        "Math",
+        "Design",
+        "Data Stream",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Subarray",
+      "titleSlug": "maximum-subarray",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5209990343890127,
+      "link": "https://leetcode.com/problems/maximum-subarray",
+      "topics": [
+        "Array",
+        "Divide and Conquer",
+        "Dynamic Programming"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Two Pointers",
+    "Sorting",
+    "String",
+    "Tree",
+    "Depth-First Search",
+    "Graph",
+    "Topological Sort",
+    "Math",
+    "Design",
+    "Data Stream",
+    "Prefix Sum",
+    "Divide and Conquer",
+    "Dynamic Programming"
+  ]
+}

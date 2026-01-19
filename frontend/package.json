@@ -8,12 +8,15 @@
     "build": "tsc -b && vite build",
     "build:prod": "tsc -b && vite build --mode production",
     "build:staging": "tsc -b && vite build --mode staging",
+    "generate-data": "cd .. && python cli.py static export --output frontend/public/data",
+    "build:static": "npm run generate-data && npm run build:prod",
+    "preview:static": "npm run build:static && npx serve dist",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
     "preview": "vite preview",
     "preview:prod": "vite preview --mode production",
     "type-check": "tsc --noEmit",
-    "clean": "rm -rf dist",
+    "clean": "rm -rf dist public/data",
     "analyze": "npx vite-bundle-analyzer dist"
   },
   "dependencies": {

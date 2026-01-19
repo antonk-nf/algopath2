@@ -1,0 +1,123 @@
+{
+  "company": "Alibaba",
+  "stats": {
+    "totalProblems": 5,
+    "uniqueProblems": 5,
+    "avgFrequency": 96.37,
+    "avgAcceptanceRate": 0.4637590147057691,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 8,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Path Sum IV",
+      "titleSlug": "path-sum-iv",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6265683229813664,
+      "link": "https://leetcode.com/problems/path-sum-iv",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Split Concatenated Strings",
+      "titleSlug": "split-concatenated-strings",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4331808331326752,
+      "link": "https://leetcode.com/problems/split-concatenated-strings",
+      "topics": [
+        "Array",
+        "String",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Split Array with Equal Sum",
+      "titleSlug": "split-array-with-equal-sum",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5005901986323673,
+      "link": "https://leetcode.com/problems/split-array-with-equal-sum",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Valid Parenthesis String",
+      "titleSlug": "valid-parenthesis-string",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.38909428484404673,
+      "link": "https://leetcode.com/problems/valid-parenthesis-string",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Stack",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Substring Without Repeating Characters",
+      "titleSlug": "longest-substring-without-repeating-characters",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.3693614339383895,
+      "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Greedy",
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree",
+    "Prefix Sum",
+    "Dynamic Programming",
+    "Stack",
+    "Sliding Window"
+  ]
+}

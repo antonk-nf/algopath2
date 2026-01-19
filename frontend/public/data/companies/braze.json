@@ -1,0 +1,78 @@
+{
+  "company": "Braze",
+  "stats": {
+    "totalProblems": 3,
+    "uniqueProblems": 3,
+    "avgFrequency": 94.24000000000001,
+    "avgAcceptanceRate": 0.5471779788948454,
+    "difficultyDistribution": {
+      "EASY": 4,
+      "MEDIUM": 1,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Valid Parentheses",
+      "titleSlug": "valid-parentheses",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.42328399877451117,
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "topics": [
+        "String",
+        "Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "difficulty": "EASY",
+      "frequency": 90.6,
+      "acceptanceRate": 0.5578039438654574,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Candy Crush",
+      "titleSlug": "candy-crush",
+      "difficulty": "MEDIUM",
+      "frequency": 90.3,
+      "acceptanceRate": 0.7737140091942899,
+      "link": "https://leetcode.com/problems/candy-crush",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Matrix",
+        "Simulation"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "String",
+    "Stack",
+    "Hash Table",
+    "Two Pointers",
+    "Matrix",
+    "Simulation"
+  ]
+}

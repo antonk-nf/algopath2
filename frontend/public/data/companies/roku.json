@@ -1,0 +1,311 @@
+{
+  "company": "Roku",
+  "stats": {
+    "totalProblems": 15,
+    "uniqueProblems": 15,
+    "avgFrequency": 91.05384615384614,
+    "avgAcceptanceRate": 0.4784580299866225,
+    "difficultyDistribution": {
+      "EASY": 6,
+      "MEDIUM": 13,
+      "HARD": 7,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "24 Game",
+      "titleSlug": "24-game",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5000170520428348,
+      "link": "https://leetcode.com/problems/24-game",
+      "topics": [
+        "Array",
+        "Math",
+        "Backtracking"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Valid Palindrome II",
+      "titleSlug": "valid-palindrome-ii",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.43027201289187367,
+      "link": "https://leetcode.com/problems/valid-palindrome-ii",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Greedy"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Sliding Window Maximum",
+      "titleSlug": "sliding-window-maximum",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4760419873658764,
+      "link": "https://leetcode.com/problems/sliding-window-maximum",
+      "topics": [
+        "Array",
+        "Queue",
+        "Sliding Window",
+        "Heap (Priority Queue)",
+        "Monotonic Queue"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Substring with Concatenation of All Words",
+      "titleSlug": "substring-with-concatenation-of-all-words",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.32997463649493386,
+      "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Simplify Path",
+      "titleSlug": "simplify-path",
+      "difficulty": "MEDIUM",
+      "frequency": 88.2,
+      "acceptanceRate": 0.4785475875201086,
+      "link": "https://leetcode.com/problems/simplify-path",
+      "topics": [
+        "String",
+        "Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Asteroid Collision",
+      "titleSlug": "asteroid-collision",
+      "difficulty": "MEDIUM",
+      "frequency": 88.2,
+      "acceptanceRate": 0.4550061229796745,
+      "link": "https://leetcode.com/problems/asteroid-collision",
+      "topics": [
+        "Array",
+        "Stack",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "LRU Cache",
+      "titleSlug": "lru-cache",
+      "difficulty": "MEDIUM",
+      "frequency": 88.2,
+      "acceptanceRate": 0.4521484931675215,
+      "link": "https://leetcode.com/problems/lru-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Product of Three Numbers",
+      "titleSlug": "maximum-product-of-three-numbers",
+      "difficulty": "EASY",
+      "frequency": 88.2,
+      "acceptanceRate": 0.45311794031803265,
+      "link": "https://leetcode.com/problems/maximum-product-of-three-numbers",
+      "topics": [
+        "Array",
+        "Math",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Backspace String Compare",
+      "titleSlug": "backspace-string-compare",
+      "difficulty": "EASY",
+      "frequency": 88.2,
+      "acceptanceRate": 0.494817507336685,
+      "link": "https://leetcode.com/problems/backspace-string-compare",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Stack",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Multiply Strings",
+      "titleSlug": "multiply-strings",
+      "difficulty": "MEDIUM",
+      "frequency": 88.2,
+      "acceptanceRate": 0.42289515404693445,
+      "link": "https://leetcode.com/problems/multiply-strings",
+      "topics": [
+        "Math",
+        "String",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Decode String",
+      "titleSlug": "decode-string",
+      "difficulty": "MEDIUM",
+      "frequency": 88.2,
+      "acceptanceRate": 0.6115258855748797,
+      "link": "https://leetcode.com/problems/decode-string",
+      "topics": [
+        "String",
+        "Stack",
+        "Recursion"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Max Consecutive Ones III",
+      "titleSlug": "max-consecutive-ones-iii",
+      "difficulty": "MEDIUM",
+      "frequency": 87.5,
+      "acceptanceRate": 0.659395885149928,
+      "link": "https://leetcode.com/problems/max-consecutive-ones-iii",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Sliding Window",
+        "Prefix Sum"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Shortest Path to Get All Keys",
+      "titleSlug": "shortest-path-to-get-all-keys",
+      "difficulty": "HARD",
+      "frequency": 87.5,
+      "acceptanceRate": 0.537030042053839,
+      "link": "https://leetcode.com/problems/shortest-path-to-get-all-keys",
+      "topics": [
+        "Array",
+        "Bit Manipulation",
+        "Breadth-First Search",
+        "Matrix"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Top K Frequent Elements",
+      "titleSlug": "top-k-frequent-elements",
+      "difficulty": "MEDIUM",
+      "frequency": 87.5,
+      "acceptanceRate": 0.6456597639542642,
+      "link": "https://leetcode.com/problems/top-k-frequent-elements",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Divide and Conquer",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Bucket Sort",
+        "Counting",
+        "Quickselect"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Valid Parenthesis String",
+      "titleSlug": "valid-parenthesis-string",
+      "difficulty": "MEDIUM",
+      "frequency": 87.5,
+      "acceptanceRate": 0.3890943290154454,
+      "link": "https://leetcode.com/problems/valid-parenthesis-string",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Stack",
+        "Greedy"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "String",
+    "Array",
+    "Stack",
+    "Math",
+    "Simulation",
+    "Sliding Window",
+    "Hash Table",
+    "Two Pointers",
+    "Greedy",
+    "Heap (Priority Queue)",
+    "Sorting",
+    "Backtracking",
+    "Queue",
+    "Monotonic Queue",
+    "Linked List"
+  ]
+}

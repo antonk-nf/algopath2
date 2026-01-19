@@ -1,0 +1,116 @@
+{
+  "company": "Cloudera",
+  "stats": {
+    "totalProblems": 5,
+    "uniqueProblems": 5,
+    "avgFrequency": 85.95000000000002,
+    "avgAcceptanceRate": 0.6154457948186427,
+    "difficultyDistribution": {
+      "EASY": 6,
+      "MEDIUM": 4,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "titleSlug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5525969539323237,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Cheapest Flights Within K Stops",
+      "titleSlug": "cheapest-flights-within-k-stops",
+      "difficulty": "MEDIUM",
+      "frequency": 88.8,
+      "acceptanceRate": 0.40399012552401603,
+      "link": "https://leetcode.com/problems/cheapest-flights-within-k-stops",
+      "topics": [
+        "Dynamic Programming",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph",
+        "Heap (Priority Queue)",
+        "Shortest Path"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number Complement",
+      "titleSlug": "number-complement",
+      "difficulty": "EASY",
+      "frequency": 88.8,
+      "acceptanceRate": 0.7033055757403649,
+      "link": "https://leetcode.com/problems/number-complement",
+      "topics": [
+        "Bit Manipulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Complement of Base 10 Integer",
+      "titleSlug": "complement-of-base-10-integer",
+      "difficulty": "EASY",
+      "frequency": 88.8,
+      "acceptanceRate": 0.6070765922229309,
+      "link": "https://leetcode.com/problems/complement-of-base-10-integer",
+      "topics": [
+        "Bit Manipulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Lexicographically Smallest Equivalent String",
+      "titleSlug": "lexicographically-smallest-equivalent-string",
+      "difficulty": "MEDIUM",
+      "frequency": 88.8,
+      "acceptanceRate": 0.8102597266735775,
+      "link": "https://leetcode.com/problems/lexicographically-smallest-equivalent-string",
+      "topics": [
+        "String",
+        "Union Find"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Dynamic Programming",
+    "Bit Manipulation",
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph",
+    "Heap (Priority Queue)",
+    "Shortest Path",
+    "String",
+    "Union Find"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "company": "Wish",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 100.0,
+    "avgAcceptanceRate": 0.5065770022247513,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 6,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Monthly Transactions II",
+      "titleSlug": "monthly-transactions-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.41985775068266973,
+      "link": "https://leetcode.com/problems/monthly-transactions-ii",
+      "topics": [
+        "Database"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Monthly Transactions I",
+      "titleSlug": "monthly-transactions-i",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5830398874655107,
+      "link": "https://leetcode.com/problems/monthly-transactions-i",
+      "topics": [
+        "Database"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Rabbits in Forest",
+      "titleSlug": "rabbits-in-forest",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5826643792570448,
+      "link": "https://leetcode.com/problems/rabbits-in-forest",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Find Servers That Handled Most Number of Requests",
+      "titleSlug": "find-servers-that-handled-most-number-of-requests",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4407459914937801,
+      "link": "https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Heap (Priority Queue)",
+        "Ordered Set"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Database",
+    "Array",
+    "Greedy",
+    "Hash Table",
+    "Math",
+    "Heap (Priority Queue)",
+    "Ordered Set"
+  ]
+}

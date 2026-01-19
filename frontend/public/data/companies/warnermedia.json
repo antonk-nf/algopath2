@@ -1,0 +1,219 @@
+{
+  "company": "Warnermedia",
+  "stats": {
+    "totalProblems": 10,
+    "uniqueProblems": 10,
+    "avgFrequency": 83.26666666666668,
+    "avgAcceptanceRate": 0.5876084496733002,
+    "difficultyDistribution": {
+      "EASY": 7,
+      "MEDIUM": 10,
+      "HARD": 4,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Roman to Integer",
+      "titleSlug": "roman-to-integer",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6486643502043604,
+      "link": "https://leetcode.com/problems/roman-to-integer",
+      "topics": [
+        "Hash Table",
+        "Math",
+        "String"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Flatten Nested List Iterator",
+      "titleSlug": "flatten-nested-list-iterator",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6522845190469043,
+      "link": "https://leetcode.com/problems/flatten-nested-list-iterator",
+      "topics": [
+        "Stack",
+        "Tree",
+        "Depth-First Search",
+        "Design",
+        "Queue",
+        "Iterator"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Integer to English Words",
+      "titleSlug": "integer-to-english-words",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.34354994465581973,
+      "link": "https://leetcode.com/problems/integer-to-english-words",
+      "topics": [
+        "Math",
+        "String",
+        "Recursion"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Product of Array Except Self",
+      "titleSlug": "product-of-array-except-self",
+      "difficulty": "MEDIUM",
+      "frequency": 88.5,
+      "acceptanceRate": 0.677801331455583,
+      "link": "https://leetcode.com/problems/product-of-array-except-self",
+      "topics": [
+        "Array",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Merge k Sorted Lists",
+      "titleSlug": "merge-k-sorted-lists",
+      "difficulty": "HARD",
+      "frequency": 85.2,
+      "acceptanceRate": 0.5677433062641299,
+      "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+      "topics": [
+        "Linked List",
+        "Divide and Conquer",
+        "Heap (Priority Queue)",
+        "Merge Sort"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Game of Life",
+      "titleSlug": "game-of-life",
+      "difficulty": "MEDIUM",
+      "frequency": 81.4,
+      "acceptanceRate": 0.7141531791835338,
+      "link": "https://leetcode.com/problems/game-of-life",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Missing Number",
+      "titleSlug": "missing-number",
+      "difficulty": "EASY",
+      "frequency": 81.4,
+      "acceptanceRate": 0.7006536003915764,
+      "link": "https://leetcode.com/problems/missing-number",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Binary Search",
+        "Bit Manipulation",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Find the Index of the First Occurrence in a String",
+      "titleSlug": "find-the-index-of-the-first-occurrence-in-a-string",
+      "difficulty": "EASY",
+      "frequency": 81.4,
+      "acceptanceRate": 0.44971527053332333,
+      "link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "String Matching"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Accounts That Did Not Stream",
+      "titleSlug": "number-of-accounts-that-did-not-stream",
+      "difficulty": "MEDIUM",
+      "frequency": 61.9,
+      "acceptanceRate": 0.7202793200160265,
+      "link": "https://leetcode.com/problems/number-of-accounts-that-did-not-stream",
+      "topics": [
+        "Database"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "3Sum",
+      "titleSlug": "3sum",
+      "difficulty": "MEDIUM",
+      "frequency": 61.9,
+      "acceptanceRate": 0.3707117247162149,
+      "link": "https://leetcode.com/problems/3sum",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Math",
+    "String",
+    "Hash Table",
+    "Sorting",
+    "Two Pointers",
+    "Stack",
+    "Tree",
+    "Depth-First Search",
+    "Design",
+    "Queue",
+    "Iterator",
+    "Recursion",
+    "Prefix Sum",
+    "Linked List"
+  ]
+}

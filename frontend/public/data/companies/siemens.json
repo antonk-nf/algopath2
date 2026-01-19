@@ -1,0 +1,485 @@
+{
+  "company": "Siemens",
+  "stats": {
+    "totalProblems": 25,
+    "uniqueProblems": 25,
+    "avgFrequency": 76.05283018867925,
+    "avgAcceptanceRate": 0.5470771863122996,
+    "difficultyDistribution": {
+      "EASY": 21,
+      "MEDIUM": 23,
+      "HARD": 9,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Number of Islands",
+      "titleSlug": "number-of-islands",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6232010354262733,
+      "link": "https://leetcode.com/problems/number-of-islands",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union Find",
+        "Matrix"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "The Skyline Problem",
+      "titleSlug": "the-skyline-problem",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4396240927117757,
+      "link": "https://leetcode.com/problems/the-skyline-problem",
+      "topics": [
+        "Array",
+        "Divide and Conquer",
+        "Binary Indexed Tree",
+        "Segment Tree",
+        "Line Sweep",
+        "Heap (Priority Queue)",
+        "Ordered Set"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Minimum Add to Make Parentheses Valid",
+      "titleSlug": "minimum-add-to-make-parentheses-valid",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.746908249713867,
+      "link": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid",
+      "topics": [
+        "String",
+        "Stack",
+        "Greedy"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Valid Parentheses",
+      "titleSlug": "valid-parentheses",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4232289239118503,
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "topics": [
+        "String",
+        "Stack"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Merge Intervals",
+      "titleSlug": "merge-intervals",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4939526408318937,
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "topics": [
+        "Array",
+        "Sorting"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Reverse Linked List",
+      "titleSlug": "reverse-linked-list",
+      "difficulty": "EASY",
+      "frequency": 81.2,
+      "acceptanceRate": 0.7920661983013875,
+      "link": "https://leetcode.com/problems/reverse-linked-list",
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Letter Combinations of a Phone Number",
+      "titleSlug": "letter-combinations-of-a-phone-number",
+      "difficulty": "MEDIUM",
+      "frequency": 81.2,
+      "acceptanceRate": 0.638575832140434,
+      "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Backtracking"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "titleSlug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "EASY",
+      "frequency": 81.2,
+      "acceptanceRate": 0.5525965444349556,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "LFU Cache",
+      "titleSlug": "lfu-cache",
+      "difficulty": "HARD",
+      "frequency": 81.2,
+      "acceptanceRate": 0.466090667855411,
+      "link": "https://leetcode.com/problems/lfu-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Contains Duplicate",
+      "titleSlug": "contains-duplicate",
+      "difficulty": "EASY",
+      "frequency": 81.2,
+      "acceptanceRate": 0.6323641222984913,
+      "link": "https://leetcode.com/problems/contains-duplicate",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Merge Two Sorted Lists",
+      "titleSlug": "merge-two-sorted-lists",
+      "difficulty": "EASY",
+      "frequency": 81.2,
+      "acceptanceRate": 0.6684093351942102,
+      "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Rotate List",
+      "titleSlug": "rotate-list",
+      "difficulty": "MEDIUM",
+      "frequency": 70.3,
+      "acceptanceRate": 0.3994484659194171,
+      "link": "https://leetcode.com/problems/rotate-list",
+      "topics": [
+        "Linked List",
+        "Two Pointers"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Remove Duplicates from Sorted Array",
+      "titleSlug": "remove-duplicates-from-sorted-array",
+      "difficulty": "EASY",
+      "frequency": 70.3,
+      "acceptanceRate": 0.6035567835975525,
+      "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+      "topics": [
+        "Array",
+        "Two Pointers"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Seat Reservation Manager",
+      "titleSlug": "seat-reservation-manager",
+      "difficulty": "MEDIUM",
+      "frequency": 70.3,
+      "acceptanceRate": 0.6639500226519469,
+      "link": "https://leetcode.com/problems/seat-reservation-manager",
+      "topics": [
+        "Design",
+        "Heap (Priority Queue)"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Palindrome Linked List",
+      "titleSlug": "palindrome-linked-list",
+      "difficulty": "EASY",
+      "frequency": 70.3,
+      "acceptanceRate": 0.5585939012301956,
+      "link": "https://leetcode.com/problems/palindrome-linked-list",
+      "topics": [
+        "Linked List",
+        "Two Pointers",
+        "Stack",
+        "Recursion"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Valid Anagram",
+      "titleSlug": "valid-anagram",
+      "difficulty": "EASY",
+      "frequency": 70.3,
+      "acceptanceRate": 0.6666098386966278,
+      "link": "https://leetcode.com/problems/valid-anagram",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "difficulty": "EASY",
+      "frequency": 70.3,
+      "acceptanceRate": 0.5577700653216907,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Peaks in Array",
+      "titleSlug": "peaks-in-array",
+      "difficulty": "HARD",
+      "frequency": 70.3,
+      "acceptanceRate": 0.2578829389788294,
+      "link": "https://leetcode.com/problems/peaks-in-array",
+      "topics": [
+        "Array",
+        "Binary Indexed Tree",
+        "Segment Tree"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimized Maximum of Products Distributed to Any Store",
+      "titleSlug": "minimized-maximum-of-products-distributed-to-any-store",
+      "difficulty": "MEDIUM",
+      "frequency": 70.3,
+      "acceptanceRate": 0.6260591717059817,
+      "link": "https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "First Missing Positive",
+      "titleSlug": "first-missing-positive",
+      "difficulty": "HARD",
+      "frequency": 70.3,
+      "acceptanceRate": 0.4108466756573425,
+      "link": "https://leetcode.com/problems/first-missing-positive",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "3Sum",
+      "titleSlug": "3sum",
+      "difficulty": "MEDIUM",
+      "frequency": 70.3,
+      "acceptanceRate": 0.3707105222814817,
+      "link": "https://leetcode.com/problems/3sum",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Largest Number",
+      "titleSlug": "largest-number",
+      "difficulty": "MEDIUM",
+      "frequency": 70.3,
+      "acceptanceRate": 0.41280498079367123,
+      "link": "https://leetcode.com/problems/largest-number",
+      "topics": [
+        "Array",
+        "String",
+        "Greedy",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Product of Three Numbers",
+      "titleSlug": "maximum-product-of-three-numbers",
+      "difficulty": "EASY",
+      "frequency": 70.3,
+      "acceptanceRate": 0.45311733912014895,
+      "link": "https://leetcode.com/problems/maximum-product-of-three-numbers",
+      "topics": [
+        "Array",
+        "Math",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Group Anagrams",
+      "titleSlug": "group-anagrams",
+      "difficulty": "MEDIUM",
+      "frequency": 60.4,
+      "acceptanceRate": 0.7092889662302778,
+      "link": "https://leetcode.com/problems/group-anagrams",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Angle Between Hands of a Clock",
+      "titleSlug": "angle-between-hands-of-a-clock",
+      "difficulty": "MEDIUM",
+      "frequency": 60.4,
+      "acceptanceRate": 0.6421501908804211,
+      "link": "https://leetcode.com/problems/angle-between-hands-of-a-clock",
+      "topics": [
+        "Math"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Sorting",
+    "String",
+    "Hash Table",
+    "Linked List",
+    "Stack",
+    "Two Pointers",
+    "Greedy",
+    "Recursion",
+    "Binary Indexed Tree",
+    "Segment Tree",
+    "Heap (Priority Queue)",
+    "Design",
+    "Depth-First Search",
+    "Breadth-First Search"
+  ]
+}

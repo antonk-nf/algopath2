@@ -1,5 +1,7 @@
 import { apiClient } from './apiClient';
 import { cacheService, type CachedCompanyProblems } from './cacheService';
+import { staticDataService, type CompanyDetailData } from './staticDataService';
+import { filterProblems, paginateArray } from '../utils/clientFiltering';
 import type { CompanyData, ProblemData, CompanyStats } from '../types/company';
 
 interface CompanyProblemsOptions {
@@ -18,9 +20,33 @@ interface CompanyProblemsResult {
   nextOffset?: number | null;
 }
 
+// Check if running in static mode (no API server)
+const isStaticMode = (): boolean => {
+  // In production builds for GitHub Pages, always use static mode
+  if (import.meta.env.PROD && import.meta.env.BASE_URL !== '/') {
+    return true;
+  }
+  // Check for explicit static mode flag
+  return import.meta.env.VITE_STATIC_MODE === 'true';
+};
+
+// Cache for loaded company data in static mode
+const staticCompanyDataCache = new Map<string, CompanyDetailData>();
+
 export class CompanyService {
   // Get all company statistics
   async getCompanyStats(): Promise<CompanyData[]> {
+    // Use static data in static mode
+    if (isStaticMode()) {
+      try {
+        const stats = await staticDataService.loadCompanyStats();
+        cacheService.setCompanyStats(stats);
+        return stats;
+      } catch (error) {
+        console.warn('Failed to load static company stats, falling back to cache/mock:', error);
+      }
+    }
+
     // Try to get from cache first
     const cachedData = cacheService.getCompanyStats();
     if (cachedData && cachedData.length >= 100) {
@@ -286,6 +312,35 @@ export class CompanyService {
 
   // Get details for a specific company
   async getCompanyDetails(companyName: string): Promise<CompanyData> {
+    // Use static data in static mode
+    if (isStaticMode()) {
+      try {
+        const slug = this.toSlug(companyName);
+        let companyData = staticCompanyDataCache.get(slug);
+
+        if (!companyData) {
+          companyData = await staticDataService.loadCompanyData(slug);
+          staticCompanyDataCache.set(slug, companyData);
+        }
+
+        const result: CompanyData = {
+          company: companyData.company,
+          totalProblems: companyData.stats.totalProblems,
+          uniqueProblems: companyData.stats.uniqueProblems,
+          avgFrequency: companyData.stats.avgFrequency,
+          avgAcceptanceRate: companyData.stats.avgAcceptanceRate,
+          difficultyDistribution: companyData.stats.difficultyDistribution,
+          topTopics: companyData.topTopics,
+          timeframeCoverage: [],
+        };
+
+        cacheService.setCompanyDetail(companyName, result);
+        return result;
+      } catch (error) {
+        console.warn(`Failed to load static company details for ${companyName}:`, error);
+      }
+    }
+
     // Try to get from cache first
     const cachedData = cacheService.getCompanyDetail(companyName);
     if (cachedData) {
@@ -391,6 +446,11 @@ export class CompanyService {
     };
   }
 
+  // Convert company name to URL-safe slug
+  private toSlug(name: string): string {
+    return name.toLowerCase().trim().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+  }
+
   // Get problems for a specific company
   async getCompanyProblems(
     companyName: string,
@@ -398,6 +458,44 @@ export class CompanyService {
   ): Promise<CompanyProblemsResult> {
     const { limit = 25, offset = 0, topic = null, forceRemote = false } = options;
     const normalizedTopic = topic ? topic.trim() : null;
+
+    // Use static data in static mode
+    if (isStaticMode()) {
+      try {
+        const slug = this.toSlug(companyName);
+        let companyData = staticCompanyDataCache.get(slug);
+
+        if (!companyData) {
+          companyData = await staticDataService.loadCompanyData(slug);
+          staticCompanyDataCache.set(slug, companyData);
+        }
+
+        // Filter problems if topic is specified
+        let problems = companyData.problems.map(p => ({
+          ...p,
+          company: companyName
+        })) as ProblemData[];
+
+        if (normalizedTopic) {
+          problems = filterProblems(problems, { topic: normalizedTopic });
+        }
+
+        // Paginate
+        const page = Math.floor(offset / limit) + 1;
+        const paginated = paginateArray(problems, page, limit);
+
+        return {
+          problems: paginated.data,
+          total: paginated.total,
+          limit,
+          offset,
+          hasMore: paginated.hasNext,
+          nextOffset: paginated.hasNext ? offset + limit : null,
+        };
+      } catch (error) {
+        console.warn(`Failed to load static problems for ${companyName}:`, error);
+      }
+    }
 
     if (!forceRemote && offset === 0) {
       const cached = cacheService.getCompanyProblems(companyName, normalizedTopic || undefined);

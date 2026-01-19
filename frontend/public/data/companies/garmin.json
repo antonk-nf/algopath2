@@ -1,0 +1,129 @@
+{
+  "company": "Garmin",
+  "stats": {
+    "totalProblems": 6,
+    "uniqueProblems": 6,
+    "avgFrequency": 94.68333333333334,
+    "avgAcceptanceRate": 0.6421293173718995,
+    "difficultyDistribution": {
+      "EASY": 12,
+      "MEDIUM": 0,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5577709609989225,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "titleSlug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5525972417972461,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Cost of Buying Candies With Discount",
+      "titleSlug": "minimum-cost-of-buying-candies-with-discount",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6220026757229598,
+      "link": "https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Reverse String",
+      "titleSlug": "reverse-string",
+      "difficulty": "EASY",
+      "frequency": 89.7,
+      "acceptanceRate": 0.7976434229275776,
+      "link": "https://leetcode.com/problems/reverse-string",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Delete Columns to Make Sorted",
+      "titleSlug": "delete-columns-to-make-sorted",
+      "difficulty": "EASY",
+      "frequency": 89.7,
+      "acceptanceRate": 0.7477537485791238,
+      "link": "https://leetcode.com/problems/delete-columns-to-make-sorted",
+      "topics": [
+        "Array",
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Palindrome Number",
+      "titleSlug": "palindrome-number",
+      "difficulty": "EASY",
+      "frequency": 89.2,
+      "acceptanceRate": 0.5922447149521741,
+      "link": "https://leetcode.com/problems/palindrome-number",
+      "topics": [
+        "Math"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "String",
+    "Hash Table",
+    "Dynamic Programming",
+    "Greedy",
+    "Sorting",
+    "Two Pointers",
+    "Math"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "company": "Tanium",
+  "stats": {
+    "totalProblems": 1,
+    "uniqueProblems": 1,
+    "avgFrequency": 100.0,
+    "avgAcceptanceRate": 0.660406355948716,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 3,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Jump Game III",
+      "titleSlug": "jump-game-iii",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.660406355948716,
+      "link": "https://leetcode.com/problems/jump-game-iii",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search"
+  ]
+}

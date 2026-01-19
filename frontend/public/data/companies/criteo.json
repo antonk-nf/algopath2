@@ -1,0 +1,180 @@
+{
+  "company": "Criteo",
+  "stats": {
+    "totalProblems": 8,
+    "uniqueProblems": 8,
+    "avgFrequency": 85.9,
+    "avgAcceptanceRate": 0.584169364772317,
+    "difficultyDistribution": {
+      "EASY": 13,
+      "MEDIUM": 4,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Intersection of Two Arrays",
+      "titleSlug": "intersection-of-two-arrays",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.7647454128954905,
+      "link": "https://leetcode.com/problems/intersection-of-two-arrays",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Two Pointers",
+        "Binary Search",
+        "Sorting"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Flood Fill",
+      "titleSlug": "flood-fill",
+      "difficulty": "EASY",
+      "frequency": 89.6,
+      "acceptanceRate": 0.6647648139762219,
+      "link": "https://leetcode.com/problems/flood-fill",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Valid Parentheses",
+      "titleSlug": "valid-parentheses",
+      "difficulty": "EASY",
+      "frequency": 89.6,
+      "acceptanceRate": 0.42322916304897296,
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "topics": [
+        "String",
+        "Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Merge Sorted Array",
+      "titleSlug": "merge-sorted-array",
+      "difficulty": "EASY",
+      "frequency": 89.6,
+      "acceptanceRate": 0.5291971085249642,
+      "link": "https://leetcode.com/problems/merge-sorted-array",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Random Pick with Weight",
+      "titleSlug": "random-pick-with-weight",
+      "difficulty": "MEDIUM",
+      "frequency": 84.3,
+      "acceptanceRate": 0.4827866554527615,
+      "link": "https://leetcode.com/problems/random-pick-with-weight",
+      "topics": [
+        "Array",
+        "Math",
+        "Binary Search",
+        "Prefix Sum",
+        "Randomized"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "difficulty": "EASY",
+      "frequency": 84.3,
+      "acceptanceRate": 0.5577710977790179,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Ransom Note",
+      "titleSlug": "ransom-note",
+      "difficulty": "EASY",
+      "frequency": 72.2,
+      "acceptanceRate": 0.6452386002541316,
+      "link": "https://leetcode.com/problems/ransom-note",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Search in Rotated Sorted Array",
+      "titleSlug": "search-in-rotated-sorted-array",
+      "difficulty": "MEDIUM",
+      "frequency": 72.2,
+      "acceptanceRate": 0.42837456271701685,
+      "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Binary Search",
+    "Hash Table",
+    "Two Pointers",
+    "Sorting",
+    "Math",
+    "Prefix Sum",
+    "Randomized",
+    "String",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Matrix",
+    "Stack",
+    "Counting"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "company": "Amadeus",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 81.4125,
+    "avgAcceptanceRate": 0.6135738272711986,
+    "difficultyDistribution": {
+      "EASY": 4,
+      "MEDIUM": 4,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Watering Plants",
+      "titleSlug": "watering-plants",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.7995625398726679,
+      "link": "https://leetcode.com/problems/watering-plants",
+      "topics": [
+        "Array",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "difficulty": "EASY",
+      "frequency": 80.5,
+      "acceptanceRate": 0.5578040661125258,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Water Bottles",
+      "titleSlug": "water-bottles",
+      "difficulty": "EASY",
+      "frequency": 71.1,
+      "acceptanceRate": 0.7064889679772526,
+      "link": "https://leetcode.com/problems/water-bottles",
+      "topics": [
+        "Math",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Time to Complete Trips",
+      "titleSlug": "minimum-time-to-complete-trips",
+      "difficulty": "MEDIUM",
+      "frequency": 71.1,
+      "acceptanceRate": 0.3904397351223481,
+      "link": "https://leetcode.com/problems/minimum-time-to-complete-trips",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Simulation",
+    "Hash Table",
+    "Math",
+    "Binary Search"
+  ]
+}

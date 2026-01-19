@@ -1,0 +1,102 @@
+{
+  "company": "Yext",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 92.9857142857143,
+    "avgAcceptanceRate": 0.4873979264709844,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 3,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Design Tic-Tac-Toe",
+      "titleSlug": "design-tic-tac-toe",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5860208488519292,
+      "link": "https://leetcode.com/problems/design-tic-tac-toe",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Design",
+        "Matrix",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Excel Sheet Column Title",
+      "titleSlug": "excel-sheet-column-title",
+      "difficulty": "EASY",
+      "frequency": 90.3,
+      "acceptanceRate": 0.43570576633851,
+      "link": "https://leetcode.com/problems/excel-sheet-column-title",
+      "topics": [
+        "Math",
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Integer to English Words",
+      "titleSlug": "integer-to-english-words",
+      "difficulty": "HARD",
+      "frequency": 90.3,
+      "acceptanceRate": 0.34355110873263656,
+      "link": "https://leetcode.com/problems/integer-to-english-words",
+      "topics": [
+        "Math",
+        "String",
+        "Recursion"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minesweeper",
+      "titleSlug": "minesweeper",
+      "difficulty": "MEDIUM",
+      "frequency": 90.1,
+      "acceptanceRate": 0.6812300374507394,
+      "link": "https://leetcode.com/problems/minesweeper",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Matrix"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Math",
+    "String",
+    "Array",
+    "Matrix",
+    "Hash Table",
+    "Design",
+    "Simulation",
+    "Recursion",
+    "Depth-First Search",
+    "Breadth-First Search"
+  ]
+}

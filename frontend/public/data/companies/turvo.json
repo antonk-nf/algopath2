@@ -1,0 +1,79 @@
+{
+  "company": "Turvo",
+  "stats": {
+    "totalProblems": 3,
+    "uniqueProblems": 3,
+    "avgFrequency": 94.5,
+    "avgAcceptanceRate": 0.7008400960291427,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 0,
+      "HARD": 4,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Count Good Triplets",
+      "titleSlug": "count-good-triplets",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.8548398546656082,
+      "link": "https://leetcode.com/problems/count-good-triplets",
+      "topics": [
+        "Array",
+        "Enumeration"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Difficulty of a Job Schedule",
+      "titleSlug": "minimum-difficulty-of-a-job-schedule",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5965934207360405,
+      "link": "https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Trapping Rain Water",
+      "titleSlug": "trapping-rain-water",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6510870126857792,
+      "link": "https://leetcode.com/problems/trapping-rain-water",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Dynamic Programming",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Dynamic Programming",
+    "Enumeration",
+    "Two Pointers",
+    "Stack",
+    "Monotonic Stack"
+  ]
+}

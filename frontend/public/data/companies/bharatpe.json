@@ -1,0 +1,62 @@
+{
+  "company": "BharatPe",
+  "stats": {
+    "totalProblems": 2,
+    "uniqueProblems": 2,
+    "avgFrequency": 96.69999999999999,
+    "avgAcceptanceRate": 0.5112031754747245,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 4,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Maximal Square",
+      "titleSlug": "maximal-square",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.48764197041536506,
+      "link": "https://leetcode.com/problems/maximal-square",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Car Fleet",
+      "titleSlug": "car-fleet",
+      "difficulty": "MEDIUM",
+      "frequency": 93.4,
+      "acceptanceRate": 0.5347643805340839,
+      "link": "https://leetcode.com/problems/car-fleet",
+      "topics": [
+        "Array",
+        "Stack",
+        "Sorting",
+        "Monotonic Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix",
+    "Stack",
+    "Sorting",
+    "Monotonic Stack"
+  ]
+}

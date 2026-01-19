@@ -1,0 +1,674 @@
+{
+  "company": "Databricks",
+  "stats": {
+    "totalProblems": 34,
+    "uniqueProblems": 34,
+    "avgFrequency": 59.663855421686755,
+    "avgAcceptanceRate": 0.5148506235397796,
+    "difficultyDistribution": {
+      "EASY": 3,
+      "MEDIUM": 63,
+      "HARD": 17,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Design Hit Counter",
+      "titleSlug": "design-hit-counter",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6920824458148753,
+      "link": "https://leetcode.com/problems/design-hit-counter",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Design",
+        "Queue",
+        "Data Stream"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "IP to CIDR",
+      "titleSlug": "ip-to-cidr",
+      "difficulty": "MEDIUM",
+      "frequency": 96.8,
+      "acceptanceRate": 0.5492354970683057,
+      "link": "https://leetcode.com/problems/ip-to-cidr",
+      "topics": [
+        "String",
+        "Bit Manipulation"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "30d",
+        "3m"
+      ]
+    },
+    {
+      "title": "Design Tic-Tac-Toe",
+      "titleSlug": "design-tic-tac-toe",
+      "difficulty": "MEDIUM",
+      "frequency": 85.6,
+      "acceptanceRate": 0.5860156512359185,
+      "link": "https://leetcode.com/problems/design-tic-tac-toe",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Design",
+        "Matrix",
+        "Simulation"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "House Robber II",
+      "titleSlug": "house-robber-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 82.4,
+      "acceptanceRate": 0.43562717574783655,
+      "link": "https://leetcode.com/problems/house-robber-ii",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "House Robber",
+      "titleSlug": "house-robber",
+      "difficulty": "MEDIUM",
+      "frequency": 82.4,
+      "acceptanceRate": 0.5230498170963667,
+      "link": "https://leetcode.com/problems/house-robber",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Snapshot Array",
+      "titleSlug": "snapshot-array",
+      "difficulty": "MEDIUM",
+      "frequency": 82.4,
+      "acceptanceRate": 0.36665375389245647,
+      "link": "https://leetcode.com/problems/snapshot-array",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Binary Search",
+        "Design"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Time Based Key-Value Store",
+      "titleSlug": "time-based-key-value-store",
+      "difficulty": "MEDIUM",
+      "frequency": 73.1,
+      "acceptanceRate": 0.49366262559843777,
+      "link": "https://leetcode.com/problems/time-based-key-value-store",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Binary Search",
+        "Design"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Step-By-Step Directions From a Binary Tree Node to Another",
+      "titleSlug": "step-by-step-directions-from-a-binary-tree-node-to-another",
+      "difficulty": "MEDIUM",
+      "frequency": 68.0,
+      "acceptanceRate": 0.5630838477366256,
+      "link": "https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another",
+      "topics": [
+        "String",
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Smallest Range Covering Elements from K Lists",
+      "titleSlug": "smallest-range-covering-elements-from-k-lists",
+      "difficulty": "HARD",
+      "frequency": 64.5,
+      "acceptanceRate": 0.6974692747987687,
+      "link": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Greedy",
+        "Sliding Window",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Absolute Difference Between Elements With Constraint",
+      "titleSlug": "minimum-absolute-difference-between-elements-with-constraint",
+      "difficulty": "MEDIUM",
+      "frequency": 64.5,
+      "acceptanceRate": 0.3406636948984646,
+      "link": "https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Ordered Set"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Split Message Based on Limit",
+      "titleSlug": "split-message-based-on-limit",
+      "difficulty": "HARD",
+      "frequency": 61.5,
+      "acceptanceRate": 0.4261603375527427,
+      "link": "https://leetcode.com/problems/split-message-based-on-limit",
+      "topics": [
+        "String",
+        "Binary Search",
+        "Enumeration"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Recent Calls",
+      "titleSlug": "number-of-recent-calls",
+      "difficulty": "EASY",
+      "frequency": 59.6,
+      "acceptanceRate": 0.7732793446019116,
+      "link": "https://leetcode.com/problems/number-of-recent-calls",
+      "topics": [
+        "Design",
+        "Queue",
+        "Data Stream"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Web Crawler Multithreaded",
+      "titleSlug": "web-crawler-multithreaded",
+      "difficulty": "MEDIUM",
+      "frequency": 58.1,
+      "acceptanceRate": 0.5009673573880699,
+      "link": "https://leetcode.com/problems/web-crawler-multithreaded",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Concurrency"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Text Justification",
+      "titleSlug": "text-justification",
+      "difficulty": "HARD",
+      "frequency": 58.1,
+      "acceptanceRate": 0.48149935664104093,
+      "link": "https://leetcode.com/problems/text-justification",
+      "topics": [
+        "Array",
+        "String",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Flowers in Full Bloom",
+      "titleSlug": "number-of-flowers-in-full-bloom",
+      "difficulty": "HARD",
+      "frequency": 58.1,
+      "acceptanceRate": 0.5717535511066795,
+      "link": "https://leetcode.com/problems/number-of-flowers-in-full-bloom",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Binary Search",
+        "Sorting",
+        "Prefix Sum",
+        "Ordered Set"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Count Integers in Intervals",
+      "titleSlug": "count-integers-in-intervals",
+      "difficulty": "HARD",
+      "frequency": 48.4,
+      "acceptanceRate": 0.34161250608411836,
+      "link": "https://leetcode.com/problems/count-integers-in-intervals",
+      "topics": [
+        "Design",
+        "Segment Tree",
+        "Ordered Set"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Mountain in Array",
+      "titleSlug": "longest-mountain-in-array",
+      "difficulty": "MEDIUM",
+      "frequency": 48.4,
+      "acceptanceRate": 0.4107832017720806,
+      "link": "https://leetcode.com/problems/longest-mountain-in-array",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Dynamic Programming",
+        "Enumeration"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Second Degree Follower",
+      "titleSlug": "second-degree-follower",
+      "difficulty": "MEDIUM",
+      "frequency": 48.4,
+      "acceptanceRate": 0.3999676139583839,
+      "link": "https://leetcode.com/problems/second-degree-follower",
+      "topics": [
+        "Database"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Merge Intervals",
+      "titleSlug": "merge-intervals",
+      "difficulty": "MEDIUM",
+      "frequency": 40.7,
+      "acceptanceRate": 0.4939523849309626,
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "topics": [
+        "Array",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Spiral Matrix",
+      "titleSlug": "spiral-matrix",
+      "difficulty": "MEDIUM",
+      "frequency": 40.7,
+      "acceptanceRate": 0.539397306376751,
+      "link": "https://leetcode.com/problems/spiral-matrix",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Find All Anagrams in a String",
+      "titleSlug": "find-all-anagrams-in-a-string",
+      "difficulty": "MEDIUM",
+      "frequency": 40.7,
+      "acceptanceRate": 0.5220071349201708,
+      "link": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Finding Pairs With a Certain Sum",
+      "titleSlug": "finding-pairs-with-a-certain-sum",
+      "difficulty": "MEDIUM",
+      "frequency": 40.7,
+      "acceptanceRate": 0.491882680060992,
+      "link": "https://leetcode.com/problems/finding-pairs-with-a-certain-sum",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Design"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Find the Length of the Longest Common Prefix",
+      "titleSlug": "find-the-length-of-the-longest-common-prefix",
+      "difficulty": "MEDIUM",
+      "frequency": 40.7,
+      "acceptanceRate": 0.564161205458434,
+      "link": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Trie"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+      "titleSlug": "longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+      "difficulty": "MEDIUM",
+      "frequency": 40.7,
+      "acceptanceRate": 0.5675053393759442,
+      "link": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+      "topics": [
+        "Array",
+        "Queue",
+        "Sliding Window",
+        "Heap (Priority Queue)",
+        "Ordered Set",
+        "Monotonic Queue"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Data Stream as Disjoint Intervals",
+      "titleSlug": "data-stream-as-disjoint-intervals",
+      "difficulty": "HARD",
+      "frequency": 40.7,
+      "acceptanceRate": 0.5950108773030263,
+      "link": "https://leetcode.com/problems/data-stream-as-disjoint-intervals",
+      "topics": [
+        "Binary Search",
+        "Design",
+        "Ordered Set"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Find Peak Element",
+      "titleSlug": "find-peak-element",
+      "difficulty": "MEDIUM",
+      "frequency": 40.7,
+      "acceptanceRate": 0.4650921984332019,
+      "link": "https://leetcode.com/problems/find-peak-element",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Closest Leaf in a Binary Tree",
+      "titleSlug": "closest-leaf-in-a-binary-tree",
+      "difficulty": "MEDIUM",
+      "frequency": 40.7,
+      "acceptanceRate": 0.4704793196402153,
+      "link": "https://leetcode.com/problems/closest-leaf-in-a-binary-tree",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Palindrome by Concatenating Two Letter Words",
+      "titleSlug": "longest-palindrome-by-concatenating-two-letter-words",
+      "difficulty": "MEDIUM",
+      "frequency": 40.7,
+      "acceptanceRate": 0.5370286650749474,
+      "link": "https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Greedy",
+        "Counting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "First Missing Positive",
+      "titleSlug": "first-missing-positive",
+      "difficulty": "HARD",
+      "frequency": 40.7,
+      "acceptanceRate": 0.4108465766394882,
+      "link": "https://leetcode.com/problems/first-missing-positive",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Profit in Job Scheduling",
+      "titleSlug": "maximum-profit-in-job-scheduling",
+      "difficulty": "HARD",
+      "frequency": 40.7,
+      "acceptanceRate": 0.5441718927003354,
+      "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Dynamic Programming",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Course Schedule II",
+      "titleSlug": "course-schedule-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 40.7,
+      "acceptanceRate": 0.5342350029047974,
+      "link": "https://leetcode.com/problems/course-schedule-ii",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph",
+        "Topological Sort"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Design A Leaderboard",
+      "titleSlug": "design-a-leaderboard",
+      "difficulty": "MEDIUM",
+      "frequency": 40.7,
+      "acceptanceRate": 0.6796315583908346,
+      "link": "https://leetcode.com/problems/design-a-leaderboard",
+      "topics": [
+        "Hash Table",
+        "Design",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "String to Integer (atoi)",
+      "titleSlug": "string-to-integer-atoi",
+      "difficulty": "MEDIUM",
+      "frequency": 40.7,
+      "acceptanceRate": 0.19229417945480093,
+      "link": "https://leetcode.com/problems/string-to-integer-atoi",
+      "topics": [
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Shortest Path in a Grid with Obstacles Elimination",
+      "titleSlug": "shortest-path-in-a-grid-with-obstacles-elimination",
+      "difficulty": "HARD",
+      "frequency": 37.2,
+      "acceptanceRate": 0.4560618572179266,
+      "link": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination",
+      "topics": [
+        "Array",
+        "Breadth-First Search",
+        "Matrix"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Hash Table",
+    "Design",
+    "String",
+    "Binary Search",
+    "Dynamic Programming",
+    "Depth-First Search",
+    "Sorting",
+    "Ordered Set",
+    "Queue",
+    "Simulation",
+    "Data Stream",
+    "Matrix",
+    "Breadth-First Search",
+    "Tree"
+  ]
+}

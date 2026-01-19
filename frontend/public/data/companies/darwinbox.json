@@ -1,0 +1,120 @@
+{
+  "company": "Darwinbox",
+  "stats": {
+    "totalProblems": 5,
+    "uniqueProblems": 5,
+    "avgFrequency": 69.64,
+    "avgAcceptanceRate": 0.4643467265097817,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 6,
+      "HARD": 4,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Scramble String",
+      "titleSlug": "scramble-string",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4218411591949826,
+      "link": "https://leetcode.com/problems/scramble-string",
+      "topics": [
+        "String",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Spiral Matrix",
+      "titleSlug": "spiral-matrix",
+      "difficulty": "MEDIUM",
+      "frequency": 72.4,
+      "acceptanceRate": 0.5394614021320111,
+      "link": "https://leetcode.com/problems/spiral-matrix",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Size Subarray Sum",
+      "titleSlug": "minimum-size-subarray-sum",
+      "difficulty": "MEDIUM",
+      "frequency": 59.1,
+      "acceptanceRate": 0.4939438522342745,
+      "link": "https://leetcode.com/problems/minimum-size-subarray-sum",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Sliding Window",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Majority Element II",
+      "titleSlug": "majority-element-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 59.1,
+      "acceptanceRate": 0.5438470001948768,
+      "link": "https://leetcode.com/problems/majority-element-ii",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting",
+        "Counting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Great Partitions",
+      "titleSlug": "number-of-great-partitions",
+      "difficulty": "HARD",
+      "frequency": 59.1,
+      "acceptanceRate": 0.3226402936149945,
+      "link": "https://leetcode.com/problems/number-of-great-partitions",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Dynamic Programming",
+    "String",
+    "Matrix",
+    "Simulation",
+    "Binary Search",
+    "Sliding Window",
+    "Prefix Sum",
+    "Hash Table",
+    "Sorting",
+    "Counting"
+  ]
+}

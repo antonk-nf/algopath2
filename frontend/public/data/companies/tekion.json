@@ -1,0 +1,400 @@
+{
+  "company": "Tekion",
+  "stats": {
+    "totalProblems": 20,
+    "uniqueProblems": 20,
+    "avgFrequency": 78.7923076923077,
+    "avgAcceptanceRate": 0.5252917163833525,
+    "difficultyDistribution": {
+      "EASY": 7,
+      "MEDIUM": 21,
+      "HARD": 11,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Split Array Largest Sum",
+      "titleSlug": "split-array-largest-sum",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5809965654277032,
+      "link": "https://leetcode.com/problems/split-array-largest-sum",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Dynamic Programming",
+        "Greedy",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5577702651795842,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Subarray",
+      "titleSlug": "maximum-subarray",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5209985598690413,
+      "link": "https://leetcode.com/problems/maximum-subarray",
+      "topics": [
+        "Array",
+        "Divide and Conquer",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Trapping Rain Water",
+      "titleSlug": "trapping-rain-water",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6510210425279727,
+      "link": "https://leetcode.com/problems/trapping-rain-water",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Dynamic Programming",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Most Stones Removed with Same Row or Column",
+      "titleSlug": "most-stones-removed-with-same-row-or-column",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6218989759471679,
+      "link": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column",
+      "topics": [
+        "Hash Table",
+        "Depth-First Search",
+        "Union Find",
+        "Graph"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "titleSlug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "EASY",
+      "frequency": 88.0,
+      "acceptanceRate": 0.5525967581165647,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Product of Array Except Self",
+      "titleSlug": "product-of-array-except-self",
+      "difficulty": "MEDIUM",
+      "frequency": 88.0,
+      "acceptanceRate": 0.6778006914594543,
+      "link": "https://leetcode.com/problems/product-of-array-except-self",
+      "topics": [
+        "Array",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Cousins in Binary Tree",
+      "titleSlug": "cousins-in-binary-tree",
+      "difficulty": "EASY",
+      "frequency": 88.0,
+      "acceptanceRate": 0.5817380089487071,
+      "link": "https://leetcode.com/problems/cousins-in-binary-tree",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Count the Number of Infection Sequences",
+      "titleSlug": "count-the-number-of-infection-sequences",
+      "difficulty": "HARD",
+      "frequency": 88.0,
+      "acceptanceRate": 0.33387795114778207,
+      "link": "https://leetcode.com/problems/count-the-number-of-infection-sequences",
+      "topics": [
+        "Array",
+        "Math",
+        "Combinatorics"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Spiral Matrix",
+      "titleSlug": "spiral-matrix",
+      "difficulty": "MEDIUM",
+      "frequency": 88.0,
+      "acceptanceRate": 0.539398836789508,
+      "link": "https://leetcode.com/problems/spiral-matrix",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Ways to Split Array Into Three Subarrays",
+      "titleSlug": "ways-to-split-array-into-three-subarrays",
+      "difficulty": "MEDIUM",
+      "frequency": 87.9,
+      "acceptanceRate": 0.3344652559336574,
+      "link": "https://leetcode.com/problems/ways-to-split-array-into-three-subarrays",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Meeting Rooms II",
+      "titleSlug": "meeting-rooms-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 87.9,
+      "acceptanceRate": 0.5214172217778257,
+      "link": "https://leetcode.com/problems/meeting-rooms-ii",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Product of the Last K Numbers",
+      "titleSlug": "product-of-the-last-k-numbers",
+      "difficulty": "MEDIUM",
+      "frequency": 87.9,
+      "acceptanceRate": 0.6274634247482844,
+      "link": "https://leetcode.com/problems/product-of-the-last-k-numbers",
+      "topics": [
+        "Array",
+        "Math",
+        "Design",
+        "Data Stream",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Word Ladder",
+      "titleSlug": "word-ladder",
+      "difficulty": "HARD",
+      "frequency": 87.9,
+      "acceptanceRate": 0.42812064281842477,
+      "link": "https://leetcode.com/problems/word-ladder",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Breadth-First Search"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "titleSlug": "find-first-and-last-position-of-element-in-sorted-array",
+      "difficulty": "MEDIUM",
+      "frequency": 61.6,
+      "acceptanceRate": 0.46828866310912803,
+      "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock III",
+      "titleSlug": "best-time-to-buy-and-sell-stock-iii",
+      "difficulty": "HARD",
+      "frequency": 61.6,
+      "acceptanceRate": 0.5112109216533897,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Find Peak Element",
+      "titleSlug": "find-peak-element",
+      "difficulty": "MEDIUM",
+      "frequency": 61.6,
+      "acceptanceRate": 0.4650920934902725,
+      "link": "https://leetcode.com/problems/find-peak-element",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Jump Game",
+      "titleSlug": "jump-game",
+      "difficulty": "MEDIUM",
+      "frequency": 61.6,
+      "acceptanceRate": 0.39479188803908405,
+      "link": "https://leetcode.com/problems/jump-game",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Is Subsequence",
+      "titleSlug": "is-subsequence",
+      "difficulty": "EASY",
+      "frequency": 61.6,
+      "acceptanceRate": 0.4838256140732861,
+      "link": "https://leetcode.com/problems/is-subsequence",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Valid Parenthesis String",
+      "titleSlug": "valid-parenthesis-string",
+      "difficulty": "MEDIUM",
+      "frequency": 61.6,
+      "acceptanceRate": 0.3890945086955712,
+      "link": "https://leetcode.com/problems/valid-parenthesis-string",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Stack",
+        "Greedy"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Dynamic Programming",
+    "Prefix Sum",
+    "Two Pointers",
+    "Binary Search",
+    "Greedy",
+    "Hash Table",
+    "Math",
+    "Stack",
+    "String",
+    "Breadth-First Search",
+    "Depth-First Search",
+    "Divide and Conquer",
+    "Monotonic Stack",
+    "Design"
+  ]
+}

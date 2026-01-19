@@ -1,0 +1,91 @@
+{
+  "company": "Valve",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 87.625,
+    "avgAcceptanceRate": 0.5485916873157236,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 6,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "String to Integer (atoi)",
+      "titleSlug": "string-to-integer-atoi",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.19229490109096387,
+      "link": "https://leetcode.com/problems/string-to-integer-atoi",
+      "topics": [
+        "String"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Dota2 Senate",
+      "titleSlug": "dota2-senate",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4890672536522696,
+      "link": "https://leetcode.com/problems/dota2-senate",
+      "topics": [
+        "String",
+        "Greedy",
+        "Queue"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Deep Merge of Two Objects",
+      "titleSlug": "deep-merge-of-two-objects",
+      "difficulty": "MEDIUM",
+      "frequency": 90.3,
+      "acceptanceRate": 0.6422558922558923,
+      "link": "https://leetcode.com/problems/deep-merge-of-two-objects",
+      "topics": [],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Design Parking System",
+      "titleSlug": "design-parking-system",
+      "difficulty": "EASY",
+      "frequency": 90.3,
+      "acceptanceRate": 0.8707487022637689,
+      "link": "https://leetcode.com/problems/design-parking-system",
+      "topics": [
+        "Design",
+        "Simulation",
+        "Counting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "String",
+    "Greedy",
+    "Queue",
+    "Design",
+    "Simulation",
+    "Counting"
+  ]
+}

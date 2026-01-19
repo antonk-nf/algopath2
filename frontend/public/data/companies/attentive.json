@@ -1,0 +1,200 @@
+{
+  "company": "Attentive",
+  "stats": {
+    "totalProblems": 9,
+    "uniqueProblems": 9,
+    "avgFrequency": 78.94736842105263,
+    "avgAcceptanceRate": 0.5321079028447199,
+    "difficultyDistribution": {
+      "EASY": 4,
+      "MEDIUM": 9,
+      "HARD": 6,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Remove All Adjacent Duplicates in String II",
+      "titleSlug": "remove-all-adjacent-duplicates-in-string-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5960309289922421,
+      "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
+      "topics": [
+        "String",
+        "Stack"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Valid Palindrome II",
+      "titleSlug": "valid-palindrome-ii",
+      "difficulty": "EASY",
+      "frequency": 94.9,
+      "acceptanceRate": 0.43029597709633366,
+      "link": "https://leetcode.com/problems/valid-palindrome-ii",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Parse Lisp Expression",
+      "titleSlug": "parse-lisp-expression",
+      "difficulty": "HARD",
+      "frequency": 92.2,
+      "acceptanceRate": 0.527591606639524,
+      "link": "https://leetcode.com/problems/parse-lisp-expression",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Stack",
+        "Recursion"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Valid Sudoku",
+      "titleSlug": "valid-sudoku",
+      "difficulty": "MEDIUM",
+      "frequency": 78.9,
+      "acceptanceRate": 0.6227980977396423,
+      "link": "https://leetcode.com/problems/valid-sudoku",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Integer to English Words",
+      "titleSlug": "integer-to-english-words",
+      "difficulty": "HARD",
+      "frequency": 78.9,
+      "acceptanceRate": 0.3436121765501456,
+      "link": "https://leetcode.com/problems/integer-to-english-words",
+      "topics": [
+        "Math",
+        "String",
+        "Recursion"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Find Pivot Index",
+      "titleSlug": "find-pivot-index",
+      "difficulty": "EASY",
+      "frequency": 69.2,
+      "acceptanceRate": 0.6057248574720265,
+      "link": "https://leetcode.com/problems/find-pivot-index",
+      "topics": [
+        "Array",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Evaluate Reverse Polish Notation",
+      "titleSlug": "evaluate-reverse-polish-notation",
+      "difficulty": "MEDIUM",
+      "frequency": 56.2,
+      "acceptanceRate": 0.5495718467728048,
+      "link": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+      "topics": [
+        "Array",
+        "Math",
+        "Stack"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Top K Frequent Words",
+      "titleSlug": "top-k-frequent-words",
+      "difficulty": "MEDIUM",
+      "frequency": 56.2,
+      "acceptanceRate": 0.592789021170677,
+      "link": "https://leetcode.com/problems/top-k-frequent-words",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Trie",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Bucket Sort",
+        "Counting"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "titleSlug": "find-first-and-last-position-of-element-in-sorted-array",
+      "difficulty": "MEDIUM",
+      "frequency": 56.2,
+      "acceptanceRate": 0.46833692586283493,
+      "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "String",
+    "Stack",
+    "Hash Table",
+    "Array",
+    "Recursion",
+    "Math",
+    "Prefix Sum",
+    "Two Pointers",
+    "Greedy",
+    "Matrix",
+    "Trie",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Bucket Sort",
+    "Counting"
+  ]
+}

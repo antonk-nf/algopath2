@@ -1,0 +1,189 @@
+{
+  "company": "Shopify",
+  "stats": {
+    "totalProblems": 8,
+    "uniqueProblems": 8,
+    "avgFrequency": 74.34285714285713,
+    "avgAcceptanceRate": 0.5493842763048219,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 15,
+      "HARD": 4,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Walking Robot Simulation",
+      "titleSlug": "walking-robot-simulation",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5823045930701047,
+      "link": "https://leetcode.com/problems/walking-robot-simulation",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Simulation"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Design In-Memory File System",
+      "titleSlug": "design-in-memory-file-system",
+      "difficulty": "HARD",
+      "frequency": 74.3,
+      "acceptanceRate": 0.4816948941663167,
+      "link": "https://leetcode.com/problems/design-in-memory-file-system",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Design",
+        "Trie",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "LRU Cache",
+      "titleSlug": "lru-cache",
+      "difficulty": "MEDIUM",
+      "frequency": 70.8,
+      "acceptanceRate": 0.4521475035659106,
+      "link": "https://leetcode.com/problems/lru-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "30d",
+        "3m"
+      ]
+    },
+    {
+      "title": "Design a Text Editor",
+      "titleSlug": "design-a-text-editor",
+      "difficulty": "HARD",
+      "frequency": 65.6,
+      "acceptanceRate": 0.47138071447136626,
+      "link": "https://leetcode.com/problems/design-a-text-editor",
+      "topics": [
+        "Linked List",
+        "String",
+        "Stack",
+        "Design",
+        "Simulation",
+        "Doubly-Linked List"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Find Users With Valid E-Mails",
+      "titleSlug": "find-users-with-valid-e-mails",
+      "difficulty": "EASY",
+      "frequency": 65.6,
+      "acceptanceRate": 0.44116255942563304,
+      "link": "https://leetcode.com/problems/find-users-with-valid-e-mails",
+      "topics": [
+        "Database"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Design Tic-Tac-Toe",
+      "titleSlug": "design-tic-tac-toe",
+      "difficulty": "MEDIUM",
+      "frequency": 65.6,
+      "acceptanceRate": 0.5860157935441853,
+      "link": "https://leetcode.com/problems/design-tic-tac-toe",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Design",
+        "Matrix",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Walls and Gates",
+      "titleSlug": "walls-and-gates",
+      "difficulty": "MEDIUM",
+      "frequency": 65.6,
+      "acceptanceRate": 0.6296793327762211,
+      "link": "https://leetcode.com/problems/walls-and-gates",
+      "topics": [
+        "Array",
+        "Breadth-First Search",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Encode and Decode TinyURL",
+      "titleSlug": "encode-and-decode-tinyurl",
+      "difficulty": "MEDIUM",
+      "frequency": 63.1,
+      "acceptanceRate": 0.8636236617619221,
+      "link": "https://leetcode.com/problems/encode-and-decode-tinyurl",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Design",
+        "Hash Function"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Hash Table",
+    "Design",
+    "Array",
+    "Simulation",
+    "Linked List",
+    "Doubly-Linked List",
+    "String",
+    "Matrix",
+    "Hash Function",
+    "Trie",
+    "Sorting",
+    "Stack",
+    "Database",
+    "Breadth-First Search"
+  ]
+}

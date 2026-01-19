@@ -1,0 +1,193 @@
+{
+  "company": "Hudson River Trading",
+  "stats": {
+    "totalProblems": 9,
+    "uniqueProblems": 9,
+    "avgFrequency": 92.2235294117647,
+    "avgAcceptanceRate": 0.5478247707007914,
+    "difficultyDistribution": {
+      "EASY": 8,
+      "MEDIUM": 3,
+      "HARD": 6,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Detect Pattern of Length M Repeated K or More Times",
+      "titleSlug": "detect-pattern-of-length-m-repeated-k-or-more-times",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.434865494598602,
+      "link": "https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times",
+      "topics": [
+        "Array",
+        "Enumeration"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Convert Integer to the Sum of Two No-Zero Integers",
+      "titleSlug": "convert-integer-to-the-sum-of-two-no-zero-integers",
+      "difficulty": "EASY",
+      "frequency": 88.9,
+      "acceptanceRate": 0.5423949493246408,
+      "link": "https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers",
+      "topics": [
+        "Math"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Steps to Reduce a Number to Zero",
+      "titleSlug": "number-of-steps-to-reduce-a-number-to-zero",
+      "difficulty": "EASY",
+      "frequency": 88.9,
+      "acceptanceRate": 0.8563122693677829,
+      "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero",
+      "topics": [
+        "Math",
+        "Bit Manipulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Add Edges to Make Degrees of All Nodes Even",
+      "titleSlug": "add-edges-to-make-degrees-of-all-nodes-even",
+      "difficulty": "HARD",
+      "frequency": 88.9,
+      "acceptanceRate": 0.33517162875591233,
+      "link": "https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even",
+      "topics": [
+        "Hash Table",
+        "Graph"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum 69 Number",
+      "titleSlug": "maximum-69-number",
+      "difficulty": "EASY",
+      "frequency": 88.9,
+      "acceptanceRate": 0.8176659980289958,
+      "link": "https://leetcode.com/problems/maximum-69-number",
+      "topics": [
+        "Math",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Total Importance of Roads",
+      "titleSlug": "maximum-total-importance-of-roads",
+      "difficulty": "MEDIUM",
+      "frequency": 88.9,
+      "acceptanceRate": 0.6916419857076869,
+      "link": "https://leetcode.com/problems/maximum-total-importance-of-roads",
+      "topics": [
+        "Greedy",
+        "Graph",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Score From Grid Operations",
+      "titleSlug": "maximum-score-from-grid-operations",
+      "difficulty": "HARD",
+      "frequency": 88.9,
+      "acceptanceRate": 0.24225599064874342,
+      "link": "https://leetcode.com/problems/maximum-score-from-grid-operations",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Matrix",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Path With Different Adjacent Characters",
+      "titleSlug": "longest-path-with-different-adjacent-characters",
+      "difficulty": "HARD",
+      "frequency": 88.9,
+      "acceptanceRate": 0.5391662377766341,
+      "link": "https://leetcode.com/problems/longest-path-with-different-adjacent-characters",
+      "topics": [
+        "Array",
+        "String",
+        "Tree",
+        "Depth-First Search",
+        "Graph",
+        "Topological Sort"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Remove Comments",
+      "titleSlug": "remove-comments",
+      "difficulty": "MEDIUM",
+      "frequency": 60.9,
+      "acceptanceRate": 0.39407199349545424,
+      "link": "https://leetcode.com/problems/remove-comments",
+      "topics": [
+        "Array",
+        "String"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Math",
+    "Graph",
+    "Greedy",
+    "String",
+    "Enumeration",
+    "Bit Manipulation",
+    "Hash Table",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Dynamic Programming",
+    "Matrix",
+    "Prefix Sum",
+    "Tree",
+    "Depth-First Search"
+  ]
+}

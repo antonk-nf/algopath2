@@ -1,0 +1,102 @@
+{
+  "company": "StackAdapt",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 93.3875,
+    "avgAcceptanceRate": 0.5118486143523295,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 6,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Find Median from Data Stream",
+      "titleSlug": "find-median-from-data-stream",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5328274303467472,
+      "link": "https://leetcode.com/problems/find-median-from-data-stream",
+      "topics": [
+        "Two Pointers",
+        "Design",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Data Stream"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Restore IP Addresses",
+      "titleSlug": "restore-ip-addresses",
+      "difficulty": "MEDIUM",
+      "frequency": 89.5,
+      "acceptanceRate": 0.5316261155804161,
+      "link": "https://leetcode.com/problems/restore-ip-addresses",
+      "topics": [
+        "String",
+        "Backtracking"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Snapshot Array",
+      "titleSlug": "snapshot-array",
+      "difficulty": "MEDIUM",
+      "frequency": 89.5,
+      "acceptanceRate": 0.36666006229954134,
+      "link": "https://leetcode.com/problems/snapshot-array",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Binary Search",
+        "Design"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Dice Rolls With Target Sum",
+      "titleSlug": "number-of-dice-rolls-with-target-sum",
+      "difficulty": "MEDIUM",
+      "frequency": 89.5,
+      "acceptanceRate": 0.6162808491826136,
+      "link": "https://leetcode.com/problems/number-of-dice-rolls-with-target-sum",
+      "topics": [
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Design",
+    "Two Pointers",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Data Stream",
+    "String",
+    "Backtracking",
+    "Array",
+    "Hash Table",
+    "Binary Search",
+    "Dynamic Programming"
+  ]
+}

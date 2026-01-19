@@ -1,0 +1,228 @@
+{
+  "company": "Squarepoint Capital",
+  "stats": {
+    "totalProblems": 11,
+    "uniqueProblems": 11,
+    "avgFrequency": 81.60000000000001,
+    "avgAcceptanceRate": 0.5760637264987095,
+    "difficultyDistribution": {
+      "EASY": 1,
+      "MEDIUM": 7,
+      "HARD": 4,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Longest Increasing Subsequence",
+      "titleSlug": "longest-increasing-subsequence",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5780838483252219,
+      "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m"
+      ]
+    },
+    {
+      "title": "Search Suggestions System",
+      "titleSlug": "search-suggestions-system",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.650502807389667,
+      "link": "https://leetcode.com/problems/search-suggestions-system",
+      "topics": [
+        "Array",
+        "String",
+        "Binary Search",
+        "Trie",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+"
+      ]
+    },
+    {
+      "title": "Frog Jump",
+      "titleSlug": "frog-jump",
+      "difficulty": "HARD",
+      "frequency": 89.4,
+      "acceptanceRate": 0.4655846450889997,
+      "link": "https://leetcode.com/problems/frog-jump",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "3m"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "titleSlug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "EASY",
+      "frequency": 86.4,
+      "acceptanceRate": 0.5525963622704052,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+"
+      ]
+    },
+    {
+      "title": "Subarray Product Less Than K",
+      "titleSlug": "subarray-product-less-than-k",
+      "difficulty": "MEDIUM",
+      "frequency": 86.4,
+      "acceptanceRate": 0.5285349907277894,
+      "link": "https://leetcode.com/problems/subarray-product-less-than-k",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Sliding Window",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+"
+      ]
+    },
+    {
+      "title": "Minimum Insertion Steps to Make a String Palindrome",
+      "titleSlug": "minimum-insertion-steps-to-make-a-string-palindrome",
+      "difficulty": "HARD",
+      "frequency": 69.5,
+      "acceptanceRate": 0.7242938226969341,
+      "link": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome",
+      "topics": [
+        "String",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+"
+      ]
+    },
+    {
+      "title": "Coin Change",
+      "titleSlug": "coin-change",
+      "difficulty": "MEDIUM",
+      "frequency": 69.5,
+      "acceptanceRate": 0.4649557971017352,
+      "link": "https://leetcode.com/problems/coin-change",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Breadth-First Search"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+"
+      ]
+    },
+    {
+      "title": "Number of Islands",
+      "titleSlug": "number-of-islands",
+      "difficulty": "MEDIUM",
+      "frequency": 69.5,
+      "acceptanceRate": 0.6232010795178101,
+      "link": "https://leetcode.com/problems/number-of-islands",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union Find",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+"
+      ]
+    },
+    {
+      "title": "Subarrays with K Different Integers",
+      "titleSlug": "subarrays-with-k-different-integers",
+      "difficulty": "HARD",
+      "frequency": 69.5,
+      "acceptanceRate": 0.6586583697096432,
+      "link": "https://leetcode.com/problems/subarrays-with-k-different-integers",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sliding Window",
+        "Counting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+"
+      ]
+    },
+    {
+      "title": "Maximum Subarray",
+      "titleSlug": "maximum-subarray",
+      "difficulty": "MEDIUM",
+      "frequency": 69.5,
+      "acceptanceRate": 0.5209981132194718,
+      "link": "https://leetcode.com/problems/maximum-subarray",
+      "topics": [
+        "Array",
+        "Divide and Conquer",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+"
+      ]
+    },
+    {
+      "title": "Kth Largest Element in an Array",
+      "titleSlug": "kth-largest-element-in-an-array",
+      "difficulty": "MEDIUM",
+      "frequency": 69.5,
+      "acceptanceRate": 0.6797702368478369,
+      "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+      "topics": [
+        "Array",
+        "Divide and Conquer",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Quickselect"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Dynamic Programming",
+    "Binary Search",
+    "String",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Sliding Window",
+    "Breadth-First Search",
+    "Divide and Conquer",
+    "Trie",
+    "Prefix Sum",
+    "Depth-First Search",
+    "Union Find",
+    "Matrix",
+    "Hash Table"
+  ]
+}

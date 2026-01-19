@@ -1,0 +1,158 @@
+{
+  "company": "Citrix",
+  "stats": {
+    "totalProblems": 7,
+    "uniqueProblems": 7,
+    "avgFrequency": 91.62307692307694,
+    "avgAcceptanceRate": 0.5386439553203731,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 9,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Pairs of Songs With Total Durations Divisible by 60",
+      "titleSlug": "pairs-of-songs-with-total-durations-divisible-by-60",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5324771514259002,
+      "link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Counting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Check if Strings Can be Made Equal With Operations I",
+      "titleSlug": "check-if-strings-can-be-made-equal-with-operations-i",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.470779474689696,
+      "link": "https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i",
+      "topics": [
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Check if Strings Can be Made Equal With Operations II",
+      "titleSlug": "check-if-strings-can-be-made-equal-with-operations-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5522769560396188,
+      "link": "https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Performance of a Team",
+      "titleSlug": "maximum-performance-of-a-team",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4751514702683188,
+      "link": "https://leetcode.com/problems/maximum-performance-of-a-team",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Find All Groups of Farmland",
+      "titleSlug": "find-all-groups-of-farmland",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.7548102383053839,
+      "link": "https://leetcode.com/problems/find-all-groups-of-farmland",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Remove Nth Node From End of List",
+      "titleSlug": "remove-nth-node-from-end-of-list",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.48961442984124964,
+      "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+      "topics": [
+        "Linked List",
+        "Two Pointers"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "LRU Cache",
+      "titleSlug": "lru-cache",
+      "difficulty": "MEDIUM",
+      "frequency": 63.7,
+      "acceptanceRate": 0.4521519780245163,
+      "link": "https://leetcode.com/problems/lru-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Sorting",
+    "Linked List",
+    "Counting",
+    "Greedy",
+    "Heap (Priority Queue)",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Matrix",
+    "Two Pointers",
+    "Design",
+    "Doubly-Linked List"
+  ]
+}

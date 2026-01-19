@@ -1,0 +1,163 @@
+{
+  "company": "Whatnot",
+  "stats": {
+    "totalProblems": 7,
+    "uniqueProblems": 7,
+    "avgFrequency": 91.25384615384615,
+    "avgAcceptanceRate": 0.5811832828628627,
+    "difficultyDistribution": {
+      "EASY": 7,
+      "MEDIUM": 6,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Remove All Adjacent Duplicates In String",
+      "titleSlug": "remove-all-adjacent-duplicates-in-string",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.7159329806997172,
+      "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string",
+      "topics": [
+        "String",
+        "Stack"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Valid Palindrome II",
+      "titleSlug": "valid-palindrome-ii",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4302954750060481,
+      "link": "https://leetcode.com/problems/valid-palindrome-ii",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Greedy"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Number of Islands",
+      "titleSlug": "number-of-islands",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6232469776710805,
+      "link": "https://leetcode.com/problems/number-of-islands",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union Find",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Group Anagrams",
+      "titleSlug": "group-anagrams",
+      "difficulty": "MEDIUM",
+      "frequency": 88.2,
+      "acceptanceRate": 0.7093189130762656,
+      "link": "https://leetcode.com/problems/group-anagrams",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Search a 2D Matrix II",
+      "titleSlug": "search-a-2d-matrix-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 78.1,
+      "acceptanceRate": 0.5522809966288809,
+      "link": "https://leetcode.com/problems/search-a-2d-matrix-ii",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Divide and Conquer",
+        "Matrix"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Word Search",
+      "titleSlug": "word-search",
+      "difficulty": "MEDIUM",
+      "frequency": 78.1,
+      "acceptanceRate": 0.45272006765290695,
+      "link": "https://leetcode.com/problems/word-search",
+      "topics": [
+        "Array",
+        "String",
+        "Backtracking",
+        "Depth-First Search",
+        "Matrix"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Squares of a Sorted Array",
+      "titleSlug": "squares-of-a-sorted-array",
+      "difficulty": "EASY",
+      "frequency": 78.1,
+      "acceptanceRate": 0.7322021011211074,
+      "link": "https://leetcode.com/problems/squares-of-a-sorted-array",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "String",
+    "Array",
+    "Two Pointers",
+    "Greedy",
+    "Matrix",
+    "Depth-First Search",
+    "Sorting",
+    "Stack",
+    "Breadth-First Search",
+    "Union Find",
+    "Hash Table",
+    "Binary Search",
+    "Divide and Conquer",
+    "Backtracking"
+  ]
+}

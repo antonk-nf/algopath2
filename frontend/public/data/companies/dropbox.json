@@ -1,0 +1,511 @@
+{
+  "company": "Dropbox",
+  "stats": {
+    "totalProblems": 25,
+    "uniqueProblems": 25,
+    "avgFrequency": 78.65384615384616,
+    "avgAcceptanceRate": 0.550697884015655,
+    "difficultyDistribution": {
+      "EASY": 4,
+      "MEDIUM": 28,
+      "HARD": 20,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Simple Bank System",
+      "titleSlug": "simple-bank-system",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.61430278408412,
+      "link": "https://leetcode.com/problems/simple-bank-system",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Design",
+        "Simulation"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Max Area of Island",
+      "titleSlug": "max-area-of-island",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.7316425827029596,
+      "link": "https://leetcode.com/problems/max-area-of-island",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union Find",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Guess the Word",
+      "titleSlug": "guess-the-word",
+      "difficulty": "HARD",
+      "frequency": 85.0,
+      "acceptanceRate": 0.37651627943192456,
+      "link": "https://leetcode.com/problems/guess-the-word",
+      "topics": [
+        "Array",
+        "Math",
+        "String",
+        "Interactive",
+        "Game Theory"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Find Duplicate File in System",
+      "titleSlug": "find-duplicate-file-in-system",
+      "difficulty": "MEDIUM",
+      "frequency": 81.2,
+      "acceptanceRate": 0.6757346336455794,
+      "link": "https://leetcode.com/problems/find-duplicate-file-in-system",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Game of Life",
+      "titleSlug": "game-of-life",
+      "difficulty": "MEDIUM",
+      "frequency": 74.5,
+      "acceptanceRate": 0.7141503237777483,
+      "link": "https://leetcode.com/problems/game-of-life",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Seat Reservation Manager",
+      "titleSlug": "seat-reservation-manager",
+      "difficulty": "MEDIUM",
+      "frequency": 65.1,
+      "acceptanceRate": 0.6639500226519469,
+      "link": "https://leetcode.com/problems/seat-reservation-manager",
+      "topics": [
+        "Design",
+        "Heap (Priority Queue)"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Web Crawler Multithreaded",
+      "titleSlug": "web-crawler-multithreaded",
+      "difficulty": "MEDIUM",
+      "frequency": 65.1,
+      "acceptanceRate": 0.5009673447851322,
+      "link": "https://leetcode.com/problems/web-crawler-multithreaded",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Concurrency"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Web Crawler",
+      "titleSlug": "web-crawler",
+      "difficulty": "MEDIUM",
+      "frequency": 65.1,
+      "acceptanceRate": 0.6876521792062333,
+      "link": "https://leetcode.com/problems/web-crawler",
+      "topics": [
+        "String",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Interactive"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Design a Text Editor",
+      "titleSlug": "design-a-text-editor",
+      "difficulty": "HARD",
+      "frequency": 65.1,
+      "acceptanceRate": 0.47138071447136626,
+      "link": "https://leetcode.com/problems/design-a-text-editor",
+      "topics": [
+        "Linked List",
+        "String",
+        "Stack",
+        "Design",
+        "Simulation",
+        "Doubly-Linked List"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Grid Illumination",
+      "titleSlug": "grid-illumination",
+      "difficulty": "HARD",
+      "frequency": 65.1,
+      "acceptanceRate": 0.3804456061737615,
+      "link": "https://leetcode.com/problems/grid-illumination",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Letter Combinations of a Phone Number",
+      "titleSlug": "letter-combinations-of-a-phone-number",
+      "difficulty": "MEDIUM",
+      "frequency": 65.1,
+      "acceptanceRate": 0.6385757423813572,
+      "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Backtracking"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Word Break II",
+      "titleSlug": "word-break-ii",
+      "difficulty": "HARD",
+      "frequency": 65.1,
+      "acceptanceRate": 0.5364546303753539,
+      "link": "https://leetcode.com/problems/word-break-ii",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Dynamic Programming",
+        "Backtracking",
+        "Trie",
+        "Memoization"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Design Hit Counter",
+      "titleSlug": "design-hit-counter",
+      "difficulty": "MEDIUM",
+      "frequency": 65.1,
+      "acceptanceRate": 0.6920824458148753,
+      "link": "https://leetcode.com/problems/design-hit-counter",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Design",
+        "Queue",
+        "Data Stream"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimize Malware Spread II",
+      "titleSlug": "minimize-malware-spread-ii",
+      "difficulty": "HARD",
+      "frequency": 65.1,
+      "acceptanceRate": 0.4464651170529608,
+      "link": "https://leetcode.com/problems/minimize-malware-spread-ii",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union Find",
+        "Graph"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Word Pattern",
+      "titleSlug": "word-pattern",
+      "difficulty": "EASY",
+      "frequency": 65.1,
+      "acceptanceRate": 0.4306076461166752,
+      "link": "https://leetcode.com/problems/word-pattern",
+      "topics": [
+        "Hash Table",
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Word Pattern II",
+      "titleSlug": "word-pattern-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 65.1,
+      "acceptanceRate": 0.4860240848819029,
+      "link": "https://leetcode.com/problems/word-pattern-ii",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Backtracking"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Median of Two Sorted Arrays",
+      "titleSlug": "median-of-two-sorted-arrays",
+      "difficulty": "HARD",
+      "frequency": 65.1,
+      "acceptanceRate": 0.43814638316146604,
+      "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Divide and Conquer"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Valid Words for Each Puzzle",
+      "titleSlug": "number-of-valid-words-for-each-puzzle",
+      "difficulty": "HARD",
+      "frequency": 65.1,
+      "acceptanceRate": 0.471197042934319,
+      "link": "https://leetcode.com/problems/number-of-valid-words-for-each-puzzle",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Bit Manipulation",
+        "Trie"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "difficulty": "EASY",
+      "frequency": 65.1,
+      "acceptanceRate": 0.5577699113119969,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Merge Intervals",
+      "titleSlug": "merge-intervals",
+      "difficulty": "MEDIUM",
+      "frequency": 65.1,
+      "acceptanceRate": 0.4939525616898277,
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "topics": [
+        "Array",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimize Malware Spread",
+      "titleSlug": "minimize-malware-spread",
+      "difficulty": "HARD",
+      "frequency": 65.1,
+      "acceptanceRate": 0.4244663007511927,
+      "link": "https://leetcode.com/problems/minimize-malware-spread",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union Find",
+        "Graph"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Top K Frequent Elements",
+      "titleSlug": "top-k-frequent-elements",
+      "difficulty": "MEDIUM",
+      "frequency": 65.1,
+      "acceptanceRate": 0.6456600118097364,
+      "link": "https://leetcode.com/problems/top-k-frequent-elements",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Divide and Conquer",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Bucket Sort",
+        "Counting",
+        "Quickselect"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Islands",
+      "titleSlug": "number-of-islands",
+      "difficulty": "MEDIUM",
+      "frequency": 65.1,
+      "acceptanceRate": 0.6232009446678927,
+      "link": "https://leetcode.com/problems/number-of-islands",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union Find",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Check If It Is a Good Array",
+      "titleSlug": "check-if-it-is-a-good-array",
+      "difficulty": "HARD",
+      "frequency": 65.1,
+      "acceptanceRate": 0.6136037655804933,
+      "link": "https://leetcode.com/problems/check-if-it-is-a-good-array",
+      "topics": [
+        "Array",
+        "Math",
+        "Number Theory"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Islands II",
+      "titleSlug": "number-of-islands-ii",
+      "difficulty": "HARD",
+      "frequency": 52.4,
+      "acceptanceRate": 0.40127000229224685,
+      "link": "https://leetcode.com/problems/number-of-islands-ii",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Union Find"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Design",
+    "Union Find",
+    "Simulation",
+    "Matrix",
+    "Backtracking",
+    "Math",
+    "Interactive",
+    "Heap (Priority Queue)",
+    "Trie",
+    "Binary Search"
+  ]
+}

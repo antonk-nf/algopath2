@@ -1,0 +1,109 @@
+{
+  "company": "Airbus SE",
+  "stats": {
+    "totalProblems": 5,
+    "uniqueProblems": 5,
+    "avgFrequency": 92.3777777777778,
+    "avgAcceptanceRate": 0.46330949175363956,
+    "difficultyDistribution": {
+      "EASY": 5,
+      "MEDIUM": 4,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Longest Common Prefix",
+      "titleSlug": "longest-common-prefix",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4548726531141006,
+      "link": "https://leetcode.com/problems/longest-common-prefix",
+      "topics": [
+        "String",
+        "Trie"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Array Changes to Make Differences Equal",
+      "titleSlug": "minimum-array-changes-to-make-differences-equal",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.23368243410929668,
+      "link": "https://leetcode.com/problems/minimum-array-changes-to-make-differences-equal",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Find the Number of Good Pairs II",
+      "titleSlug": "find-the-number-of-good-pairs-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.2609128849118322,
+      "link": "https://leetcode.com/problems/find-the-number-of-good-pairs-ii",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Find the Number of Good Pairs I",
+      "titleSlug": "find-the-number-of-good-pairs-i",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.8565227850351946,
+      "link": "https://leetcode.com/problems/find-the-number-of-good-pairs-i",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "difficulty": "EASY",
+      "frequency": 65.7,
+      "acceptanceRate": 0.5578039566314058,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Trie",
+    "Prefix Sum"
+  ]
+}

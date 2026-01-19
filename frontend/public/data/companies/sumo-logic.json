@@ -1,0 +1,102 @@
+{
+  "company": "Sumo Logic",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 87.25,
+    "avgAcceptanceRate": 0.5493312135908044,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 4,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Flood Fill",
+      "titleSlug": "flood-fill",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6647648139762219,
+      "link": "https://leetcode.com/problems/flood-fill",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "First Missing Positive",
+      "titleSlug": "first-missing-positive",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.41084764643539695,
+      "link": "https://leetcode.com/problems/first-missing-positive",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Satisfiability of Equality Equations",
+      "titleSlug": "satisfiability-of-equality-equations",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5101847530677794,
+      "link": "https://leetcode.com/problems/satisfiability-of-equality-equations",
+      "topics": [
+        "Array",
+        "String",
+        "Union Find",
+        "Graph"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Decode String",
+      "titleSlug": "decode-string",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6115276408838193,
+      "link": "https://leetcode.com/problems/decode-string",
+      "topics": [
+        "String",
+        "Stack",
+        "Recursion"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "String",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Matrix",
+    "Hash Table",
+    "Union Find",
+    "Graph",
+    "Stack",
+    "Recursion"
+  ]
+}

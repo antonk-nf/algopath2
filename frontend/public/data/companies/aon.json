@@ -1,0 +1,91 @@
+{
+  "company": "Aon",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 97.125,
+    "avgAcceptanceRate": 0.4715237787012318,
+    "difficultyDistribution": {
+      "EASY": 4,
+      "MEDIUM": 2,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Classifying Triangles by Lengths",
+      "titleSlug": "classifying-triangles-by-lengths",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5082222606889389,
+      "link": "https://leetcode.com/problems/classifying-triangles-by-lengths",
+      "topics": [
+        "Database"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimize OR of Remaining Elements Using Operations",
+      "titleSlug": "minimize-or-of-remaining-elements-using-operations",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.28961791418728466,
+      "link": "https://leetcode.com/problems/minimize-or-of-remaining-elements-using-operations",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Bit Manipulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Construct the Minimum Bitwise Array II",
+      "titleSlug": "construct-the-minimum-bitwise-array-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.3486627673349109,
+      "link": "https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii",
+      "topics": [
+        "Array",
+        "Bit Manipulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Construct the Minimum Bitwise Array I",
+      "titleSlug": "construct-the-minimum-bitwise-array-i",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.7395921725937926,
+      "link": "https://leetcode.com/problems/construct-the-minimum-bitwise-array-i",
+      "topics": [
+        "Array",
+        "Bit Manipulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Bit Manipulation",
+    "Database",
+    "Greedy"
+  ]
+}

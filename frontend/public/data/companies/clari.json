@@ -1,0 +1,82 @@
+{
+  "company": "Clari",
+  "stats": {
+    "totalProblems": 3,
+    "uniqueProblems": 3,
+    "avgFrequency": 93.55,
+    "avgAcceptanceRate": 0.7013436260453356,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 6,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Unique Binary Search Trees",
+      "titleSlug": "unique-binary-search-trees",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6244500193762875,
+      "link": "https://leetcode.com/problems/unique-binary-search-trees",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Tree",
+        "Binary Search Tree",
+        "Binary Tree"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Create Binary Tree From Descriptions",
+      "titleSlug": "create-binary-tree-from-descriptions",
+      "difficulty": "MEDIUM",
+      "frequency": 90.1,
+      "acceptanceRate": 0.8164001540301169,
+      "link": "https://leetcode.com/problems/create-binary-tree-from-descriptions",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Tree",
+        "Binary Tree"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Group Employees of the Same Salary",
+      "titleSlug": "group-employees-of-the-same-salary",
+      "difficulty": "MEDIUM",
+      "frequency": 90.1,
+      "acceptanceRate": 0.6631807047296024,
+      "link": "https://leetcode.com/problems/group-employees-of-the-same-salary",
+      "topics": [
+        "Database"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Tree",
+    "Binary Tree",
+    "Math",
+    "Dynamic Programming",
+    "Binary Search Tree",
+    "Array",
+    "Hash Table",
+    "Database"
+  ]
+}

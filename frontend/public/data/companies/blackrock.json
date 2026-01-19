@@ -1,0 +1,352 @@
+{
+  "company": "BlackRock",
+  "stats": {
+    "totalProblems": 17,
+    "uniqueProblems": 17,
+    "avgFrequency": 61.46388888888888,
+    "avgAcceptanceRate": 0.5744006316641459,
+    "difficultyDistribution": {
+      "EASY": 10,
+      "MEDIUM": 24,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Happy Number",
+      "titleSlug": "happy-number",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5807274040188486,
+      "link": "https://leetcode.com/problems/happy-number",
+      "topics": [
+        "Hash Table",
+        "Math",
+        "Two Pointers"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Valid Parentheses",
+      "titleSlug": "valid-parentheses",
+      "difficulty": "EASY",
+      "frequency": 95.9,
+      "acceptanceRate": 0.42322893449234295,
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "topics": [
+        "String",
+        "Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Evaluate Division",
+      "titleSlug": "evaluate-division",
+      "difficulty": "MEDIUM",
+      "frequency": 84.5,
+      "acceptanceRate": 0.6314703330107434,
+      "link": "https://leetcode.com/problems/evaluate-division",
+      "topics": [
+        "Array",
+        "String",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union Find",
+        "Graph",
+        "Shortest Path"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Subtree of the Same Color",
+      "titleSlug": "maximum-subtree-of-the-same-color",
+      "difficulty": "MEDIUM",
+      "frequency": 73.5,
+      "acceptanceRate": 0.5692307692307692,
+      "link": "https://leetcode.com/problems/maximum-subtree-of-the-same-color",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Tree",
+        "Depth-First Search"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Find the Maximum Sum of Node Values",
+      "titleSlug": "find-the-maximum-sum-of-node-values",
+      "difficulty": "HARD",
+      "frequency": 73.5,
+      "acceptanceRate": 0.6979865078996403,
+      "link": "https://leetcode.com/problems/find-the-maximum-sum-of-node-values",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy",
+        "Bit Manipulation",
+        "Tree",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Pairs of Songs With Total Durations Divisible by 60",
+      "titleSlug": "pairs-of-songs-with-total-durations-divisible-by-60",
+      "difficulty": "MEDIUM",
+      "frequency": 71.5,
+      "acceptanceRate": 0.5324771514259002,
+      "link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Counting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "titleSlug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "EASY",
+      "frequency": 60.4,
+      "acceptanceRate": 0.5525966208962203,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Group Anagrams",
+      "titleSlug": "group-anagrams",
+      "difficulty": "MEDIUM",
+      "frequency": 56.3,
+      "acceptanceRate": 0.709289019979725,
+      "link": "https://leetcode.com/problems/group-anagrams",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Path with Maximum Probability",
+      "titleSlug": "path-with-maximum-probability",
+      "difficulty": "MEDIUM",
+      "frequency": 50.9,
+      "acceptanceRate": 0.6529407064392282,
+      "link": "https://leetcode.com/problems/path-with-maximum-probability",
+      "topics": [
+        "Array",
+        "Graph",
+        "Heap (Priority Queue)",
+        "Shortest Path"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximize Greatness of an Array",
+      "titleSlug": "maximize-greatness-of-an-array",
+      "difficulty": "MEDIUM",
+      "frequency": 43.3,
+      "acceptanceRate": 0.5864617466875623,
+      "link": "https://leetcode.com/problems/maximize-greatness-of-an-array",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Greedy",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Valid Anagram",
+      "titleSlug": "valid-anagram",
+      "difficulty": "EASY",
+      "frequency": 43.3,
+      "acceptanceRate": 0.6666098845704377,
+      "link": "https://leetcode.com/problems/valid-anagram",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Boundary of Binary Tree",
+      "titleSlug": "boundary-of-binary-tree",
+      "difficulty": "MEDIUM",
+      "frequency": 43.3,
+      "acceptanceRate": 0.47158629287906856,
+      "link": "https://leetcode.com/problems/boundary-of-binary-tree",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Coin Change",
+      "titleSlug": "coin-change",
+      "difficulty": "MEDIUM",
+      "frequency": 43.3,
+      "acceptanceRate": 0.4649556137047272,
+      "link": "https://leetcode.com/problems/coin-change",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Breadth-First Search"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Generate Parentheses",
+      "titleSlug": "generate-parentheses",
+      "difficulty": "MEDIUM",
+      "frequency": 43.3,
+      "acceptanceRate": 0.7713291060549546,
+      "link": "https://leetcode.com/problems/generate-parentheses",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Backtracking"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Palindromic Substring",
+      "titleSlug": "longest-palindromic-substring",
+      "difficulty": "MEDIUM",
+      "frequency": 43.3,
+      "acceptanceRate": 0.3584616475847028,
+      "link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Profit From Trading Stocks",
+      "titleSlug": "maximum-profit-from-trading-stocks",
+      "difficulty": "MEDIUM",
+      "frequency": 43.3,
+      "acceptanceRate": 0.46593110127282794,
+      "link": "https://leetcode.com/problems/maximum-profit-from-trading-stocks",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Islands",
+      "titleSlug": "number-of-islands",
+      "difficulty": "MEDIUM",
+      "frequency": 43.3,
+      "acceptanceRate": 0.6232011028511795,
+      "link": "https://leetcode.com/problems/number-of-islands",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union Find",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Dynamic Programming",
+    "String",
+    "Hash Table",
+    "Two Pointers",
+    "Depth-First Search",
+    "Sorting",
+    "Breadth-First Search",
+    "Tree",
+    "Math",
+    "Union Find",
+    "Graph",
+    "Shortest Path",
+    "Greedy",
+    "Stack"
+  ]
+}

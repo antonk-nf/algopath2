@@ -1,0 +1,40 @@
+{
+  "company": "Edelweiss Group",
+  "stats": {
+    "totalProblems": 1,
+    "uniqueProblems": 1,
+    "avgFrequency": 100.0,
+    "avgAcceptanceRate": 0.6654164634896618,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 2,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Find if Array Can Be Sorted",
+      "titleSlug": "find-if-array-can-be-sorted",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6654164634896618,
+      "link": "https://leetcode.com/problems/find-if-array-can-be-sorted",
+      "topics": [
+        "Array",
+        "Bit Manipulation",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Bit Manipulation",
+    "Sorting"
+  ]
+}

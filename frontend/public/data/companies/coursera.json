@@ -1,0 +1,235 @@
+{
+  "company": "Coursera",
+  "stats": {
+    "totalProblems": 11,
+    "uniqueProblems": 11,
+    "avgFrequency": 83.86666666666667,
+    "avgAcceptanceRate": 0.5504414814265274,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 10,
+      "HARD": 12,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Text Justification",
+      "titleSlug": "text-justification",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4815044448867509,
+      "link": "https://leetcode.com/problems/text-justification",
+      "topics": [
+        "Array",
+        "String",
+        "Simulation"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Rank Teams by Votes",
+      "titleSlug": "rank-teams-by-votes",
+      "difficulty": "MEDIUM",
+      "frequency": 91.2,
+      "acceptanceRate": 0.5940486478243189,
+      "link": "https://leetcode.com/problems/rank-teams-by-votes",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting",
+        "Counting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Search Suggestions System",
+      "titleSlug": "search-suggestions-system",
+      "difficulty": "MEDIUM",
+      "frequency": 76.1,
+      "acceptanceRate": 0.650501888721445,
+      "link": "https://leetcode.com/problems/search-suggestions-system",
+      "topics": [
+        "Array",
+        "String",
+        "Binary Search",
+        "Trie",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Wildcard Matching",
+      "titleSlug": "wildcard-matching",
+      "difficulty": "HARD",
+      "frequency": 67.3,
+      "acceptanceRate": 0.29898910404866785,
+      "link": "https://leetcode.com/problems/wildcard-matching",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Greedy",
+        "Recursion"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Moves to Equal Array Elements",
+      "titleSlug": "minimum-moves-to-equal-array-elements",
+      "difficulty": "MEDIUM",
+      "frequency": 67.3,
+      "acceptanceRate": 0.577055426913269,
+      "link": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements",
+      "topics": [
+        "Array",
+        "Math"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Reaching Points",
+      "titleSlug": "reaching-points",
+      "difficulty": "HARD",
+      "frequency": 67.3,
+      "acceptanceRate": 0.336468882434809,
+      "link": "https://leetcode.com/problems/reaching-points",
+      "topics": [
+        "Math"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "N-th Tribonacci Number",
+      "titleSlug": "n-th-tribonacci-number",
+      "difficulty": "EASY",
+      "frequency": 67.3,
+      "acceptanceRate": 0.635772586169985,
+      "link": "https://leetcode.com/problems/n-th-tribonacci-number",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Memoization"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Increment to Make Array Unique",
+      "titleSlug": "minimum-increment-to-make-array-unique",
+      "difficulty": "MEDIUM",
+      "frequency": 67.3,
+      "acceptanceRate": 0.603327781549441,
+      "link": "https://leetcode.com/problems/minimum-increment-to-make-array-unique",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting",
+        "Counting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Special Binary String",
+      "titleSlug": "special-binary-string",
+      "difficulty": "HARD",
+      "frequency": 67.3,
+      "acceptanceRate": 0.6351153721156971,
+      "link": "https://leetcode.com/problems/special-binary-string",
+      "topics": [
+        "String",
+        "Recursion"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Music Playlists",
+      "titleSlug": "number-of-music-playlists",
+      "difficulty": "HARD",
+      "frequency": 67.3,
+      "acceptanceRate": 0.5997531912847676,
+      "link": "https://leetcode.com/problems/number-of-music-playlists",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Combinatorics"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Highest Grade For Each Student",
+      "titleSlug": "highest-grade-for-each-student",
+      "difficulty": "MEDIUM",
+      "frequency": 67.3,
+      "acceptanceRate": 0.7112558614059526,
+      "link": "https://leetcode.com/problems/highest-grade-for-each-student",
+      "topics": [
+        "Database"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "String",
+    "Math",
+    "Sorting",
+    "Dynamic Programming",
+    "Simulation",
+    "Counting",
+    "Greedy",
+    "Recursion",
+    "Hash Table",
+    "Binary Search",
+    "Trie",
+    "Heap (Priority Queue)",
+    "Memoization",
+    "Combinatorics"
+  ]
+}

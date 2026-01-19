@@ -1,0 +1,499 @@
+[
+  {
+    "topic": "Array",
+    "trendDirection": "stable",
+    "trendStrength": -0.00012562718634212544,
+    "trendStrengthAbs": 0.00012562718634212544,
+    "totalFrequency": 10569
+  },
+  {
+    "topic": "String",
+    "trendDirection": "stable",
+    "trendStrength": 0.005370175346290709,
+    "trendStrengthAbs": 0.005370175346290709,
+    "totalFrequency": 5159
+  },
+  {
+    "topic": "Hash Table",
+    "trendDirection": "stable",
+    "trendStrength": -0.0011285344779803502,
+    "trendStrengthAbs": 0.0011285344779803502,
+    "totalFrequency": 4544
+  },
+  {
+    "topic": "Dynamic Programming",
+    "trendDirection": "stable",
+    "trendStrength": 0.00520923749503048,
+    "trendStrengthAbs": 0.00520923749503048,
+    "totalFrequency": 3419
+  },
+  {
+    "topic": "Sorting",
+    "trendDirection": "stable",
+    "trendStrength": -0.002750011465415099,
+    "trendStrengthAbs": 0.002750011465415099,
+    "totalFrequency": 2686
+  },
+  {
+    "topic": "Two Pointers",
+    "trendDirection": "stable",
+    "trendStrength": -0.00036464240425393424,
+    "trendStrengthAbs": 0.00036464240425393424,
+    "totalFrequency": 2561
+  },
+  {
+    "topic": "Math",
+    "trendDirection": "stable",
+    "trendStrength": 0.0028099411198179505,
+    "trendStrengthAbs": 0.0028099411198179505,
+    "totalFrequency": 2282
+  },
+  {
+    "topic": "Depth-First Search",
+    "trendDirection": "stable",
+    "trendStrength": -0.000634185169126826,
+    "trendStrengthAbs": 0.000634185169126826,
+    "totalFrequency": 1862
+  },
+  {
+    "topic": "Breadth-First Search",
+    "trendDirection": "stable",
+    "trendStrength": -0.00010607267469424364,
+    "trendStrengthAbs": 0.00010607267469424364,
+    "totalFrequency": 1711
+  },
+  {
+    "topic": "Matrix",
+    "trendDirection": "stable",
+    "trendStrength": -0.0023617348312558184,
+    "trendStrengthAbs": 0.0023617348312558184,
+    "totalFrequency": 1702
+  },
+  {
+    "topic": "Binary Search",
+    "trendDirection": "stable",
+    "trendStrength": -0.005809237438758504,
+    "trendStrengthAbs": 0.005809237438758504,
+    "totalFrequency": 1692
+  },
+  {
+    "topic": "Stack",
+    "trendDirection": "stable",
+    "trendStrength": 0.0005500585650589848,
+    "trendStrengthAbs": 0.0005500585650589848,
+    "totalFrequency": 1560
+  },
+  {
+    "topic": "Greedy",
+    "trendDirection": "stable",
+    "trendStrength": -0.0014407032646468233,
+    "trendStrengthAbs": 0.0014407032646468233,
+    "totalFrequency": 1551
+  },
+  {
+    "topic": "Design",
+    "trendDirection": "stable",
+    "trendStrength": 0.0028052986818008253,
+    "trendStrengthAbs": 0.0028052986818008253,
+    "totalFrequency": 1314
+  },
+  {
+    "topic": "Linked List",
+    "trendDirection": "stable",
+    "trendStrength": 0.0025361779567476712,
+    "trendStrengthAbs": 0.0025361779567476712,
+    "totalFrequency": 1282
+  },
+  {
+    "topic": "Heap (Priority Queue)",
+    "trendDirection": "stable",
+    "trendStrength": -0.00475638876845123,
+    "trendStrengthAbs": 0.00475638876845123,
+    "totalFrequency": 1173
+  },
+  {
+    "topic": "Tree",
+    "trendDirection": "stable",
+    "trendStrength": 0.0004119108640646303,
+    "trendStrengthAbs": 0.0004119108640646303,
+    "totalFrequency": 1060
+  },
+  {
+    "topic": "Backtracking",
+    "trendDirection": "stable",
+    "trendStrength": 0.0034601638020948355,
+    "trendStrengthAbs": 0.0034601638020948355,
+    "totalFrequency": 963
+  },
+  {
+    "topic": "Binary Tree",
+    "trendDirection": "stable",
+    "trendStrength": 0.00014490033811016823,
+    "trendStrengthAbs": 0.00014490033811016823,
+    "totalFrequency": 926
+  },
+  {
+    "topic": "Sliding Window",
+    "trendDirection": "stable",
+    "trendStrength": -0.005422648963878174,
+    "trendStrengthAbs": 0.005422648963878174,
+    "totalFrequency": 882
+  },
+  {
+    "topic": "Recursion",
+    "trendDirection": "stable",
+    "trendStrength": 0.002662508542789351,
+    "trendStrengthAbs": 0.002662508542789351,
+    "totalFrequency": 826
+  },
+  {
+    "topic": "Simulation",
+    "trendDirection": "stable",
+    "trendStrength": 0.003059225973343401,
+    "trendStrengthAbs": 0.003059225973343401,
+    "totalFrequency": 799
+  },
+  {
+    "topic": "Divide and Conquer",
+    "trendDirection": "stable",
+    "trendStrength": -0.0038349351620224938,
+    "trendStrengthAbs": 0.0038349351620224938,
+    "totalFrequency": 726
+  },
+  {
+    "topic": "Prefix Sum",
+    "trendDirection": "stable",
+    "trendStrength": -0.0066191318528364025,
+    "trendStrengthAbs": 0.0066191318528364025,
+    "totalFrequency": 701
+  },
+  {
+    "topic": "Graph",
+    "trendDirection": "stable",
+    "trendStrength": 0.0014681358529298142,
+    "trendStrengthAbs": 0.0014681358529298142,
+    "totalFrequency": 643
+  },
+  {
+    "topic": "Union Find",
+    "trendDirection": "stable",
+    "trendStrength": -0.0014487220212218502,
+    "trendStrengthAbs": 0.0014487220212218502,
+    "totalFrequency": 612
+  },
+  {
+    "topic": "Bit Manipulation",
+    "trendDirection": "stable",
+    "trendStrength": -0.0005243141360549456,
+    "trendStrengthAbs": 0.0005243141360549456,
+    "totalFrequency": 594
+  },
+  {
+    "topic": "Counting",
+    "trendDirection": "stable",
+    "trendStrength": 0.0005378194102865722,
+    "trendStrengthAbs": 0.0005378194102865722,
+    "totalFrequency": 588
+  },
+  {
+    "topic": "Trie",
+    "trendDirection": "stable",
+    "trendStrength": 0.00013941382045356762,
+    "trendStrengthAbs": 0.00013941382045356762,
+    "totalFrequency": 533
+  },
+  {
+    "topic": "Monotonic Stack",
+    "trendDirection": "stable",
+    "trendStrength": -0.0019827430731307796,
+    "trendStrengthAbs": 0.0019827430731307796,
+    "totalFrequency": 501
+  },
+  {
+    "topic": "Doubly-Linked List",
+    "trendDirection": "stable",
+    "trendStrength": -0.0025129657666620626,
+    "trendStrengthAbs": 0.0025129657666620626,
+    "totalFrequency": 373
+  },
+  {
+    "topic": "Queue",
+    "trendDirection": "stable",
+    "trendStrength": 0.0002723883629065548,
+    "trendStrengthAbs": 0.0002723883629065548,
+    "totalFrequency": 326
+  },
+  {
+    "topic": "Memoization",
+    "trendDirection": "stable",
+    "trendStrength": -0.0010409023300354241,
+    "trendStrengthAbs": 0.0010409023300354241,
+    "totalFrequency": 285
+  },
+  {
+    "topic": "Topological Sort",
+    "trendDirection": "stable",
+    "trendStrength": 0.000535709211187882,
+    "trendStrengthAbs": 0.000535709211187882,
+    "totalFrequency": 279
+  },
+  {
+    "topic": "Database",
+    "trendDirection": "insufficient_data",
+    "trendStrength": 0,
+    "trendStrengthAbs": 0,
+    "totalFrequency": 263
+  },
+  {
+    "topic": "Binary Search Tree",
+    "trendDirection": "stable",
+    "trendStrength": 7.231062536441294e-05,
+    "trendStrengthAbs": 7.231062536441294e-05,
+    "totalFrequency": 214
+  },
+  {
+    "topic": "Data Stream",
+    "trendDirection": "stable",
+    "trendStrength": -0.0006429187800221581,
+    "trendStrengthAbs": 0.0006429187800221581,
+    "totalFrequency": 209
+  },
+  {
+    "topic": "Ordered Set",
+    "trendDirection": "stable",
+    "trendStrength": -9.05258369600136e-05,
+    "trendStrengthAbs": 9.05258369600136e-05,
+    "totalFrequency": 192
+  },
+  {
+    "topic": "Quickselect",
+    "trendDirection": "stable",
+    "trendStrength": -0.00201656003093748,
+    "trendStrengthAbs": 0.00201656003093748,
+    "totalFrequency": 185
+  },
+  {
+    "topic": "Randomized",
+    "trendDirection": "stable",
+    "trendStrength": -0.00022318702029776923,
+    "trendStrengthAbs": 0.00022318702029776923,
+    "totalFrequency": 169
+  },
+  {
+    "topic": "String Matching",
+    "trendDirection": "stable",
+    "trendStrength": 0.00020497180870216814,
+    "trendStrengthAbs": 0.00020497180870216814,
+    "totalFrequency": 151
+  },
+  {
+    "topic": "Enumeration",
+    "trendDirection": "insufficient_data",
+    "trendStrength": 0,
+    "trendStrengthAbs": 0,
+    "totalFrequency": 139
+  },
+  {
+    "topic": "Hash Function",
+    "trendDirection": "stable",
+    "trendStrength": 0.00029903064377770393,
+    "trendStrengthAbs": 0.00029903064377770393,
+    "totalFrequency": 137
+  },
+  {
+    "topic": "Bucket Sort",
+    "trendDirection": "stable",
+    "trendStrength": -0.0010661835378620692,
+    "trendStrengthAbs": 0.0010661835378620692,
+    "totalFrequency": 132
+  },
+  {
+    "topic": "Merge Sort",
+    "trendDirection": "insufficient_data",
+    "trendStrength": 0,
+    "trendStrengthAbs": 0,
+    "totalFrequency": 122
+  },
+  {
+    "topic": "Monotonic Queue",
+    "trendDirection": "insufficient_data",
+    "trendStrength": 0,
+    "trendStrengthAbs": 0,
+    "totalFrequency": 115
+  },
+  {
+    "topic": "Bitmask",
+    "trendDirection": "insufficient_data",
+    "trendStrength": 0,
+    "trendStrengthAbs": 0,
+    "totalFrequency": 111
+  },
+  {
+    "topic": "Segment Tree",
+    "trendDirection": "stable",
+    "trendStrength": -0.0001930117413110979,
+    "trendStrengthAbs": 0.0001930117413110979,
+    "totalFrequency": 111
+  },
+  {
+    "topic": "Combinatorics",
+    "trendDirection": "insufficient_data",
+    "trendStrength": 0,
+    "trendStrengthAbs": 0,
+    "totalFrequency": 105
+  },
+  {
+    "topic": "Geometry",
+    "trendDirection": "insufficient_data",
+    "trendStrength": 0,
+    "trendStrengthAbs": 0,
+    "totalFrequency": 95
+  },
+  {
+    "topic": "Shortest Path",
+    "trendDirection": "insufficient_data",
+    "trendStrength": 0,
+    "trendStrengthAbs": 0,
+    "totalFrequency": 90
+  },
+  {
+    "topic": "Rolling Hash",
+    "trendDirection": "insufficient_data",
+    "trendStrength": 0,
+    "trendStrengthAbs": 0,
+    "totalFrequency": 82
+  },
+  {
+    "topic": "Binary Indexed Tree",
+    "trendDirection": "insufficient_data",
+    "trendStrength": 0,
+    "trendStrengthAbs": 0,
+    "totalFrequency": 78
+  },
+  {
+    "topic": "Number Theory",
+    "trendDirection": "insufficient_data",
+    "trendStrength": 0,
+    "trendStrengthAbs": 0,
+    "totalFrequency": 67
+  },
+  {
+    "topic": "Interactive",
+    "trendDirection": "insufficient_data",
+    "trendStrength": 0,
+    "trendStrengthAbs": 0,
+    "totalFrequency": 57
+  },
+  {
+    "topic": "Game Theory",
+    "trendDirection": "insufficient_data",
+    "trendStrength": 0,
+    "trendStrengthAbs": 0,
+    "totalFrequency": 50
+  },
+  {
+    "topic": "Iterator",
+    "trendDirection": "insufficient_data",
+    "trendStrength": 0,
+    "trendStrengthAbs": 0,
+    "totalFrequency": 50
+  },
+  {
+    "topic": "Line Sweep",
+    "trendDirection": "insufficient_data",
+    "trendStrength": 0,
+    "trendStrengthAbs": 0,
+    "totalFrequency": 44
+  },
+  {
+    "topic": "Eulerian Circuit",
+    "trendDirection": "insufficient_data",
+    "trendStrength": 0,
+    "trendStrengthAbs": 0,
+    "totalFrequency": 26
+  },
+  {
+    "topic": "Concurrency",
+    "trendDirection": "insufficient_data",
+    "trendStrength": 0,
+    "trendStrengthAbs": 0,
+    "totalFrequency": 24
+  },
+  {
+    "topic": "Brainteaser",
+    "trendDirection": "insufficient_data",
+    "trendStrength": 0,
+    "trendStrengthAbs": 0,
+    "totalFrequency": 22
+  },
+  {
+    "topic": "Counting Sort",
+    "trendDirection": "insufficient_data",
+    "trendStrength": 0,
+    "trendStrengthAbs": 0,
+    "totalFrequency": 22
+  },
+  {
+    "topic": "Suffix Array",
+    "trendDirection": "insufficient_data",
+    "trendStrength": 0,
+    "trendStrengthAbs": 0,
+    "totalFrequency": 16
+  },
+  {
+    "topic": "Radix Sort",
+    "trendDirection": "insufficient_data",
+    "trendStrength": 0,
+    "trendStrengthAbs": 0,
+    "totalFrequency": 11
+  },
+  {
+    "topic": "Probability and Statistics",
+    "trendDirection": "insufficient_data",
+    "trendStrength": 0,
+    "trendStrengthAbs": 0,
+    "totalFrequency": 10
+  },
+  {
+    "topic": "Minimum Spanning Tree",
+    "trendDirection": "insufficient_data",
+    "trendStrength": 0,
+    "trendStrengthAbs": 0,
+    "totalFrequency": 8
+  },
+  {
+    "topic": "Reservoir Sampling",
+    "trendDirection": "insufficient_data",
+    "trendStrength": 0,
+    "trendStrengthAbs": 0,
+    "totalFrequency": 5
+  },
+  {
+    "topic": "Rejection Sampling",
+    "trendDirection": "insufficient_data",
+    "trendStrength": 0,
+    "trendStrengthAbs": 0,
+    "totalFrequency": 4
+  },
+  {
+    "topic": "Biconnected Component",
+    "trendDirection": "insufficient_data",
+    "trendStrength": 0,
+    "trendStrengthAbs": 0,
+    "totalFrequency": 3
+  },
+  {
+    "topic": "Shell",
+    "trendDirection": "insufficient_data",
+    "trendStrength": 0,
+    "trendStrengthAbs": 0,
+    "totalFrequency": 2
+  },
+  {
+    "topic": "Strongly Connected Component",
+    "trendDirection": "insufficient_data",
+    "trendStrength": 0,
+    "trendStrengthAbs": 0,
+    "totalFrequency": 2
+  }
+]

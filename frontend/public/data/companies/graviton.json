@@ -1,0 +1,161 @@
+{
+  "company": "Graviton",
+  "stats": {
+    "totalProblems": 7,
+    "uniqueProblems": 7,
+    "avgFrequency": 97.0,
+    "avgAcceptanceRate": 0.48071933672098793,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 10,
+      "HARD": 4,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Largest Number",
+      "titleSlug": "largest-number",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4128172796103841,
+      "link": "https://leetcode.com/problems/largest-number",
+      "topics": [
+        "Array",
+        "String",
+        "Greedy",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Keys and Rooms",
+      "titleSlug": "keys-and-rooms",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.7468340729516182,
+      "link": "https://leetcode.com/problems/keys-and-rooms",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Decode Ways",
+      "titleSlug": "decode-ways",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.36532759782704366,
+      "link": "https://leetcode.com/problems/decode-ways",
+      "topics": [
+        "String",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "01 Matrix",
+      "titleSlug": "01-matrix",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5148515056553987,
+      "link": "https://leetcode.com/problems/01-matrix",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Breadth-First Search",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Course Schedule",
+      "titleSlug": "course-schedule",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4923948350467392,
+      "link": "https://leetcode.com/problems/course-schedule",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph",
+        "Topological Sort"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Binary Tree Cameras",
+      "titleSlug": "binary-tree-cameras",
+      "difficulty": "HARD",
+      "frequency": 89.5,
+      "acceptanceRate": 0.4719603049043578,
+      "link": "https://leetcode.com/problems/binary-tree-cameras",
+      "topics": [
+        "Dynamic Programming",
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Collect Coins in a Tree",
+      "titleSlug": "collect-coins-in-a-tree",
+      "difficulty": "HARD",
+      "frequency": 89.5,
+      "acceptanceRate": 0.36084976105137395,
+      "link": "https://leetcode.com/problems/collect-coins-in-a-tree",
+      "topics": [
+        "Array",
+        "Tree",
+        "Graph",
+        "Topological Sort"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph",
+    "Dynamic Programming",
+    "String",
+    "Topological Sort",
+    "Tree",
+    "Greedy",
+    "Sorting",
+    "Matrix",
+    "Binary Tree"
+  ]
+}

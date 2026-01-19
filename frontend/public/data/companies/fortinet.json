@@ -1,0 +1,97 @@
+{
+  "company": "Fortinet",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 95.725,
+    "avgAcceptanceRate": 0.6295207115522088,
+    "difficultyDistribution": {
+      "EASY": 3,
+      "MEDIUM": 3,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Construct String With Repeat Limit",
+      "titleSlug": "construct-string-with-repeat-limit",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.7087778142775636,
+      "link": "https://leetcode.com/problems/construct-string-with-repeat-limit",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Greedy",
+        "Heap (Priority Queue)",
+        "Counting"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Percentage of Users Attended a Contest",
+      "titleSlug": "percentage-of-users-attended-a-contest",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5894214941113579,
+      "link": "https://leetcode.com/problems/percentage-of-users-attended-a-contest",
+      "topics": [
+        "Database"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Ways to Paint N \u00d7 3 Grid",
+      "titleSlug": "number-of-ways-to-paint-n-3-grid",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6503587524201552,
+      "link": "https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid",
+      "topics": [
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Valid Palindrome II",
+      "titleSlug": "valid-palindrome-ii",
+      "difficulty": "EASY",
+      "frequency": 88.6,
+      "acceptanceRate": 0.43027175652195376,
+      "link": "https://leetcode.com/problems/valid-palindrome-ii",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Greedy"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "String",
+    "Greedy",
+    "Hash Table",
+    "Heap (Priority Queue)",
+    "Counting",
+    "Database",
+    "Dynamic Programming",
+    "Two Pointers"
+  ]
+}

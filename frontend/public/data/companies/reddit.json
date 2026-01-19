@@ -1,0 +1,147 @@
+{
+  "company": "Reddit",
+  "stats": {
+    "totalProblems": 6,
+    "uniqueProblems": 6,
+    "avgFrequency": 76.34615384615387,
+    "avgAcceptanceRate": 0.6005831517512203,
+    "difficultyDistribution": {
+      "EASY": 3,
+      "MEDIUM": 8,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Logger Rate Limiter",
+      "titleSlug": "logger-rate-limiter",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.766103057053701,
+      "link": "https://leetcode.com/problems/logger-rate-limiter",
+      "topics": [
+        "Hash Table",
+        "Design",
+        "Data Stream"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Word Ladder",
+      "titleSlug": "word-ladder",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4281192533926231,
+      "link": "https://leetcode.com/problems/word-ladder",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Breadth-First Search"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "LRU Cache",
+      "titleSlug": "lru-cache",
+      "difficulty": "MEDIUM",
+      "frequency": 80.0,
+      "acceptanceRate": 0.452147387470624,
+      "link": "https://leetcode.com/problems/lru-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Design Hit Counter",
+      "titleSlug": "design-hit-counter",
+      "difficulty": "MEDIUM",
+      "frequency": 66.7,
+      "acceptanceRate": 0.6920824458148753,
+      "link": "https://leetcode.com/problems/design-hit-counter",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Design",
+        "Queue",
+        "Data Stream"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Islands",
+      "titleSlug": "number-of-islands",
+      "difficulty": "MEDIUM",
+      "frequency": 59.0,
+      "acceptanceRate": 0.6232011443676149,
+      "link": "https://leetcode.com/problems/number-of-islands",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union Find",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Ways to Buy Pens and Pencils",
+      "titleSlug": "number-of-ways-to-buy-pens-and-pencils",
+      "difficulty": "MEDIUM",
+      "frequency": 59.0,
+      "acceptanceRate": 0.559085669756644,
+      "link": "https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils",
+      "topics": [
+        "Math",
+        "Enumeration"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Hash Table",
+    "Design",
+    "Data Stream",
+    "Breadth-First Search",
+    "Array",
+    "String",
+    "Linked List",
+    "Doubly-Linked List",
+    "Binary Search",
+    "Queue",
+    "Depth-First Search",
+    "Union Find",
+    "Matrix",
+    "Math",
+    "Enumeration"
+  ]
+}

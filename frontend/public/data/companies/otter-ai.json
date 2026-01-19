@@ -1,0 +1,116 @@
+{
+  "company": "Otter.ai",
+  "stats": {
+    "totalProblems": 5,
+    "uniqueProblems": 5,
+    "avgFrequency": 88.75555555555555,
+    "avgAcceptanceRate": 0.5474258444165438,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 5,
+      "HARD": 4,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Trapping Rain Water II",
+      "titleSlug": "trapping-rain-water-ii",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.588775626331106,
+      "link": "https://leetcode.com/problems/trapping-rain-water-ii",
+      "topics": [
+        "Array",
+        "Breadth-First Search",
+        "Heap (Priority Queue)",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "The Number of the Smallest Unoccupied Chair",
+      "titleSlug": "the-number-of-the-smallest-unoccupied-chair",
+      "difficulty": "MEDIUM",
+      "frequency": 89.6,
+      "acceptanceRate": 0.6041168373473392,
+      "link": "https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Heap (Priority Queue)"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Frog Jump",
+      "titleSlug": "frog-jump",
+      "difficulty": "HARD",
+      "frequency": 89.6,
+      "acceptanceRate": 0.4655899309885064,
+      "link": "https://leetcode.com/problems/frog-jump",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Word Break",
+      "titleSlug": "word-break",
+      "difficulty": "MEDIUM",
+      "frequency": 89.6,
+      "acceptanceRate": 0.4827562706373493,
+      "link": "https://leetcode.com/problems/word-break",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Dynamic Programming",
+        "Trie",
+        "Memoization"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Flatten Deeply Nested Array",
+      "titleSlug": "flatten-deeply-nested-array",
+      "difficulty": "MEDIUM",
+      "frequency": 82.5,
+      "acceptanceRate": 0.644355269140293,
+      "link": "https://leetcode.com/problems/flatten-deeply-nested-array",
+      "topics": [],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Heap (Priority Queue)",
+    "Hash Table",
+    "Dynamic Programming",
+    "Breadth-First Search",
+    "Matrix",
+    "String",
+    "Trie",
+    "Memoization"
+  ]
+}

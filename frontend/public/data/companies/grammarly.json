@@ -1,0 +1,557 @@
+{
+  "company": "Grammarly",
+  "stats": {
+    "totalProblems": 27,
+    "uniqueProblems": 27,
+    "avgFrequency": 71.65405405405404,
+    "avgAcceptanceRate": 0.5616541336597924,
+    "difficultyDistribution": {
+      "EASY": 20,
+      "MEDIUM": 48,
+      "HARD": 6,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Merge Intervals",
+      "titleSlug": "merge-intervals",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4939526352897762,
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "topics": [
+        "Array",
+        "Sorting"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Generate Parentheses",
+      "titleSlug": "generate-parentheses",
+      "difficulty": "MEDIUM",
+      "frequency": 90.7,
+      "acceptanceRate": 0.7713293364055746,
+      "link": "https://leetcode.com/problems/generate-parentheses",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Backtracking"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Remove All Adjacent Duplicates In String",
+      "titleSlug": "remove-all-adjacent-duplicates-in-string",
+      "difficulty": "EASY",
+      "frequency": 86.5,
+      "acceptanceRate": 0.715875534292082,
+      "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string",
+      "topics": [
+        "String",
+        "Stack"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Remove All Adjacent Duplicates in String II",
+      "titleSlug": "remove-all-adjacent-duplicates-in-string-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 86.5,
+      "acceptanceRate": 0.5960173343469628,
+      "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
+      "topics": [
+        "String",
+        "Stack"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Sqrt(x)",
+      "titleSlug": "sqrt-x",
+      "difficulty": "EASY",
+      "frequency": 86.5,
+      "acceptanceRate": 0.4037182691859833,
+      "link": "https://leetcode.com/problems/sqrtx",
+      "topics": [
+        "Math",
+        "Binary Search"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Search in Rotated Sorted Array",
+      "titleSlug": "search-in-rotated-sorted-array",
+      "difficulty": "MEDIUM",
+      "frequency": 81.3,
+      "acceptanceRate": 0.4283724679402803,
+      "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Insert Delete GetRandom O(1)",
+      "titleSlug": "insert-delete-getrandom-o-1",
+      "difficulty": "MEDIUM",
+      "frequency": 81.3,
+      "acceptanceRate": 0.5499191107870306,
+      "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Design",
+        "Randomized"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Perfect Number",
+      "titleSlug": "perfect-number",
+      "difficulty": "EASY",
+      "frequency": 81.3,
+      "acceptanceRate": 0.4489257450556843,
+      "link": "https://leetcode.com/problems/perfect-number",
+      "topics": [
+        "Math"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Repeated DNA Sequences",
+      "titleSlug": "repeated-dna-sequences",
+      "difficulty": "MEDIUM",
+      "frequency": 81.3,
+      "acceptanceRate": 0.5132038237868195,
+      "link": "https://leetcode.com/problems/repeated-dna-sequences",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Bit Manipulation",
+        "Sliding Window",
+        "Rolling Hash",
+        "Hash Function"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "30d",
+        "3m"
+      ]
+    },
+    {
+      "title": "Vowel Spellchecker",
+      "titleSlug": "vowel-spellchecker",
+      "difficulty": "MEDIUM",
+      "frequency": 74.7,
+      "acceptanceRate": 0.5157619197411585,
+      "link": "https://leetcode.com/problems/vowel-spellchecker",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Backspace String Compare",
+      "titleSlug": "backspace-string-compare",
+      "difficulty": "EASY",
+      "frequency": 70.0,
+      "acceptanceRate": 0.49481750190006574,
+      "link": "https://leetcode.com/problems/backspace-string-compare",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Stack",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Word Break II",
+      "titleSlug": "word-break-ii",
+      "difficulty": "HARD",
+      "frequency": 70.0,
+      "acceptanceRate": 0.5364546303753539,
+      "link": "https://leetcode.com/problems/word-break-ii",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Dynamic Programming",
+        "Backtracking",
+        "Trie",
+        "Memoization"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Trapping Rain Water",
+      "titleSlug": "trapping-rain-water",
+      "difficulty": "HARD",
+      "frequency": 65.4,
+      "acceptanceRate": 0.6510204648612313,
+      "link": "https://leetcode.com/problems/trapping-rain-water",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Dynamic Programming",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Islands",
+      "titleSlug": "number-of-islands",
+      "difficulty": "MEDIUM",
+      "frequency": 65.4,
+      "acceptanceRate": 0.6232009887594286,
+      "link": "https://leetcode.com/problems/number-of-islands",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union Find",
+        "Matrix"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Word Search",
+      "titleSlug": "word-search",
+      "difficulty": "MEDIUM",
+      "frequency": 65.4,
+      "acceptanceRate": 0.45267022679743557,
+      "link": "https://leetcode.com/problems/word-search",
+      "topics": [
+        "Array",
+        "String",
+        "Backtracking",
+        "Depth-First Search",
+        "Matrix"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Climbing Stairs",
+      "titleSlug": "climbing-stairs",
+      "difficulty": "EASY",
+      "frequency": 65.4,
+      "acceptanceRate": 0.535407459224679,
+      "link": "https://leetcode.com/problems/climbing-stairs",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Memoization"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Unique Paths",
+      "titleSlug": "unique-paths",
+      "difficulty": "MEDIUM",
+      "frequency": 65.4,
+      "acceptanceRate": 0.6577292198640936,
+      "link": "https://leetcode.com/problems/unique-paths",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Combinatorics"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "30d",
+        "3m"
+      ]
+    },
+    {
+      "title": "Word Break",
+      "titleSlug": "word-break",
+      "difficulty": "MEDIUM",
+      "frequency": 63.7,
+      "acceptanceRate": 0.48273866053327213,
+      "link": "https://leetcode.com/problems/word-break",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Dynamic Programming",
+        "Trie",
+        "Memoization"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Logger Rate Limiter",
+      "titleSlug": "logger-rate-limiter",
+      "difficulty": "EASY",
+      "frequency": 55.0,
+      "acceptanceRate": 0.766103057053701,
+      "link": "https://leetcode.com/problems/logger-rate-limiter",
+      "topics": [
+        "Hash Table",
+        "Design",
+        "Data Stream"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Sum of Left Leaves",
+      "titleSlug": "sum-of-left-leaves",
+      "difficulty": "EASY",
+      "frequency": 55.0,
+      "acceptanceRate": 0.6165969923913787,
+      "link": "https://leetcode.com/problems/sum-of-left-leaves",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Set Mismatch",
+      "titleSlug": "set-mismatch",
+      "difficulty": "EASY",
+      "frequency": 55.0,
+      "acceptanceRate": 0.4500023166771268,
+      "link": "https://leetcode.com/problems/set-mismatch",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Bit Manipulation",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Special Binary String",
+      "titleSlug": "special-binary-string",
+      "difficulty": "HARD",
+      "frequency": 55.0,
+      "acceptanceRate": 0.6351153721156971,
+      "link": "https://leetcode.com/problems/special-binary-string",
+      "topics": [
+        "String",
+        "Recursion"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Decode the Slanted Ciphertext",
+      "titleSlug": "decode-the-slanted-ciphertext",
+      "difficulty": "MEDIUM",
+      "frequency": 55.0,
+      "acceptanceRate": 0.4912737614129622,
+      "link": "https://leetcode.com/problems/decode-the-slanted-ciphertext",
+      "topics": [
+        "String",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Evaluate Reverse Polish Notation",
+      "titleSlug": "evaluate-reverse-polish-notation",
+      "difficulty": "MEDIUM",
+      "frequency": 55.0,
+      "acceptanceRate": 0.5495028146041505,
+      "link": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+      "topics": [
+        "Array",
+        "Math",
+        "Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Implement Trie (Prefix Tree)",
+      "titleSlug": "implement-trie-prefix-tree",
+      "difficulty": "MEDIUM",
+      "frequency": 55.0,
+      "acceptanceRate": 0.679349409041436,
+      "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Design",
+        "Trie"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Palindromes After Operations",
+      "titleSlug": "maximum-palindromes-after-operations",
+      "difficulty": "MEDIUM",
+      "frequency": 48.0,
+      "acceptanceRate": 0.4308371154815936,
+      "link": "https://leetcode.com/problems/maximum-palindromes-after-operations",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Greedy",
+        "Sorting",
+        "Counting"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Clone Graph",
+      "titleSlug": "clone-graph",
+      "difficulty": "MEDIUM",
+      "frequency": 48.0,
+      "acceptanceRate": 0.6238583023997237,
+      "link": "https://leetcode.com/problems/clone-graph",
+      "topics": [
+        "Hash Table",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "String",
+    "Array",
+    "Hash Table",
+    "Math",
+    "Dynamic Programming",
+    "Stack",
+    "Depth-First Search",
+    "Backtracking",
+    "Design",
+    "Sorting",
+    "Bit Manipulation",
+    "Breadth-First Search",
+    "Matrix",
+    "Memoization",
+    "Trie"
+  ]
+}

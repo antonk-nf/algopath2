@@ -1,0 +1,761 @@
+{
+  "company": "Turing",
+  "stats": {
+    "totalProblems": 41,
+    "uniqueProblems": 41,
+    "avgFrequency": 58.625000000000014,
+    "avgAcceptanceRate": 0.4995545506816131,
+    "difficultyDistribution": {
+      "EASY": 21,
+      "MEDIUM": 59,
+      "HARD": 4,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Longest Substring Without Repeating Characters",
+      "titleSlug": "longest-substring-without-repeating-characters",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.36936129661119277,
+      "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Valid Parentheses",
+      "titleSlug": "valid-parentheses",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4232287729354669,
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "topics": [
+        "String",
+        "Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Length of Anagram Concatenation",
+      "titleSlug": "minimum-length-of-anagram-concatenation",
+      "difficulty": "MEDIUM",
+      "frequency": 86.8,
+      "acceptanceRate": 0.39725376355135383,
+      "link": "https://leetcode.com/problems/minimum-length-of-anagram-concatenation",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Apply Operations to Make Sum of Array Greater Than or Equal to k",
+      "titleSlug": "apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k",
+      "difficulty": "MEDIUM",
+      "frequency": 86.8,
+      "acceptanceRate": 0.43382458559567927,
+      "link": "https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k",
+      "topics": [
+        "Math",
+        "Greedy",
+        "Enumeration"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Baseball Game",
+      "titleSlug": "baseball-game",
+      "difficulty": "EASY",
+      "frequency": 80.6,
+      "acceptanceRate": 0.7882494522276078,
+      "link": "https://leetcode.com/problems/baseball-game",
+      "topics": [
+        "Array",
+        "Stack",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Cost For Tickets",
+      "titleSlug": "minimum-cost-for-tickets",
+      "difficulty": "MEDIUM",
+      "frequency": 80.0,
+      "acceptanceRate": 0.6741376633860101,
+      "link": "https://leetcode.com/problems/minimum-cost-for-tickets",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Validate IP Address",
+      "titleSlug": "validate-ip-address",
+      "difficulty": "MEDIUM",
+      "frequency": 70.5,
+      "acceptanceRate": 0.27817524620453365,
+      "link": "https://leetcode.com/problems/validate-ip-address",
+      "topics": [
+        "String"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Koko Eating Bananas",
+      "titleSlug": "koko-eating-bananas",
+      "difficulty": "MEDIUM",
+      "frequency": 70.5,
+      "acceptanceRate": 0.4906727505946439,
+      "link": "https://leetcode.com/problems/koko-eating-bananas",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Race Car",
+      "titleSlug": "race-car",
+      "difficulty": "HARD",
+      "frequency": 70.5,
+      "acceptanceRate": 0.4412431163672474,
+      "link": "https://leetcode.com/problems/race-car",
+      "topics": [
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Jump Game",
+      "titleSlug": "jump-game",
+      "difficulty": "MEDIUM",
+      "frequency": 70.5,
+      "acceptanceRate": 0.3947918488639545,
+      "link": "https://leetcode.com/problems/jump-game",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Sum of Digit Differences of All Pairs",
+      "titleSlug": "sum-of-digit-differences-of-all-pairs",
+      "difficulty": "MEDIUM",
+      "frequency": 70.5,
+      "acceptanceRate": 0.4247694418738233,
+      "link": "https://leetcode.com/problems/sum-of-digit-differences-of-all-pairs",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Counting"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Common Prefix",
+      "titleSlug": "longest-common-prefix",
+      "difficulty": "EASY",
+      "frequency": 66.8,
+      "acceptanceRate": 0.45483155205927195,
+      "link": "https://leetcode.com/problems/longest-common-prefix",
+      "topics": [
+        "String",
+        "Trie"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Islands",
+      "titleSlug": "number-of-islands",
+      "difficulty": "MEDIUM",
+      "frequency": 63.2,
+      "acceptanceRate": 0.6232009446678927,
+      "link": "https://leetcode.com/problems/number-of-islands",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union Find",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Find the Town Judge",
+      "titleSlug": "find-the-town-judge",
+      "difficulty": "EASY",
+      "frequency": 63.2,
+      "acceptanceRate": 0.500057919960555,
+      "link": "https://leetcode.com/problems/find-the-town-judge",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Graph"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Subarray",
+      "titleSlug": "maximum-subarray",
+      "difficulty": "MEDIUM",
+      "frequency": 58.8,
+      "acceptanceRate": 0.5209981132194718,
+      "link": "https://leetcode.com/problems/maximum-subarray",
+      "topics": [
+        "Array",
+        "Divide and Conquer",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Climbing Stairs",
+      "titleSlug": "climbing-stairs",
+      "difficulty": "EASY",
+      "frequency": 58.8,
+      "acceptanceRate": 0.5354076254343969,
+      "link": "https://leetcode.com/problems/climbing-stairs",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Memoization"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Merge Intervals",
+      "titleSlug": "merge-intervals",
+      "difficulty": "MEDIUM",
+      "frequency": 53.1,
+      "acceptanceRate": 0.4939526408318937,
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "topics": [
+        "Array",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Regular Expression Matching",
+      "titleSlug": "regular-expression-matching",
+      "difficulty": "HARD",
+      "frequency": 53.1,
+      "acceptanceRate": 0.29280292384744266,
+      "link": "https://leetcode.com/problems/regular-expression-matching",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Recursion"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Find Duplicate File in System",
+      "titleSlug": "find-duplicate-file-in-system",
+      "difficulty": "MEDIUM",
+      "frequency": 53.1,
+      "acceptanceRate": 0.6757346336455794,
+      "link": "https://leetcode.com/problems/find-duplicate-file-in-system",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Consecutive Sequence",
+      "titleSlug": "longest-consecutive-sequence",
+      "difficulty": "MEDIUM",
+      "frequency": 53.1,
+      "acceptanceRate": 0.47040865577552277,
+      "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Union Find"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Partition Array Into Three Parts With Equal Sum",
+      "titleSlug": "partition-array-into-three-parts-with-equal-sum",
+      "difficulty": "EASY",
+      "frequency": 53.1,
+      "acceptanceRate": 0.4207926806119737,
+      "link": "https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum",
+      "topics": [
+        "Array",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Product of Array Except Self",
+      "titleSlug": "product-of-array-except-self",
+      "difficulty": "MEDIUM",
+      "frequency": 53.1,
+      "acceptanceRate": 0.677800644455029,
+      "link": "https://leetcode.com/problems/product-of-array-except-self",
+      "topics": [
+        "Array",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Number of Vowels in a Substring of Given Length",
+      "titleSlug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+      "difficulty": "MEDIUM",
+      "frequency": 53.1,
+      "acceptanceRate": 0.6041915539250602,
+      "link": "https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length",
+      "topics": [
+        "String",
+        "Sliding Window"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Subsequences That Satisfy the Given Sum Condition",
+      "titleSlug": "number-of-subsequences-that-satisfy-the-given-sum-condition",
+      "difficulty": "MEDIUM",
+      "frequency": 45.1,
+      "acceptanceRate": 0.4358411860032411,
+      "link": "https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Find All Anagrams in a String",
+      "titleSlug": "find-all-anagrams-in-a-string",
+      "difficulty": "MEDIUM",
+      "frequency": 45.1,
+      "acceptanceRate": 0.5220068023059492,
+      "link": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "titleSlug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "EASY",
+      "frequency": 45.1,
+      "acceptanceRate": 0.5525963622704052,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Kth Largest Element in an Array",
+      "titleSlug": "kth-largest-element-in-an-array",
+      "difficulty": "MEDIUM",
+      "frequency": 45.1,
+      "acceptanceRate": 0.6797702368478369,
+      "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+      "topics": [
+        "Array",
+        "Divide and Conquer",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Quickselect"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Repeating Substring",
+      "titleSlug": "maximum-repeating-substring",
+      "difficulty": "EASY",
+      "frequency": 45.1,
+      "acceptanceRate": 0.3962144463908421,
+      "link": "https://leetcode.com/problems/maximum-repeating-substring",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "String Matching"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "House Robber",
+      "titleSlug": "house-robber",
+      "difficulty": "MEDIUM",
+      "frequency": 45.1,
+      "acceptanceRate": 0.5230502863618359,
+      "link": "https://leetcode.com/problems/house-robber",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Spiral Matrix",
+      "titleSlug": "spiral-matrix",
+      "difficulty": "MEDIUM",
+      "frequency": 45.1,
+      "acceptanceRate": 0.5393980917622436,
+      "link": "https://leetcode.com/problems/spiral-matrix",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Palindromic Substring",
+      "titleSlug": "longest-palindromic-substring",
+      "difficulty": "MEDIUM",
+      "frequency": 45.1,
+      "acceptanceRate": 0.3584614444825314,
+      "link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Degree of an Array",
+      "titleSlug": "degree-of-an-array",
+      "difficulty": "EASY",
+      "frequency": 45.1,
+      "acceptanceRate": 0.5742044514093503,
+      "link": "https://leetcode.com/problems/degree-of-an-array",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Consecutive Numbers",
+      "titleSlug": "consecutive-numbers",
+      "difficulty": "MEDIUM",
+      "frequency": 45.1,
+      "acceptanceRate": 0.46097312127158946,
+      "link": "https://leetcode.com/problems/consecutive-numbers",
+      "topics": [
+        "Database"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Valid Palindrome",
+      "titleSlug": "valid-palindrome",
+      "difficulty": "EASY",
+      "frequency": 45.1,
+      "acceptanceRate": 0.5096354791717661,
+      "link": "https://leetcode.com/problems/valid-palindrome",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Repeating Character Replacement",
+      "titleSlug": "longest-repeating-character-replacement",
+      "difficulty": "MEDIUM",
+      "frequency": 45.1,
+      "acceptanceRate": 0.5721174518389321,
+      "link": "https://leetcode.com/problems/longest-repeating-character-replacement",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Group Anagrams",
+      "titleSlug": "group-anagrams",
+      "difficulty": "MEDIUM",
+      "frequency": 45.1,
+      "acceptanceRate": 0.7092889662302778,
+      "link": "https://leetcode.com/problems/group-anagrams",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Reverse Only Letters",
+      "titleSlug": "reverse-only-letters",
+      "difficulty": "EASY",
+      "frequency": 43.7,
+      "acceptanceRate": 0.6683340514041327,
+      "link": "https://leetcode.com/problems/reverse-only-letters",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "3Sum",
+      "titleSlug": "3sum",
+      "difficulty": "MEDIUM",
+      "frequency": 43.7,
+      "acceptanceRate": 0.37071040457602356,
+      "link": "https://leetcode.com/problems/3sum",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Number of Operations to Make Word K-Periodic",
+      "titleSlug": "minimum-number-of-operations-to-make-word-k-periodic",
+      "difficulty": "MEDIUM",
+      "frequency": 43.7,
+      "acceptanceRate": 0.5971769815418024,
+      "link": "https://leetcode.com/problems/minimum-number-of-operations-to-make-word-k-periodic",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "titleSlug": "find-first-and-last-position-of-element-in-sorted-array",
+      "difficulty": "MEDIUM",
+      "frequency": 43.7,
+      "acceptanceRate": 0.46828845687354886,
+      "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Number of Operations to Satisfy Conditions",
+      "titleSlug": "minimum-number-of-operations-to-satisfy-conditions",
+      "difficulty": "MEDIUM",
+      "frequency": 43.7,
+      "acceptanceRate": 0.4063934543205765,
+      "link": "https://leetcode.com/problems/minimum-number-of-operations-to-satisfy-conditions",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Matrix"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "String",
+    "Hash Table",
+    "Dynamic Programming",
+    "Sliding Window",
+    "Sorting",
+    "Two Pointers",
+    "Math",
+    "Greedy",
+    "Counting",
+    "Binary Search",
+    "Matrix",
+    "Stack",
+    "Simulation",
+    "Union Find"
+  ]
+}

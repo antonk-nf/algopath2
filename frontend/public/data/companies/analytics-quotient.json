@@ -1,0 +1,52 @@
+{
+  "company": "Analytics quotient",
+  "stats": {
+    "totalProblems": 2,
+    "uniqueProblems": 2,
+    "avgFrequency": 100.0,
+    "avgAcceptanceRate": 0.5071689047440322,
+    "difficultyDistribution": {
+      "EASY": 4,
+      "MEDIUM": 0,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "The Number of Users That Are Eligible for Discount",
+      "titleSlug": "the-number-of-users-that-are-eligible-for-discount",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5061860496221494,
+      "link": "https://leetcode.com/problems/the-number-of-users-that-are-eligible-for-discount",
+      "topics": [
+        "Database"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "The Users That Are Eligible for Discount",
+      "titleSlug": "the-users-that-are-eligible-for-discount",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.508151759865915,
+      "link": "https://leetcode.com/problems/the-users-that-are-eligible-for-discount",
+      "topics": [
+        "Database"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Database"
+  ]
+}

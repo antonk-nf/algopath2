@@ -1,0 +1,612 @@
+{
+  "dataset_stats": {
+    "total_records": 18668,
+    "unique_problems": 1923,
+    "unique_companies": 469,
+    "timeframes": [
+      "30d",
+      "3m",
+      "6m",
+      "6m+",
+      "all"
+    ],
+    "difficulties": {
+      "MEDIUM": 11172,
+      "EASY": 4105,
+      "HARD": 3391
+    },
+    "date_range": {
+      "earliest": "2026-01-19T17:13:46.681300",
+      "latest": "2026-01-19T17:13:46.867944"
+    }
+  },
+  "top_metrics": {
+    "most_frequent_problem": "Subarray With Elements Greater Than Varying Threshold",
+    "highest_acceptance_rate": "Return Length of Arguments Passed",
+    "most_active_company": "Amazon",
+    "most_common_topic": "Array"
+  },
+  "analytics_capabilities": {
+    "cross_company_analysis": [
+      "Top problems ranking",
+      "Company comparisons",
+      "Common problems identification",
+      "Company rankings"
+    ],
+    "topic_analysis": [
+      "Topic frequency analysis",
+      "Topic trend detection",
+      "Topic correlations",
+      "Heatmap generation"
+    ],
+    "trend_analysis": [
+      "Problem trend analysis",
+      "Company trend analysis",
+      "Seasonal pattern detection",
+      "Momentum change identification"
+    ],
+    "difficulty_analysis": [
+      "Difficulty distribution analysis",
+      "Acceptance rate outlier detection",
+      "Difficulty-topic correlations",
+      "Company difficulty preferences"
+    ]
+  },
+  "company_breakdown": [
+    {
+      "company": "Google",
+      "total_problems": 500,
+      "unique_problems": 277,
+      "avg_frequency": 40.884800000000006
+    },
+    {
+      "company": "Amazon",
+      "total_problems": 500,
+      "unique_problems": 199,
+      "avg_frequency": 53.824400000000004
+    },
+    {
+      "company": "Meta",
+      "total_problems": 500,
+      "unique_problems": 217,
+      "avg_frequency": 50.233
+    },
+    {
+      "company": "Microsoft",
+      "total_problems": 447,
+      "unique_problems": 192,
+      "avg_frequency": 50.51454138702461
+    },
+    {
+      "company": "Bloomberg",
+      "total_problems": 433,
+      "unique_problems": 191,
+      "avg_frequency": 54.67413394919169
+    },
+    {
+      "company": "Apple",
+      "total_problems": 375,
+      "unique_problems": 171,
+      "avg_frequency": 50.86559999999999
+    },
+    {
+      "company": "TikTok",
+      "total_problems": 367,
+      "unique_problems": 180,
+      "avg_frequency": 56.294277929155314
+    },
+    {
+      "company": "LinkedIn",
+      "total_problems": 349,
+      "unique_problems": 141,
+      "avg_frequency": 53.008882521489966
+    },
+    {
+      "company": "Uber",
+      "total_problems": 344,
+      "unique_problems": 177,
+      "avg_frequency": 51.55261627906976
+    },
+    {
+      "company": "Oracle",
+      "total_problems": 337,
+      "unique_problems": 163,
+      "avg_frequency": 55.65816023738872
+    },
+    {
+      "company": "Goldman Sachs",
+      "total_problems": 325,
+      "unique_problems": 159,
+      "avg_frequency": 43.479692307692304
+    },
+    {
+      "company": "Yandex",
+      "total_problems": 293,
+      "unique_problems": 119,
+      "avg_frequency": 56.99351535836177
+    },
+    {
+      "company": "Salesforce",
+      "total_problems": 262,
+      "unique_problems": 138,
+      "avg_frequency": 54.65801526717557
+    },
+    {
+      "company": "Zoho",
+      "total_problems": 261,
+      "unique_problems": 120,
+      "avg_frequency": 63.213026819923364
+    },
+    {
+      "company": "tcs",
+      "total_problems": 251,
+      "unique_problems": 130,
+      "avg_frequency": 48.91195219123506
+    },
+    {
+      "company": "Walmart Labs",
+      "total_problems": 250,
+      "unique_problems": 122,
+      "avg_frequency": 60.809599999999996
+    },
+    {
+      "company": "Nvidia",
+      "total_problems": 237,
+      "unique_problems": 117,
+      "avg_frequency": 57.143881856540084
+    },
+    {
+      "company": "Snap",
+      "total_problems": 236,
+      "unique_problems": 106,
+      "avg_frequency": 65.64999999999999
+    },
+    {
+      "company": "DoorDash",
+      "total_problems": 234,
+      "unique_problems": 88,
+      "avg_frequency": 51.57948717948718
+    },
+    {
+      "company": "IBM",
+      "total_problems": 231,
+      "unique_problems": 115,
+      "avg_frequency": 55.99393939393939
+    },
+    {
+      "company": "PayPal",
+      "total_problems": 227,
+      "unique_problems": 109,
+      "avg_frequency": 54.695594713656384
+    },
+    {
+      "company": "Adobe",
+      "total_problems": 222,
+      "unique_problems": 113,
+      "avg_frequency": 48.769819819819816
+    },
+    {
+      "company": "Snowflake",
+      "total_problems": 217,
+      "unique_problems": 90,
+      "avg_frequency": 62.100921658986174
+    },
+    {
+      "company": "Flipkart",
+      "total_problems": 215,
+      "unique_problems": 111,
+      "avg_frequency": 56.362325581395346
+    },
+    {
+      "company": "Citadel",
+      "total_problems": 215,
+      "unique_problems": 101,
+      "avg_frequency": 54.201860465116276
+    },
+    {
+      "company": "DE Shaw",
+      "total_problems": 211,
+      "unique_problems": 104,
+      "avg_frequency": 57.44549763033175
+    },
+    {
+      "company": "Accenture",
+      "total_problems": 211,
+      "unique_problems": 111,
+      "avg_frequency": 56.976303317535546
+    },
+    {
+      "company": "Infosys",
+      "total_problems": 209,
+      "unique_problems": 105,
+      "avg_frequency": 62.9377990430622
+    },
+    {
+      "company": "Yahoo",
+      "total_problems": 205,
+      "unique_problems": 106,
+      "avg_frequency": 46.07658536585366
+    },
+    {
+      "company": "Cisco",
+      "total_problems": 188,
+      "unique_problems": 87,
+      "avg_frequency": 50.861702127659576
+    },
+    {
+      "company": "Visa",
+      "total_problems": 187,
+      "unique_problems": 84,
+      "avg_frequency": 62.213903743315505
+    },
+    {
+      "company": "Atlassian",
+      "total_problems": 178,
+      "unique_problems": 73,
+      "avg_frequency": 51.002808988764045
+    },
+    {
+      "company": "PhonePe",
+      "total_problems": 176,
+      "unique_problems": 93,
+      "avg_frequency": 58.69943181818182
+    },
+    {
+      "company": "ServiceNow",
+      "total_problems": 169,
+      "unique_problems": 84,
+      "avg_frequency": 65.92248520710059
+    },
+    {
+      "company": "J.P. Morgan",
+      "total_problems": 165,
+      "unique_problems": 79,
+      "avg_frequency": 56.26969696969697
+    },
+    {
+      "company": "Samsung",
+      "total_problems": 153,
+      "unique_problems": 73,
+      "avg_frequency": 61.11307189542483
+    },
+    {
+      "company": "eBay",
+      "total_problems": 152,
+      "unique_problems": 78,
+      "avg_frequency": 68.99144736842106
+    },
+    {
+      "company": "Intuit",
+      "total_problems": 145,
+      "unique_problems": 73,
+      "avg_frequency": 61.64068965517241
+    },
+    {
+      "company": "Airbnb",
+      "total_problems": 132,
+      "unique_problems": 58,
+      "avg_frequency": 64.19015151515151
+    },
+    {
+      "company": "ByteDance",
+      "total_problems": 132,
+      "unique_problems": 64,
+      "avg_frequency": 62.91590909090909
+    },
+    {
+      "company": "Pinterest",
+      "total_problems": 123,
+      "unique_problems": 49,
+      "avg_frequency": 59.6910569105691
+    },
+    {
+      "company": "Capital One",
+      "total_problems": 123,
+      "unique_problems": 47,
+      "avg_frequency": 65.4430894308943
+    },
+    {
+      "company": "Nutanix",
+      "total_problems": 120,
+      "unique_problems": 60,
+      "avg_frequency": 75.7575
+    },
+    {
+      "company": "Wix",
+      "total_problems": 120,
+      "unique_problems": 57,
+      "avg_frequency": 70.71583333333334
+    },
+    {
+      "company": "Roblox",
+      "total_problems": 109,
+      "unique_problems": 53,
+      "avg_frequency": 56.902752293577976
+    },
+    {
+      "company": "Coupang",
+      "total_problems": 106,
+      "unique_problems": 49,
+      "avg_frequency": 73.69716981132075
+    },
+    {
+      "company": "X",
+      "total_problems": 101,
+      "unique_problems": 52,
+      "avg_frequency": 79.2871287128713
+    },
+    {
+      "company": "Morgan Stanley",
+      "total_problems": 95,
+      "unique_problems": 51,
+      "avg_frequency": 62.578947368421055
+    },
+    {
+      "company": "Qualcomm",
+      "total_problems": 95,
+      "unique_problems": 48,
+      "avg_frequency": 72.2821052631579
+    },
+    {
+      "company": "Expedia",
+      "total_problems": 93,
+      "unique_problems": 49,
+      "avg_frequency": 74.61720430107526
+    }
+  ],
+  "topic_analysis": {
+    "total_topics": 71,
+    "top_topics": [
+      {
+        "topic": "Array",
+        "frequency": 10569,
+        "companies": 437
+      },
+      {
+        "topic": "String",
+        "frequency": 5159,
+        "companies": 372
+      },
+      {
+        "topic": "Hash Table",
+        "frequency": 4544,
+        "companies": 355
+      },
+      {
+        "topic": "Dynamic Programming",
+        "frequency": 3419,
+        "companies": 307
+      },
+      {
+        "topic": "Sorting",
+        "frequency": 2686,
+        "companies": 297
+      },
+      {
+        "topic": "Two Pointers",
+        "frequency": 2561,
+        "companies": 265
+      },
+      {
+        "topic": "Math",
+        "frequency": 2282,
+        "companies": 254
+      },
+      {
+        "topic": "Depth-First Search",
+        "frequency": 1862,
+        "companies": 205
+      },
+      {
+        "topic": "Breadth-First Search",
+        "frequency": 1711,
+        "companies": 209
+      },
+      {
+        "topic": "Matrix",
+        "frequency": 1702,
+        "companies": 213
+      },
+      {
+        "topic": "Binary Search",
+        "frequency": 1692,
+        "companies": 204
+      },
+      {
+        "topic": "Stack",
+        "frequency": 1560,
+        "companies": 235
+      },
+      {
+        "topic": "Greedy",
+        "frequency": 1551,
+        "companies": 229
+      },
+      {
+        "topic": "Design",
+        "frequency": 1314,
+        "companies": 202
+      },
+      {
+        "topic": "Linked List",
+        "frequency": 1282,
+        "companies": 177
+      },
+      {
+        "topic": "Heap (Priority Queue)",
+        "frequency": 1173,
+        "companies": 199
+      },
+      {
+        "topic": "Tree",
+        "frequency": 1060,
+        "companies": 136
+      },
+      {
+        "topic": "Backtracking",
+        "frequency": 963,
+        "companies": 130
+      },
+      {
+        "topic": "Binary Tree",
+        "frequency": 926,
+        "companies": 117
+      },
+      {
+        "topic": "Sliding Window",
+        "frequency": 882,
+        "companies": 176
+      },
+      {
+        "topic": "Recursion",
+        "frequency": 826,
+        "companies": 145
+      },
+      {
+        "topic": "Simulation",
+        "frequency": 799,
+        "companies": 167
+      },
+      {
+        "topic": "Divide and Conquer",
+        "frequency": 726,
+        "companies": 126
+      },
+      {
+        "topic": "Prefix Sum",
+        "frequency": 701,
+        "companies": 152
+      },
+      {
+        "topic": "Graph",
+        "frequency": 643,
+        "companies": 131
+      },
+      {
+        "topic": "Union Find",
+        "frequency": 612,
+        "companies": 139
+      },
+      {
+        "topic": "Bit Manipulation",
+        "frequency": 594,
+        "companies": 127
+      },
+      {
+        "topic": "Counting",
+        "frequency": 588,
+        "companies": 153
+      },
+      {
+        "topic": "Trie",
+        "frequency": 533,
+        "companies": 132
+      },
+      {
+        "topic": "Monotonic Stack",
+        "frequency": 501,
+        "companies": 123
+      },
+      {
+        "topic": "Doubly-Linked List",
+        "frequency": 373,
+        "companies": 122
+      },
+      {
+        "topic": "Queue",
+        "frequency": 326,
+        "companies": 97
+      },
+      {
+        "topic": "Memoization",
+        "frequency": 285,
+        "companies": 81
+      },
+      {
+        "topic": "Topological Sort",
+        "frequency": 279,
+        "companies": 72
+      },
+      {
+        "topic": "Database",
+        "frequency": 263,
+        "companies": 74
+      },
+      {
+        "topic": "Binary Search Tree",
+        "frequency": 214,
+        "companies": 48
+      },
+      {
+        "topic": "Data Stream",
+        "frequency": 209,
+        "companies": 67
+      },
+      {
+        "topic": "Ordered Set",
+        "frequency": 192,
+        "companies": 59
+      },
+      {
+        "topic": "Quickselect",
+        "frequency": 185,
+        "companies": 71
+      },
+      {
+        "topic": "Randomized",
+        "frequency": 169,
+        "companies": 58
+      },
+      {
+        "topic": "String Matching",
+        "frequency": 151,
+        "companies": 51
+      },
+      {
+        "topic": "Enumeration",
+        "frequency": 139,
+        "companies": 60
+      },
+      {
+        "topic": "Hash Function",
+        "frequency": 137,
+        "companies": 47
+      },
+      {
+        "topic": "Bucket Sort",
+        "frequency": 132,
+        "companies": 56
+      },
+      {
+        "topic": "Merge Sort",
+        "frequency": 122,
+        "companies": 49
+      },
+      {
+        "topic": "Monotonic Queue",
+        "frequency": 115,
+        "companies": 50
+      },
+      {
+        "topic": "Bitmask",
+        "frequency": 111,
+        "companies": 42
+      },
+      {
+        "topic": "Segment Tree",
+        "frequency": 111,
+        "companies": 39
+      },
+      {
+        "topic": "Combinatorics",
+        "frequency": 105,
+        "companies": 45
+      },
+      {
+        "topic": "Geometry",
+        "frequency": 95,
+        "companies": 36
+      }
+    ]
+  }
+}

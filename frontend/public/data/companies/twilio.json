@@ -1,0 +1,270 @@
+{
+  "company": "Twilio",
+  "stats": {
+    "totalProblems": 13,
+    "uniqueProblems": 13,
+    "avgFrequency": 70.15217391304346,
+    "avgAcceptanceRate": 0.5946033115326796,
+    "difficultyDistribution": {
+      "EASY": 4,
+      "MEDIUM": 13,
+      "HARD": 6,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Maximize Greatness of an Array",
+      "titleSlug": "maximize-greatness-of-an-array",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5864617466875623,
+      "link": "https://leetcode.com/problems/maximize-greatness-of-an-array",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Greedy",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Letter Combinations of a Phone Number",
+      "titleSlug": "letter-combinations-of-a-phone-number",
+      "difficulty": "MEDIUM",
+      "frequency": 79.3,
+      "acceptanceRate": 0.6385757423813572,
+      "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Backtracking"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Univalued Binary Tree",
+      "titleSlug": "univalued-binary-tree",
+      "difficulty": "EASY",
+      "frequency": 79.3,
+      "acceptanceRate": 0.7209294960383269,
+      "link": "https://leetcode.com/problems/univalued-binary-tree",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Text Justification",
+      "titleSlug": "text-justification",
+      "difficulty": "HARD",
+      "frequency": 69.3,
+      "acceptanceRate": 0.48150030252296216,
+      "link": "https://leetcode.com/problems/text-justification",
+      "topics": [
+        "Array",
+        "String",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Number of Swaps to Make the String Balanced",
+      "titleSlug": "minimum-number-of-swaps-to-make-the-string-balanced",
+      "difficulty": "MEDIUM",
+      "frequency": 69.3,
+      "acceptanceRate": 0.7796926022806927,
+      "link": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Stack",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Equal Sum of Two Arrays After Replacing Zeros",
+      "titleSlug": "minimum-equal-sum-of-two-arrays-after-replacing-zeros",
+      "difficulty": "MEDIUM",
+      "frequency": 69.3,
+      "acceptanceRate": 0.5016214325632321,
+      "link": "https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros",
+      "topics": [
+        "Array",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Reformat Date",
+      "titleSlug": "reformat-date",
+      "difficulty": "EASY",
+      "frequency": 69.3,
+      "acceptanceRate": 0.6733470658385863,
+      "link": "https://leetcode.com/problems/reformat-date",
+      "topics": [
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Group Anagrams",
+      "titleSlug": "group-anagrams",
+      "difficulty": "MEDIUM",
+      "frequency": 69.3,
+      "acceptanceRate": 0.7092888587313239,
+      "link": "https://leetcode.com/problems/group-anagrams",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "First Missing Positive",
+      "titleSlug": "first-missing-positive",
+      "difficulty": "HARD",
+      "frequency": 69.3,
+      "acceptanceRate": 0.41084662614844286,
+      "link": "https://leetcode.com/problems/first-missing-positive",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Top K Frequent Elements",
+      "titleSlug": "top-k-frequent-elements",
+      "difficulty": "MEDIUM",
+      "frequency": 69.3,
+      "acceptanceRate": 0.645659866625562,
+      "link": "https://leetcode.com/problems/top-k-frequent-elements",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Divide and Conquer",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Bucket Sort",
+        "Counting",
+        "Quickselect"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Reconstruct Itinerary",
+      "titleSlug": "reconstruct-itinerary",
+      "difficulty": "HARD",
+      "frequency": 56.8,
+      "acceptanceRate": 0.4360565622834155,
+      "link": "https://leetcode.com/problems/reconstruct-itinerary",
+      "topics": [
+        "Depth-First Search",
+        "Graph",
+        "Eulerian Circuit"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Wildcard Matching",
+      "titleSlug": "wildcard-matching",
+      "difficulty": "HARD",
+      "frequency": 56.8,
+      "acceptanceRate": 0.2989829339911512,
+      "link": "https://leetcode.com/problems/wildcard-matching",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Greedy",
+        "Recursion"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Ways to Make a Fair Array",
+      "titleSlug": "ways-to-make-a-fair-array",
+      "difficulty": "MEDIUM",
+      "frequency": 56.8,
+      "acceptanceRate": 0.644989189340971,
+      "link": "https://leetcode.com/problems/ways-to-make-a-fair-array",
+      "topics": [
+        "Array",
+        "Prefix Sum"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "String",
+    "Hash Table",
+    "Greedy",
+    "Sorting",
+    "Two Pointers",
+    "Depth-First Search",
+    "Backtracking",
+    "Tree",
+    "Breadth-First Search",
+    "Binary Tree",
+    "Simulation",
+    "Stack",
+    "Divide and Conquer",
+    "Heap (Priority Queue)"
+  ]
+}

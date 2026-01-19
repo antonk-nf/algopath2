@@ -1,0 +1,137 @@
+{
+  "company": "Zalando",
+  "stats": {
+    "totalProblems": 6,
+    "uniqueProblems": 6,
+    "avgFrequency": 77.17272727272729,
+    "avgAcceptanceRate": 0.49465387752885326,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 9,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "String Without AAA or BBB",
+      "titleSlug": "string-without-aaa-or-bbb",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.44516387852529393,
+      "link": "https://leetcode.com/problems/string-without-aaa-or-bbb",
+      "topics": [
+        "String",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Lemonade Change",
+      "titleSlug": "lemonade-change",
+      "difficulty": "EASY",
+      "frequency": 87.7,
+      "acceptanceRate": 0.5844961101877493,
+      "link": "https://leetcode.com/problems/lemonade-change",
+      "topics": [
+        "Array",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Construct the Longest New String",
+      "titleSlug": "construct-the-longest-new-string",
+      "difficulty": "MEDIUM",
+      "frequency": 78.0,
+      "acceptanceRate": 0.5384322081417517,
+      "link": "https://leetcode.com/problems/construct-the-longest-new-string",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Greedy",
+        "Brainteaser"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "LRU Cache",
+      "titleSlug": "lru-cache",
+      "difficulty": "MEDIUM",
+      "frequency": 78.0,
+      "acceptanceRate": 0.45214888759813204,
+      "link": "https://leetcode.com/problems/lru-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Merge Intervals",
+      "titleSlug": "merge-intervals",
+      "difficulty": "MEDIUM",
+      "frequency": 78.0,
+      "acceptanceRate": 0.49395258385849666,
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "topics": [
+        "Array",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Largest Number",
+      "titleSlug": "largest-number",
+      "difficulty": "MEDIUM",
+      "frequency": 62.2,
+      "acceptanceRate": 0.4128053161945387,
+      "link": "https://leetcode.com/problems/largest-number",
+      "topics": [
+        "Array",
+        "String",
+        "Greedy",
+        "Sorting"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Greedy",
+    "Array",
+    "String",
+    "Sorting",
+    "Math",
+    "Dynamic Programming",
+    "Brainteaser",
+    "Hash Table",
+    "Linked List",
+    "Design",
+    "Doubly-Linked List"
+  ]
+}

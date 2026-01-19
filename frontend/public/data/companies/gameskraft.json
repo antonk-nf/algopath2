@@ -1,0 +1,109 @@
+{
+  "company": "Gameskraft",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 74.35000000000001,
+    "avgAcceptanceRate": 0.44080177348035116,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 0,
+      "HARD": 8,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Maximize Sum of Weights after Edge Removals",
+      "titleSlug": "maximize-sum-of-weights-after-edge-removals",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.2908775121991564,
+      "link": "https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals",
+      "topics": [
+        "Dynamic Programming",
+        "Tree",
+        "Depth-First Search"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "IPO",
+      "titleSlug": "ipo",
+      "difficulty": "HARD",
+      "frequency": 65.9,
+      "acceptanceRate": 0.5301970818223468,
+      "link": "https://leetcode.com/problems/ipo",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "LFU Cache",
+      "titleSlug": "lfu-cache",
+      "difficulty": "HARD",
+      "frequency": 65.9,
+      "acceptanceRate": 0.4660922759966748,
+      "link": "https://leetcode.com/problems/lfu-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Sliding Window Maximum",
+      "titleSlug": "sliding-window-maximum",
+      "difficulty": "HARD",
+      "frequency": 65.9,
+      "acceptanceRate": 0.47604022390322664,
+      "link": "https://leetcode.com/problems/sliding-window-maximum",
+      "topics": [
+        "Array",
+        "Queue",
+        "Sliding Window",
+        "Heap (Priority Queue)",
+        "Monotonic Queue"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Heap (Priority Queue)",
+    "Dynamic Programming",
+    "Tree",
+    "Depth-First Search",
+    "Greedy",
+    "Sorting",
+    "Hash Table",
+    "Linked List",
+    "Design",
+    "Doubly-Linked List",
+    "Queue",
+    "Sliding Window",
+    "Monotonic Queue"
+  ]
+}

@@ -36,9 +36,10 @@ python-dotenv>=1.0.0
 
 # Optional database drivers
 psycopg2-binary>=2.9.0  # PostgreSQL
-sqlite3  # Built-in SQLite support
+# sqlite3 is built-in to Python
 
 # Performance and utilities
+psutil>=5.9.0  # System monitoring
 tqdm>=4.66.0  # Progress bars
 click>=8.1.0  # CLI support
 chardet>=5.0.0  # Character encoding detection

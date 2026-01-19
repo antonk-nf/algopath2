@@ -1,0 +1,58 @@
+{
+  "company": "Komprise",
+  "stats": {
+    "totalProblems": 2,
+    "uniqueProblems": 2,
+    "avgFrequency": 100.0,
+    "avgAcceptanceRate": 0.5870512640786234,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 0,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Time Needed to Buy Tickets",
+      "titleSlug": "time-needed-to-buy-tickets",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.7070583253471215,
+      "link": "https://leetcode.com/problems/time-needed-to-buy-tickets",
+      "topics": [
+        "Array",
+        "Queue",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Candy",
+      "titleSlug": "candy",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4670442028101253,
+      "link": "https://leetcode.com/problems/candy",
+      "topics": [
+        "Array",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Queue",
+    "Simulation",
+    "Greedy"
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "company": "Compass",
+  "stats": {
+    "totalProblems": 6,
+    "uniqueProblems": 6,
+    "avgFrequency": 93.03333333333335,
+    "avgAcceptanceRate": 0.5687906324521984,
+    "difficultyDistribution": {
+      "EASY": 4,
+      "MEDIUM": 8,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Decode String",
+      "titleSlug": "decode-string",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6115276408838193,
+      "link": "https://leetcode.com/problems/decode-string",
+      "topics": [
+        "String",
+        "Stack",
+        "Recursion"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Total Distance Traveled",
+      "titleSlug": "total-distance-traveled",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4016833878179837,
+      "link": "https://leetcode.com/problems/total-distance-traveled",
+      "topics": [
+        "Math",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Group Anagrams",
+      "titleSlug": "group-anagrams",
+      "difficulty": "MEDIUM",
+      "frequency": 89.8,
+      "acceptanceRate": 0.7092899316934461,
+      "link": "https://leetcode.com/problems/group-anagrams",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Camelcase Matching",
+      "titleSlug": "camelcase-matching",
+      "difficulty": "MEDIUM",
+      "frequency": 89.8,
+      "acceptanceRate": 0.63780016867149,
+      "link": "https://leetcode.com/problems/camelcase-matching",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "String",
+        "Trie",
+        "String Matching"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Subtree of Another Tree",
+      "titleSlug": "subtree-of-another-tree",
+      "difficulty": "EASY",
+      "frequency": 89.8,
+      "acceptanceRate": 0.4998476418026165,
+      "link": "https://leetcode.com/problems/subtree-of-another-tree",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "String Matching",
+        "Binary Tree",
+        "Hash Function"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Time Based Key-Value Store",
+      "titleSlug": "time-based-key-value-store",
+      "difficulty": "MEDIUM",
+      "frequency": 89.4,
+      "acceptanceRate": 0.4936627725463274,
+      "link": "https://leetcode.com/problems/time-based-key-value-store",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Binary Search",
+        "Design"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "String",
+    "Array",
+    "String Matching",
+    "Stack",
+    "Recursion",
+    "Hash Table",
+    "Math",
+    "Simulation",
+    "Sorting",
+    "Two Pointers",
+    "Trie",
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree",
+    "Hash Function"
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "company": "Mitsogo",
+  "stats": {
+    "totalProblems": 16,
+    "uniqueProblems": 16,
+    "avgFrequency": 77.5,
+    "avgAcceptanceRate": 0.43352423143582675,
+    "difficultyDistribution": {
+      "EASY": 8,
+      "MEDIUM": 20,
+      "HARD": 4,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Symmetric Coordinates",
+      "titleSlug": "symmetric-coordinates",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4074513124470788,
+      "link": "https://leetcode.com/problems/symmetric-coordinates",
+      "topics": [
+        "Database"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Pascal's Triangle",
+      "titleSlug": "pascal-s-triangle",
+      "difficulty": "EASY",
+      "frequency": 73.8,
+      "acceptanceRate": 0.7702172477643647,
+      "link": "https://leetcode.com/problems/pascals-triangle",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Next Permutation",
+      "titleSlug": "next-permutation",
+      "difficulty": "MEDIUM",
+      "frequency": 73.8,
+      "acceptanceRate": 0.4305776819997956,
+      "link": "https://leetcode.com/problems/next-permutation",
+      "topics": [
+        "Array",
+        "Two Pointers"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Find the Integer Added to Array I",
+      "titleSlug": "find-the-integer-added-to-array-i",
+      "difficulty": "EASY",
+      "frequency": 65.0,
+      "acceptanceRate": 0.820231981072191,
+      "link": "https://leetcode.com/problems/find-the-integer-added-to-array-i",
+      "topics": [
+        "Array"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Find the Integer Added to Array II",
+      "titleSlug": "find-the-integer-added-to-array-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 65.0,
+      "acceptanceRate": 0.31870439532689165,
+      "link": "https://leetcode.com/problems/find-the-integer-added-to-array-ii",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting",
+        "Enumeration"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Substring Partition of Equal Character Frequency",
+      "titleSlug": "minimum-substring-partition-of-equal-character-frequency",
+      "difficulty": "MEDIUM",
+      "frequency": 65.0,
+      "acceptanceRate": 0.3900965888250397,
+      "link": "https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Dynamic Programming",
+        "Counting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Total Reward Using Operations I",
+      "titleSlug": "maximum-total-reward-using-operations-i",
+      "difficulty": "MEDIUM",
+      "frequency": 65.0,
+      "acceptanceRate": 0.2995967272457847,
+      "link": "https://leetcode.com/problems/maximum-total-reward-using-operations-i",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Total Reward Using Operations II",
+      "titleSlug": "maximum-total-reward-using-operations-ii",
+      "difficulty": "HARD",
+      "frequency": 65.0,
+      "acceptanceRate": 0.20666559502759474,
+      "link": "https://leetcode.com/problems/maximum-total-reward-using-operations-ii",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Bit Manipulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Shortest Subarray With OR at Least K II",
+      "titleSlug": "shortest-subarray-with-or-at-least-k-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 65.0,
+      "acceptanceRate": 0.502326331785915,
+      "link": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii",
+      "topics": [
+        "Array",
+        "Bit Manipulation",
+        "Sliding Window"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Shortest Subarray With OR at Least K I",
+      "titleSlug": "shortest-subarray-with-or-at-least-k-i",
+      "difficulty": "EASY",
+      "frequency": 65.0,
+      "acceptanceRate": 0.42786964558186846,
+      "link": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i",
+      "topics": [
+        "Array",
+        "Bit Manipulation",
+        "Sliding Window"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Construct String with Minimum Cost",
+      "titleSlug": "construct-string-with-minimum-cost",
+      "difficulty": "HARD",
+      "frequency": 65.0,
+      "acceptanceRate": 0.19178018933271762,
+      "link": "https://leetcode.com/problems/construct-string-with-minimum-cost",
+      "topics": [
+        "Array",
+        "String",
+        "Dynamic Programming",
+        "Suffix Array"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Right Triangles",
+      "titleSlug": "right-triangles",
+      "difficulty": "MEDIUM",
+      "frequency": 65.0,
+      "acceptanceRate": 0.4706710671067107,
+      "link": "https://leetcode.com/problems/right-triangles",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Combinatorics",
+        "Counting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Next Greater Element III",
+      "titleSlug": "next-greater-element-iii",
+      "difficulty": "MEDIUM",
+      "frequency": 65.0,
+      "acceptanceRate": 0.3458662434140706,
+      "link": "https://leetcode.com/problems/next-greater-element-iii",
+      "topics": [
+        "Math",
+        "Two Pointers",
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Jump Game II",
+      "titleSlug": "jump-game-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 65.0,
+      "acceptanceRate": 0.4150350812855576,
+      "link": "https://leetcode.com/problems/jump-game-ii",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Zigzag Conversion",
+      "titleSlug": "zigzag-conversion",
+      "difficulty": "MEDIUM",
+      "frequency": 65.0,
+      "acceptanceRate": 0.51606829815784,
+      "link": "https://leetcode.com/problems/zigzag-conversion",
+      "topics": [
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Valid Parentheses",
+      "titleSlug": "valid-parentheses",
+      "difficulty": "EASY",
+      "frequency": 65.0,
+      "acceptanceRate": 0.42322931659980717,
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "topics": [
+        "String",
+        "Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Dynamic Programming",
+    "String",
+    "Two Pointers",
+    "Bit Manipulation",
+    "Hash Table",
+    "Counting",
+    "Sliding Window",
+    "Math",
+    "Database",
+    "Sorting",
+    "Enumeration",
+    "Suffix Array",
+    "Combinatorics",
+    "Greedy"
+  ]
+}

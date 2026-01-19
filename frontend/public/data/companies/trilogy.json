@@ -1,0 +1,117 @@
+{
+  "company": "Trilogy",
+  "stats": {
+    "totalProblems": 5,
+    "uniqueProblems": 5,
+    "avgFrequency": 96.42999999999999,
+    "avgAcceptanceRate": 0.4738245208289499,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 4,
+      "HARD": 6,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Minimum Time to Kill All Monsters",
+      "titleSlug": "minimum-time-to-kill-all-monsters",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5604285236022766,
+      "link": "https://leetcode.com/problems/minimum-time-to-kill-all-monsters",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Bit Manipulation",
+        "Bitmask"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Substring XOR Queries",
+      "titleSlug": "substring-xor-queries",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.3454646607478152,
+      "link": "https://leetcode.com/problems/substring-xor-queries",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Bit Manipulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Bitwise XOR of All Pairings",
+      "titleSlug": "bitwise-xor-of-all-pairings",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6697900744371988,
+      "link": "https://leetcode.com/problems/bitwise-xor-of-all-pairings",
+      "topics": [
+        "Array",
+        "Bit Manipulation",
+        "Brainteaser"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Handling Sum Queries After Update",
+      "titleSlug": "handling-sum-queries-after-update",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.2924381380861741,
+      "link": "https://leetcode.com/problems/handling-sum-queries-after-update",
+      "topics": [
+        "Array",
+        "Segment Tree"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Distinct Subsequences",
+      "titleSlug": "distinct-subsequences",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5010012072712848,
+      "link": "https://leetcode.com/problems/distinct-subsequences",
+      "topics": [
+        "String",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Bit Manipulation",
+    "Dynamic Programming",
+    "String",
+    "Bitmask",
+    "Hash Table",
+    "Brainteaser",
+    "Segment Tree"
+  ]
+}

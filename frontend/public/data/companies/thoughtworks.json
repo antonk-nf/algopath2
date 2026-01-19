@@ -1,0 +1,177 @@
+{
+  "company": "ThoughtWorks",
+  "stats": {
+    "totalProblems": 8,
+    "uniqueProblems": 8,
+    "avgFrequency": 80.98125,
+    "avgAcceptanceRate": 0.410619987217576,
+    "difficultyDistribution": {
+      "EASY": 6,
+      "MEDIUM": 4,
+      "HARD": 6,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Maximize the Number of Partitions After Operations",
+      "titleSlug": "maximize-the-number-of-partitions-after-operations",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.27458280699421583,
+      "link": "https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Bit Manipulation",
+        "Bitmask"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum GCD-Sum of a Subarray",
+      "titleSlug": "maximum-gcd-sum-of-a-subarray",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.358179419525066,
+      "link": "https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray",
+      "topics": [
+        "Array",
+        "Math",
+        "Binary Search",
+        "Number Theory"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Subarrays That Match a Pattern II",
+      "titleSlug": "number-of-subarrays-that-match-a-pattern-ii",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.322212333121424,
+      "link": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii",
+      "topics": [
+        "Array",
+        "Rolling Hash",
+        "String Matching",
+        "Hash Function"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "titleSlug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "EASY",
+      "frequency": 73.4,
+      "acceptanceRate": 0.5525968819096688,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Substring Without Repeating Characters",
+      "titleSlug": "longest-substring-without-repeating-characters",
+      "difficulty": "MEDIUM",
+      "frequency": 64.4,
+      "acceptanceRate": 0.3693618464595322,
+      "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Valid Parentheses",
+      "titleSlug": "valid-parentheses",
+      "difficulty": "EASY",
+      "frequency": 64.4,
+      "acceptanceRate": 0.4232290340530288,
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "topics": [
+        "String",
+        "Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Palindromic Substring",
+      "titleSlug": "longest-palindromic-substring",
+      "difficulty": "MEDIUM",
+      "frequency": 64.4,
+      "acceptanceRate": 0.3584622482553879,
+      "link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Bit Changes to Make Two Integers Equal",
+      "titleSlug": "number-of-bit-changes-to-make-two-integers-equal",
+      "difficulty": "EASY",
+      "frequency": 64.4,
+      "acceptanceRate": 0.6263353274222839,
+      "link": "https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal",
+      "topics": [
+        "Bit Manipulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "String",
+    "Dynamic Programming",
+    "Array",
+    "Bit Manipulation",
+    "Bitmask",
+    "Math",
+    "Binary Search",
+    "Number Theory",
+    "Rolling Hash",
+    "String Matching",
+    "Hash Function",
+    "Hash Table",
+    "Sliding Window",
+    "Stack",
+    "Two Pointers"
+  ]
+}

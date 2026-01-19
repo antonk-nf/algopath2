@@ -1,0 +1,76 @@
+{
+  "company": "GE Digital",
+  "stats": {
+    "totalProblems": 3,
+    "uniqueProblems": 3,
+    "avgFrequency": 87.03333333333332,
+    "avgAcceptanceRate": 0.563885182845434,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 4,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Minimum Cost to Set Cooking Time",
+      "titleSlug": "minimum-cost-to-set-cooking-time",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.40999530001566664,
+      "link": "https://leetcode.com/problems/minimum-cost-to-set-cooking-time",
+      "topics": [
+        "Math",
+        "Enumeration"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Degree of an Array",
+      "titleSlug": "degree-of-an-array",
+      "difficulty": "EASY",
+      "frequency": 89.7,
+      "acceptanceRate": 0.5741794026709685,
+      "link": "https://leetcode.com/problems/degree-of-an-array",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Remove to Make Valid Parentheses",
+      "titleSlug": "minimum-remove-to-make-valid-parentheses",
+      "difficulty": "MEDIUM",
+      "frequency": 89.7,
+      "acceptanceRate": 0.7074808458496666,
+      "link": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses",
+      "topics": [
+        "String",
+        "Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Math",
+    "Enumeration",
+    "Array",
+    "Hash Table",
+    "String",
+    "Stack"
+  ]
+}

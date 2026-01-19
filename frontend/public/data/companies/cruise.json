@@ -1,0 +1,146 @@
+{
+  "company": "Cruise",
+  "stats": {
+    "totalProblems": 6,
+    "uniqueProblems": 6,
+    "avgFrequency": 85.83333333333333,
+    "avgAcceptanceRate": 0.5431822047161651,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 10,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Course Schedule",
+      "titleSlug": "course-schedule",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.49234450897866516,
+      "link": "https://leetcode.com/problems/course-schedule",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph",
+        "Topological Sort"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Merge Intervals",
+      "titleSlug": "merge-intervals",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4939525764689584,
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "topics": [
+        "Array",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Unique Paths II",
+      "titleSlug": "unique-paths-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4315430597653034,
+      "link": "https://leetcode.com/problems/unique-paths-ii",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Unique Paths III",
+      "titleSlug": "unique-paths-iii",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.8233339994005395,
+      "link": "https://leetcode.com/problems/unique-paths-iii",
+      "topics": [
+        "Array",
+        "Backtracking",
+        "Bit Manipulation",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "LRU Cache",
+      "titleSlug": "lru-cache",
+      "difficulty": "MEDIUM",
+      "frequency": 88.7,
+      "acceptanceRate": 0.4521489022918771,
+      "link": "https://leetcode.com/problems/lru-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Synonymous Sentences",
+      "titleSlug": "synonymous-sentences",
+      "difficulty": "MEDIUM",
+      "frequency": 88.7,
+      "acceptanceRate": 0.5657701813916468,
+      "link": "https://leetcode.com/problems/synonymous-sentences",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Backtracking",
+        "Union Find"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Matrix",
+    "Backtracking",
+    "Hash Table",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph",
+    "Topological Sort",
+    "Sorting",
+    "Dynamic Programming",
+    "Bit Manipulation",
+    "Linked List",
+    "Design",
+    "Doubly-Linked List",
+    "String"
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "company": "Verily",
+  "stats": {
+    "totalProblems": 12,
+    "uniqueProblems": 12,
+    "avgFrequency": 92.59999999999998,
+    "avgAcceptanceRate": 0.5308674306834794,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 20,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Minimum Area Rectangle",
+      "titleSlug": "minimum-area-rectangle",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5500425559774781,
+      "link": "https://leetcode.com/problems/minimum-area-rectangle",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Geometry",
+        "Sorting"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Happy Number",
+      "titleSlug": "happy-number",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5807267179068731,
+      "link": "https://leetcode.com/problems/happy-number",
+      "topics": [
+        "Hash Table",
+        "Math",
+        "Two Pointers"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Jump Game",
+      "titleSlug": "jump-game",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.3947926614382257,
+      "link": "https://leetcode.com/problems/jump-game",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Group Anagrams",
+      "titleSlug": "group-anagrams",
+      "difficulty": "MEDIUM",
+      "frequency": 92.4,
+      "acceptanceRate": 0.7092890050315475,
+      "link": "https://leetcode.com/problems/group-anagrams",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Kth Largest Element in an Array",
+      "titleSlug": "kth-largest-element-in-an-array",
+      "difficulty": "MEDIUM",
+      "frequency": 92.4,
+      "acceptanceRate": 0.6797709272637654,
+      "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+      "topics": [
+        "Array",
+        "Divide and Conquer",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Quickselect"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Guess the Word",
+      "titleSlug": "guess-the-word",
+      "difficulty": "HARD",
+      "frequency": 92.4,
+      "acceptanceRate": 0.37651627943192456,
+      "link": "https://leetcode.com/problems/guess-the-word",
+      "topics": [
+        "Array",
+        "Math",
+        "String",
+        "Interactive",
+        "Game Theory"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest String Chain",
+      "titleSlug": "longest-string-chain",
+      "difficulty": "MEDIUM",
+      "frequency": 92.4,
+      "acceptanceRate": 0.6201519540251159,
+      "link": "https://leetcode.com/problems/longest-string-chain",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Two Pointers",
+        "String",
+        "Dynamic Programming",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Area Rectangle II",
+      "titleSlug": "minimum-area-rectangle-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 92.4,
+      "acceptanceRate": 0.5564209472981988,
+      "link": "https://leetcode.com/problems/minimum-area-rectangle-ii",
+      "topics": [
+        "Array",
+        "Math",
+        "Geometry"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Knight Moves",
+      "titleSlug": "minimum-knight-moves",
+      "difficulty": "MEDIUM",
+      "frequency": 92.4,
+      "acceptanceRate": 0.41329294235617164,
+      "link": "https://leetcode.com/problems/minimum-knight-moves",
+      "topics": [
+        "Breadth-First Search"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Find All Possible Recipes from Given Supplies",
+      "titleSlug": "find-all-possible-recipes-from-given-supplies",
+      "difficulty": "MEDIUM",
+      "frequency": 92.4,
+      "acceptanceRate": 0.5646084811588118,
+      "link": "https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Graph",
+        "Topological Sort"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Find Original Array From Doubled Array",
+      "titleSlug": "find-original-array-from-doubled-array",
+      "difficulty": "MEDIUM",
+      "frequency": 92.4,
+      "acceptanceRate": 0.4048045625260815,
+      "link": "https://leetcode.com/problems/find-original-array-from-doubled-array",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Greedy",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Video Stitching",
+      "titleSlug": "video-stitching",
+      "difficulty": "MEDIUM",
+      "frequency": 81.8,
+      "acceptanceRate": 0.5199920692617804,
+      "link": "https://leetcode.com/problems/video-stitching",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Hash Table",
+    "Sorting",
+    "Math",
+    "String",
+    "Dynamic Programming",
+    "Greedy",
+    "Geometry",
+    "Two Pointers",
+    "Divide and Conquer",
+    "Heap (Priority Queue)",
+    "Quickselect",
+    "Interactive",
+    "Game Theory",
+    "Breadth-First Search"
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "company": "Hulu",
+  "stats": {
+    "totalProblems": 5,
+    "uniqueProblems": 5,
+    "avgFrequency": 100.0,
+    "avgAcceptanceRate": 0.6073134215035475,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 4,
+      "HARD": 6,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Binary Tree Pruning",
+      "titleSlug": "binary-tree-pruning",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.7235985436633292,
+      "link": "https://leetcode.com/problems/binary-tree-pruning",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Basic Calculator III",
+      "titleSlug": "basic-calculator-iii",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5246967071057193,
+      "link": "https://leetcode.com/problems/basic-calculator-iii",
+      "topics": [
+        "Math",
+        "String",
+        "Stack",
+        "Recursion"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Sum of Two Integers",
+      "titleSlug": "sum-of-two-integers",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5368154423177579,
+      "link": "https://leetcode.com/problems/sum-of-two-integers",
+      "topics": [
+        "Math",
+        "Bit Manipulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Valid Subarrays",
+      "titleSlug": "number-of-valid-subarrays",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.7924088008381751,
+      "link": "https://leetcode.com/problems/number-of-valid-subarrays",
+      "topics": [
+        "Array",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "K-th Smallest in Lexicographical Order",
+      "titleSlug": "k-th-smallest-in-lexicographical-order",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4590476135927557,
+      "link": "https://leetcode.com/problems/k-th-smallest-in-lexicographical-order",
+      "topics": [
+        "Trie"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Math",
+    "Stack",
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree",
+    "String",
+    "Recursion",
+    "Bit Manipulation",
+    "Array",
+    "Monotonic Stack",
+    "Trie"
+  ]
+}

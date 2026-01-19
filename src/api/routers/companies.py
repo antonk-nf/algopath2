@@ -620,24 +620,82 @@ async def get_company_problems(
                 'problems': []
             }
 
-        paginated_df = company_data.iloc[offset:offset + limit]
+        # Deduplicate by title - aggregate across timeframes
+        aggregated_records = []
+        for title, group in company_data.groupby('title'):
+            first_row = group.iloc[0]
+            # Collect all timeframes for this problem
+            timeframes_list = sorted(group['timeframe'].dropna().unique().tolist())
+            # Use max frequency across timeframes
+            max_freq = group['frequency'].max()
+            # Use mean acceptance rate
+            mean_acc = group['acceptance_rate'].mean()
+            # Collect all topics
+            all_topics = set()
+            for topics_val in group['topics'].dropna():
+                all_topics.update(_normalize_topics(topics_val))
+
+            aggregated_records.append({
+                'title': title,
+                'difficulty': first_row.get('difficulty'),
+                'frequency': max_freq,
+                'acceptance_rate': mean_acc,
+                'timeframes': timeframes_list,
+                'topics': sorted(all_topics) if all_topics else [],
+                'link': first_row.get('leetcode_link') or first_row.get('link') or first_row.get('url'),
+                'company': first_row.get('company')
+            })
+
+        deduplicated_df = pd.DataFrame(aggregated_records)
+
+        if deduplicated_df.empty:
+            return {
+                'company': normalized_company,
+                'total': 0,
+                'limit': limit,
+                'offset': offset,
+                'has_more': False,
+                'problems': []
+            }
+
+        # Re-sort after aggregation
+        ascending = sort_order == SortOrder.ASC
+        deduplicated_df = deduplicated_df.sort_values(
+            by=['frequency', 'acceptance_rate'],
+            ascending=[ascending, ascending],
+            na_position='last'
+        )
+
+        # Update total after deduplication
+        total_matches = len(deduplicated_df)
+
+        if offset >= total_matches:
+            return {
+                'company': normalized_company,
+                'total': int(total_matches),
+                'limit': limit,
+                'offset': offset,
+                'has_more': False,
+                'problems': []
+            }
+
+        paginated_df = deduplicated_df.iloc[offset:offset + limit]
 
         titles = paginated_df['title'].dropna().unique().tolist()
         company_counts = dataset[dataset['title'].isin(titles)].groupby('title')['company'].nunique()
 
         problems = []
         for _, row in paginated_df.iterrows():
-            topics_list = _normalize_topics(row.get('topics'))
-            freq_value = row.get('frequency')
-            acc_value = row.get('acceptance_rate')
+            timeframes_list = row.get('timeframes', [])
             problem = {
                 'title': row.get('title'),
                 'difficulty': row.get('difficulty'),
-                'frequency': float(freq_value) if pd.notna(freq_value) else None,
-                'acceptance_rate': float(acc_value) if pd.notna(acc_value) else None,
-                'timeframe': row.get('timeframe'),
-                'topics': topics_list,
-                'link': row.get('leetcode_link') or row.get('link') or row.get('url'),
+                'frequency': float(row['frequency']) if pd.notna(row.get('frequency')) else None,
+                'acceptance_rate': float(row['acceptance_rate']) if pd.notna(row.get('acceptance_rate')) else None,
+                'timeframe': timeframes_list[0] if timeframes_list else None,  # backwards compat
+                'timeframes': timeframes_list,
+                'topics': row.get('topics', []),
+                'link': row.get('link'),
                 'company_count': int(company_counts.get(row.get('title'), 0)),
                 'company': row.get('company')
             }

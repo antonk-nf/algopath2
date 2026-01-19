@@ -1,0 +1,187 @@
+{
+  "company": "Remitly",
+  "stats": {
+    "totalProblems": 8,
+    "uniqueProblems": 8,
+    "avgFrequency": 79.71764705882353,
+    "avgAcceptanceRate": 0.5436656423970682,
+    "difficultyDistribution": {
+      "EASY": 5,
+      "MEDIUM": 10,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Isomorphic Strings",
+      "titleSlug": "isomorphic-strings",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4685798323600621,
+      "link": "https://leetcode.com/problems/isomorphic-strings",
+      "topics": [
+        "Hash Table",
+        "String"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Course Schedule II",
+      "titleSlug": "course-schedule-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 79.6,
+      "acceptanceRate": 0.5342357857229685,
+      "link": "https://leetcode.com/problems/course-schedule-ii",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph",
+        "Topological Sort"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Evaluate the Bracket Pairs of a String",
+      "titleSlug": "evaluate-the-bracket-pairs-of-a-string",
+      "difficulty": "MEDIUM",
+      "frequency": 79.6,
+      "acceptanceRate": 0.6823127483382226,
+      "link": "https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Task Scheduler II",
+      "titleSlug": "task-scheduler-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 79.4,
+      "acceptanceRate": 0.5397196782316108,
+      "link": "https://leetcode.com/problems/task-scheduler-ii",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Design Search Autocomplete System",
+      "titleSlug": "design-search-autocomplete-system",
+      "difficulty": "HARD",
+      "frequency": 71.0,
+      "acceptanceRate": 0.49406840347530717,
+      "link": "https://leetcode.com/problems/design-search-autocomplete-system",
+      "topics": [
+        "String",
+        "Depth-First Search",
+        "Design",
+        "Trie",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Data Stream"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Task Scheduler",
+      "titleSlug": "task-scheduler",
+      "difficulty": "MEDIUM",
+      "frequency": 62.5,
+      "acceptanceRate": 0.6153925972156205,
+      "link": "https://leetcode.com/problems/task-scheduler",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Counting"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "titleSlug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "EASY",
+      "frequency": 62.5,
+      "acceptanceRate": 0.5525968886230834,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Random Pick with Weight",
+      "titleSlug": "random-pick-with-weight",
+      "difficulty": "MEDIUM",
+      "frequency": 62.5,
+      "acceptanceRate": 0.48278533987379574,
+      "link": "https://leetcode.com/problems/random-pick-with-weight",
+      "topics": [
+        "Array",
+        "Math",
+        "Binary Search",
+        "Prefix Sum",
+        "Randomized"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Hash Table",
+    "String",
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph",
+    "Topological Sort",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Simulation",
+    "Design",
+    "Trie",
+    "Data Stream",
+    "Greedy",
+    "Counting"
+  ]
+}

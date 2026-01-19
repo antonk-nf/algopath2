@@ -1,0 +1,93 @@
+{
+  "company": "Acko",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 94.725,
+    "avgAcceptanceRate": 0.7236342039094616,
+    "difficultyDistribution": {
+      "EASY": 4,
+      "MEDIUM": 0,
+      "HARD": 4,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Count All Valid Pickup and Delivery Options",
+      "titleSlug": "count-all-valid-pickup-and-delivery-options",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6487702325025283,
+      "link": "https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Combinatorics"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Fill Missing Data",
+      "titleSlug": "fill-missing-data",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.7231414467579705,
+      "link": "https://leetcode.com/problems/fill-missing-data",
+      "topics": [],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Parallel Courses III",
+      "titleSlug": "parallel-courses-iii",
+      "difficulty": "HARD",
+      "frequency": 89.6,
+      "acceptanceRate": 0.6674963944974485,
+      "link": "https://leetcode.com/problems/parallel-courses-iii",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Graph",
+        "Topological Sort"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Invalid Tweets",
+      "titleSlug": "invalid-tweets",
+      "difficulty": "EASY",
+      "frequency": 89.6,
+      "acceptanceRate": 0.8551287418798992,
+      "link": "https://leetcode.com/problems/invalid-tweets",
+      "topics": [
+        "Database"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Dynamic Programming",
+    "Math",
+    "Combinatorics",
+    "Array",
+    "Graph",
+    "Topological Sort",
+    "Database"
+  ]
+}

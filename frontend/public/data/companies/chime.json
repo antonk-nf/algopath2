@@ -1,0 +1,67 @@
+{
+  "company": "Chime",
+  "stats": {
+    "totalProblems": 2,
+    "uniqueProblems": 2,
+    "avgFrequency": 83.725,
+    "avgAcceptanceRate": 0.5653221324930597,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 4,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Detonate the Maximum Bombs",
+      "titleSlug": "detonate-the-maximum-bombs",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.492066898115528,
+      "link": "https://leetcode.com/problems/detonate-the-maximum-bombs",
+      "topics": [
+        "Array",
+        "Math",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph",
+        "Geometry"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Letter Combinations of a Phone Number",
+      "titleSlug": "letter-combinations-of-a-phone-number",
+      "difficulty": "MEDIUM",
+      "frequency": 68.4,
+      "acceptanceRate": 0.6385773668705915,
+      "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Backtracking"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Math",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph",
+    "Geometry",
+    "Hash Table",
+    "String",
+    "Backtracking"
+  ]
+}

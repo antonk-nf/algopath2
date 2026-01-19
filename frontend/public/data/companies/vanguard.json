@@ -1,0 +1,57 @@
+{
+  "company": "Vanguard",
+  "stats": {
+    "totalProblems": 2,
+    "uniqueProblems": 2,
+    "avgFrequency": 92.19999999999999,
+    "avgAcceptanceRate": 0.7374628579542044,
+    "difficultyDistribution": {
+      "EASY": 4,
+      "MEDIUM": 0,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Check if the Sentence Is Pangram",
+      "titleSlug": "check-if-the-sentence-is-pangram",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.8385082905085836,
+      "link": "https://leetcode.com/problems/check-if-the-sentence-is-pangram",
+      "topics": [
+        "Hash Table",
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Check Whether Two Strings are Almost Equivalent",
+      "titleSlug": "check-whether-two-strings-are-almost-equivalent",
+      "difficulty": "EASY",
+      "frequency": 84.4,
+      "acceptanceRate": 0.6364174253998252,
+      "link": "https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Hash Table",
+    "String",
+    "Counting"
+  ]
+}

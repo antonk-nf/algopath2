@@ -1,0 +1,136 @@
+{
+  "company": "Nokia",
+  "stats": {
+    "totalProblems": 6,
+    "uniqueProblems": 6,
+    "avgFrequency": 91.275,
+    "avgAcceptanceRate": 0.549092902466636,
+    "difficultyDistribution": {
+      "EASY": 4,
+      "MEDIUM": 2,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Minimum Cost of Buying Candies With Discount",
+      "titleSlug": "minimum-cost-of-buying-candies-with-discount",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6220026757229598,
+      "link": "https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Check If It Is a Good Array",
+      "titleSlug": "check-if-it-is-a-good-array",
+      "difficulty": "HARD",
+      "frequency": 88.7,
+      "acceptanceRate": 0.6136193766034381,
+      "link": "https://leetcode.com/problems/check-if-it-is-a-good-array",
+      "topics": [
+        "Array",
+        "Math",
+        "Number Theory"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "LRU Cache",
+      "titleSlug": "lru-cache",
+      "difficulty": "MEDIUM",
+      "frequency": 88.3,
+      "acceptanceRate": 0.45214995272337516,
+      "link": "https://leetcode.com/problems/lru-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Count Primes",
+      "titleSlug": "count-primes",
+      "difficulty": "MEDIUM",
+      "frequency": 88.3,
+      "acceptanceRate": 0.34790674420010553,
+      "link": "https://leetcode.com/problems/count-primes",
+      "topics": [
+        "Array",
+        "Math",
+        "Enumeration",
+        "Number Theory"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Common Prefix",
+      "titleSlug": "longest-common-prefix",
+      "difficulty": "EASY",
+      "frequency": 88.3,
+      "acceptanceRate": 0.4548320746397213,
+      "link": "https://leetcode.com/problems/longest-common-prefix",
+      "topics": [
+        "String",
+        "Trie"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Valid Anagram",
+      "titleSlug": "valid-anagram",
+      "difficulty": "EASY",
+      "frequency": 88.3,
+      "acceptanceRate": 0.6666103435170908,
+      "link": "https://leetcode.com/problems/valid-anagram",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Sorting",
+    "Math",
+    "Number Theory",
+    "Greedy",
+    "Hash Table",
+    "String",
+    "Linked List",
+    "Design",
+    "Doubly-Linked List",
+    "Enumeration",
+    "Trie"
+  ]
+}

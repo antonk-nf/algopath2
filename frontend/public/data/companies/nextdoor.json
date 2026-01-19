@@ -1,0 +1,180 @@
+{
+  "company": "Nextdoor",
+  "stats": {
+    "totalProblems": 8,
+    "uniqueProblems": 8,
+    "avgFrequency": 78.55000000000001,
+    "avgAcceptanceRate": 0.5126462513288611,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 13,
+      "HARD": 5,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "All O`one Data Structure",
+      "titleSlug": "all-o-one-data-structure",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4413480853234703,
+      "link": "https://leetcode.com/problems/all-oone-data-structure",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Merge Intervals",
+      "titleSlug": "merge-intervals",
+      "difficulty": "MEDIUM",
+      "frequency": 85.3,
+      "acceptanceRate": 0.4939525764689584,
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "topics": [
+        "Array",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Compare Version Numbers",
+      "titleSlug": "compare-version-numbers",
+      "difficulty": "MEDIUM",
+      "frequency": 76.7,
+      "acceptanceRate": 0.4234723231238846,
+      "link": "https://leetcode.com/problems/compare-version-numbers",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Letter Combinations of a Phone Number",
+      "titleSlug": "letter-combinations-of-a-phone-number",
+      "difficulty": "MEDIUM",
+      "frequency": 70.6,
+      "acceptanceRate": 0.6385758739982268,
+      "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Backtracking"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Trapping Rain Water",
+      "titleSlug": "trapping-rain-water",
+      "difficulty": "HARD",
+      "frequency": 70.6,
+      "acceptanceRate": 0.6510217577539866,
+      "link": "https://leetcode.com/problems/trapping-rain-water",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Dynamic Programming",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Nested List Weight Sum",
+      "titleSlug": "nested-list-weight-sum",
+      "difficulty": "MEDIUM",
+      "frequency": 70.6,
+      "acceptanceRate": 0.8554010438592917,
+      "link": "https://leetcode.com/problems/nested-list-weight-sum",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Divide Two Integers",
+      "titleSlug": "divide-two-integers",
+      "difficulty": "MEDIUM",
+      "frequency": 70.6,
+      "acceptanceRate": 0.18397006285272335,
+      "link": "https://leetcode.com/problems/divide-two-integers",
+      "topics": [
+        "Math",
+        "Bit Manipulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Time Based Key-Value Store",
+      "titleSlug": "time-based-key-value-store",
+      "difficulty": "MEDIUM",
+      "frequency": 70.6,
+      "acceptanceRate": 0.49366433435553103,
+      "link": "https://leetcode.com/problems/time-based-key-value-store",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Binary Search",
+        "Design"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Hash Table",
+    "String",
+    "Design",
+    "Two Pointers",
+    "Array",
+    "Linked List",
+    "Doubly-Linked List",
+    "Sorting",
+    "Backtracking",
+    "Dynamic Programming",
+    "Stack",
+    "Monotonic Stack",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Math"
+  ]
+}

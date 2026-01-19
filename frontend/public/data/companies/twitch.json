@@ -1,0 +1,180 @@
+{
+  "company": "Twitch",
+  "stats": {
+    "totalProblems": 8,
+    "uniqueProblems": 8,
+    "avgFrequency": 82.59333333333333,
+    "avgAcceptanceRate": 0.5696567327366611,
+    "difficultyDistribution": {
+      "EASY": 4,
+      "MEDIUM": 8,
+      "HARD": 3,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Find Median from Data Stream",
+      "titleSlug": "find-median-from-data-stream",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5327801472952072,
+      "link": "https://leetcode.com/problems/find-median-from-data-stream",
+      "topics": [
+        "Two Pointers",
+        "Design",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Data Stream"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "LRU Cache",
+      "titleSlug": "lru-cache",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4521484728871755,
+      "link": "https://leetcode.com/problems/lru-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Design a File Sharing System",
+      "titleSlug": "design-a-file-sharing-system",
+      "difficulty": "MEDIUM",
+      "frequency": 72.3,
+      "acceptanceRate": 0.42172790768296387,
+      "link": "https://leetcode.com/problems/design-a-file-sharing-system",
+      "topics": [
+        "Hash Table",
+        "Design",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Data Stream"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Create a Session Bar Chart",
+      "titleSlug": "create-a-session-bar-chart",
+      "difficulty": "EASY",
+      "frequency": 72.3,
+      "acceptanceRate": 0.750556206088993,
+      "link": "https://leetcode.com/problems/create-a-session-bar-chart",
+      "topics": [
+        "Database"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Toss Strange Coins",
+      "titleSlug": "toss-strange-coins",
+      "difficulty": "MEDIUM",
+      "frequency": 72.3,
+      "acceptanceRate": 0.5813783755604213,
+      "link": "https://leetcode.com/problems/toss-strange-coins",
+      "topics": [
+        "Array",
+        "Math",
+        "Dynamic Programming",
+        "Probability and Statistics"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Letter Combinations of a Phone Number",
+      "titleSlug": "letter-combinations-of-a-phone-number",
+      "difficulty": "MEDIUM",
+      "frequency": 72.3,
+      "acceptanceRate": 0.6385759218994662,
+      "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Backtracking"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Reverse Vowels of a String",
+      "titleSlug": "reverse-vowels-of-a-string",
+      "difficulty": "EASY",
+      "frequency": 64.4,
+      "acceptanceRate": 0.5818746518118435,
+      "link": "https://leetcode.com/problems/reverse-vowels-of-a-string",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Unique Email Addresses",
+      "titleSlug": "unique-email-addresses",
+      "difficulty": "EASY",
+      "frequency": 64.4,
+      "acceptanceRate": 0.6758621291144098,
+      "link": "https://leetcode.com/problems/unique-email-addresses",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Design",
+    "Hash Table",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Data Stream",
+    "Two Pointers",
+    "String",
+    "Array",
+    "Linked List",
+    "Doubly-Linked List",
+    "Database",
+    "Math",
+    "Dynamic Programming",
+    "Probability and Statistics",
+    "Backtracking"
+  ]
+}

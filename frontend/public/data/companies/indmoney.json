@@ -1,0 +1,63 @@
+{
+  "company": "INDmoney",
+  "stats": {
+    "totalProblems": 2,
+    "uniqueProblems": 2,
+    "avgFrequency": 100.0,
+    "avgAcceptanceRate": 0.7690177997295793,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 4,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Count Nodes Equal to Average of Subtree",
+      "titleSlug": "count-nodes-equal-to-average-of-subtree",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.8641895449417075,
+      "link": "https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Online Stock Span",
+      "titleSlug": "online-stock-span",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6738470433038342,
+      "link": "https://leetcode.com/problems/online-stock-span",
+      "topics": [
+        "Stack",
+        "Design",
+        "Monotonic Stack",
+        "Data Stream"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree",
+    "Stack",
+    "Design",
+    "Monotonic Stack",
+    "Data Stream"
+  ]
+}

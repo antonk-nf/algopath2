@@ -1,0 +1,115 @@
+{
+  "company": "Mercari",
+  "stats": {
+    "totalProblems": 5,
+    "uniqueProblems": 5,
+    "avgFrequency": 89.4,
+    "avgAcceptanceRate": 0.6170588687006222,
+    "difficultyDistribution": {
+      "EASY": 6,
+      "MEDIUM": 4,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Smallest Missing Non-negative Integer After Operations",
+      "titleSlug": "smallest-missing-non-negative-integer-after-operations",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.39878630255743386,
+      "link": "https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Crawler Log Folder",
+      "titleSlug": "crawler-log-folder",
+      "difficulty": "EASY",
+      "frequency": 79.0,
+      "acceptanceRate": 0.7160418239109896,
+      "link": "https://leetcode.com/problems/crawler-log-folder",
+      "topics": [
+        "Array",
+        "String",
+        "Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Max Difference You Can Get From Changing an Integer",
+      "titleSlug": "max-difference-you-can-get-from-changing-an-integer",
+      "difficulty": "MEDIUM",
+      "frequency": 79.0,
+      "acceptanceRate": 0.490376913852892,
+      "link": "https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer",
+      "topics": [
+        "Math",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Count Largest Group",
+      "titleSlug": "count-largest-group",
+      "difficulty": "EASY",
+      "frequency": 79.0,
+      "acceptanceRate": 0.7503987554460161,
+      "link": "https://leetcode.com/problems/count-largest-group",
+      "topics": [
+        "Hash Table",
+        "Math"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Subsequence in Non-Increasing Order",
+      "titleSlug": "minimum-subsequence-in-non-increasing-order",
+      "difficulty": "EASY",
+      "frequency": 79.0,
+      "acceptanceRate": 0.7296905477357796,
+      "link": "https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Math",
+    "Greedy",
+    "Hash Table",
+    "String",
+    "Stack",
+    "Sorting"
+  ]
+}

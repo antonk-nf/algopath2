@@ -1,0 +1,60 @@
+{
+  "company": "NCR",
+  "stats": {
+    "totalProblems": 2,
+    "uniqueProblems": 2,
+    "avgFrequency": 96.53333333333335,
+    "avgAcceptanceRate": 0.43224476256685573,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 3,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Number of People Aware of a Secret",
+      "titleSlug": "number-of-people-aware-of-a-secret",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.46368623597805614,
+      "link": "https://leetcode.com/problems/number-of-people-aware-of-a-secret",
+      "topics": [
+        "Dynamic Programming",
+        "Queue",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Substring Without Repeating Characters",
+      "titleSlug": "longest-substring-without-repeating-characters",
+      "difficulty": "MEDIUM",
+      "frequency": 89.6,
+      "acceptanceRate": 0.36936181574445504,
+      "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Dynamic Programming",
+    "Queue",
+    "Simulation",
+    "Hash Table",
+    "String",
+    "Sliding Window"
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "company": "Akamai",
+  "stats": {
+    "totalProblems": 7,
+    "uniqueProblems": 7,
+    "avgFrequency": 80.60909090909091,
+    "avgAcceptanceRate": 0.5970533384996349,
+    "difficultyDistribution": {
+      "EASY": 7,
+      "MEDIUM": 2,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5577702792380397,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "titleSlug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5525967873583412,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Median of Two Sorted Arrays",
+      "titleSlug": "median-of-two-sorted-arrays",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.43814663685718197,
+      "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Divide and Conquer"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "N-Repeated Element in Size 2N Array",
+      "titleSlug": "n-repeated-element-in-size-2n-array",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.7747973064210272,
+      "link": "https://leetcode.com/problems/n-repeated-element-in-size-2n-array",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Construct Binary Search Tree from Preorder Traversal",
+      "titleSlug": "construct-binary-search-tree-from-preorder-traversal",
+      "difficulty": "MEDIUM",
+      "frequency": 62.9,
+      "acceptanceRate": 0.8328129321513312,
+      "link": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal",
+      "topics": [
+        "Array",
+        "Stack",
+        "Tree",
+        "Binary Search Tree",
+        "Monotonic Stack",
+        "Binary Tree"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Palindrome",
+      "titleSlug": "longest-palindrome",
+      "difficulty": "EASY",
+      "frequency": 62.9,
+      "acceptanceRate": 0.5556746201695723,
+      "link": "https://leetcode.com/problems/longest-palindrome",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Greedy"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Pairs of Songs With Total Durations Divisible by 60",
+      "titleSlug": "pairs-of-songs-with-total-durations-divisible-by-60",
+      "difficulty": "MEDIUM",
+      "frequency": 62.9,
+      "acceptanceRate": 0.5324771514259002,
+      "link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Counting"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Hash Table",
+    "Dynamic Programming",
+    "Binary Search",
+    "Divide and Conquer",
+    "Stack",
+    "Tree",
+    "Binary Search Tree",
+    "Monotonic Stack",
+    "Binary Tree",
+    "String",
+    "Greedy",
+    "Counting"
+  ]
+}

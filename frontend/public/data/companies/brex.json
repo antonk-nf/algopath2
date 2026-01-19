@@ -1,0 +1,61 @@
+{
+  "company": "Brex",
+  "stats": {
+    "totalProblems": 2,
+    "uniqueProblems": 2,
+    "avgFrequency": 100.0,
+    "avgAcceptanceRate": 0.6194251216054826,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 1,
+      "HARD": 1,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Basic Calculator III",
+      "titleSlug": "basic-calculator-iii",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5246967071057193,
+      "link": "https://leetcode.com/problems/basic-calculator-iii",
+      "topics": [
+        "Math",
+        "String",
+        "Stack",
+        "Recursion"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+"
+      ]
+    },
+    {
+      "title": "Game of Life",
+      "titleSlug": "game-of-life",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.7141535361052459,
+      "link": "https://leetcode.com/problems/game-of-life",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Math",
+    "String",
+    "Stack",
+    "Recursion",
+    "Array",
+    "Matrix",
+    "Simulation"
+  ]
+}

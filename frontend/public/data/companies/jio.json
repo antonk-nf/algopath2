@@ -1,0 +1,161 @@
+{
+  "company": "jio",
+  "stats": {
+    "totalProblems": 7,
+    "uniqueProblems": 7,
+    "avgFrequency": 84.0142857142857,
+    "avgAcceptanceRate": 0.5589415478143813,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 4,
+      "HARD": 8,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Divide an Array Into Subarrays With Minimum Cost II",
+      "titleSlug": "divide-an-array-into-subarrays-with-minimum-cost-ii",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.30406266219978295,
+      "link": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sliding Window",
+        "Heap (Priority Queue)"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Find the Grid of Region Average",
+      "titleSlug": "find-the-grid-of-region-average",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.42241511165494033,
+      "link": "https://leetcode.com/problems/find-the-grid-of-region-average",
+      "topics": [
+        "Array",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximize the Number of Target Nodes After Connecting Trees I",
+      "titleSlug": "maximize-the-number-of-target-nodes-after-connecting-trees-i",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6968516827213042,
+      "link": "https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximize the Number of Target Nodes After Connecting Trees II",
+      "titleSlug": "maximize-the-number-of-target-nodes-after-connecting-trees-ii",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.7315660916406779,
+      "link": "https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "difficulty": "EASY",
+      "frequency": 62.8,
+      "acceptanceRate": 0.5577709609989225,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Making A Large Island",
+      "titleSlug": "making-a-large-island",
+      "difficulty": "HARD",
+      "frequency": 62.8,
+      "acceptanceRate": 0.5489021109141428,
+      "link": "https://leetcode.com/problems/making-a-large-island",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union Find",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Trapping Rain Water",
+      "titleSlug": "trapping-rain-water",
+      "difficulty": "HARD",
+      "frequency": 62.8,
+      "acceptanceRate": 0.6510222145708986,
+      "link": "https://leetcode.com/problems/trapping-rain-water",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Dynamic Programming",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Hash Table",
+    "Matrix",
+    "Tree",
+    "Sliding Window",
+    "Heap (Priority Queue)",
+    "Union Find",
+    "Two Pointers",
+    "Dynamic Programming",
+    "Stack",
+    "Monotonic Stack"
+  ]
+}

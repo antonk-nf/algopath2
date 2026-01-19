@@ -1,6 +1,15 @@
 import { apiClient, ApiClientError } from './apiClient';
 import { cacheService } from './cacheService';
+import { staticDataService } from './staticDataService';
 import type { TopicTrend, TopicFrequency, TopicHeatmap } from '../types/topic';
+
+// Check if running in static mode (no API server)
+const isStaticMode = (): boolean => {
+  if (import.meta.env.PROD && import.meta.env.BASE_URL !== '/') {
+    return true;
+  }
+  return import.meta.env.VITE_STATIC_MODE === 'true';
+};
 
 class TopicService {
   private trendsCacheKey = 'topic_trends';
@@ -10,6 +19,33 @@ class TopicService {
     options?: { sortByAbs?: boolean; sortOrder?: 'asc' | 'desc'; disableCache?: boolean }
   ): Promise<TopicTrend[]> {
     const { sortByAbs = false, sortOrder, disableCache = false } = options || {};
+
+    // Use static data in static mode
+    if (isStaticMode()) {
+      try {
+        let trends = await staticDataService.loadTopicTrends();
+
+        // Apply sorting if requested
+        if (sortByAbs) {
+          trends = [...trends].sort((a, b) => {
+            const absA = Math.abs(a.trendStrength ?? 0);
+            const absB = Math.abs(b.trendStrength ?? 0);
+            return sortOrder === 'asc' ? absA - absB : absB - absA;
+          });
+        } else if (sortOrder) {
+          trends = [...trends].sort((a, b) => {
+            const valA = a.trendStrength ?? 0;
+            const valB = b.trendStrength ?? 0;
+            return sortOrder === 'asc' ? valA - valB : valB - valA;
+          });
+        }
+
+        return trends.slice(0, limit);
+      } catch (error) {
+        console.warn('Failed to load static topic trends:', error);
+      }
+    }
+
     const canUseCache = typeof window !== 'undefined' && typeof localStorage !== 'undefined';
     const allowCache = canUseCache && !sortByAbs && !disableCache && (!sortOrder || sortOrder === 'desc');
 
@@ -81,6 +117,16 @@ class TopicService {
   }
 
   async getTopicFrequency(limit: number = 50): Promise<TopicFrequency[]> {
+    // Use static data in static mode
+    if (isStaticMode()) {
+      try {
+        const frequencies = await staticDataService.loadTopicFrequency();
+        return frequencies.slice(0, limit);
+      } catch (error) {
+        console.warn('Failed to load static topic frequency:', error);
+      }
+    }
+
     try {
       const response = await apiClient.getTopicFrequency(limit);
       const payload = response.data as any;
@@ -108,6 +154,25 @@ class TopicService {
   }
 
   async getTopicHeatmap(topTopics: number = 20, companies?: string[]): Promise<TopicHeatmap> {
+    // Use static data in static mode (ignores companies filter for now)
+    if (isStaticMode()) {
+      try {
+        const heatmap = await staticDataService.loadTopicHeatmap();
+        // Limit topics if requested
+        if (topTopics && topTopics < heatmap.topics.length) {
+          return {
+            ...heatmap,
+            topics: heatmap.topics.slice(0, topTopics),
+            matrix: heatmap.matrix.slice(0, topTopics),
+            topicTotals: heatmap.topicTotals?.slice(0, topTopics),
+          };
+        }
+        return heatmap;
+      } catch (error) {
+        console.warn('Failed to load static topic heatmap:', error);
+      }
+    }
+
     try {
       const response = await apiClient.getTopicHeatmap(topTopics, companies);
       const payload = response.data as any;

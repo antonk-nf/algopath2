@@ -1,0 +1,63 @@
+{
+  "company": "Zluri",
+  "stats": {
+    "totalProblems": 2,
+    "uniqueProblems": 2,
+    "avgFrequency": 100.0,
+    "avgAcceptanceRate": 0.6748064094997943,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 4,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Maximum Array Hopping Score I",
+      "titleSlug": "maximum-array-hopping-score-i",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.7762183235867446,
+      "link": "https://leetcode.com/problems/maximum-array-hopping-score-i",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Stack",
+        "Greedy",
+        "Monotonic Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Array Hopping Score II",
+      "titleSlug": "maximum-array-hopping-score-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.573394495412844,
+      "link": "https://leetcode.com/problems/maximum-array-hopping-score-ii",
+      "topics": [
+        "Array",
+        "Stack",
+        "Greedy",
+        "Monotonic Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Stack",
+    "Greedy",
+    "Monotonic Stack",
+    "Dynamic Programming"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "company": "ciena",
+  "stats": {
+    "totalProblems": 2,
+    "uniqueProblems": 2,
+    "avgFrequency": 100.0,
+    "avgAcceptanceRate": 0.48155975720194955,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 4,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Active Users",
+      "titleSlug": "active-users",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.3660385155798,
+      "link": "https://leetcode.com/problems/active-users",
+      "topics": [
+        "Database"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Unique Flavors After Sharing K Candies",
+      "titleSlug": "number-of-unique-flavors-after-sharing-k-candies",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.597080998824099,
+      "link": "https://leetcode.com/problems/number-of-unique-flavors-after-sharing-k-candies",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sliding Window"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Database",
+    "Array",
+    "Hash Table",
+    "Sliding Window"
+  ]
+}

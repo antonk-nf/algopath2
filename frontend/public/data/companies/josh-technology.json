@@ -1,0 +1,430 @@
+{
+  "company": "josh technology",
+  "stats": {
+    "totalProblems": 22,
+    "uniqueProblems": 22,
+    "avgFrequency": 79.18604651162791,
+    "avgAcceptanceRate": 0.6497213539723904,
+    "difficultyDistribution": {
+      "EASY": 6,
+      "MEDIUM": 35,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Largest Number",
+      "titleSlug": "largest-number",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4128053161945387,
+      "link": "https://leetcode.com/problems/largest-number",
+      "topics": [
+        "Array",
+        "String",
+        "Greedy",
+        "Sorting"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Move Zeroes",
+      "titleSlug": "move-zeroes",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6280403790240795,
+      "link": "https://leetcode.com/problems/move-zeroes",
+      "topics": [
+        "Array",
+        "Two Pointers"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Add Two Numbers",
+      "titleSlug": "add-two-numbers",
+      "difficulty": "MEDIUM",
+      "frequency": 89.3,
+      "acceptanceRate": 0.4622521516983059,
+      "link": "https://leetcode.com/problems/add-two-numbers",
+      "topics": [
+        "Linked List",
+        "Math",
+        "Recursion"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Remove Zero Sum Consecutive Nodes from Linked List",
+      "titleSlug": "remove-zero-sum-consecutive-nodes-from-linked-list",
+      "difficulty": "MEDIUM",
+      "frequency": 89.3,
+      "acceptanceRate": 0.5286406766600661,
+      "link": "https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list",
+      "topics": [
+        "Hash Table",
+        "Linked List"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+      "titleSlug": "find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+      "difficulty": "MEDIUM",
+      "frequency": 81.7,
+      "acceptanceRate": 0.6945200779613259,
+      "link": "https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+      "topics": [
+        "Linked List"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Good Leaf Nodes Pairs",
+      "titleSlug": "number-of-good-leaf-nodes-pairs",
+      "difficulty": "MEDIUM",
+      "frequency": 81.7,
+      "acceptanceRate": 0.7177471264367816,
+      "link": "https://leetcode.com/problems/number-of-good-leaf-nodes-pairs",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "titleSlug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "EASY",
+      "frequency": 81.7,
+      "acceptanceRate": 0.552596818875515,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Merge Nodes in Between Zeros",
+      "titleSlug": "merge-nodes-in-between-zeros",
+      "difficulty": "MEDIUM",
+      "frequency": 81.7,
+      "acceptanceRate": 0.8955413496627146,
+      "link": "https://leetcode.com/problems/merge-nodes-in-between-zeros",
+      "topics": [
+        "Linked List",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Twin Sum of a Linked List",
+      "titleSlug": "maximum-twin-sum-of-a-linked-list",
+      "difficulty": "MEDIUM",
+      "frequency": 77.9,
+      "acceptanceRate": 0.8147472951229525,
+      "link": "https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list",
+      "topics": [
+        "Linked List",
+        "Two Pointers",
+        "Stack"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Remove K Digits",
+      "titleSlug": "remove-k-digits",
+      "difficulty": "MEDIUM",
+      "frequency": 77.9,
+      "acceptanceRate": 0.34940483856557913,
+      "link": "https://leetcode.com/problems/remove-k-digits",
+      "topics": [
+        "String",
+        "Stack",
+        "Greedy",
+        "Monotonic Stack"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Find Bottom Left Tree Value",
+      "titleSlug": "find-bottom-left-tree-value",
+      "difficulty": "MEDIUM",
+      "frequency": 71.0,
+      "acceptanceRate": 0.7175109020252438,
+      "link": "https://leetcode.com/problems/find-bottom-left-tree-value",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Reverse Odd Levels of Binary Tree",
+      "titleSlug": "reverse-odd-levels-of-binary-tree",
+      "difficulty": "MEDIUM",
+      "frequency": 71.0,
+      "acceptanceRate": 0.866394464658027,
+      "link": "https://leetcode.com/problems/reverse-odd-levels-of-binary-tree",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Reverse Nodes in k-Group",
+      "titleSlug": "reverse-nodes-in-k-group",
+      "difficulty": "HARD",
+      "frequency": 71.0,
+      "acceptanceRate": 0.6304371463092185,
+      "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Find the Substring With Maximum Cost",
+      "titleSlug": "find-the-substring-with-maximum-cost",
+      "difficulty": "MEDIUM",
+      "frequency": 71.0,
+      "acceptanceRate": 0.5684542586750788,
+      "link": "https://leetcode.com/problems/find-the-substring-with-maximum-cost",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Count Pairs Whose Sum is Less than Target",
+      "titleSlug": "count-pairs-whose-sum-is-less-than-target",
+      "difficulty": "EASY",
+      "frequency": 71.0,
+      "acceptanceRate": 0.8749491278191247,
+      "link": "https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Swaps to Group All 1's Together II",
+      "titleSlug": "minimum-swaps-to-group-all-1-s-together-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 71.0,
+      "acceptanceRate": 0.6551733570937285,
+      "link": "https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii",
+      "topics": [
+        "Array",
+        "Sliding Window"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Substring Without Repeating Characters",
+      "titleSlug": "longest-substring-without-repeating-characters",
+      "difficulty": "MEDIUM",
+      "frequency": 71.0,
+      "acceptanceRate": 0.36936165118444625,
+      "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Construct Smallest Number From DI String",
+      "titleSlug": "construct-smallest-number-from-di-string",
+      "difficulty": "MEDIUM",
+      "frequency": 71.0,
+      "acceptanceRate": 0.8582927253741733,
+      "link": "https://leetcode.com/problems/construct-smallest-number-from-di-string",
+      "topics": [
+        "String",
+        "Backtracking",
+        "Stack",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Trim a Binary Search Tree",
+      "titleSlug": "trim-a-binary-search-tree",
+      "difficulty": "MEDIUM",
+      "frequency": 71.0,
+      "acceptanceRate": 0.6637360647202037,
+      "link": "https://leetcode.com/problems/trim-a-binary-search-tree",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Search Tree",
+        "Binary Tree"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Count Good Nodes in Binary Tree",
+      "titleSlug": "count-good-nodes-in-binary-tree",
+      "difficulty": "MEDIUM",
+      "frequency": 69.9,
+      "acceptanceRate": 0.735000400672318,
+      "link": "https://leetcode.com/problems/count-good-nodes-in-binary-tree",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Daily Temperatures",
+      "titleSlug": "daily-temperatures",
+      "difficulty": "MEDIUM",
+      "frequency": 69.9,
+      "acceptanceRate": 0.6736509039874431,
+      "link": "https://leetcode.com/problems/daily-temperatures",
+      "topics": [
+        "Array",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Difference Between Node and Ancestor",
+      "titleSlug": "maximum-difference-between-node-and-ancestor",
+      "difficulty": "MEDIUM",
+      "frequency": 69.9,
+      "acceptanceRate": 0.7806028577020944,
+      "link": "https://leetcode.com/problems/maximum-difference-between-node-and-ancestor",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Linked List",
+    "String",
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree",
+    "Stack",
+    "Greedy",
+    "Two Pointers",
+    "Hash Table",
+    "Sorting",
+    "Breadth-First Search",
+    "Recursion",
+    "Dynamic Programming",
+    "Sliding Window"
+  ]
+}

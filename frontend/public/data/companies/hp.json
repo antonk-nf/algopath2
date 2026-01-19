@@ -1,0 +1,76 @@
+{
+  "company": "HP",
+  "stats": {
+    "totalProblems": 3,
+    "uniqueProblems": 3,
+    "avgFrequency": 91.86666666666667,
+    "avgAcceptanceRate": 0.5838559539045872,
+    "difficultyDistribution": {
+      "EASY": 4,
+      "MEDIUM": 2,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Minimum Recolors to Get K Consecutive Black Blocks",
+      "titleSlug": "minimum-recolors-to-get-k-consecutive-black-blocks",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6842699682132298,
+      "link": "https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks",
+      "topics": [
+        "String",
+        "Sliding Window"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Cost Homecoming of a Robot in a Grid",
+      "titleSlug": "minimum-cost-homecoming-of-a-robot-in-a-grid",
+      "difficulty": "MEDIUM",
+      "frequency": 91.0,
+      "acceptanceRate": 0.5116237402015678,
+      "link": "https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid",
+      "topics": [
+        "Array",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Palindrome",
+      "titleSlug": "longest-palindrome",
+      "difficulty": "EASY",
+      "frequency": 84.7,
+      "acceptanceRate": 0.555674153298964,
+      "link": "https://leetcode.com/problems/longest-palindrome",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "String",
+    "Greedy",
+    "Sliding Window",
+    "Array",
+    "Hash Table"
+  ]
+}

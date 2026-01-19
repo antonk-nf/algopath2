@@ -1,0 +1,149 @@
+{
+  "company": "Guidewire",
+  "stats": {
+    "totalProblems": 6,
+    "uniqueProblems": 6,
+    "avgFrequency": 96.76153846153845,
+    "avgAcceptanceRate": 0.5978692968821389,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 13,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Construct the Longest New String",
+      "titleSlug": "construct-the-longest-new-string",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5384322081417517,
+      "link": "https://leetcode.com/problems/construct-the-longest-new-string",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Greedy",
+        "Brainteaser"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Print Words Vertically",
+      "titleSlug": "print-words-vertically",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6622658589234733,
+      "link": "https://leetcode.com/problems/print-words-vertically",
+      "topics": [
+        "Array",
+        "String",
+        "Simulation"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "30d",
+        "3m"
+      ]
+    },
+    {
+      "title": "Minimum Moves to Spread Stones Over Grid",
+      "titleSlug": "minimum-moves-to-spread-stones-over-grid",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.44315093165667885,
+      "link": "https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Breadth-First Search",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Number of Operations to Sort a Binary Tree by Level",
+      "titleSlug": "minimum-number-of-operations-to-sort-a-binary-tree-by-level",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.7425819778656343,
+      "link": "https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level",
+      "topics": [
+        "Tree",
+        "Breadth-First Search",
+        "Binary Tree"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Get Watched Videos by Your Friends",
+      "titleSlug": "get-watched-videos-by-your-friends",
+      "difficulty": "MEDIUM",
+      "frequency": 90.0,
+      "acceptanceRate": 0.49756820603084906,
+      "link": "https://leetcode.com/problems/get-watched-videos-by-your-friends",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Breadth-First Search",
+        "Graph",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Kth Largest Element in an Array",
+      "titleSlug": "kth-largest-element-in-an-array",
+      "difficulty": "MEDIUM",
+      "frequency": 89.3,
+      "acceptanceRate": 0.679770776384085,
+      "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+      "topics": [
+        "Array",
+        "Divide and Conquer",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Quickselect"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Breadth-First Search",
+    "Dynamic Programming",
+    "String",
+    "Simulation",
+    "Sorting",
+    "Math",
+    "Greedy",
+    "Brainteaser",
+    "Matrix",
+    "Tree",
+    "Binary Tree",
+    "Hash Table",
+    "Graph",
+    "Divide and Conquer"
+  ]
+}

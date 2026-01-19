@@ -1,0 +1,399 @@
+{
+  "company": "Arcesium",
+  "stats": {
+    "totalProblems": 20,
+    "uniqueProblems": 20,
+    "avgFrequency": 73.9666666666667,
+    "avgAcceptanceRate": 0.4935909613592257,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 27,
+      "HARD": 12,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+      "titleSlug": "partition-array-into-two-arrays-to-minimize-sum-difference",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.21752726600529915,
+      "link": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Dynamic Programming",
+        "Bit Manipulation",
+        "Ordered Set",
+        "Bitmask"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "House Robber",
+      "titleSlug": "house-robber",
+      "difficulty": "MEDIUM",
+      "frequency": 87.8,
+      "acceptanceRate": 0.5230512577734159,
+      "link": "https://leetcode.com/problems/house-robber",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Search in Rotated Sorted Array",
+      "titleSlug": "search-in-rotated-sorted-array",
+      "difficulty": "MEDIUM",
+      "frequency": 82.0,
+      "acceptanceRate": 0.42837370095029104,
+      "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Stone Game VI",
+      "titleSlug": "stone-game-vi",
+      "difficulty": "MEDIUM",
+      "frequency": 82.0,
+      "acceptanceRate": 0.5906614232919549,
+      "link": "https://leetcode.com/problems/stone-game-vi",
+      "topics": [
+        "Array",
+        "Math",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Game Theory"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Possible Bipartition",
+      "titleSlug": "possible-bipartition",
+      "difficulty": "MEDIUM",
+      "frequency": 82.0,
+      "acceptanceRate": 0.5150784103207557,
+      "link": "https://leetcode.com/problems/possible-bipartition",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union Find",
+        "Graph"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Next Permutation",
+      "titleSlug": "next-permutation",
+      "difficulty": "MEDIUM",
+      "frequency": 74.6,
+      "acceptanceRate": 0.4305779906185842,
+      "link": "https://leetcode.com/problems/next-permutation",
+      "topics": [
+        "Array",
+        "Two Pointers"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Cycle Length Queries in a Tree",
+      "titleSlug": "cycle-length-queries-in-a-tree",
+      "difficulty": "HARD",
+      "frequency": 74.6,
+      "acceptanceRate": 0.5834553702182377,
+      "link": "https://leetcode.com/problems/cycle-length-queries-in-a-tree",
+      "topics": [
+        "Array",
+        "Tree",
+        "Binary Tree"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Binary Tree Maximum Path Sum",
+      "titleSlug": "binary-tree-maximum-path-sum",
+      "difficulty": "HARD",
+      "frequency": 74.6,
+      "acceptanceRate": 0.4122432508651943,
+      "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+      "topics": [
+        "Dynamic Programming",
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Find the Count of Monotonic Pairs I",
+      "titleSlug": "find-the-count-of-monotonic-pairs-i",
+      "difficulty": "HARD",
+      "frequency": 74.6,
+      "acceptanceRate": 0.4642378517893483,
+      "link": "https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i",
+      "topics": [
+        "Array",
+        "Math",
+        "Dynamic Programming",
+        "Combinatorics",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Length of Subarray With Positive Product",
+      "titleSlug": "maximum-length-of-subarray-with-positive-product",
+      "difficulty": "MEDIUM",
+      "frequency": 74.6,
+      "acceptanceRate": 0.44394128272317906,
+      "link": "https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Surrounded Regions",
+      "titleSlug": "surrounded-regions",
+      "difficulty": "MEDIUM",
+      "frequency": 64.1,
+      "acceptanceRate": 0.4288642186165671,
+      "link": "https://leetcode.com/problems/surrounded-regions",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union Find",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Product Subarray",
+      "titleSlug": "maximum-product-subarray",
+      "difficulty": "MEDIUM",
+      "frequency": 64.1,
+      "acceptanceRate": 0.3494174827564301,
+      "link": "https://leetcode.com/problems/maximum-product-subarray",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Edit Distance",
+      "titleSlug": "edit-distance",
+      "difficulty": "MEDIUM",
+      "frequency": 64.1,
+      "acceptanceRate": 0.5878986584785902,
+      "link": "https://leetcode.com/problems/edit-distance",
+      "topics": [
+        "String",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of People Aware of a Secret",
+      "titleSlug": "number-of-people-aware-of-a-secret",
+      "difficulty": "MEDIUM",
+      "frequency": 64.1,
+      "acceptanceRate": 0.46368623597805614,
+      "link": "https://leetcode.com/problems/number-of-people-aware-of-a-secret",
+      "topics": [
+        "Dynamic Programming",
+        "Queue",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximize the Confusion of an Exam",
+      "titleSlug": "maximize-the-confusion-of-an-exam",
+      "difficulty": "MEDIUM",
+      "frequency": 64.1,
+      "acceptanceRate": 0.6861245004961151,
+      "link": "https://leetcode.com/problems/maximize-the-confusion-of-an-exam",
+      "topics": [
+        "String",
+        "Binary Search",
+        "Sliding Window",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Count Collisions on a Road",
+      "titleSlug": "count-collisions-on-a-road",
+      "difficulty": "MEDIUM",
+      "frequency": 64.1,
+      "acceptanceRate": 0.4437803705532313,
+      "link": "https://leetcode.com/problems/count-collisions-on-a-road",
+      "topics": [
+        "String",
+        "Stack",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Insertion Steps to Make a String Palindrome",
+      "titleSlug": "minimum-insertion-steps-to-make-a-string-palindrome",
+      "difficulty": "HARD",
+      "frequency": 64.1,
+      "acceptanceRate": 0.7242938226969341,
+      "link": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome",
+      "topics": [
+        "String",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock IV",
+      "titleSlug": "best-time-to-buy-and-sell-stock-iv",
+      "difficulty": "HARD",
+      "frequency": 64.1,
+      "acceptanceRate": 0.47086330935251797,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Sort Colors",
+      "titleSlug": "sort-colors",
+      "difficulty": "MEDIUM",
+      "frequency": 64.1,
+      "acceptanceRate": 0.6758312389131401,
+      "link": "https://leetcode.com/problems/sort-colors",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Pow(x, n)",
+      "titleSlug": "pow-x-n",
+      "difficulty": "MEDIUM",
+      "frequency": 57.8,
+      "acceptanceRate": 0.3702322082141181,
+      "link": "https://leetcode.com/problems/powx-n",
+      "topics": [
+        "Math",
+        "Recursion"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Dynamic Programming",
+    "String",
+    "Two Pointers",
+    "Binary Search",
+    "Depth-First Search",
+    "Math",
+    "Greedy",
+    "Sorting",
+    "Breadth-First Search",
+    "Union Find",
+    "Tree",
+    "Binary Tree",
+    "Prefix Sum",
+    "Simulation"
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "company": "Jump Trading",
+  "stats": {
+    "totalProblems": 6,
+    "uniqueProblems": 6,
+    "avgFrequency": 92.83333333333331,
+    "avgAcceptanceRate": 0.5598900607482279,
+    "difficultyDistribution": {
+      "EASY": 5,
+      "MEDIUM": 1,
+      "HARD": 6,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Permutation Sequence",
+      "titleSlug": "permutation-sequence",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4994318658519785,
+      "link": "https://leetcode.com/problems/permutation-sequence",
+      "topics": [
+        "Math",
+        "Recursion"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Happy Number",
+      "titleSlug": "happy-number",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.580727274965834,
+      "link": "https://leetcode.com/problems/happy-number",
+      "topics": [
+        "Hash Table",
+        "Math",
+        "Two Pointers"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock IV",
+      "titleSlug": "best-time-to-buy-and-sell-stock-iv",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4708632632828892,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Check If It Is a Good Array",
+      "titleSlug": "check-if-it-is-a-good-array",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6136115712496465,
+      "link": "https://leetcode.com/problems/check-if-it-is-a-good-array",
+      "topics": [
+        "Array",
+        "Math",
+        "Number Theory"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Subtree of Another Tree",
+      "titleSlug": "subtree-of-another-tree",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4998483394921633,
+      "link": "https://leetcode.com/problems/subtree-of-another-tree",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "String Matching",
+        "Binary Tree",
+        "Hash Function"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Largest Combination With Bitwise AND Greater Than Zero",
+      "titleSlug": "largest-combination-with-bitwise-and-greater-than-zero",
+      "difficulty": "MEDIUM",
+      "frequency": 82.8,
+      "acceptanceRate": 0.808988824327877,
+      "link": "https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Bit Manipulation",
+        "Counting"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Math",
+    "Array",
+    "Hash Table",
+    "Two Pointers",
+    "Recursion",
+    "Dynamic Programming",
+    "Number Theory",
+    "Tree",
+    "Depth-First Search",
+    "String Matching",
+    "Binary Tree",
+    "Hash Function",
+    "Bit Manipulation",
+    "Counting"
+  ]
+}

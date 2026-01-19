@@ -1,0 +1,117 @@
+{
+  "company": "FactSet",
+  "stats": {
+    "totalProblems": 5,
+    "uniqueProblems": 5,
+    "avgFrequency": 92.66,
+    "avgAcceptanceRate": 0.5402221444691531,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 8,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Happy Number",
+      "titleSlug": "happy-number",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5807274040188486,
+      "link": "https://leetcode.com/problems/happy-number",
+      "topics": [
+        "Hash Table",
+        "Math",
+        "Two Pointers"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Remove All Adjacent Duplicates in String II",
+      "titleSlug": "remove-all-adjacent-duplicates-in-string-ii",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5960173343469628,
+      "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
+      "topics": [
+        "String",
+        "Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Remove Duplicate Letters",
+      "titleSlug": "remove-duplicate-letters",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5135128285840808,
+      "link": "https://leetcode.com/problems/remove-duplicate-letters",
+      "topics": [
+        "String",
+        "Stack",
+        "Greedy",
+        "Monotonic Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Smallest Subsequence of Distinct Characters",
+      "titleSlug": "smallest-subsequence-of-distinct-characters",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6196033109948744,
+      "link": "https://leetcode.com/problems/smallest-subsequence-of-distinct-characters",
+      "topics": [
+        "String",
+        "Stack",
+        "Greedy",
+        "Monotonic Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Increasing Triplet Subsequence",
+      "titleSlug": "increasing-triplet-subsequence",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.39124984440099875,
+      "link": "https://leetcode.com/problems/increasing-triplet-subsequence",
+      "topics": [
+        "Array",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "String",
+    "Stack",
+    "Greedy",
+    "Monotonic Stack",
+    "Hash Table",
+    "Math",
+    "Two Pointers",
+    "Array"
+  ]
+}

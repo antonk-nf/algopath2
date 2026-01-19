@@ -1,0 +1,174 @@
+{
+  "company": "IMC",
+  "stats": {
+    "totalProblems": 8,
+    "uniqueProblems": 8,
+    "avgFrequency": 70.99333333333333,
+    "avgAcceptanceRate": 0.5229154465645355,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 11,
+      "HARD": 4,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Find the Safest Path in a Grid",
+      "titleSlug": "find-the-safest-path-in-a-grid",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.48397269180754227,
+      "link": "https://leetcode.com/problems/find-the-safest-path-in-a-grid",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Breadth-First Search",
+        "Union Find",
+        "Heap (Priority Queue)",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Time Taken to Cross the Door",
+      "titleSlug": "time-taken-to-cross-the-door",
+      "difficulty": "HARD",
+      "frequency": 88.5,
+      "acceptanceRate": 0.4947985404859871,
+      "link": "https://leetcode.com/problems/time-taken-to-cross-the-door",
+      "topics": [
+        "Array",
+        "Queue",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Asteroid Collision",
+      "titleSlug": "asteroid-collision",
+      "difficulty": "MEDIUM",
+      "frequency": 75.4,
+      "acceptanceRate": 0.45500737161532884,
+      "link": "https://leetcode.com/problems/asteroid-collision",
+      "topics": [
+        "Array",
+        "Stack",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
+      "titleSlug": "maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
+      "difficulty": "MEDIUM",
+      "frequency": 67.8,
+      "acceptanceRate": 0.5351934322666932,
+      "link": "https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Matrix",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Design a Stack With Increment Operation",
+      "titleSlug": "design-a-stack-with-increment-operation",
+      "difficulty": "MEDIUM",
+      "frequency": 62.3,
+      "acceptanceRate": 0.8013123593723671,
+      "link": "https://leetcode.com/problems/design-a-stack-with-increment-operation",
+      "topics": [
+        "Array",
+        "Stack",
+        "Design"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Knight Moves",
+      "titleSlug": "minimum-knight-moves",
+      "difficulty": "MEDIUM",
+      "frequency": 54.7,
+      "acceptanceRate": 0.41329294235617164,
+      "link": "https://leetcode.com/problems/minimum-knight-moves",
+      "topics": [
+        "Breadth-First Search"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Shortest Path in a Grid with Obstacles Elimination",
+      "titleSlug": "shortest-path-in-a-grid-with-obstacles-elimination",
+      "difficulty": "HARD",
+      "frequency": 54.7,
+      "acceptanceRate": 0.45606251689037025,
+      "link": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination",
+      "topics": [
+        "Array",
+        "Breadth-First Search",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Min Stack",
+      "titleSlug": "min-stack",
+      "difficulty": "MEDIUM",
+      "frequency": 54.3,
+      "acceptanceRate": 0.564451988879112,
+      "link": "https://leetcode.com/problems/min-stack",
+      "topics": [
+        "Stack",
+        "Design"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Breadth-First Search",
+    "Matrix",
+    "Stack",
+    "Binary Search",
+    "Simulation",
+    "Design",
+    "Union Find",
+    "Heap (Priority Queue)",
+    "Queue",
+    "Prefix Sum"
+  ]
+}

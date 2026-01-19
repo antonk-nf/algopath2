@@ -1,0 +1,114 @@
+{
+  "company": "Virtu Financial",
+  "stats": {
+    "totalProblems": 5,
+    "uniqueProblems": 5,
+    "avgFrequency": 95.80000000000001,
+    "avgAcceptanceRate": 0.6281258363245137,
+    "difficultyDistribution": {
+      "EASY": 11,
+      "MEDIUM": 2,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "How Many Apples Can You Put into the Basket",
+      "titleSlug": "how-many-apples-can-you-put-into-the-basket",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6704955156282592,
+      "link": "https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Array Transformation",
+      "titleSlug": "array-transformation",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5310772264675846,
+      "link": "https://leetcode.com/problems/array-transformation",
+      "topics": [
+        "Array",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Count Substrings with Only One Distinct Letter",
+      "titleSlug": "count-substrings-with-only-one-distinct-letter",
+      "difficulty": "EASY",
+      "frequency": 94.6,
+      "acceptanceRate": 0.806493436335152,
+      "link": "https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter",
+      "topics": [
+        "Math",
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Hexspeak",
+      "titleSlug": "hexspeak",
+      "difficulty": "EASY",
+      "frequency": 90.6,
+      "acceptanceRate": 0.5829381638846738,
+      "link": "https://leetcode.com/problems/hexspeak",
+      "topics": [
+        "Math",
+        "String"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Count Number of Homogenous Substrings",
+      "titleSlug": "count-number-of-homogenous-substrings",
+      "difficulty": "MEDIUM",
+      "frequency": 82.5,
+      "acceptanceRate": 0.5736276720948661,
+      "link": "https://leetcode.com/problems/count-number-of-homogenous-substrings",
+      "topics": [
+        "Math",
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Math",
+    "String",
+    "Array",
+    "Greedy",
+    "Sorting",
+    "Simulation"
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "company": "Grab",
+  "stats": {
+    "totalProblems": 13,
+    "uniqueProblems": 13,
+    "avgFrequency": 82.728,
+    "avgAcceptanceRate": 0.5037362618820772,
+    "difficultyDistribution": {
+      "EASY": 3,
+      "MEDIUM": 22,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Daily Temperatures",
+      "titleSlug": "daily-temperatures",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6736501067841334,
+      "link": "https://leetcode.com/problems/daily-temperatures",
+      "topics": [
+        "Array",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+      "titleSlug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6138412550730682,
+      "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+      "topics": [
+        "String",
+        "Bit Manipulation",
+        "Simulation"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.55776997185251,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Substring Without Repeating Characters",
+      "titleSlug": "longest-substring-without-repeating-characters",
+      "difficulty": "MEDIUM",
+      "frequency": 92.0,
+      "acceptanceRate": 0.36936144886094513,
+      "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "LRU Cache",
+      "titleSlug": "lru-cache",
+      "difficulty": "MEDIUM",
+      "frequency": 92.0,
+      "acceptanceRate": 0.4521475035659106,
+      "link": "https://leetcode.com/problems/lru-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Search a 2D Matrix",
+      "titleSlug": "search-a-2d-matrix",
+      "difficulty": "MEDIUM",
+      "frequency": 80.7,
+      "acceptanceRate": 0.5228973130364317,
+      "link": "https://leetcode.com/problems/search-a-2d-matrix",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Longest Palindromic Substring",
+      "titleSlug": "longest-palindromic-substring",
+      "difficulty": "MEDIUM",
+      "frequency": 80.7,
+      "acceptanceRate": 0.35846128129286803,
+      "link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Cost For Tickets",
+      "titleSlug": "minimum-cost-for-tickets",
+      "difficulty": "MEDIUM",
+      "frequency": 80.7,
+      "acceptanceRate": 0.6741376633860101,
+      "link": "https://leetcode.com/problems/minimum-cost-for-tickets",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Reconstruct a 2-Row Binary Matrix",
+      "titleSlug": "reconstruct-a-2-row-binary-matrix",
+      "difficulty": "MEDIUM",
+      "frequency": 80.7,
+      "acceptanceRate": 0.47722177314807757,
+      "link": "https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Adding Two Negabinary Numbers",
+      "titleSlug": "adding-two-negabinary-numbers",
+      "difficulty": "MEDIUM",
+      "frequency": 80.7,
+      "acceptanceRate": 0.3689554769276132,
+      "link": "https://leetcode.com/problems/adding-two-negabinary-numbers",
+      "topics": [
+        "Array",
+        "Math"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Number of Food Buckets to Feed the Hamsters",
+      "titleSlug": "minimum-number-of-food-buckets-to-feed-the-hamsters",
+      "difficulty": "MEDIUM",
+      "frequency": 80.7,
+      "acceptanceRate": 0.47045155152224827,
+      "link": "https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Valid Parentheses",
+      "titleSlug": "valid-parentheses",
+      "difficulty": "EASY",
+      "frequency": 61.6,
+      "acceptanceRate": 0.4232286113783459,
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "topics": [
+        "String",
+        "Stack"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    },
+    {
+      "title": "Simplify Path",
+      "titleSlug": "simplify-path",
+      "difficulty": "MEDIUM",
+      "frequency": 61.6,
+      "acceptanceRate": 0.4785459897008844,
+      "link": "https://leetcode.com/problems/simplify-path",
+      "topics": [
+        "String",
+        "Stack"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "String",
+    "Hash Table",
+    "Dynamic Programming",
+    "Stack",
+    "Matrix",
+    "Greedy",
+    "Bit Manipulation",
+    "Simulation",
+    "Monotonic Stack",
+    "Sliding Window",
+    "Linked List",
+    "Design",
+    "Doubly-Linked List",
+    "Binary Search"
+  ]
+}

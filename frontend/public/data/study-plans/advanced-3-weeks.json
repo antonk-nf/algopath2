@@ -1,0 +1,840 @@
+{
+  "id": "advanced-algorithms",
+  "name": "Advanced Algorithms",
+  "description": "Challenging problems for experienced engineers",
+  "durationWeeks": 3,
+  "problemsPerDay": 3,
+  "totalProblems": 63,
+  "targetAudience": "advanced",
+  "createdAt": "2026-01-19T17:25:59.124916Z",
+  "days": [
+    {
+      "week": 1,
+      "day": 1,
+      "dayNumber": 1,
+      "problems": [
+        {
+          "title": "Trapping Rain Water",
+          "titleSlug": "trapping-rain-water",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "Two Pointers",
+            "Dynamic Programming"
+          ],
+          "link": "https://leetcode.com/problems/trapping-rain-water"
+        },
+        {
+          "title": "Median of Two Sorted Arrays",
+          "titleSlug": "median-of-two-sorted-arrays",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "Binary Search",
+            "Divide and Conquer"
+          ],
+          "link": "https://leetcode.com/problems/median-of-two-sorted-arrays"
+        },
+        {
+          "title": "Maximum Profit in Job Scheduling",
+          "titleSlug": "maximum-profit-in-job-scheduling",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "Binary Search",
+            "Dynamic Programming"
+          ],
+          "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling"
+        }
+      ]
+    },
+    {
+      "week": 1,
+      "day": 2,
+      "dayNumber": 2,
+      "problems": [
+        {
+          "title": "Merge k Sorted Lists",
+          "titleSlug": "merge-k-sorted-lists",
+          "difficulty": "HARD",
+          "topics": [
+            "Linked List",
+            "Divide and Conquer",
+            "Heap (Priority Queue)"
+          ],
+          "link": "https://leetcode.com/problems/merge-k-sorted-lists"
+        },
+        {
+          "title": "First Missing Positive",
+          "titleSlug": "first-missing-positive",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "Hash Table"
+          ],
+          "link": "https://leetcode.com/problems/first-missing-positive"
+        },
+        {
+          "title": "Word Search II",
+          "titleSlug": "word-search-ii",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "String",
+            "Backtracking"
+          ],
+          "link": "https://leetcode.com/problems/word-search-ii"
+        }
+      ]
+    },
+    {
+      "week": 1,
+      "day": 3,
+      "dayNumber": 3,
+      "problems": [
+        {
+          "title": "Sliding Window Maximum",
+          "titleSlug": "sliding-window-maximum",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "Queue",
+            "Sliding Window"
+          ],
+          "link": "https://leetcode.com/problems/sliding-window-maximum"
+        },
+        {
+          "title": "Find Median from Data Stream",
+          "titleSlug": "find-median-from-data-stream",
+          "difficulty": "HARD",
+          "topics": [
+            "Two Pointers",
+            "Design",
+            "Sorting"
+          ],
+          "link": "https://leetcode.com/problems/find-median-from-data-stream"
+        },
+        {
+          "title": "Largest Rectangle in Histogram",
+          "titleSlug": "largest-rectangle-in-histogram",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "Stack",
+            "Monotonic Stack"
+          ],
+          "link": "https://leetcode.com/problems/largest-rectangle-in-histogram"
+        }
+      ]
+    },
+    {
+      "week": 1,
+      "day": 4,
+      "dayNumber": 4,
+      "problems": [
+        {
+          "title": "Word Ladder",
+          "titleSlug": "word-ladder",
+          "difficulty": "HARD",
+          "topics": [
+            "Hash Table",
+            "String",
+            "Breadth-First Search"
+          ],
+          "link": "https://leetcode.com/problems/word-ladder"
+        },
+        {
+          "title": "Text Justification",
+          "titleSlug": "text-justification",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "String",
+            "Simulation"
+          ],
+          "link": "https://leetcode.com/problems/text-justification"
+        },
+        {
+          "title": "Alien Dictionary",
+          "titleSlug": "alien-dictionary",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "String",
+            "Depth-First Search"
+          ],
+          "link": "https://leetcode.com/problems/alien-dictionary"
+        }
+      ]
+    },
+    {
+      "week": 1,
+      "day": 5,
+      "dayNumber": 5,
+      "problems": [
+        {
+          "title": "Longest Valid Parentheses",
+          "titleSlug": "longest-valid-parentheses",
+          "difficulty": "HARD",
+          "topics": [
+            "String",
+            "Dynamic Programming",
+            "Stack"
+          ],
+          "link": "https://leetcode.com/problems/longest-valid-parentheses"
+        },
+        {
+          "title": "Minimum Window Substring",
+          "titleSlug": "minimum-window-substring",
+          "difficulty": "HARD",
+          "topics": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "link": "https://leetcode.com/problems/minimum-window-substring"
+        },
+        {
+          "title": "Split Array Largest Sum",
+          "titleSlug": "split-array-largest-sum",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "Binary Search",
+            "Dynamic Programming"
+          ],
+          "link": "https://leetcode.com/problems/split-array-largest-sum"
+        }
+      ]
+    },
+    {
+      "week": 1,
+      "day": 6,
+      "dayNumber": 6,
+      "problems": [
+        {
+          "title": "Basic Calculator",
+          "titleSlug": "basic-calculator",
+          "difficulty": "HARD",
+          "topics": [
+            "Math",
+            "String",
+            "Stack"
+          ],
+          "link": "https://leetcode.com/problems/basic-calculator"
+        },
+        {
+          "title": "Basic Calculator III",
+          "titleSlug": "basic-calculator-iii",
+          "difficulty": "HARD",
+          "topics": [
+            "Math",
+            "String",
+            "Stack"
+          ],
+          "link": "https://leetcode.com/problems/basic-calculator-iii"
+        },
+        {
+          "title": "Reverse Nodes in k-Group",
+          "titleSlug": "reverse-nodes-in-k-group",
+          "difficulty": "HARD",
+          "topics": [
+            "Linked List",
+            "Recursion"
+          ],
+          "link": "https://leetcode.com/problems/reverse-nodes-in-k-group"
+        }
+      ]
+    },
+    {
+      "week": 1,
+      "day": 7,
+      "dayNumber": 7,
+      "problems": [
+        {
+          "title": "Shortest Distance from All Buildings",
+          "titleSlug": "shortest-distance-from-all-buildings",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "Breadth-First Search",
+            "Matrix"
+          ],
+          "link": "https://leetcode.com/problems/shortest-distance-from-all-buildings"
+        },
+        {
+          "title": "Binary Tree Maximum Path Sum",
+          "titleSlug": "binary-tree-maximum-path-sum",
+          "difficulty": "HARD",
+          "topics": [
+            "Dynamic Programming",
+            "Tree",
+            "Depth-First Search"
+          ],
+          "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum"
+        },
+        {
+          "title": "Minimum Number of Taps to Open to Water a Garden",
+          "titleSlug": "minimum-number-of-taps-to-open-to-water-a-garden",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy"
+          ],
+          "link": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden"
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "day": 1,
+      "dayNumber": 8,
+      "problems": [
+        {
+          "title": "Number of Visible People in a Queue",
+          "titleSlug": "number-of-visible-people-in-a-queue",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "Stack",
+            "Monotonic Stack"
+          ],
+          "link": "https://leetcode.com/problems/number-of-visible-people-in-a-queue"
+        },
+        {
+          "title": "Regular Expression Matching",
+          "titleSlug": "regular-expression-matching",
+          "difficulty": "HARD",
+          "topics": [
+            "String",
+            "Dynamic Programming",
+            "Recursion"
+          ],
+          "link": "https://leetcode.com/problems/regular-expression-matching"
+        },
+        {
+          "title": "Bus Routes",
+          "titleSlug": "bus-routes",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "Hash Table",
+            "Breadth-First Search"
+          ],
+          "link": "https://leetcode.com/problems/bus-routes"
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "day": 2,
+      "dayNumber": 9,
+      "problems": [
+        {
+          "title": "Integer to English Words",
+          "titleSlug": "integer-to-english-words",
+          "difficulty": "HARD",
+          "topics": [
+            "Math",
+            "String",
+            "Recursion"
+          ],
+          "link": "https://leetcode.com/problems/integer-to-english-words"
+        },
+        {
+          "title": "LFU Cache",
+          "titleSlug": "lfu-cache",
+          "difficulty": "HARD",
+          "topics": [
+            "Hash Table",
+            "Linked List",
+            "Design"
+          ],
+          "link": "https://leetcode.com/problems/lfu-cache"
+        },
+        {
+          "title": "Binary Tree Cameras",
+          "titleSlug": "binary-tree-cameras",
+          "difficulty": "HARD",
+          "topics": [
+            "Dynamic Programming",
+            "Tree",
+            "Depth-First Search"
+          ],
+          "link": "https://leetcode.com/problems/binary-tree-cameras"
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "day": 3,
+      "dayNumber": 10,
+      "problems": [
+        {
+          "title": "Wildcard Matching",
+          "titleSlug": "wildcard-matching",
+          "difficulty": "HARD",
+          "topics": [
+            "String",
+            "Dynamic Programming",
+            "Greedy"
+          ],
+          "link": "https://leetcode.com/problems/wildcard-matching"
+        },
+        {
+          "title": "N-Queens",
+          "titleSlug": "n-queens",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "Backtracking"
+          ],
+          "link": "https://leetcode.com/problems/n-queens"
+        },
+        {
+          "title": "Serialize and Deserialize Binary Tree",
+          "titleSlug": "serialize-and-deserialize-binary-tree",
+          "difficulty": "HARD",
+          "topics": [
+            "String",
+            "Tree",
+            "Depth-First Search"
+          ],
+          "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree"
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "day": 4,
+      "dayNumber": 11,
+      "problems": [
+        {
+          "title": "IPO",
+          "titleSlug": "ipo",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "Greedy",
+            "Sorting"
+          ],
+          "link": "https://leetcode.com/problems/ipo"
+        },
+        {
+          "title": "Cherry Pickup",
+          "titleSlug": "cherry-pickup",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "Dynamic Programming",
+            "Matrix"
+          ],
+          "link": "https://leetcode.com/problems/cherry-pickup"
+        },
+        {
+          "title": "Burst Balloons",
+          "titleSlug": "burst-balloons",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "link": "https://leetcode.com/problems/burst-balloons"
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "day": 5,
+      "dayNumber": 12,
+      "problems": [
+        {
+          "title": "Design In-Memory File System",
+          "titleSlug": "design-in-memory-file-system",
+          "difficulty": "HARD",
+          "topics": [
+            "Hash Table",
+            "String",
+            "Design"
+          ],
+          "link": "https://leetcode.com/problems/design-in-memory-file-system"
+        },
+        {
+          "title": "Parallel Courses III",
+          "titleSlug": "parallel-courses-iii",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "Dynamic Programming",
+            "Graph"
+          ],
+          "link": "https://leetcode.com/problems/parallel-courses-iii"
+        },
+        {
+          "title": "Candy",
+          "titleSlug": "candy",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "Greedy"
+          ],
+          "link": "https://leetcode.com/problems/candy"
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "day": 6,
+      "dayNumber": 13,
+      "problems": [
+        {
+          "title": "Block Placement Queries",
+          "titleSlug": "block-placement-queries",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "Binary Search",
+            "Binary Indexed Tree"
+          ],
+          "link": "https://leetcode.com/problems/block-placement-queries"
+        },
+        {
+          "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+          "titleSlug": "insert-delete-getrandom-o-1-duplicates-allowed",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "Hash Table",
+            "Math"
+          ],
+          "link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed"
+        },
+        {
+          "title": "Count Subarrays With Fixed Bounds",
+          "titleSlug": "count-subarrays-with-fixed-bounds",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "Queue",
+            "Sliding Window"
+          ],
+          "link": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds"
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "day": 7,
+      "dayNumber": 14,
+      "problems": [
+        {
+          "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+          "titleSlug": "partition-array-into-two-arrays-to-minimize-sum-difference",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "Two Pointers",
+            "Binary Search"
+          ],
+          "link": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference"
+        },
+        {
+          "title": "Best Time to Buy and Sell Stock III",
+          "titleSlug": "best-time-to-buy-and-sell-stock-iii",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii"
+        },
+        {
+          "title": "Making A Large Island",
+          "titleSlug": "making-a-large-island",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "Depth-First Search",
+            "Breadth-First Search"
+          ],
+          "link": "https://leetcode.com/problems/making-a-large-island"
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "day": 1,
+      "dayNumber": 15,
+      "problems": [
+        {
+          "title": "Sudoku Solver",
+          "titleSlug": "sudoku-solver",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "Hash Table",
+            "Backtracking"
+          ],
+          "link": "https://leetcode.com/problems/sudoku-solver"
+        },
+        {
+          "title": "Reaching Points",
+          "titleSlug": "reaching-points",
+          "difficulty": "HARD",
+          "topics": [
+            "Math"
+          ],
+          "link": "https://leetcode.com/problems/reaching-points"
+        },
+        {
+          "title": "Shortest Palindrome",
+          "titleSlug": "shortest-palindrome",
+          "difficulty": "HARD",
+          "topics": [
+            "String",
+            "Rolling Hash",
+            "String Matching"
+          ],
+          "link": "https://leetcode.com/problems/shortest-palindrome"
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "day": 2,
+      "dayNumber": 16,
+      "problems": [
+        {
+          "title": "Robot Room Cleaner",
+          "titleSlug": "robot-room-cleaner",
+          "difficulty": "HARD",
+          "topics": [
+            "Backtracking",
+            "Interactive"
+          ],
+          "link": "https://leetcode.com/problems/robot-room-cleaner"
+        },
+        {
+          "title": "Minimum Number of Refueling Stops",
+          "titleSlug": "minimum-number-of-refueling-stops",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy"
+          ],
+          "link": "https://leetcode.com/problems/minimum-number-of-refueling-stops"
+        },
+        {
+          "title": "Find Servers That Handled Most Number of Requests",
+          "titleSlug": "find-servers-that-handled-most-number-of-requests",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "Greedy",
+            "Heap (Priority Queue)"
+          ],
+          "link": "https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests"
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "day": 3,
+      "dayNumber": 17,
+      "problems": [
+        {
+          "title": "Employee Free Time",
+          "titleSlug": "employee-free-time",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "Line Sweep",
+            "Sorting"
+          ],
+          "link": "https://leetcode.com/problems/employee-free-time"
+        },
+        {
+          "title": "Frog Jump",
+          "titleSlug": "frog-jump",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "link": "https://leetcode.com/problems/frog-jump"
+        },
+        {
+          "title": "Trapping Rain Water II",
+          "titleSlug": "trapping-rain-water-ii",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "Breadth-First Search",
+            "Heap (Priority Queue)"
+          ],
+          "link": "https://leetcode.com/problems/trapping-rain-water-ii"
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "day": 4,
+      "dayNumber": 18,
+      "problems": [
+        {
+          "title": "Word Break II",
+          "titleSlug": "word-break-ii",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "Hash Table",
+            "String"
+          ],
+          "link": "https://leetcode.com/problems/word-break-ii"
+        },
+        {
+          "title": "Optimal Account Balancing",
+          "titleSlug": "optimal-account-balancing",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "Dynamic Programming",
+            "Backtracking"
+          ],
+          "link": "https://leetcode.com/problems/optimal-account-balancing"
+        },
+        {
+          "title": "Number of Ways to Form a Target String Given a Dictionary",
+          "titleSlug": "number-of-ways-to-form-a-target-string-given-a-dictionary",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "String",
+            "Dynamic Programming"
+          ],
+          "link": "https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary"
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "day": 5,
+      "dayNumber": 19,
+      "problems": [
+        {
+          "title": "Number of Islands II",
+          "titleSlug": "number-of-islands-ii",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "Hash Table",
+            "Union Find"
+          ],
+          "link": "https://leetcode.com/problems/number-of-islands-ii"
+        },
+        {
+          "title": "Longest Increasing Path in a Matrix",
+          "titleSlug": "longest-increasing-path-in-a-matrix",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "Dynamic Programming",
+            "Depth-First Search"
+          ],
+          "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix"
+        },
+        {
+          "title": "Best Meeting Point",
+          "titleSlug": "best-meeting-point",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "Math",
+            "Sorting"
+          ],
+          "link": "https://leetcode.com/problems/best-meeting-point"
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "day": 6,
+      "dayNumber": 20,
+      "problems": [
+        {
+          "title": "Shortest Path in a Grid with Obstacles Elimination",
+          "titleSlug": "shortest-path-in-a-grid-with-obstacles-elimination",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "Breadth-First Search",
+            "Matrix"
+          ],
+          "link": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination"
+        },
+        {
+          "title": "Reconstruct Itinerary",
+          "titleSlug": "reconstruct-itinerary",
+          "difficulty": "HARD",
+          "topics": [
+            "Depth-First Search",
+            "Graph",
+            "Eulerian Circuit"
+          ],
+          "link": "https://leetcode.com/problems/reconstruct-itinerary"
+        },
+        {
+          "title": "Special Binary String",
+          "titleSlug": "special-binary-string",
+          "difficulty": "HARD",
+          "topics": [
+            "String",
+            "Recursion"
+          ],
+          "link": "https://leetcode.com/problems/special-binary-string"
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "day": 7,
+      "dayNumber": 21,
+      "problems": [
+        {
+          "title": "Maximal Rectangle",
+          "titleSlug": "maximal-rectangle",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "Dynamic Programming",
+            "Stack"
+          ],
+          "link": "https://leetcode.com/problems/maximal-rectangle"
+        },
+        {
+          "title": "Split Message Based on Limit",
+          "titleSlug": "split-message-based-on-limit",
+          "difficulty": "HARD",
+          "topics": [
+            "String",
+            "Binary Search",
+            "Enumeration"
+          ],
+          "link": "https://leetcode.com/problems/split-message-based-on-limit"
+        },
+        {
+          "title": "Best Time to Buy and Sell Stock IV",
+          "titleSlug": "best-time-to-buy-and-sell-stock-iv",
+          "difficulty": "HARD",
+          "topics": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv"
+        }
+      ]
+    }
+  ]
+}

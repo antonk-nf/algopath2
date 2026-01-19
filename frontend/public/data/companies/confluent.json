@@ -1,0 +1,265 @@
+{
+  "company": "Confluent",
+  "stats": {
+    "totalProblems": 12,
+    "uniqueProblems": 12,
+    "avgFrequency": 79.45945945945947,
+    "avgAcceptanceRate": 0.5482057479500931,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 22,
+      "HARD": 15,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Time Based Key-Value Store",
+      "titleSlug": "time-based-key-value-store",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.49366388355657287,
+      "link": "https://leetcode.com/problems/time-based-key-value-store",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Binary Search",
+        "Design"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "30d",
+        "3m"
+      ]
+    },
+    {
+      "title": "Valid Sudoku",
+      "titleSlug": "valid-sudoku",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6227680872343923,
+      "link": "https://leetcode.com/problems/valid-sudoku",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Matrix"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "30d",
+        "3m"
+      ]
+    },
+    {
+      "title": "LRU Cache",
+      "titleSlug": "lru-cache",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.452147387470624,
+      "link": "https://leetcode.com/problems/lru-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "30d",
+        "3m"
+      ]
+    },
+    {
+      "title": "Design Authentication Manager",
+      "titleSlug": "design-authentication-manager",
+      "difficulty": "MEDIUM",
+      "frequency": 87.7,
+      "acceptanceRate": 0.5785379503322841,
+      "link": "https://leetcode.com/problems/design-authentication-manager",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Sudoku Solver",
+      "titleSlug": "sudoku-solver",
+      "difficulty": "HARD",
+      "frequency": 87.7,
+      "acceptanceRate": 0.6390853756141208,
+      "link": "https://leetcode.com/problems/sudoku-solver",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Backtracking",
+        "Matrix"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "6m+",
+        "all",
+        "30d",
+        "3m"
+      ]
+    },
+    {
+      "title": "Combination Sum",
+      "titleSlug": "combination-sum",
+      "difficulty": "MEDIUM",
+      "frequency": 78.0,
+      "acceptanceRate": 0.7467472445420653,
+      "link": "https://leetcode.com/problems/combination-sum",
+      "topics": [
+        "Array",
+        "Backtracking"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Regular Expression Matching",
+      "titleSlug": "regular-expression-matching",
+      "difficulty": "HARD",
+      "frequency": 63.7,
+      "acceptanceRate": 0.2928026426562546,
+      "link": "https://leetcode.com/problems/regular-expression-matching",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Recursion"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Wildcard Matching",
+      "titleSlug": "wildcard-matching",
+      "difficulty": "HARD",
+      "frequency": 63.7,
+      "acceptanceRate": 0.2989829339911512,
+      "link": "https://leetcode.com/problems/wildcard-matching",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Greedy",
+        "Recursion"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Debounce",
+      "titleSlug": "debounce",
+      "difficulty": "MEDIUM",
+      "frequency": 63.7,
+      "acceptanceRate": 0.9181616559881715,
+      "link": "https://leetcode.com/problems/debounce",
+      "topics": [],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Count Subarrays With Median K",
+      "titleSlug": "count-subarrays-with-median-k",
+      "difficulty": "HARD",
+      "frequency": 55.5,
+      "acceptanceRate": 0.4553062885040102,
+      "link": "https://leetcode.com/problems/count-subarrays-with-median-k",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Time to Eat All Grains",
+      "titleSlug": "minimum-time-to-eat-all-grains",
+      "difficulty": "HARD",
+      "frequency": 55.5,
+      "acceptanceRate": 0.3928338762214983,
+      "link": "https://leetcode.com/problems/minimum-time-to-eat-all-grains",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Atoms",
+      "titleSlug": "number-of-atoms",
+      "difficulty": "HARD",
+      "frequency": 55.5,
+      "acceptanceRate": 0.6500029349858701,
+      "link": "https://leetcode.com/problems/number-of-atoms",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Stack",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Hash Table",
+    "Array",
+    "Design",
+    "String",
+    "Matrix",
+    "Linked List",
+    "Doubly-Linked List",
+    "Binary Search",
+    "Backtracking",
+    "Dynamic Programming",
+    "Recursion",
+    "Sorting",
+    "Greedy",
+    "Prefix Sum",
+    "Two Pointers"
+  ]
+}

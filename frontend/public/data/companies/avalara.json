@@ -1,0 +1,56 @@
+{
+  "company": "Avalara",
+  "stats": {
+    "totalProblems": 2,
+    "uniqueProblems": 2,
+    "avgFrequency": 91.75,
+    "avgAcceptanceRate": 0.29423300559089277,
+    "difficultyDistribution": {
+      "EASY": 0,
+      "MEDIUM": 0,
+      "HARD": 4,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Abbreviating the Product of a Range",
+      "titleSlug": "abbreviating-the-product-of-a-range",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.24491490244914899,
+      "link": "https://leetcode.com/problems/abbreviating-the-product-of-a-range",
+      "topics": [
+        "Math"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Integer to English Words",
+      "titleSlug": "integer-to-english-words",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.34355110873263656,
+      "link": "https://leetcode.com/problems/integer-to-english-words",
+      "topics": [
+        "Math",
+        "String",
+        "Recursion"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Math",
+    "String",
+    "Recursion"
+  ]
+}

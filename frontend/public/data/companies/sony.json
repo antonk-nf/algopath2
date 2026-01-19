@@ -1,0 +1,106 @@
+{
+  "company": "Sony",
+  "stats": {
+    "totalProblems": 4,
+    "uniqueProblems": 4,
+    "avgFrequency": 85.8375,
+    "avgAcceptanceRate": 0.5921854641939652,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 2,
+      "HARD": 4,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Random Pick with Weight",
+      "titleSlug": "random-pick-with-weight",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.48278533987379574,
+      "link": "https://leetcode.com/problems/random-pick-with-weight",
+      "topics": [
+        "Array",
+        "Math",
+        "Binary Search",
+        "Prefix Sum",
+        "Randomized"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Reducing Dishes",
+      "titleSlug": "reducing-dishes",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.7634905741624626,
+      "link": "https://leetcode.com/problems/reducing-dishes",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Subtree Removal Game with Fibonacci Tree",
+      "titleSlug": "subtree-removal-game-with-fibonacci-tree",
+      "difficulty": "HARD",
+      "frequency": 89.4,
+      "acceptanceRate": 0.5698689956331878,
+      "link": "https://leetcode.com/problems/subtree-removal-game-with-fibonacci-tree",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Tree",
+        "Binary Tree",
+        "Game Theory"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "titleSlug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "EASY",
+      "frequency": 89.4,
+      "acceptanceRate": 0.5525969471064145,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Dynamic Programming",
+    "Math",
+    "Binary Search",
+    "Prefix Sum",
+    "Randomized",
+    "Greedy",
+    "Sorting",
+    "Tree",
+    "Binary Tree",
+    "Game Theory"
+  ]
+}

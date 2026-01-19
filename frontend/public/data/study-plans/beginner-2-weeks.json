@@ -1,0 +1,550 @@
+{
+  "id": "beginner-fundamentals",
+  "name": "Beginner Fundamentals",
+  "description": "Easy problems to build a strong foundation",
+  "durationWeeks": 2,
+  "problemsPerDay": 3,
+  "totalProblems": 42,
+  "targetAudience": "beginner",
+  "createdAt": "2026-01-19T17:25:59.124492Z",
+  "days": [
+    {
+      "week": 1,
+      "day": 1,
+      "dayNumber": 1,
+      "problems": [
+        {
+          "title": "Best Time to Buy and Sell Stock",
+          "titleSlug": "best-time-to-buy-and-sell-stock",
+          "difficulty": "EASY",
+          "topics": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+        },
+        {
+          "title": "Two Sum",
+          "titleSlug": "two-sum",
+          "difficulty": "EASY",
+          "topics": [
+            "Array",
+            "Hash Table"
+          ],
+          "link": "https://leetcode.com/problems/two-sum"
+        },
+        {
+          "title": "Valid Parentheses",
+          "titleSlug": "valid-parentheses",
+          "difficulty": "EASY",
+          "topics": [
+            "String",
+            "Stack"
+          ],
+          "link": "https://leetcode.com/problems/valid-parentheses"
+        }
+      ]
+    },
+    {
+      "week": 1,
+      "day": 2,
+      "dayNumber": 2,
+      "problems": [
+        {
+          "title": "Longest Common Prefix",
+          "titleSlug": "longest-common-prefix",
+          "difficulty": "EASY",
+          "topics": [
+            "String",
+            "Trie"
+          ],
+          "link": "https://leetcode.com/problems/longest-common-prefix"
+        },
+        {
+          "title": "Merge Sorted Array",
+          "titleSlug": "merge-sorted-array",
+          "difficulty": "EASY",
+          "topics": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "link": "https://leetcode.com/problems/merge-sorted-array"
+        },
+        {
+          "title": "Climbing Stairs",
+          "titleSlug": "climbing-stairs",
+          "difficulty": "EASY",
+          "topics": [
+            "Math",
+            "Dynamic Programming",
+            "Memoization"
+          ],
+          "link": "https://leetcode.com/problems/climbing-stairs"
+        }
+      ]
+    },
+    {
+      "week": 1,
+      "day": 3,
+      "dayNumber": 3,
+      "problems": [
+        {
+          "title": "Palindrome Number",
+          "titleSlug": "palindrome-number",
+          "difficulty": "EASY",
+          "topics": [
+            "Math"
+          ],
+          "link": "https://leetcode.com/problems/palindrome-number"
+        },
+        {
+          "title": "Valid Palindrome",
+          "titleSlug": "valid-palindrome",
+          "difficulty": "EASY",
+          "topics": [
+            "Two Pointers",
+            "String"
+          ],
+          "link": "https://leetcode.com/problems/valid-palindrome"
+        },
+        {
+          "title": "Majority Element",
+          "titleSlug": "majority-element",
+          "difficulty": "EASY",
+          "topics": [
+            "Array",
+            "Hash Table",
+            "Divide and Conquer"
+          ],
+          "link": "https://leetcode.com/problems/majority-element"
+        }
+      ]
+    },
+    {
+      "week": 1,
+      "day": 4,
+      "dayNumber": 4,
+      "problems": [
+        {
+          "title": "Move Zeroes",
+          "titleSlug": "move-zeroes",
+          "difficulty": "EASY",
+          "topics": [
+            "Array",
+            "Two Pointers"
+          ],
+          "link": "https://leetcode.com/problems/move-zeroes"
+        },
+        {
+          "title": "Valid Anagram",
+          "titleSlug": "valid-anagram",
+          "difficulty": "EASY",
+          "topics": [
+            "Hash Table",
+            "String",
+            "Sorting"
+          ],
+          "link": "https://leetcode.com/problems/valid-anagram"
+        },
+        {
+          "title": "Reverse Linked List",
+          "titleSlug": "reverse-linked-list",
+          "difficulty": "EASY",
+          "topics": [
+            "Linked List",
+            "Recursion"
+          ],
+          "link": "https://leetcode.com/problems/reverse-linked-list"
+        }
+      ]
+    },
+    {
+      "week": 1,
+      "day": 5,
+      "dayNumber": 5,
+      "problems": [
+        {
+          "title": "Roman to Integer",
+          "titleSlug": "roman-to-integer",
+          "difficulty": "EASY",
+          "topics": [
+            "Hash Table",
+            "Math",
+            "String"
+          ],
+          "link": "https://leetcode.com/problems/roman-to-integer"
+        },
+        {
+          "title": "Merge Two Sorted Lists",
+          "titleSlug": "merge-two-sorted-lists",
+          "difficulty": "EASY",
+          "topics": [
+            "Linked List",
+            "Recursion"
+          ],
+          "link": "https://leetcode.com/problems/merge-two-sorted-lists"
+        },
+        {
+          "title": "Contains Duplicate",
+          "titleSlug": "contains-duplicate",
+          "difficulty": "EASY",
+          "topics": [
+            "Array",
+            "Hash Table",
+            "Sorting"
+          ],
+          "link": "https://leetcode.com/problems/contains-duplicate"
+        }
+      ]
+    },
+    {
+      "week": 1,
+      "day": 6,
+      "dayNumber": 6,
+      "problems": [
+        {
+          "title": "Degree of an Array",
+          "titleSlug": "degree-of-an-array",
+          "difficulty": "EASY",
+          "topics": [
+            "Array",
+            "Hash Table"
+          ],
+          "link": "https://leetcode.com/problems/degree-of-an-array"
+        },
+        {
+          "title": "Pascal's Triangle",
+          "titleSlug": "pascal-s-triangle",
+          "difficulty": "EASY",
+          "topics": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "link": "https://leetcode.com/problems/pascals-triangle"
+        },
+        {
+          "title": "Sqrt(x)",
+          "titleSlug": "sqrt-x",
+          "difficulty": "EASY",
+          "topics": [
+            "Math",
+            "Binary Search"
+          ],
+          "link": "https://leetcode.com/problems/sqrtx"
+        }
+      ]
+    },
+    {
+      "week": 1,
+      "day": 7,
+      "dayNumber": 7,
+      "problems": [
+        {
+          "title": "Backspace String Compare",
+          "titleSlug": "backspace-string-compare",
+          "difficulty": "EASY",
+          "topics": [
+            "Two Pointers",
+            "String",
+            "Stack"
+          ],
+          "link": "https://leetcode.com/problems/backspace-string-compare"
+        },
+        {
+          "title": "Linked List Cycle",
+          "titleSlug": "linked-list-cycle",
+          "difficulty": "EASY",
+          "topics": [
+            "Hash Table",
+            "Linked List",
+            "Two Pointers"
+          ],
+          "link": "https://leetcode.com/problems/linked-list-cycle"
+        },
+        {
+          "title": "Squares of a Sorted Array",
+          "titleSlug": "squares-of-a-sorted-array",
+          "difficulty": "EASY",
+          "topics": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "link": "https://leetcode.com/problems/squares-of-a-sorted-array"
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "day": 1,
+      "dayNumber": 8,
+      "problems": [
+        {
+          "title": "Single Number",
+          "titleSlug": "single-number",
+          "difficulty": "EASY",
+          "topics": [
+            "Array",
+            "Bit Manipulation"
+          ],
+          "link": "https://leetcode.com/problems/single-number"
+        },
+        {
+          "title": "Happy Number",
+          "titleSlug": "happy-number",
+          "difficulty": "EASY",
+          "topics": [
+            "Hash Table",
+            "Math",
+            "Two Pointers"
+          ],
+          "link": "https://leetcode.com/problems/happy-number"
+        },
+        {
+          "title": "First Unique Character in a String",
+          "titleSlug": "first-unique-character-in-a-string",
+          "difficulty": "EASY",
+          "topics": [
+            "Hash Table",
+            "String",
+            "Queue"
+          ],
+          "link": "https://leetcode.com/problems/first-unique-character-in-a-string"
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "day": 2,
+      "dayNumber": 9,
+      "problems": [
+        {
+          "title": "Remove Duplicates from Sorted Array",
+          "titleSlug": "remove-duplicates-from-sorted-array",
+          "difficulty": "EASY",
+          "topics": [
+            "Array",
+            "Two Pointers"
+          ],
+          "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array"
+        },
+        {
+          "title": "Add Strings",
+          "titleSlug": "add-strings",
+          "difficulty": "EASY",
+          "topics": [
+            "Math",
+            "String",
+            "Simulation"
+          ],
+          "link": "https://leetcode.com/problems/add-strings"
+        },
+        {
+          "title": "Find Pivot Index",
+          "titleSlug": "find-pivot-index",
+          "difficulty": "EASY",
+          "topics": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "link": "https://leetcode.com/problems/find-pivot-index"
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "day": 3,
+      "dayNumber": 10,
+      "problems": [
+        {
+          "title": "Palindrome Linked List",
+          "titleSlug": "palindrome-linked-list",
+          "difficulty": "EASY",
+          "topics": [
+            "Linked List",
+            "Two Pointers",
+            "Stack"
+          ],
+          "link": "https://leetcode.com/problems/palindrome-linked-list"
+        },
+        {
+          "title": "Valid Palindrome II",
+          "titleSlug": "valid-palindrome-ii",
+          "difficulty": "EASY",
+          "topics": [
+            "Two Pointers",
+            "String",
+            "Greedy"
+          ],
+          "link": "https://leetcode.com/problems/valid-palindrome-ii"
+        },
+        {
+          "title": "Find the Index of the First Occurrence in a String",
+          "titleSlug": "find-the-index-of-the-first-occurrence-in-a-string",
+          "difficulty": "EASY",
+          "topics": [
+            "Two Pointers",
+            "String",
+            "String Matching"
+          ],
+          "link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string"
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "day": 4,
+      "dayNumber": 11,
+      "problems": [
+        {
+          "title": "Remove Element",
+          "titleSlug": "remove-element",
+          "difficulty": "EASY",
+          "topics": [
+            "Array",
+            "Two Pointers"
+          ],
+          "link": "https://leetcode.com/problems/remove-element"
+        },
+        {
+          "title": "Is Subsequence",
+          "titleSlug": "is-subsequence",
+          "difficulty": "EASY",
+          "topics": [
+            "Two Pointers",
+            "String",
+            "Dynamic Programming"
+          ],
+          "link": "https://leetcode.com/problems/is-subsequence"
+        },
+        {
+          "title": "Plus One",
+          "titleSlug": "plus-one",
+          "difficulty": "EASY",
+          "topics": [
+            "Array",
+            "Math"
+          ],
+          "link": "https://leetcode.com/problems/plus-one"
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "day": 5,
+      "dayNumber": 12,
+      "problems": [
+        {
+          "title": "Search Insert Position",
+          "titleSlug": "search-insert-position",
+          "difficulty": "EASY",
+          "topics": [
+            "Array",
+            "Binary Search"
+          ],
+          "link": "https://leetcode.com/problems/search-insert-position"
+        },
+        {
+          "title": "Isomorphic Strings",
+          "titleSlug": "isomorphic-strings",
+          "difficulty": "EASY",
+          "topics": [
+            "Hash Table",
+            "String"
+          ],
+          "link": "https://leetcode.com/problems/isomorphic-strings"
+        },
+        {
+          "title": "Maximum Depth of Binary Tree",
+          "titleSlug": "maximum-depth-of-binary-tree",
+          "difficulty": "EASY",
+          "topics": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search"
+          ],
+          "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree"
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "day": 6,
+      "dayNumber": 13,
+      "problems": [
+        {
+          "title": "Minimum Absolute Difference",
+          "titleSlug": "minimum-absolute-difference",
+          "difficulty": "EASY",
+          "topics": [
+            "Array",
+            "Sorting"
+          ],
+          "link": "https://leetcode.com/problems/minimum-absolute-difference"
+        },
+        {
+          "title": "Missing Number",
+          "titleSlug": "missing-number",
+          "difficulty": "EASY",
+          "topics": [
+            "Array",
+            "Hash Table",
+            "Math"
+          ],
+          "link": "https://leetcode.com/problems/missing-number"
+        },
+        {
+          "title": "Fibonacci Number",
+          "titleSlug": "fibonacci-number",
+          "difficulty": "EASY",
+          "topics": [
+            "Math",
+            "Dynamic Programming",
+            "Recursion"
+          ],
+          "link": "https://leetcode.com/problems/fibonacci-number"
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "day": 7,
+      "dayNumber": 14,
+      "problems": [
+        {
+          "title": "Contains Duplicate II",
+          "titleSlug": "contains-duplicate-ii",
+          "difficulty": "EASY",
+          "topics": [
+            "Array",
+            "Hash Table",
+            "Sliding Window"
+          ],
+          "link": "https://leetcode.com/problems/contains-duplicate-ii"
+        },
+        {
+          "title": "Moving Average from Data Stream",
+          "titleSlug": "moving-average-from-data-stream",
+          "difficulty": "EASY",
+          "topics": [
+            "Array",
+            "Design",
+            "Queue"
+          ],
+          "link": "https://leetcode.com/problems/moving-average-from-data-stream"
+        },
+        {
+          "title": "Reverse Vowels of a String",
+          "titleSlug": "reverse-vowels-of-a-string",
+          "difficulty": "EASY",
+          "topics": [
+            "Two Pointers",
+            "String"
+          ],
+          "link": "https://leetcode.com/problems/reverse-vowels-of-a-string"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "company": "Thomson Reuters",
+  "stats": {
+    "totalProblems": 3,
+    "uniqueProblems": 3,
+    "avgFrequency": 90.53333333333332,
+    "avgAcceptanceRate": 0.6437344461255554,
+    "difficultyDistribution": {
+      "EASY": 4,
+      "MEDIUM": 2,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Longest Substring Of All Vowels in Order",
+      "titleSlug": "longest-substring-of-all-vowels-in-order",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.505407116626567,
+      "link": "https://leetcode.com/problems/longest-substring-of-all-vowels-in-order",
+      "topics": [
+        "String",
+        "Sliding Window"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Time to Type Word Using Special Typewriter",
+      "titleSlug": "minimum-time-to-type-word-using-special-typewriter",
+      "difficulty": "EASY",
+      "frequency": 89.9,
+      "acceptanceRate": 0.7771306948017184,
+      "link": "https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter",
+      "topics": [
+        "String",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Roman to Integer",
+      "titleSlug": "roman-to-integer",
+      "difficulty": "EASY",
+      "frequency": 89.9,
+      "acceptanceRate": 0.6486655269483809,
+      "link": "https://leetcode.com/problems/roman-to-integer",
+      "topics": [
+        "Hash Table",
+        "Math",
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "String",
+    "Sliding Window",
+    "Greedy",
+    "Hash Table",
+    "Math"
+  ]
+}

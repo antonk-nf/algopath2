@@ -1,0 +1,172 @@
+{
+  "company": "CARS24",
+  "stats": {
+    "totalProblems": 8,
+    "uniqueProblems": 8,
+    "avgFrequency": 84.875,
+    "avgAcceptanceRate": 0.5694503581996584,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 14,
+      "HARD": 0,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Time Based Key-Value Store",
+      "titleSlug": "time-based-key-value-store",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4936482629369147,
+      "link": "https://leetcode.com/problems/time-based-key-value-store",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Binary Search",
+        "Design"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Online Election",
+      "titleSlug": "online-election",
+      "difficulty": "MEDIUM",
+      "frequency": 94.5,
+      "acceptanceRate": 0.5185121776930864,
+      "link": "https://leetcode.com/problems/online-election",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Binary Search",
+        "Design"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Open the Lock",
+      "titleSlug": "open-the-lock",
+      "difficulty": "MEDIUM",
+      "frequency": 87.5,
+      "acceptanceRate": 0.6074135869227004,
+      "link": "https://leetcode.com/problems/open-the-lock",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Breadth-First Search"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Rabbits in Forest",
+      "titleSlug": "rabbits-in-forest",
+      "difficulty": "MEDIUM",
+      "frequency": 87.5,
+      "acceptanceRate": 0.5826704796321077,
+      "link": "https://leetcode.com/problems/rabbits-in-forest",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Counter",
+      "titleSlug": "counter",
+      "difficulty": "EASY",
+      "frequency": 77.5,
+      "acceptanceRate": 0.8224375327236066,
+      "link": "https://leetcode.com/problems/counter",
+      "topics": [],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Bulls and Cows",
+      "titleSlug": "bulls-and-cows",
+      "difficulty": "MEDIUM",
+      "frequency": 77.5,
+      "acceptanceRate": 0.5138771783652719,
+      "link": "https://leetcode.com/problems/bulls-and-cows",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Merge Intervals",
+      "titleSlug": "merge-intervals",
+      "difficulty": "MEDIUM",
+      "frequency": 77.5,
+      "acceptanceRate": 0.493984211255195,
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "topics": [
+        "Array",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "House Robber",
+      "titleSlug": "house-robber",
+      "difficulty": "MEDIUM",
+      "frequency": 77.5,
+      "acceptanceRate": 0.523059436068384,
+      "link": "https://leetcode.com/problems/house-robber",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Hash Table",
+    "Array",
+    "String",
+    "Binary Search",
+    "Design",
+    "Breadth-First Search",
+    "Math",
+    "Greedy",
+    "Counting",
+    "Sorting",
+    "Dynamic Programming"
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "company": "Deliveroo",
+  "stats": {
+    "totalProblems": 5,
+    "uniqueProblems": 5,
+    "avgFrequency": 79.72,
+    "avgAcceptanceRate": 0.6589259643422787,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 4,
+      "HARD": 4,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Search Suggestions System",
+      "titleSlug": "search-suggestions-system",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6505018082357296,
+      "link": "https://leetcode.com/problems/search-suggestions-system",
+      "topics": [
+        "Array",
+        "String",
+        "Binary Search",
+        "Trie",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Find Words Containing Character",
+      "titleSlug": "find-words-containing-character",
+      "difficulty": "EASY",
+      "frequency": 78.3,
+      "acceptanceRate": 0.9064072783584979,
+      "link": "https://leetcode.com/problems/find-words-containing-character",
+      "topics": [
+        "Array",
+        "String"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Vertical Order Traversal of a Binary Tree",
+      "titleSlug": "vertical-order-traversal-of-a-binary-tree",
+      "difficulty": "HARD",
+      "frequency": 78.3,
+      "acceptanceRate": 0.5133055579720943,
+      "link": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree",
+      "topics": [
+        "Hash Table",
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Sorting",
+        "Binary Tree"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Count Number of Nice Subarrays",
+      "titleSlug": "count-number-of-nice-subarrays",
+      "difficulty": "MEDIUM",
+      "frequency": 78.3,
+      "acceptanceRate": 0.7321007455952697,
+      "link": "https://leetcode.com/problems/count-number-of-nice-subarrays",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Sliding Window",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Remove Invalid Parentheses",
+      "titleSlug": "remove-invalid-parentheses",
+      "difficulty": "HARD",
+      "frequency": 78.3,
+      "acceptanceRate": 0.49231429833651935,
+      "link": "https://leetcode.com/problems/remove-invalid-parentheses",
+      "topics": [
+        "String",
+        "Backtracking",
+        "Breadth-First Search"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "String",
+    "Sorting",
+    "Hash Table",
+    "Breadth-First Search",
+    "Binary Search",
+    "Trie",
+    "Heap (Priority Queue)",
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree",
+    "Math",
+    "Sliding Window",
+    "Prefix Sum",
+    "Backtracking"
+  ]
+}

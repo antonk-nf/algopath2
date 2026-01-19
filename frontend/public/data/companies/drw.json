@@ -1,0 +1,192 @@
+{
+  "company": "DRW",
+  "stats": {
+    "totalProblems": 9,
+    "uniqueProblems": 9,
+    "avgFrequency": 83.93684210526317,
+    "avgAcceptanceRate": 0.5957889058050946,
+    "difficultyDistribution": {
+      "EASY": 4,
+      "MEDIUM": 13,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Maximize Score After Pair Deletions",
+      "titleSlug": "maximize-score-after-pair-deletions",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6062992125984252,
+      "link": "https://leetcode.com/problems/maximize-score-after-pair-deletions",
+      "topics": [
+        "Array",
+        "Greedy"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "titleSlug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5525966929197105,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Remove Duplicate Letters",
+      "titleSlug": "remove-duplicate-letters",
+      "difficulty": "MEDIUM",
+      "frequency": 92.6,
+      "acceptanceRate": 0.5135128285840808,
+      "link": "https://leetcode.com/problems/remove-duplicate-letters",
+      "topics": [
+        "String",
+        "Stack",
+        "Greedy",
+        "Monotonic Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Fuel Cost to Report to the Capital",
+      "titleSlug": "minimum-fuel-cost-to-report-to-the-capital",
+      "difficulty": "MEDIUM",
+      "frequency": 82.1,
+      "acceptanceRate": 0.6435778675036323,
+      "link": "https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Reorder Routes to Make All Paths Lead to the City Zero",
+      "titleSlug": "reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+      "difficulty": "MEDIUM",
+      "frequency": 82.1,
+      "acceptanceRate": 0.6503433212255785,
+      "link": "https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Maximal Network Rank",
+      "titleSlug": "maximal-network-rank",
+      "difficulty": "MEDIUM",
+      "frequency": 82.1,
+      "acceptanceRate": 0.6547542413356314,
+      "link": "https://leetcode.com/problems/maximal-network-rank",
+      "topics": [
+        "Graph"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Robot Room Cleaner",
+      "titleSlug": "robot-room-cleaner",
+      "difficulty": "HARD",
+      "frequency": 82.1,
+      "acceptanceRate": 0.7752235506882347,
+      "link": "https://leetcode.com/problems/robot-room-cleaner",
+      "topics": [
+        "Backtracking",
+        "Interactive"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Subsequence of Size K With the Largest Even Sum",
+      "titleSlug": "subsequence-of-size-k-with-the-largest-even-sum",
+      "difficulty": "MEDIUM",
+      "frequency": 82.1,
+      "acceptanceRate": 0.35591489361702133,
+      "link": "https://leetcode.com/problems/subsequence-of-size-k-with-the-largest-even-sum",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Counting Elements",
+      "titleSlug": "counting-elements",
+      "difficulty": "EASY",
+      "frequency": 82.1,
+      "acceptanceRate": 0.6046223903768713,
+      "link": "https://leetcode.com/problems/counting-elements",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Greedy",
+    "Graph",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Dynamic Programming",
+    "String",
+    "Stack",
+    "Monotonic Stack",
+    "Tree",
+    "Backtracking",
+    "Interactive",
+    "Sorting",
+    "Hash Table"
+  ]
+}

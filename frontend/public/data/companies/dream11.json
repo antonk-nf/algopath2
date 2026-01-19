@@ -1,0 +1,228 @@
+{
+  "company": "Dream11",
+  "stats": {
+    "totalProblems": 11,
+    "uniqueProblems": 11,
+    "avgFrequency": 80.90454545454544,
+    "avgAcceptanceRate": 0.5570244540660486,
+    "difficultyDistribution": {
+      "EASY": 2,
+      "MEDIUM": 16,
+      "HARD": 4,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Asteroid Collision",
+      "titleSlug": "asteroid-collision",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.45500737161532884,
+      "link": "https://leetcode.com/problems/asteroid-collision",
+      "topics": [
+        "Array",
+        "Stack",
+        "Simulation"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all",
+        "3m"
+      ]
+    },
+    {
+      "title": "Furthest Building You Can Reach",
+      "titleSlug": "furthest-building-you-can-reach",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.5037105972749183,
+      "link": "https://leetcode.com/problems/furthest-building-you-can-reach",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Heap (Priority Queue)"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Shortest Common Supersequence",
+      "titleSlug": "shortest-common-supersequence",
+      "difficulty": "HARD",
+      "frequency": 87.9,
+      "acceptanceRate": 0.6132098086836925,
+      "link": "https://leetcode.com/problems/shortest-common-supersequence",
+      "topics": [
+        "String",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Falling Path Sum",
+      "titleSlug": "minimum-falling-path-sum",
+      "difficulty": "MEDIUM",
+      "frequency": 87.9,
+      "acceptanceRate": 0.6143995522039412,
+      "link": "https://leetcode.com/problems/minimum-falling-path-sum",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Matrix"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Final Prices With a Special Discount in a Shop",
+      "titleSlug": "final-prices-with-a-special-discount-in-a-shop",
+      "difficulty": "EASY",
+      "frequency": 87.9,
+      "acceptanceRate": 0.8330161578030366,
+      "link": "https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop",
+      "topics": [
+        "Array",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Gas Station",
+      "titleSlug": "gas-station",
+      "difficulty": "MEDIUM",
+      "frequency": 87.9,
+      "acceptanceRate": 0.46383586845548325,
+      "link": "https://leetcode.com/problems/gas-station",
+      "topics": [
+        "Array",
+        "Greedy"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "3Sum",
+      "titleSlug": "3sum",
+      "difficulty": "MEDIUM",
+      "frequency": 87.9,
+      "acceptanceRate": 0.3707112712968184,
+      "link": "https://leetcode.com/problems/3sum",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Ways to Select Buildings",
+      "titleSlug": "number-of-ways-to-select-buildings",
+      "difficulty": "MEDIUM",
+      "frequency": 87.9,
+      "acceptanceRate": 0.5047505427656327,
+      "link": "https://leetcode.com/problems/number-of-ways-to-select-buildings",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Number of Increments on Subarrays to Form a Target Array",
+      "titleSlug": "minimum-number-of-increments-on-subarrays-to-form-a-target-array",
+      "difficulty": "HARD",
+      "frequency": 87.9,
+      "acceptanceRate": 0.724276749873114,
+      "link": "https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Stack",
+        "Greedy",
+        "Monotonic Stack"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Partition Equal Subset Sum",
+      "titleSlug": "partition-equal-subset-sum",
+      "difficulty": "MEDIUM",
+      "frequency": 83.0,
+      "acceptanceRate": 0.4844393368677416,
+      "link": "https://leetcode.com/problems/partition-equal-subset-sum",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Minimum Path Sum",
+      "titleSlug": "minimum-path-sum",
+      "difficulty": "MEDIUM",
+      "frequency": 62.8,
+      "acceptanceRate": 0.6648161041583261,
+      "link": "https://leetcode.com/problems/minimum-path-sum",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Matrix"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "Array",
+    "Dynamic Programming",
+    "Stack",
+    "Greedy",
+    "String",
+    "Monotonic Stack",
+    "Simulation",
+    "Matrix",
+    "Heap (Priority Queue)",
+    "Two Pointers",
+    "Sorting",
+    "Prefix Sum"
+  ]
+}

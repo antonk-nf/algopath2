@@ -1,0 +1,160 @@
+{
+  "company": "Amdocs",
+  "stats": {
+    "totalProblems": 7,
+    "uniqueProblems": 7,
+    "avgFrequency": 85.92307692307692,
+    "avgAcceptanceRate": 0.6293070215024025,
+    "difficultyDistribution": {
+      "EASY": 3,
+      "MEDIUM": 8,
+      "HARD": 2,
+      "UNKNOWN": 0
+    }
+  },
+  "problems": [
+    {
+      "title": "Design a 3D Binary Matrix with Efficient Layer Tracking",
+      "titleSlug": "design-a-3d-binary-matrix-with-efficient-layer-tracking",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6643356643356644,
+      "link": "https://leetcode.com/problems/design-a-3d-binary-matrix-with-efficient-layer-tracking",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Design",
+        "Heap (Priority Queue)",
+        "Matrix",
+        "Ordered Set"
+      ],
+      "timeframe": "6m",
+      "timeframes": [
+        "6m",
+        "all"
+      ]
+    },
+    {
+      "title": "Backspace String Compare",
+      "titleSlug": "backspace-string-compare",
+      "difficulty": "EASY",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4948180427260363,
+      "link": "https://leetcode.com/problems/backspace-string-compare",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Stack",
+        "Simulation"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Second Highest Salary",
+      "titleSlug": "second-highest-salary",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.4386530976858341,
+      "link": "https://leetcode.com/problems/second-highest-salary",
+      "topics": [
+        "Database"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Build Array Where You Can Find The Maximum Exactly K Comparisons",
+      "titleSlug": "build-array-where-you-can-find-the-maximum-exactly-k-comparisons",
+      "difficulty": "HARD",
+      "frequency": 100.0,
+      "acceptanceRate": 0.6675739518425989,
+      "link": "https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons",
+      "topics": [
+        "Dynamic Programming",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Generate Parentheses",
+      "titleSlug": "generate-parentheses",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.7713296329116214,
+      "link": "https://leetcode.com/problems/generate-parentheses",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Backtracking"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Number of Divisible Substrings",
+      "titleSlug": "number-of-divisible-substrings",
+      "difficulty": "MEDIUM",
+      "frequency": 100.0,
+      "acceptanceRate": 0.734086999262718,
+      "link": "https://leetcode.com/problems/number-of-divisible-substrings",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting",
+        "Prefix Sum"
+      ],
+      "timeframe": "6m+",
+      "timeframes": [
+        "6m+",
+        "all"
+      ]
+    },
+    {
+      "title": "Rotate String",
+      "titleSlug": "rotate-string",
+      "difficulty": "EASY",
+      "frequency": 63.4,
+      "acceptanceRate": 0.6393965020022866,
+      "link": "https://leetcode.com/problems/rotate-string",
+      "topics": [
+        "String",
+        "String Matching"
+      ],
+      "timeframe": "all",
+      "timeframes": [
+        "all"
+      ]
+    }
+  ],
+  "topTopics": [
+    "String",
+    "Hash Table",
+    "Dynamic Programming",
+    "Prefix Sum",
+    "Array",
+    "Design",
+    "Heap (Priority Queue)",
+    "Matrix",
+    "Ordered Set",
+    "Two Pointers",
+    "Stack",
+    "Simulation",
+    "Database",
+    "Backtracking",
+    "Counting"
+  ]
+}
