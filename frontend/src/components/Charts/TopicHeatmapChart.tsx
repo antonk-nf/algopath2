@@ -22,18 +22,11 @@ interface HeatmapCell {
   y: number;
 }
 
-// Curated list of representative companies across categories
-const CURATED_COMPANIES = [
-  // Big Tech (3)
-  'Amazon', 'Google', 'Apple',
-  // Finance (2)
-  'Goldman Sachs', 'Citadel',
-  // Enterprise (2)
-  'IBM', 'Atlassian',
-  // IT Services (1)
-  'Infosys',
-  // Consumer (2)
-  'Airbnb', 'Coupang',
+// Top companies by problem count from the dataset
+const TOP_COMPANIES = [
+  'Amazon', 'Meta', 'Google', 'Microsoft', 'Bloomberg',
+  'Apple', 'TikTok', 'LinkedIn', 'Uber', 'Oracle',
+  'Goldman Sachs', 'Salesforce', 'Nvidia', 'Snap', 'DoorDash',
 ];
 
 export function TopicHeatmapChart({
@@ -55,14 +48,14 @@ export function TopicHeatmapChart({
     // Limit topics for better visualization
     const limitedTopics = data.topics.slice(0, maxTopics);
 
-    // Use curated companies list - filter to only those available in data, preserving curated order
+    // Use top companies list - filter to only those available in data, preserving order
     const availableCompanies = new Set(data.companies);
-    const curatedAvailable = CURATED_COMPANIES.filter(c => availableCompanies.has(c));
+    const topAvailable = TOP_COMPANIES.filter(c => availableCompanies.has(c));
 
-    // Use curated list if enough companies available, otherwise fall back to top by problem count
+    // Use top companies list if enough available, otherwise fall back to sorting by problem count
     let limitedCompanies: string[];
-    if (curatedAvailable.length >= 5) {
-      limitedCompanies = curatedAvailable.slice(0, maxCompanies);
+    if (topAvailable.length >= 5) {
+      limitedCompanies = topAvailable.slice(0, maxCompanies);
     } else {
       // Fallback: sort by total problems and take top N
       const companyTotalsList = data.companies.map((company, idx) => ({
