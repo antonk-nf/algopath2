@@ -22,12 +22,15 @@ interface CompanyProblemsResult {
 
 // Check if running in static mode (no API server)
 const isStaticMode = (): boolean => {
-  // In production builds for GitHub Pages, always use static mode
-  if (import.meta.env.PROD && import.meta.env.BASE_URL !== '/') {
+  // Check for explicit static mode flag
+  if (import.meta.env.VITE_STATIC_MODE === 'true') {
     return true;
   }
-  // Check for explicit static mode flag
-  return import.meta.env.VITE_STATIC_MODE === 'true';
+  // In production builds, use static mode by default
+  if (import.meta.env.PROD) {
+    return true;
+  }
+  return false;
 };
 
 // Cache for loaded company data in static mode

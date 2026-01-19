@@ -82,7 +82,10 @@ export const ProblemPreviewDrawer: React.FC<ProblemPreviewDrawerProps> = ({
     setError(null);
     setPreview(null);
 
-    fetchProblemPreview(slug)
+    fetchProblemPreview(slug, {
+      acceptanceRate: problem?.acceptanceRate,
+      topics: problem?.topics
+    })
       .then((data) => {
         if (!cancelled) {
           setPreview(data);
@@ -109,7 +112,7 @@ export const ProblemPreviewDrawer: React.FC<ProblemPreviewDrawerProps> = ({
     return () => {
       cancelled = true;
     };
-  }, [open, slug]);
+  }, [open, slug, problem]);
 
   useEffect(() => {
     if (!open) {

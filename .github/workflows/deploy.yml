@@ -47,6 +47,8 @@ jobs:
 
       - name: Build frontend
         run: cd frontend && npm run build:prod
+        env:
+          VITE_DEPLOY: github
 
       - name: Setup Pages
         uses: actions/configure-pages@v4

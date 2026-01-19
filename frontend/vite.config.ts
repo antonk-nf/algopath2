@@ -6,10 +6,10 @@ export default defineConfig(({ mode }) => {
   // Load env file based on `mode` in the current working directory.
   const env = loadEnv(mode, process.cwd(), '')
 
-  // Use base path for GitHub Pages in production
-  const base = mode === 'production'
-    ? '/leetcode-company-wise-problems/'
-    : '/';
+  // Use base path for GitHub Pages deployment only
+  // Set VITE_DEPLOY=github to enable the base path
+  const isGitHubDeploy = env.VITE_DEPLOY === 'github' || process.env.GITHUB_ACTIONS === 'true';
+  const base = isGitHubDeploy ? '/leetcode-company-wise-problems/' : '/';
 
   return {
     plugins: [react()],

@@ -78,17 +78,46 @@ export function useApi<T>(
   };
 }
 
+// Check if running in static mode (no API server)
+const isStaticMode = (): boolean => {
+  if (import.meta.env.VITE_STATIC_MODE === 'true') {
+    return true;
+  }
+  if (import.meta.env.PROD) {
+    return true;
+  }
+  return false;
+};
+
 // Specialized hook for health checks
 export function useHealthCheck() {
+  const { dispatch } = useAppContext();
+
+  // In static mode, skip health checks and report as healthy
+  const staticMode = isStaticMode();
+
   const { data, loading, error, refetch } = useApi<{
     status: string;
     timestamp: string;
     version: string;
-  }>('/api/v1/health/quick');
-
-  const { dispatch } = useAppContext();
+  }>('/api/v1/health/quick', !staticMode); // Don't fetch in static mode
 
   useEffect(() => {
+    if (staticMode) {
+      // In static mode, always report as healthy
+      dispatch({
+        type: 'SET_API_HEALTH',
+        payload: {
+          status: 'healthy',
+          lastCheck: new Date().toISOString(),
+          endpointStatus: {
+            'health/quick': 'working'
+          }
+        }
+      });
+      return;
+    }
+
     if (data) {
       dispatch({
         type: 'SET_API_HEALTH',
@@ -112,9 +141,17 @@ export function useHealthCheck() {
         }
       });
     }
-  }, [data, error, dispatch]);
+  }, [data, error, dispatch, staticMode]);
 
-  return { data, loading, error, refetch };
+  // In static mode, return a no-op refetch
+  const staticRefetch = useCallback(async () => {}, []);
+
+  return {
+    data: staticMode ? { status: 'healthy', timestamp: new Date().toISOString(), version: 'static' } : data,
+    loading: staticMode ? false : loading,
+    error: staticMode ? null : error,
+    refetch: staticMode ? staticRefetch : refetch
+  };
 }
 
 // Hook for company stats (currently failing according to verification)

@@ -5,10 +5,13 @@ import type { TopicTrend, TopicFrequency, TopicHeatmap } from '../types/topic';
 
 // Check if running in static mode (no API server)
 const isStaticMode = (): boolean => {
-  if (import.meta.env.PROD && import.meta.env.BASE_URL !== '/') {
+  if (import.meta.env.VITE_STATIC_MODE === 'true') {
     return true;
   }
-  return import.meta.env.VITE_STATIC_MODE === 'true';
+  if (import.meta.env.PROD) {
+    return true;
+  }
+  return false;
 };
 
 class TopicService {
